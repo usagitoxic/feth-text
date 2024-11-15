@@ -24,7 +24,7 @@
 
 А здесь нужны, так как в тексте содержится символ `,`:
 
-`29408,SUBTITLE,"that they may realize their full potential, just as a tiny sprout hopes to","подобен ростку, что однажды станет могучим древом."`
+`29408,SUBTITLE,"As they celebrate the dawning year, the people pray","Празднуя, люди возносят молитвы богам, чтобы"`
 
 ### Система переменных
 
