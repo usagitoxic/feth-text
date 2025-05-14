@@ -1,6 +1,6 @@
-name,value
 $Byleth,Байлет
 $Edelgard,Эдельгард
+$Edi,Эди
 $Dimitri,Дмитрий
 $Claude,Клод
 $Hubert,Хьюберт
@@ -8,7 +8,7 @@ $Ferdinand,Фердинанд
 $Linhardt,Линхарт
 $Caspar,Каспар
 $Bernadetta,Бернадета
-$Dorothea,Доратея
+$Dorothea,Доротея
 $Petra,Петра
 $Dedue,Деду
 $Felix,Феликс
@@ -20,6 +20,7 @@ $Ingrid,Ингрид
 $Lorenz,Лоренц
 $Raphael,Рафаэль
 $Ignatz,Игнац
+$IgnatzI,Игнацем
 $Lysithea,Люситерия
 $Marianne,Мариана
 $Hilda,Хильда
@@ -28,7 +29,9 @@ $Seteth,Сетес
 $Flayn,Флан
 $Hanneman,Ханеман
 $Manuela,Мануела
+$ManuelaG,Мануелу
 $Gilbert,Гилберт
+$Christophe,Кристоф
 $Alois,Алойс
 $Catherine,Катерина
 $Shamir,Шамир
@@ -77,3 +80,14 @@ $Tailtean,Тайлтин
 $Gronder,Грондер
 $Adrestia,Адрестия
 $AdrestiaR,Адрестии
+$HouseAegir,Дом Эйгир
+$HouseAegirG,Дома Эйгир
+$HouseBlackEagle,Дом Чёрного Орла
+$HouseGoldenDeer,Дом Золотого Оленя
+$HouseGoldenDeerG,Дома Золотого Оленя
+$HouseBlueLion,Дом Синего Льва
+$HouseBlueLionG,Дома Синего Льва
+$RedCanyon,Красный Каньон
+$CentralChurch,Центральная Церковь
+$CentralChurchA,Центральную Церковь
+$CentralChurch,Центральная Церковь
