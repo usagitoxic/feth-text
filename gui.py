@@ -1,13 +1,32 @@
 import csv
-from PyQt5.QtWidgets import QApplication, QMainWindow, QTableWidget, QTableWidgetItem, QVBoxLayout, QWidget, QHBoxLayout, QPushButton, QCheckBox, QFileDialog, QLineEdit, QLabel, QDialog, QTextEdit, QFormLayout, QDialogButtonBox, QHeaderView
+from PyQt5.QtWidgets import (
+    QApplication,
+    QMainWindow,
+    QTableWidget,
+    QTableWidgetItem,
+    QVBoxLayout,
+    QWidget,
+    QHBoxLayout,
+    QPushButton,
+    QCheckBox,
+    QFileDialog,
+    QLineEdit,
+    QLabel,
+    QDialog,
+    QTextEdit,
+    QFormLayout,
+    QDialogButtonBox,
+    QHeaderView,
+)
 from PyQt5.QtCore import Qt, QTimer
+
 
 class EditDialog(QDialog):
     def __init__(self, original_text, translated_text, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Редактирование строки")
 
-        self.resize(600, 600)
+        self.resize(800, 600)
 
         # Создаем форму для ввода
         self.original_text = QTextEdit(self)
@@ -18,7 +37,9 @@ class EditDialog(QDialog):
         self.translated_text.setPlainText(translated_text)
 
         # Кнопки подтверждения
-        self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel, Qt.Horizontal, self)
+        self.buttons = QDialogButtonBox(
+            QDialogButtonBox.Ok | QDialogButtonBox.Cancel, Qt.Horizontal, self
+        )
         self.buttons.accepted.connect(self.accept)
         self.buttons.rejected.connect(self.reject)
 
@@ -52,8 +73,12 @@ class CSVEditor(QMainWindow):
 
         # Создаем таблицу
         self.table = QTableWidget()
-        self.table.setEditTriggers(QTableWidget.NoEditTriggers)  # Запрещаем редактирование в таблице
-        self.table.setSelectionBehavior(QTableWidget.SelectRows)  # Выделение всей строки при клике
+        self.table.setEditTriggers(
+            QTableWidget.NoEditTriggers
+        )  # Запрещаем редактирование в таблице
+        self.table.setSelectionBehavior(
+            QTableWidget.SelectRows
+        )  # Выделение всей строки при клике
         self.table.horizontalHeader().setStretchLastSection(True)
         self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
         self.table.doubleClicked.connect(self.on_double_click)
@@ -76,7 +101,9 @@ class CSVEditor(QMainWindow):
         # Создаем таймер для задержки при поиске
         self.search_timer = QTimer(self)
         self.search_timer.setSingleShot(True)  # Ожидаем завершения ввода
-        self.search_timer.timeout.connect(self.apply_filter)  # Выполняем фильтрацию после задержки
+        self.search_timer.timeout.connect(
+            self.apply_filter
+        )  # Выполняем фильтрацию после задержки
 
         self.search_line_edit.textChanged.connect(self.on_search_text_changed)
         self.file_type_search_line_edit.textChanged.connect(self.on_search_text_changed)
@@ -109,12 +136,14 @@ class CSVEditor(QMainWindow):
 
     def load_csv(self):
         """Загружаем CSV файл в таблицу"""
-        file_path, _ = QFileDialog.getOpenFileName(self, "Открыть CSV", "", "CSV файлы (*.csv)")
+        file_path, _ = QFileDialog.getOpenFileName(
+            self, "Открыть CSV", "", "CSV файлы (*.csv)"
+        )
         if not file_path:
             return
 
         self.current_file = file_path
-        with open(file_path, newline='', encoding='utf-8') as f:
+        with open(file_path, newline="", encoding="utf-8") as f:
             reader = csv.reader(f)
             data = list(reader)
 
@@ -156,9 +185,12 @@ class CSVEditor(QMainWindow):
                     untranslated_count += 1
 
                 matches_filter = (
-                    (search_text in destination_language or search_text in source_language) and
-                    (file_type_search_text in file_type) and
-                    (not show_untranslated or is_untranslated)
+                    (
+                        search_text in destination_language
+                        or search_text in source_language
+                    )
+                    and (file_type_search_text in file_type)
+                    and (not show_untranslated or is_untranslated)
                 )
 
                 self.table.setRowHidden(row, not matches_filter)
@@ -172,21 +204,27 @@ class CSVEditor(QMainWindow):
             f"Статистика: всего {total_rows} строк, {untranslated_count} не переведено ({percent}% переведено)"
         )
 
-
     def save_csv(self):
         """Сохраняем данные из таблицы обратно в CSV файл"""
         if not self.current_file:
             return
 
-        with open(self.current_file, 'w', newline='', encoding='utf-8') as f:
+        with open(self.current_file, "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            headers = [self.table.horizontalHeaderItem(i).text() for i in range(self.table.columnCount())]
+            headers = [
+                self.table.horizontalHeaderItem(i).text()
+                for i in range(self.table.columnCount())
+            ]
             writer.writerow(headers)
 
             # Сохраняем данные построчно
             for row in range(self.table.rowCount()):
                 row_data = [
-                    self.table.item(row, col).text() if self.table.item(row, col) else ''
+                    (
+                        self.table.item(row, col).text()
+                        if self.table.item(row, col)
+                        else ""
+                    )
                     for col in range(self.table.columnCount())
                 ]
                 writer.writerow(row_data)
@@ -194,8 +232,12 @@ class CSVEditor(QMainWindow):
     def on_double_click(self, index):
         """Открывает модальное окно для редактирования строки"""
         row = index.row()
-        original_text = self.table.item(row, 2).text()  # Исходный текст (source_language)
-        translated_text = self.table.item(row, 3).text()  # Перевод (destination_language)
+        original_text = self.table.item(
+            row, 2
+        ).text()  # Исходный текст (source_language)
+        translated_text = self.table.item(
+            row, 3
+        ).text()  # Перевод (destination_language)
 
         dialog = EditDialog(original_text, translated_text, self)
         if dialog.exec_() == QDialog.Accepted:
@@ -207,6 +249,7 @@ class CSVEditor(QMainWindow):
         """Метод вызывается при изменении текста в строке поиска"""
         # Запускаем таймер с задержкой 300 мс после последнего ввода
         self.search_timer.start(300)
+
 
 if __name__ == "__main__":
     app = QApplication([])
