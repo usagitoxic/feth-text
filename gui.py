@@ -248,7 +248,7 @@ class CSVEditor(QMainWindow):
     def on_search_text_changed(self):
         """Метод вызывается при изменении текста в строке поиска"""
         # Запускаем таймер с задержкой 300 мс после последнего ввода
-        self.search_timer.start(300)
+        self.search_timer.start(1000)
 
 
 if __name__ == "__main__":

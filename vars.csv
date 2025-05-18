@@ -1,113 +1,596 @@
 $Byleth,Байлет
 $Edelgard,Эдельгард
 $Edi,Эди
-$Dimitri,Дмитрий
-$Claude,Клод
-$Hubert,Хьюберт
-$Ferdinand,Фердинанд
-$Linhardt,Линхарт
-$Caspar,Каспар
-$Bernadetta,Бернадета
-$Dorothea,Доротея
-$Petra,Петра
 $Dedue,Деду
-$Felix,Феликс
-$Ashe,Эш
-$Sylvain,Сильвейн
 $Mercedes,Мерседес
-$Annette,Аннета
 $Ingrid,Ингрид
-$Lorenz,Лоренц
-$Raphael,Рафаэль
-$Ignatz,Игнац
-$IgnatzI,Игнацем
-$Lysithea,Люситерия
-$Marianne,Мариана
-$Hilda,Хильда
 $Leonie,Леони
-$Seteth,Сетес
 $Flayn,Флан
-$Hanneman,Ханеман
-$Manuela,Мануела
-$ManuelaG,Мануелу
-$Gilbert,Гилберт
-$Christophe,Кристоф
-$Alois,Алойс
-$Catherine,Катерина
 $Shamir,Шамир
+$Lonato,Лонато
+$Judith,Джуди
+$Seiros,Сэйрос
+$Sothis,Сотис
+$Fleche,Флеч
+$Metodey,Методи
+$Gwendal,Гвендаль
+$Pallardo,Палардо
+$Fhirdiad,Фирдиад
+$Tailtean,Тайлтин
+$Zanado,Занадо
+$Dimitri,Дмитрий
+$DimitriG,Дмитрия
+$DimitriD,Дмитрию
+$DimitriA,Дмитрия
+$DimitriI,Дмитрием
+$DimitriP,Дмитрие
+$Claude,Клод
+$ClaudeG,Клода
+$ClaudeD,Клоду
+$ClaudeA,Клода
+$ClaudeI,Клодом
+$ClaudeP,Клоде
+$Hubert,Хьюберт
+$HubertG,Хьюберта
+$HubertD,Хьюберту
+$HubertA,Хьюберта
+$HubertI,Хьюбертом
+$HubertP,Хьюберте
+$Ferdinand,Фердинанд
+$FerdinandG,Фердинанда
+$FerdinandD,Фердинанду
+$FerdinandA,Фердинанда
+$FerdinandI,Фердинандом
+$FerdinandP,Фердинанде
+$Linhardt,Линхарт
+$LinhardtG,Линхарта
+$LinhardtD,Линхарту
+$LinhardtA,Линхарта
+$LinhardtI,Линхартом
+$LinhardtP,Линхарте
+$Caspar,Каспар
+$CasparG,Каспара
+$CasparD,Каспару
+$CasparA,Каспара
+$CasparI,Каспаром
+$CasparP,Каспаре
+$Bernadetta,Бернадета
+$BernadettaG,Бернадеты
+$BernadettaD,Бернадете
+$BernadettaA,Бернадеты
+$BernadettaI,Бернадетой
+$BernadettaP,Бернадете
+$Dorothea,Доротея
+$DorotheaG,Доротеи
+$DorotheaD,Доротее
+$DorotheaA,Доротеи
+$DorotheaI,Доротеей
+$DorotheaP,Доротее
+$Petra,Петра
+$PetraG,Петры
+$PetraD,Петре
+$PetraA,Петры
+$PetraI,Петрой
+$PetraP,Петре
+$Felix,Феликс
+$FelixG,Феликса
+$FelixD,Феликсу
+$FelixA,Феликса
+$FelixI,Феликсом
+$FelixP,Феликсе
+$Ashe,Эш
+$AsheG,Эша
+$AsheD,Эшу
+$AsheA,Эша
+$AsheI,Эшем
+$AsheP,Эше
+$Sylvain,Сильвейн
+$SylvainG,Сильвейна
+$SylvainD,Сильвейну
+$SylvainA,Сильвейна
+$SylvainI,Сильвейном
+$SylvainP,Сильвейне
+$Annette,Аннета
+$AnnetteG,Аннеты
+$AnnetteD,Аннете
+$AnnetteA,Аннеты
+$AnnetteI,Аннетой
+$AnnetteP,Аннете
+$Lorenz,Лоренц
+$LorenzG,Лоренца
+$LorenzD,Лоренцу
+$LorenzA,Лоренца
+$LorenzI,Лоренцем
+$LorenzP,Лоренце
+$Raphael,Рафаэль
+$RaphaelG,Рафаэля
+$RaphaelD,Рафаэлю
+$RaphaelA,Рафаэля
+$RaphaelI,Рафаэлем
+$RaphaelP,Рафаэле
+$Ignatz,Игнац
+$IgnatzG,Игнаца
+$IgnatzD,Игнацу
+$IgnatzA,Игнаца
+$IgnatzI,Игнацем
+$IgnatzP,Игнаце
+$Lysithea,Люситерия
+$LysitheaG,Люситерии
+$LysitheaD,Люситерии
+$LysitheaA,Люситерии
+$LysitheaI,Люситерией
+$LysitheaP,Люситерии
+$Marianne,Мариана
+$MarianneG,Марианы
+$MarianneD,Мариане
+$MarianneA,Марианы
+$MarianneI,Марианой
+$MarianneP,Мариане
+$Hilda,Хильда
+$HildaG,Хильды
+$HildaD,Хильде
+$HildaA,Хильды
+$HildaI,Хильдой
+$HildaP,Хильде
+$Seteth,Сетес
+$SetethG,Сетеса
+$SetethD,Сетесу
+$SetethA,Сетеса
+$SetethI,Сетесом
+$SetethP,Сетесе
+$Hanneman,Ханеман
+$HannemanG,Ханемана
+$HannemanD,Ханеману
+$HannemanA,Ханемана
+$HannemanI,Ханеманом
+$HannemanP,Ханемане
+$Manuela,Мануела
+$ManuelaG,Мануелы
+$ManuelaD,Мануеле
+$ManuelaA,Мануелы
+$ManuelaI,Мануелой
+$ManuelaP,Мануеле
+$Gilbert,Гилберт
+$GilbertG,Гилберта
+$GilbertD,Гилберту
+$GilbertA,Гилберта
+$GilbertI,Гилбертом
+$GilbertP,Гилберте
+$Christophe,Кристоф
+$ChristopheG,Кристофа
+$ChristopheD,Кристофу
+$ChristopheA,Кристофа
+$ChristopheI,Кристофом
+$ChristopheP,Кристофе
+$Alois,Алойс
+$AloisG,Алойса
+$AloisD,Алойсу
+$AloisA,Алойса
+$AloisI,Алойсом
+$AloisP,Алойсе
+$Catherine,Катерина
+$CatherineG,Катерины
+$CatherineD,Катерине
+$CatherineA,Катерины
+$CatherineI,Катериной
+$CatherineP,Катерине
 $Cyril,Кирилл
+$CyrilG,Кирилла
+$CyrilD,Кириллу
+$CyrilA,Кирилла
+$CyrilI,Кириллом
+$CyrilP,Кирилле
 $Jeralt,Джеральт
+$JeraltG,Джеральта
+$JeraltD,Джеральту
+$JeraltA,Джеральта
+$JeraltI,Джеральтом
+$JeraltP,Джеральте
 $Rhea,Рея
-$RheaR,Реи
+$RheaG,Реи
 $RheaD,Рее
+$RheaA,Реи
+$RheaI,Реей
+$RheaP,Рее
 $Kronya,Кроня
+$KronyaG,Крони
+$KronyaD,Кроне
+$KronyaA,Крони
+$KronyaI,Кроней
+$KronyaP,Кроне
 $Solon,Солон
+$SolonG,Солона
+$SolonD,Солону
+$SolonA,Солона
+$SolonI,Солоном
+$SolonP,Солоне
 $Thales,Талес
+$ThalesG,Талеса
+$ThalesD,Талесу
+$ThalesA,Талеса
+$ThalesI,Талесом
+$ThalesP,Талесе
 $Cornelia,Корнелия
+$CorneliaG,Корнелии
+$CorneliaD,Корнелии
+$CorneliaA,Корнелии
+$CorneliaI,Корнелией
+$CorneliaP,Корнелии
 $DeathK,Рыцарь Смерти
 $DeathKG,Рыцаря Смерти
+$DeathKD,Рыцарю Смерти
+$DeathKA,Рыцаря Смерти
+$DeathKI,Рыцарем Смерти
+$DeathKP,Рыцаре Смерти
 $Kostas,Костас
-$Lonato,Лонато
+$KostasG,Костаса
+$KostasD,Костасу
+$KostasA,Костаса
+$KostasI,Костасом
+$KostasP,Костасе
 $Miklan,Миклан
+$MiklanG,Миклана
+$MiklanD,Миклану
+$MiklanA,Миклана
+$MiklanI,Микланом
+$MiklanP,Миклане
 $Randolph,Рендольф
+$RandolphG,Рендольфа
+$RandolphD,Рендольфу
+$RandolphA,Рендольфа
+$RandolphI,Рендольфом
+$RandolphP,Рендольфе
 $FlameE,Император Пламени
+$FlameEG,Императора Пламени
+$FlameED,Императору Пламени
+$FlameEA,Императора Пламени
+$FlameEI,Императором Пламени
+$FlameEP,Императоре Пламени
 $Anna,Анна
+$AnnaG,Анны
+$AnnaD,Анне
+$AnnaA,Анны
+$AnnaI,Анной
+$AnnaP,Анне
 $Jeritza,Ярица
+$JeritzaG,Ярицы
+$JeritzaD,Ярице
+$JeritzaA,Ярицы
+$JeritzaI,Ярицой
+$JeritzaP,Ярице
 $Rodrigue,Родриг
-$Judith,Джуди
+$RodrigueG,Родрига
+$RodrigueD,Родригу
+$RodrigueA,Родрига
+$RodrigueI,Родригом
+$RodrigueP,Родриге
 $Nader,Надя
+$NaderG,Нади
+$NaderD,Наде
+$NaderA,Нади
+$NaderI,Надей
+$NaderP,Наде
 $Monica,Моника
+$MonicaG,Моники
+$MonicaD,Монике
+$MonicaA,Моники
+$MonicaI,Моникой
+$MonicaP,Монике
 $LordA,Лорд Арундел
+$LordAG,Лорда Арундела
+$LordAD,Лорду Арунделу
+$LordAA,Лорда Арундела
+$LordAI,Лордом Арунделом
+$LordAP,Лорде Арунделе
 $Tomas,Томас
+$TomasG,Томаса
+$TomasD,Томасу
+$TomasA,Томаса
+$TomasI,Томасом
+$TomasP,Томасе
 $Nemesis,Немезис
+$NemesisG,Немезиса
+$NemesisD,Немезису
+$NemesisA,Немезиса
+$NemesisI,Немезисом
+$NemesisP,Немезисе
 $KnightsOfSeiros,Рыцари Сэйрос
+$KnightsOfSeirosG,Рыцарей Сэйрос
+$KnightsOfSeirosD,Рыцарям Сэйрос
+$KnightsOfSeirosA,Рыцарей Сэйрос
+$KnightsOfSeirosI,Рыцарями Сэйрос
+$KnightsOfSeirosP,Рыцарях Сэйрос
+$SaintSeiros,Святая Сэйрос
 $SaintSeirosG,Святой Сэйрос
-$Seiros,Сэйрос
+$SaintSeirosD,Святой Сэйрос
+$SaintSeirosA,Святой Сэйрос
+$SaintSeirosI,Святой Сэйрос
+$SaintSeirosP,Святой Сэйрос
+$ChurchOfSeiros,Церковь Сэйрос
 $ChurchOfSeirosG,Церкви Сэйрос
-$Sothis,Сотис
+$ChurchOfSeirosD,Церкви Сэйрос
+$ChurchOfSeirosA,Церкви Сэйрос
+$ChurchOfSeirosI,Церковью Сэйрос
+$ChurchOfSeirosP,Церкви Сэйрос
 $EmperorIX,Император Иониус IX
+$EmperorIXG,Императора Иониуса IX
+$EmperorIXD,Императору Иониусу IX
+$EmperorIXA,Императора Иониуса IX
+$EmperorIXI,Императором Иониусом IX
+$EmperorIXP,Императоре Иониусе IX
 $DukeAegir,Герцог Аегир
-$Fleche,Флеч
+$DukeAegirG,Герцога Аегира
+$DukeAegirD,Герцогу Аегиру
+$DukeAegirA,Герцога Аегира
+$DukeAegirI,Герцогом Аегиром
+$DukeAegirP,Герцоге Аегире
 $Lambert,Ламберт
-$Metodey,Методи
+$LambertG,Ламберта
+$LambertD,Ламберту
+$LambertA,Ламберта
+$LambertI,Ламбертом
+$LambertP,Ламберте
 $Ladislava,Ладислава
-$Gwendal,Гвендаль
+$LadislavaG,Ладиславы
+$LadislavaD,Ладиславе
+$LadislavaA,Ладиславы
+$LadislavaI,Ладиславой
+$LadislavaP,Ладиславе
 $Acheron,Ачерон
-$Pallardo,Палардо
-$Teach,Товарищ Профессор
-$Crest,Руна
+$AcheronG,Ачерона
+$AcheronD,Ачерону
+$AcheronA,Ачерона
+$AcheronI,Ачероном
+$AcheronP,Ачероне
+$Teach,Препод
+$TeachG,Препода
+$TeachD,Преподу
+$TeachA,Препода
+$TeachI,Преподом
+$TeachP,Преподе
+$Crest,Дар
+$CrestG,Дара
+$CrestD,Дару
+$CrestA,Дара
+$CrestI,Даром
+$CrestP,Даре
 $Fodlan,Фодлан
+$FodlanG,Фодлана
 $FodlanD,Фодлану
-$FodlanR,Фодлана
+$FodlanA,Фодлана
+$FodlanI,Фодланом
+$FodlanP,Фодлане
+$FodlanLocket,Камея Фодлана
+$FodlanLocketG,Камеи Фодлана
+$FodlanLocketD,Камее Фодлана
+$FodlanLocketA,Камею Фодлана
+$FodlanLocketI,Камеей Фодлана
+$FodlanLocketP,Камее Фодлана
+$OghmaMs,Горы Огма
+$OghmaMsG,Гор Огма
+$OghmaMsD,Горам Огма
+$OghmaMsA,Гор Огма
+$OghmaMsI,Горами Огма
 $OghmaMsP,Горах Огма
-$Tailtean,Тайлтин
-$TailteanPlains,Тайлтинские Равнины
+$TailteanPlains,Равнины Тайлтин
+$TailteanPlainsG,Равнин Тайлтин
+$TailteanPlainsD,Равнинам Тайлтин
+$TailteanPlainsA,Равнин Тайлтин
+$TailteanPlainsI,Равнинами Тайлтин
+$TailteanPlainsP,Равнинах Тайлтин
+$Gronder,Грондер
+$GronderG,Грондера
+$GronderD,Грондеру
+$GronderA,Грондера
+$GronderI,Грондером
+$GronderP,Грондере
+$FourSaints,Святая Четвёрка
+$FourSaintsG,Святой Четвёрки
+$FourSaintsD,Святой Четвёрке
+$FourSaintsA,Святой Четвёрки
+$FourSaintsI,Святой Четвёркой
+$FourSaintsP,Святой Четвёрке
+$SaintIndech,Святой Индек
+$SaintIndechG,Святого Индека
+$SaintIndechD,Святому Индеку
+$SaintIndechA,Святого Индека
+$SaintIndechI,Святым Индеком
+$SaintIndechP,Святом Индеке
+$GarregMach,Гаррег Мах
+$GarregMachG,Гаррег Маха
+$GarregMachD,Гаррег Маху
+$GarregMachA,Гаррег Маха
+$GarregMachI,Гаррег Махом
+$GarregMachP,Гаррег Махе
 $GarregMachMon,Монастырь Гаррег Мах
 $GarregMachMonG,Монастыря Гаррег Мах
-$Gronder,Грондер
+$GarregMachMonD,Монастырю Гаррег Мах
+$GarregMachMonA,Монастыря Гаррег Мах
+$GarregMachMonI,Монастырём Гаррег Мах
+$GarregMachMonP,Монастыре Гаррег Мах
+$WesternChurch,Западная Церковь
+$WesternChurchG,Западной Церкви
+$WesternChurchD,Заподной Цервки
+$WesternChurchA,Западной Церкви
+$WesternChurchI,Западной Церковью
+$WesternChurchP,Западной Цервки
 $Adrestia,Адрестия
-$AdrestiaR,Адрестии
+$AdrestiaG,Адрестии
+$AdrestiaD,Адрестии
+$AdrestiaA,Адрестии
+$AdrestiaI,Адрестией
+$AdrestiaP,Адрестии
 $HouseAegir,Дом Эйгир
 $HouseAegirG,Дома Эйгир
-$HouseBlackEagle,Дом Чёрного Орла
-$HouseGoldenDeer,Дом Золотого Оленя
-$HouseGoldenDeerG,Дома Золотого Оленя
-$HouseBlueLion,Дом Синего Льва
-$HouseBlueLionG,Дома Синего Льва
+$HouseAegirD,Дому Эйгир
+$HouseAegirA,Дома Эйгир
+$HouseAegirI,Домом Эйгир
+$HouseAegirP,Доме Эйгир
+$BlackEagles,Чёрные Орлы
+$BlackEaglesG,Чёрных Орлов
+$BlackEaglesD,Чёрным Орлам
+$BlackEaglesA,Чёрных Орлов
+$BlackEaglesI,Чёрными Орлами
+$BlackEaglesP,Чёрных Орлах
+$HouseBlackEagle,Дом Чёрных Орлов
+$HouseBlackEagleG,Дома Чёрных Орлов
+$HouseBlackEagleD,Дому Чёрных Орлов
+$HouseBlackEagleA,Дома Чёрных Орлов
+$HouseBlackEagleI,Домом Чёрных Орлов
+$HouseBlackEagleP,Доме Чёрных Орлов
+$GoldenDeer,Золотые Олени
+$GoldenDeerG,Золотых Оленей
+$GoldenDeerD,Золотым Оленям
+$GoldenDeerA,Золотых Оленей
+$GoldenDeerI,Золотыми Оленями
+$GoldenDeerP,Золотых Оленях
+$HouseGoldenDeer,Дом Золотых Оленей
+$HouseGoldenDeerG,Дома Золотых Оленей
+$HouseGoldenDeerD,Дому Золотых Оленей
+$HouseGoldenDeerA,Дома Золотых Оленей
+$HouseGoldenDeerI,Домом Золотых Оленей
+$HouseGoldenDeerP,Доме Золотых Оленей
+$BlueLion,Синие Львы
+$BlueLionG,Синих Львов
+$BlueLionD,Синим Львам
+$BlueLionA,Синих Львов
+$BlueLionI,Синими Львами
+$BlueLionP,Синих Львах
+$HouseBlueLion,Дом Синих Львов
+$HouseBlueLionG,Дома Синих Львов
+$HouseBlueLionD,Дому Синих Львов
+$HouseBlueLionA,Дома Синих Львов
+$HouseBlueLionI,Домом Синих Львов
+$HouseBlueLionP,Доме Синих Львов
 $RedCanyon,Красный Каньон
+$RedCanyonG,Красного Каньона
+$RedCanyonD,Красному Каньону
+$RedCanyonA,Красного Каньона
+$RedCanyonI,Красным Каньоном
+$RedCanyonP,Красном Каньоне
 $CentralChurch,Центральная Церковь
+$CentralChurchG,Центральной Церкви
+$CentralChurchD,Центральной Цервки
 $CentralChurchA,Центральную Церковь
-$CentralChurchG,Центральной церкви
-$CentralChurch,Центральная Церковь
+$CentralChurchI,Центральной Церковью
+$CentralChurchP,Центральной Церкви
 $AdrestianEmpire,Адрестианская Империя
+$AdrestianEmpireG,Адрестианской Империи
+$AdrestianEmpireD,Адрестианской Империи
+$AdrestianEmpireA,Адрестианской Империи
+$AdrestianEmpireI,Адрестианской Империей
+$AdrestianEmpireP,Адрестианской Империи
 $Faerghus,Фаэргус
 $FaerghusG,Фаэргуса
+$FaerghusD,Фаэргусу
+$FaerghusA,Фаэргуса
+$FaerghusI,Фаэргусом
+$FaerghusP,Фаэргусе
+$Enbarr,Энбарр
+$EnbarrG,Энбарра
+$EnbarrD,Энбарру
+$EnbarrA,Энбарра
+$EnbarrI,Энбарром
+$EnbarrP,Энбарре
 $HolyKingdomFaerghus,Святое Королевство Фаэргус
-$LeicesterAllianceG,Лэйсестерского Альянса
-$LeicesterAllianceI,Лейсестерским Альянсом
-$TailteanI,Тейлтеном
-$GronderI,Грондером
+$HolyKingdomFaerghusG,Святого Королевства Фаэргус
+$HolyKingdomFaerghusD,Святому Королевству Фаэргус
+$HolyKingdomFaerghusA,Святого Королевства Фаэргус
+$HolyKingdomFaerghusI,Святым Королевством Фаэргус
+$HolyKingdomFaerghusP,Святом Королевстве Фаэргус
+$Leicester,Лейстер
+$LeicesterG,Лейстера
+$LeicesterD,Лейстеру
+$LeicesterA,Лейстера
+$LeicesterI,Лейстером
+$LeicesterP,Лейстере
+$LeicesterAlliance,Лейстерский Альянс
+$LeicesterAllianceG,Лейстерского Альянса
+$LeicesterAllianceD,Лейстерскому Альянсу
+$LeicesterAllianceA,Лейстерского Альянса
+$LeicesterAllianceI,Лейстерским Альянсом
+$LeicesterAllianceP,Лейстерском Альянсе
+$LeicesterLineage,Лейстерское Наследие
+$LeicesterLineageG,Лейстерского Наследия
+$LeicesterLineageD,Лейстерскому Наследию
+$LeicesterLineageA,Лейстерского Наследия
+$LeicesterLineageI,Лейстерским Наследием
+$LeicesterLineageP,Лейстерском Наследии
+$LeicesterRebellion,Лейстерское Восстание
+$LeicesterRebellionG,Лейстерского Восстания
+$LeicesterRebellionD,Лейстерскому Восстанию
+$LeicesterRebellionA,Лейстерского Восстания
+$LeicesterRebellionI,Лейстерским Восстанием
+$LeicesterRebellionP,Лейстерском Восстании
 $HeroRelic,Реликвия Героя
 $HeroRelicG,Реликвии Героя
+$HeroRelicD,Реликвии Героя
+$HeroRelicA,Реликвии Героя
+$HeroRelicI,Реликвией Героя
+$HeroRelicP,Реликвии Героя
 $HeroesRelics,Реликвии Героев
-$CrestStone,Рунный Камень
+$HeroesRelicsG,Реликвий Героев
+$HeroesRelicsD,Реликвиям Героев
+$HeroesRelicsA,Реликвий Героев
+$HeroesRelicsI,Реликвиями Героев
+$HeroesRelicsP,Реликвиях Героев
+$CrestStone,Камень Дара
+$CrestStoneG,Камня Дара
+$CrestStoneD,Камню Дара
+$CrestStoneA,Камня Дара
+$CrestStoneI,Камнем Дара
+$CrestStoneP,Камне Дара
+$CrestOfRiegan,Дар Риган
+$CrestOfRieganG,Дара Риган
+$CrestOfRieganD,Дару Риган
+$CrestOfRieganA,Дара Риган
+$CrestOfRieganI,Даром Риган
+$CrestOfRieganP,Даре Риган
+$FallenStar,Упавшая Звезда
+$FallenStarG,Упавшую Звезду
+$FallenStarD,Упавшей Звезде
+$FallenStarA,Упавшей Звезды
+$FallenStarI,Упавшей Звездой
+$FallenStarP,Упавшей Звезде
+$BlueSeaStar,Звезда Синего Моря
+$BlueSeaStarG,Звезды Синего Моря
+$BlueSeaStarD,Звезде Синего Моря
+$BlueSeaStarA,Звезды Синего Моря
+$BlueSeaStarI,Звездой Синего Моря
+$BlueSeaStarP,Звезде Синего Моря
+$Dagda,Дагда
+$DagdaG,Дагды
+$DagdaD,Дагде
+$DagdaA,Дагды
+$DagdaI,Дагдой
+$DagdaP,Дагде
+$Throat,Хребет
+$ThroatG,Хребта
+$ThroatD,Хребту
+$ThroatA,Хребта
+$ThroatI,Хребтом
+$ThroatP,Хребте
+$Almyra,Альмира
+$AlmyraG,Альмиры
+$AlmyraD,Альмире
+$AlmyraA,Альмиру
+$AlmyraI,Альмирой
+$AlmyraP,Альмире
+$Wilhelm,Вильгельм
+$WilhelmG,Вильгельма
+$WilhelmD,Вильгельму
+$WilhelmA,Вильгельма
+$WilhelmI,Вильгельмом
+$WilhelmP,Вильгельме
+$AilellForest,Лес Айлелл
+$AilellForestG,Леса Айлелл
+$AilellForestD,Лесу Айлелл
+$AilellForestA,Леса Айлелл
+$AilellForestI,Лесом Айлелл
+$AilellForestP,Лесе Айлелл
+$Daphnel,Дафнел
+$DaphnelG,Дафнела
+$DaphnelD,Дафнелу
+$DaphnelA,Дафнела
+$DaphnelI,Дафнелом
+$DaphnelP,Дафнеле
