@@ -96,7 +96,7 @@ class CSVEditor(QMainWindow):
 
         # Строка для поиска по file_type
         self.file_type_search_line_edit = QLineEdit(self)
-        self.file_type_search_line_edit.setPlaceholderText("file_type")
+        self.file_type_search_line_edit.setPlaceholderText("Поиск по file_type")
 
         # Создаем таймер для задержки при поиске
         self.search_timer = QTimer(self)
@@ -248,7 +248,7 @@ class CSVEditor(QMainWindow):
     def on_search_text_changed(self):
         """Метод вызывается при изменении текста в строке поиска"""
         # Запускаем таймер с задержкой 300 мс после последнего ввода
-        self.search_timer.start(300)
+        self.search_timer.start(1000)
 
 
 if __name__ == "__main__":
