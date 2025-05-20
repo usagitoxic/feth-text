@@ -96,7 +96,7 @@ class CSVEditor(QMainWindow):
 
         # Строка для поиска по file_type
         self.file_type_search_line_edit = QLineEdit(self)
-        self.file_type_search_line_edit.setPlaceholderText("file_type")
+        self.file_type_search_line_edit.setPlaceholderText("Поиск по file_type")
 
         # Создаем таймер для задержки при поиске
         self.search_timer = QTimer(self)
