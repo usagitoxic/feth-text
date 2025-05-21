@@ -228,7 +228,7 @@ class CSVEditor(QMainWindow):
         if dialog.exec_() == QDialog.Accepted:
             new_translation = dialog.get_translated_text()
             self.model.set_translation(row, new_translation)
-            self.apply_filter()
+            # self.apply_filter()
 
     def save_csv(self):
         if not self.model or not self.current_file:
