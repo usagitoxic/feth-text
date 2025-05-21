@@ -9,7 +9,7 @@
 ### Как переводить?
 
 - Делаете форк репозитория
-- Редактируете файл `bundle.csv`
+- Редактируете файл `bundle.csv` через `gui.py`
 - Пушите изменения и открываете Pull request на ревью
 - Ожидаете мержа
 
@@ -39,6 +39,7 @@
 - Git в Visual Studio Code
 - GitLens (Visual Studio Code Extension)
 - Rainbow CSV (Visual Studio Code Extension)
+- Или GUI в комплекте
 
 ### А как его в игру то перенести?
 

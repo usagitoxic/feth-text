@@ -2,8 +2,7 @@ import csv
 from PyQt5.QtWidgets import (
     QApplication,
     QMainWindow,
-    QTableWidget,
-    QTableWidgetItem,
+    QTableView,
     QVBoxLayout,
     QWidget,
     QHBoxLayout,
@@ -18,17 +17,97 @@ from PyQt5.QtWidgets import (
     QDialogButtonBox,
     QHeaderView,
 )
-from PyQt5.QtCore import Qt, QTimer
+from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
+
+
+class CSVLoaderThread(QThread):
+    loaded = pyqtSignal(list, list)  # headers, rows
+
+    def __init__(self, file_path):
+        super().__init__()
+        self.file_path = file_path
+
+    def run(self):
+        with open(self.file_path, newline="", encoding="utf-8") as f:
+            reader = csv.reader(f)
+            data = list(reader)
+        headers = data[0]
+        rows = data[1:]
+        self.loaded.emit(headers, rows)
+
+
+class CSVTableModel(QAbstractTableModel):
+    def __init__(self, headers, data):
+        super().__init__()
+        self.headers = headers
+        self.original_data = data
+        self.filtered_data = data
+
+    def rowCount(self, parent=None):
+        return len(self.filtered_data)
+
+    def columnCount(self, parent=None):
+        return len(self.headers)
+
+    def data(self, index, role=Qt.DisplayRole):
+        if not index.isValid():
+            return QVariant()
+        if role == Qt.DisplayRole:
+            return self.filtered_data[index.row()][index.column()]
+        return QVariant()
+
+    def headerData(self, section, orientation, role=Qt.DisplayRole):
+        if role == Qt.DisplayRole:
+            if orientation == Qt.Horizontal:
+                return self.headers[section]
+            else:
+                return str(section + 1)
+        return QVariant()
+
+    def get_row(self, row):
+        return self.filtered_data[row]
+
+    def set_translation(self, row, new_value):
+        index_in_original = self.original_data.index(self.filtered_data[row])
+        self.original_data[index_in_original][3] = new_value
+        self.filtered_data[row][3] = new_value
+        self.dataChanged.emit(self.index(row, 3), self.index(row, 3))
+
+    def apply_filter(
+        self, text_filter="", file_type_filter="", show_untranslated=False
+    ):
+        text_filter = text_filter.lower()
+        file_type_filter = file_type_filter.lower()
+
+        def match(row):
+            file_type = row[1].lower()
+            source = row[2].lower()
+            dest = row[3].lower()
+            untranslated = dest == ""
+
+            return (
+                (not show_untranslated or untranslated)
+                and (text_filter in source or text_filter in dest)
+                and (file_type_filter in file_type)
+            )
+
+        self.beginResetModel()
+        self.filtered_data = [row for row in self.original_data if match(row)]
+        self.endResetModel()
+
+    def stats(self):
+        total = len(self.original_data)
+        untranslated = sum(1 for r in self.original_data if r[3] == "")
+        percent = int((total - untranslated) / total * 100) if total > 0 else 0
+        return total, untranslated, percent
 
 
 class EditDialog(QDialog):
     def __init__(self, original_text, translated_text, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Редактирование строки")
+        self.resize(800, 400)
 
-        self.resize(800, 600)
-
-        # Создаем форму для ввода
         self.original_text = QTextEdit(self)
         self.original_text.setPlainText(original_text)
         self.original_text.setReadOnly(True)
@@ -36,226 +115,133 @@ class EditDialog(QDialog):
         self.translated_text = QTextEdit(self)
         self.translated_text.setPlainText(translated_text)
 
-        # Кнопки подтверждения
-        self.buttons = QDialogButtonBox(
-            QDialogButtonBox.Ok | QDialogButtonBox.Cancel, Qt.Horizontal, self
-        )
+        self.clone_button = QPushButton("Копировать в перевод")
+        self.clone_button.clicked.connect(self.clone_text)
+
+        self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
         self.buttons.accepted.connect(self.accept)
         self.buttons.rejected.connect(self.reject)
 
-        # Кнопка Clone
-        self.clone_button = QPushButton("Clone", self)
-        self.clone_button.clicked.connect(self.clone_text)
-
-        # Макет формы
-        layout = QFormLayout(self)
+        layout = QFormLayout()
         layout.addRow("Исходный текст:", self.original_text)
         layout.addRow("Перевод:", self.translated_text)
         layout.addWidget(self.clone_button)
         layout.addWidget(self.buttons)
+        self.setLayout(layout)
 
     def clone_text(self):
-        """Копирует текст из оригинала в перевод"""
         self.translated_text.setPlainText(self.original_text.toPlainText())
 
     def get_translated_text(self):
-        """Возвращает текст перевода из поля ввода"""
         return self.translated_text.toPlainText()
 
 
 class CSVEditor(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Bundle Editor")
+        self.setWindowTitle("Bundle Editor v2")
         self.resize(1280, 600)
+        self.model = None
 
-        self.stats_label = QLabel("Статистика: 0 строк, 0 непереведённых (0%)")
+        self.search_line_edit = QLineEdit()
+        self.search_line_edit.setPlaceholderText("Поиск по тексту")
+        self.search_line_edit.textChanged.connect(self.apply_filter)
 
-        # Создаем таблицу
-        self.table = QTableWidget()
-        self.table.setEditTriggers(
-            QTableWidget.NoEditTriggers
-        )  # Запрещаем редактирование в таблице
-        self.table.setSelectionBehavior(
-            QTableWidget.SelectRows
-        )  # Выделение всей строки при клике
-        self.table.horizontalHeader().setStretchLastSection(True)
-        self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
-        self.table.doubleClicked.connect(self.on_double_click)
+        self.file_type_filter = QLineEdit()
+        self.file_type_filter.setPlaceholderText("Фильтр по file_type")
+        self.file_type_filter.textChanged.connect(self.apply_filter)
 
-        # Инициализируем переменную для хранения текущего файла
-        self.current_file = None
-
-        # Чекбокс для отображения непереведенных строк
-        self.show_untranslated_checkbox = QCheckBox("Показать непереведенные строки")
+        self.show_untranslated_checkbox = QCheckBox("Показать только непереведенные")
         self.show_untranslated_checkbox.stateChanged.connect(self.apply_filter)
 
-        # Строка для поиска по destination_language
-        self.search_line_edit = QLineEdit(self)
-        self.search_line_edit.setPlaceholderText("Поиск")
+        self.stats_label = QLabel("Нет данных")
 
-        # Строка для поиска по file_type
-        self.file_type_search_line_edit = QLineEdit(self)
-        self.file_type_search_line_edit.setPlaceholderText("Поиск по file_type")
+        load_button = QPushButton("Открыть CSV")
+        load_button.clicked.connect(self.load_csv)
 
-        # Создаем таймер для задержки при поиске
-        self.search_timer = QTimer(self)
-        self.search_timer.setSingleShot(True)  # Ожидаем завершения ввода
-        self.search_timer.timeout.connect(
-            self.apply_filter
-        )  # Выполняем фильтрацию после задержки
+        save_button = QPushButton("Сохранить CSV")
+        save_button.clicked.connect(self.save_csv)
 
-        self.search_line_edit.textChanged.connect(self.on_search_text_changed)
-        self.file_type_search_line_edit.textChanged.connect(self.on_search_text_changed)
+        buttons = QHBoxLayout()
+        buttons.addWidget(load_button)
+        buttons.addWidget(save_button)
 
-        # Кнопки для открытия и сохранения файлов
-        load_btn = QPushButton("Открыть CSV")
-        load_btn.clicked.connect(self.load_csv)
+        top_layout = QVBoxLayout()
+        top_layout.addWidget(self.search_line_edit)
+        top_layout.addWidget(self.file_type_filter)
+        top_layout.addWidget(self.show_untranslated_checkbox)
+        top_layout.addLayout(buttons)
+        top_layout.addWidget(self.stats_label)
 
-        save_btn = QPushButton("Сохранить CSV")
-        save_btn.clicked.connect(self.save_csv)
+        self.table = QTableView()
+        self.table.horizontalHeader().setStretchLastSection(True)
+        self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
+        self.table.doubleClicked.connect(self.edit_translation)
 
-        # Размещение кнопок в горизонтальном layout
-        btn_layout = QHBoxLayout()
-        btn_layout.addWidget(load_btn)
-        btn_layout.addWidget(save_btn)
-
-        # Основной layout
         layout = QVBoxLayout()
-        layout.addWidget(self.show_untranslated_checkbox)
-        layout.addWidget(self.search_line_edit)
-        layout.addWidget(self.file_type_search_line_edit)
-        layout.addLayout(btn_layout)
-        layout.addWidget(self.stats_label)
+        layout.addLayout(top_layout)
         layout.addWidget(self.table)
 
-        # Создаем контейнер для центра окна
         container = QWidget()
         container.setLayout(layout)
         self.setCentralWidget(container)
 
+        self.current_file = None
+
     def load_csv(self):
-        """Загружаем CSV файл в таблицу"""
         file_path, _ = QFileDialog.getOpenFileName(
             self, "Открыть CSV", "", "CSV файлы (*.csv)"
         )
         if not file_path:
             return
-
         self.current_file = file_path
-        with open(file_path, newline="", encoding="utf-8") as f:
-            reader = csv.reader(f)
-            data = list(reader)
+        self.thread = CSVLoaderThread(file_path)
+        self.thread.loaded.connect(self.on_csv_loaded)
+        self.thread.start()
 
-        self.table.clear()
-        self.table.setRowCount(len(data) - 1)
-        self.table.setColumnCount(len(data[0]))
-        self.table.setHorizontalHeaderLabels(data[0])
-
-        # Заполнение таблицы данными из CSV
-        for row_idx, row in enumerate(data[1:]):
-            for col_idx, value in enumerate(row):
-                self.table.setItem(row_idx, col_idx, QTableWidgetItem(value))
-
-        # Применяем фильтр после загрузки
+    def on_csv_loaded(self, headers, rows):
+        self.model = CSVTableModel(headers, rows)
+        self.table.setModel(self.model)
         self.apply_filter()
 
     def apply_filter(self):
-        """Применяем поиск и фильтрацию для отображения нужных строк"""
-        show_untranslated = self.show_untranslated_checkbox.isChecked()
-        search_text = self.search_line_edit.text().lower()
-        file_type_search_text = self.file_type_search_line_edit.text().lower()
-
-        total_rows = self.table.rowCount()
-        untranslated_count = 0
-        visible_rows = 0
-
-        for row in range(total_rows):
-            item = self.table.item(row, 3)  # destination_language
-            item2 = self.table.item(row, 2)  # source_language
-            item3 = self.table.item(row, 1)  # file_type
-
-            if item and item2 and item3:
-                destination_language = item.text().lower()
-                source_language = item2.text().lower()
-                file_type = item3.text().lower()
-
-                is_untranslated = destination_language == ""
-                if is_untranslated:
-                    untranslated_count += 1
-
-                matches_filter = (
-                    (
-                        search_text in destination_language
-                        or search_text in source_language
-                    )
-                    and (file_type_search_text in file_type)
-                    and (not show_untranslated or is_untranslated)
-                )
-
-                self.table.setRowHidden(row, not matches_filter)
-                if matches_filter:
-                    visible_rows += 1
-
-        # Обновляем метку со статистикой
-        translated = total_rows - untranslated_count
-        percent = int(translated / total_rows * 100) if total_rows > 0 else 0
+        if not self.model:
+            return
+        self.model.apply_filter(
+            self.search_line_edit.text(),
+            self.file_type_filter.text(),
+            self.show_untranslated_checkbox.isChecked(),
+        )
+        total, untranslated, percent = self.model.stats()
         self.stats_label.setText(
-            f"Статистика: всего {total_rows} строк, {untranslated_count} не переведено ({percent}% переведено)"
+            f"Статистика: {total} строк, {untranslated} не переведено ({percent}% переведено)"
         )
 
-    def save_csv(self):
-        """Сохраняем данные из таблицы обратно в CSV файл"""
-        if not self.current_file:
+    def edit_translation(self, index):
+        if not self.model:
             return
+        row = index.row()
+        data = self.model.get_row(row)
+        source_text = data[2]
+        dest_text = data[3]
+        dialog = EditDialog(source_text, dest_text, self)
+        if dialog.exec_() == QDialog.Accepted:
+            new_translation = dialog.get_translated_text()
+            self.model.set_translation(row, new_translation)
+            # self.apply_filter()
 
+    def save_csv(self):
+        if not self.model or not self.current_file:
+            return
         with open(self.current_file, "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            headers = [
-                self.table.horizontalHeaderItem(i).text()
-                for i in range(self.table.columnCount())
-            ]
-            writer.writerow(headers)
-
-            # Сохраняем данные построчно
-            for row in range(self.table.rowCount()):
-                row_data = [
-                    (
-                        self.table.item(row, col).text()
-                        if self.table.item(row, col)
-                        else ""
-                    )
-                    for col in range(self.table.columnCount())
-                ]
-                writer.writerow(row_data)
-
-    def on_double_click(self, index):
-        """Открывает модальное окно для редактирования строки"""
-        row = index.row()
-        original_text = self.table.item(
-            row, 2
-        ).text()  # Исходный текст (source_language)
-        translated_text = self.table.item(
-            row, 3
-        ).text()  # Перевод (destination_language)
-
-        dialog = EditDialog(original_text, translated_text, self)
-        if dialog.exec_() == QDialog.Accepted:
-            # Получаем новый перевод и обновляем таблицу
-            new_translated_text = dialog.get_translated_text()
-            self.table.item(row, 3).setText(new_translated_text)
-
-    def on_search_text_changed(self):
-        """Метод вызывается при изменении текста в строке поиска"""
-        # Запускаем таймер с задержкой 300 мс после последнего ввода
-        self.search_timer.start(1000)
+            writer.writerow(self.model.headers)
+            for row in self.model.original_data:
+                writer.writerow(row)
 
 
 if __name__ == "__main__":
     app = QApplication([])
-
-    # Создаем окно и запускаем приложение
-    editor = CSVEditor()
-    editor.show()
-
+    window = CSVEditor()
+    window.show()
     app.exec_()
