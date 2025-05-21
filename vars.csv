@@ -357,9 +357,57 @@ $CrestP,Гербе
 $Crests,Гербы
 $CrestsG,Гербов
 $CrestsD,Гербам
-$CrestsA,Гербы
+$CrestsA,Герб
 $CrestsI,Гербами
 $CrestsP,Гербах
+$CrestStone,Гербовый Камень
+$CrestStoneG,Гербового Камня
+$CrestStoneD,Гербовому Камню
+$CrestStoneA,Гербового Камня
+$CrestStoneI,Гербовым Камнем
+$CrestStoneP,Гербовом Камне
+$CrestStones,Гербовые Камни
+$CrestStonesG,Гербовых Камней
+$CrestStonesD,Гербовым Камням
+$CrestStonesA,Гербовые Камни
+$CrestStonesI,Гербовыми Камнями
+$CrestStonesP,Гербовых Камнях
+$CrestOfRiegan,Герб Ригана
+$CrestOfRieganG,Герба Ригана
+$CrestOfRieganD,Гербу Ригана
+$CrestOfRieganA,Герба Ригана
+$CrestOfRieganI,Гербом Ригана
+$CrestOfRieganP,Гербе Ригана
+$CrestAnalyzer,Анализатор Герба
+$CrestAnalyzerG,Анализатора Герба
+$CrestAnalyzerD,Анализатору Герба
+$CrestAnalyzerA,Анализатора Герба
+$CrestAnalyzerI,Анализатором Герба
+$CrestAnalyzerP,Анализаторе Герба
+$CrestOfFlames,Герб Пламени
+$CrestOfFlamesG,Герба Пламени
+$CrestOfFlamesD,Гербу Пламени
+$CrestOfFlamesA,Герба Пламени
+$CrestOfFlamesI,Гербом Пламени
+$CrestOfFlamesP,Гербе Пламени
+$CrestItem,Предмет Герба
+$CrestItemG,Предмета Герба
+$CrestItemD,Предмету Герба
+$CrestItemA,Предмет Герба
+$CrestItemI,Предметом Герба
+$CrestItemP,Предмете Герба
+$CrestItems,Предметы Герба
+$CrestItemsG,Предметов Герба
+$CrestItemsD,Предметам Герба
+$CrestItemsA,Предметы Герба
+$CrestItemsI,Предметами Герба
+$CrestItemsP,Предметах Герба
+$CrestologicalMysteries,Тайны Гербологии
+$CrestologicalMysteriesG,Тайн Гербологии
+$CrestologicalMysteriesD,Тайнам Гербологии
+$CrestologicalMysteriesA,Тайны Гербологии
+$CrestologicalMysteriesI,Тайнами Гербологии
+$CrestologicalMysteriesP,Тайнах Гербологии
 $Fodlan,Фодлан
 $FodlanG,Фодлана
 $FodlanD,Фодлану
@@ -432,6 +480,12 @@ $HouseAegirD,Дому Эгир
 $HouseAegirA,Дома Эгир
 $HouseAegirI,Домом Эгир
 $HouseAegirP,Доме Эгир
+$HouseHresvelg,Дом Хресвельг
+$HouseHresvelgG,Дома Хресвельг
+$HouseHresvelgD,Дому Хресвельг
+$HouseHresvelgA,Дома Хресвельг
+$HouseHresvelgI,Домом Хресвельг
+$HouseHresvelgP,Доме Хресвельг
 $BlackEagles,Чёрные Орлы
 $BlackEaglesG,Чёрных Орлов
 $BlackEaglesD,Чёрным Орлам
@@ -528,6 +582,12 @@ $LeicesterRebellionD,Лестерскому Восстанию
 $LeicesterRebellionA,Лестерского Восстания
 $LeicesterRebellionI,Лестерским Восстанием
 $LeicesterRebellionP,Лестерском Восстании
+$Relic,Реликвия
+$RelicG,Реликвии
+$RelicD,Реликвии
+$RelicA,Реликвию
+$RelicI,Реликвией
+$RelicP,Реликвии
 $HeroRelic,Реликвия Героя
 $HeroRelicG,Реликвии Героя
 $HeroRelicD,Реликвии Героя
@@ -540,18 +600,6 @@ $HeroesRelicsD,Реликвиям Героев
 $HeroesRelicsA,Реликвий Героев
 $HeroesRelicsI,Реликвиями Героев
 $HeroesRelicsP,Реликвиях Героев
-$CrestStone,Камень Дара
-$CrestStoneG,Камня Дара
-$CrestStoneD,Камню Дара
-$CrestStoneA,Камня Дара
-$CrestStoneI,Камнем Дара
-$CrestStoneP,Камне Дара
-$CrestOfRiegan,Дар Риган
-$CrestOfRieganG,Дара Риган
-$CrestOfRieganD,Дару Риган
-$CrestOfRieganA,Дара Риган
-$CrestOfRieganI,Даром Риган
-$CrestOfRieganP,Даре Риган
 $FallenStar,Упавшая Звезда
 $FallenStarG,Упавшую Звезду
 $FallenStarD,Упавшей Звезде
@@ -582,12 +630,6 @@ $AlmyraD,Альмире
 $AlmyraA,Альмиру
 $AlmyraI,Альмирой
 $AlmyraP,Альмире
-$Wilhelm,Вильгельм
-$WilhelmG,Вильгельма
-$WilhelmD,Вильгельму
-$WilhelmA,Вильгельма
-$WilhelmI,Вильгельмом
-$WilhelmP,Вильгельме
 $AilellForest,Лес Айлелл
 $AilellForestG,Леса Айлелл
 $AilellForestD,Лесу Айлелл
