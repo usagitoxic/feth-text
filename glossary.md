@@ -10,12 +10,17 @@
 - Ashen Wolves - Пепельные Волки
 - Those Who Slither in the Dark - Крадущиеся во Тьме
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
+- Officers Academy - Офицерская Академия
 
 ### Локации
 
 - Garreg Mach - Гаррег Мах
 - Abyss - Бездна
 - Fódlan - Фодлан
+- Aegir - Эгир
+- Enbarr - Энбарр
+- Gronder Field - Поле Грондер
+- Tailtean Plains - Равнины Тайлтин
 - Adrestian Empire - Адрастейская Империя
 - Holy Kingdom of Faerghus - Святое Королевство Фаэргус
 - Leicester Alliance - Лестерский Альянс
@@ -170,9 +175,9 @@
 - Grégoire - Грегуар
 - Marquis Vestra - Маркиз Вестра
 - Derick - Дерик
-- Lycaon I - Ликаон I
+- Lycaon von Hresvelg I - (Lycaon I) - Ликаон фон Хресвельг (Ликаон I)
 - Lycaon III - Ликаон III
-- Wilhelm I - Вильгельм I
+- Wilhelm Paul Hresvelg (Wilhelm I) - Вильгельм Пауль Хресвельг (Вильгельм I)
 - Patricia (Anselma) - Патриция (Ансельма)
 - Christophe - Кристоф
 - Matthias - Маттиас
@@ -203,3 +208,8 @@
 - Noa - Ноа
 - Timotheos - Тимофей
 - Zoltan - Золтан
+
+### Предметы / Оружие
+
+- Sword of the Creator - Меч Создателя
+- Crest of Flames - Герб Пламени
