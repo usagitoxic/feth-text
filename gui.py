@@ -175,8 +175,10 @@ class CSVEditor(QMainWindow):
 
         self.table = QTableView()
         self.table.horizontalHeader().setStretchLastSection(True)
-        self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
+        # self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
         self.table.doubleClicked.connect(self.edit_translation)
+        self.table.setWordWrap(True)
+        self.table.resizeRowsToContents()
 
         layout = QVBoxLayout()
         layout.addLayout(top_layout)

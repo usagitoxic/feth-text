@@ -24,6 +24,7 @@ $Hapi,Хэпи
 $Brigid,Бридид
 $Bernie,Берни
 $Cethleann,Сетлин
+$Gautier,Готье
 $Dimitri,Дмитрий
 $DimitriG,Дмитрия
 $DimitriD,Дмитрию
@@ -408,54 +409,72 @@ $CrestologicalMysteriesD,Тайнам Гербологии
 $CrestologicalMysteriesA,Тайны Гербологии
 $CrestologicalMysteriesI,Тайнами Гербологии
 $CrestologicalMysteriesP,Тайнах Гербологии
-$CrestOfErnest,Герб Эрнеста
-$CrestOfErnestG,Герба Эрнеста
-$CrestOfErnestD,Гербу Эрнеста
-$CrestOfErnestA,Герба Эрнеста
-$CrestOfErnestI,Гербом Эрнеста
-$CrestOfErnestP,Гербе Эрнеста
-$CrestOfMacuil,Герб Макуила
-$CrestOfMacuilG,Герба Макуила
-$CrestOfMacuilD,Гербу Макуила
-$CrestOfMacuilA,Герба Макуила
-$CrestOfMacuilI,Гербом Макуила
-$CrestOfMacuilP,Гербе Макуила
-$CrestOfDominic,Герб Доминика
-$CrestOfDominicG,Герба Доминика
-$CrestOfDominicD,Гербу Доминика
-$CrestOfDominicA,Герба Доминика
-$CrestOfDominicI,Гербом Доминика
-$CrestOfDominicP,Гербе Доминика
-$CrestOfSeiros,Герб Сэйрос
-$CrestOfSeirosG,Герба Сэйрос
-$CrestOfSeirosD,Гербу Сэйрос
-$CrestOfSeirosA,Герба Сэйрос
-$CrestOfSeirosI,Гербом Сэйрос
-$CrestOfSeirosP,Гербе Сэйрос
-$CrestOfFraldarius,Герб Фралдария
-$CrestOfFraldariusG,Герба Фралдария
-$CrestOfFraldariusD,Гербу Фралдария
-$CrestOfFraldariusA,Герба Фралдария
-$CrestOfFraldariusI,Гербом Фралдария
-$CrestOfFraldariusP,Гербе Фралдария
-$CrestOfNoa,Герб Ноя
-$CrestOfNoaG,Герба Ноя
-$CrestOfNoaD,Гербу Ноя
-$CrestOfNoaA,Герба Ноя
-$CrestOfNoaI,Гербом Ноя
-$CrestOfNoaP,Гербе Ноя
-$CrestOfCethleann,Герб Сетлин
-$CrestOfCethleannG,Герба Сетлин
-$CrestOfCethleannD,Гербу Сетлин
-$CrestOfCethleannA,Герба Сетлин
-$CrestOfCethleannI,Гербом Сетлин
-$CrestOfCethleannP,Гербе Сетлин
-$CrestOfDaphnel,Герб Дафнеля
-$CrestOfDaphnelG,Герба Дафнеля
-$CrestOfDaphnelD,Гербу Дафнеля
-$CrestOfDaphnelA,Герба Дафнеля
-$CrestOfDaphnelI,Гербом Дафнеля
-$CrestOfDaphnelP,Гербе Дафнеля
+$Aubin,Обин
+$AubinG,Обина
+$AubinD,Обину
+$AubinA,Обина
+$AubinI,Обином
+$AubinP,Обине
+$Cichol,Кихол
+$CicholG,Кихола
+$CicholD,Кихолу
+$CicholA,Кихола
+$CicholI,Кихолом
+$CicholP,Кихоле
+$Goneril,Гонерил
+$GonerilG,Гонерила
+$GonerilD,Гонерилу
+$GonerilA,Гонерила
+$GonerilI,Гонерилом
+$GonerilP,Гонериле
+$Gloucester,Глостер
+$GloucesterG,Глостера
+$GloucesterD,Глостеру
+$GloucesterA,Глостера
+$GloucesterI,Глостером
+$GloucesterP,Глостере
+$Blaiddyd,Блайддид
+$BlaiddydG,Блайддид
+$BlaiddydD,Блайддиду
+$BlaiddydA,Блайддид
+$BlaiddydI,Блайддидом
+$BlaiddydP,Блайддиде
+$Ernest,Эрнест
+$ErnestG,Эрнеста
+$ErnestD,Эрнесту
+$ErnestA,Эрнеста
+$ErnestI,Эрнестом
+$ErnestP,Эрнесте
+$Macuil,Макуил
+$MacuilG,Макуила
+$MacuilD,Макуилу
+$MacuilA,Макуила
+$MacuilI,Макуилом
+$MacuilP,Макуиле
+$Dominic,Доминик
+$DominicG,Доминика
+$DominicD,Доминику
+$DominicA,Доминика
+$DominicI,Домиником
+$DominicP,Доминике
+$Fraldarius,Фралдарий
+$FraldariusG,Фралдария
+$FraldariusD,Фралдарию
+$FraldariusA,Фралдария
+$FraldariusI,Фралдарием
+$FraldariusP,Фралдарии
+$Noa,Ной
+$NoaG,Ноя
+$NoaD,Ною
+$NoaA,Ноя
+$NoaI,Ноем
+$NoaP,Ное
+$Daphnel,Дафнель
+$DaphnelG,Дафнеля
+$DaphnelD,Дафнелю
+$DaphnelA,Дафнеля
+$DaphnelI,Дафнелем
+$DaphnelP,Дафнеле
 $Fodlan,Фодлан
 $FodlanG,Фодлана
 $FodlanD,Фодлану
@@ -486,30 +505,18 @@ $GronderD,Грондеру
 $GronderA,Грондера
 $GronderI,Грондером
 $GronderP,Грондере
-$FourSaints,Святая Четвёрка
-$FourSaintsG,Святой Четвёрки
-$FourSaintsD,Святой Четвёрке
-$FourSaintsA,Святой Четвёрки
-$FourSaintsI,Святой Четвёркой
-$FourSaintsP,Святой Четвёрке
-$SaintIndech,Святой Индек
-$SaintIndechG,Святого Индека
-$SaintIndechD,Святому Индеку
-$SaintIndechA,Святого Индека
-$SaintIndechI,Святым Индеком
-$SaintIndechP,Святом Индеке
+$Indech,Индек
+$IndechG,Индека
+$IndechD,Индеку
+$IndechA,Индека
+$IndechI,Индеком
+$IndechP,Индеке
 $GarregMach,Гаррег Мах
 $GarregMachG,Гаррег Маха
 $GarregMachD,Гаррег Маху
 $GarregMachA,Гаррег Маха
 $GarregMachI,Гаррег Махом
 $GarregMachP,Гаррег Махе
-$GarregMachMon,Монастырь Гаррег Мах
-$GarregMachMonG,Монастыря Гаррег Мах
-$GarregMachMonD,Монастырю Гаррег Мах
-$GarregMachMonA,Монастыря Гаррег Мах
-$GarregMachMonI,Монастырём Гаррег Мах
-$GarregMachMonP,Монастыре Гаррег Мах
 $WesternChurch,Западная Церковь
 $WesternChurchG,Западной Церкви
 $WesternChurchD,Заподной Цервки
