@@ -11,12 +11,15 @@
 - Those Who Slither in the Dark - Крадущиеся во Тьме
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 - Officers Academy - Офицерская Академия
+- Imperial Year - Имперский Год
 
 ### Локации
 
 - Garreg Mach - Гаррег Мах
 - Abyss - Бездна
 - Fódlan - Фодлан
+- Dagda - Дагда
+- Mach - Мах
 - Aegir - Эгир
 - Enbarr - Энбарр
 - Gronder Field - Поле Грондер
