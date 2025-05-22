@@ -7,6 +7,7 @@
 - Black Eagles - Чёрные Орлы
 - Blue Lions - Синие Львы
 - Golden Deer - Золотые Олени
+- Ashen Wolves - Пепельные Волки
 - Those Who Slither in the Dark - Крадущиеся во Тьме
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 
