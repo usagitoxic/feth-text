@@ -3,30 +3,77 @@
 - Byleth - Белет
 - Goddess - Богиня
 - Crest - Герб
+- Crestology - Гербология
 - Flame Emperor - Император Пламени
 - Black Eagles - Чёрные Орлы
 - Blue Lions - Синие Львы
 - Golden Deer - Золотые Олени
 - Ashen Wolves - Пепельные Волки
+- Resistance Army - Армия Сопротивления
+- Rite of Rising - Обряд Воскрешения
 - Those Who Slither in the Dark - Крадущиеся во Тьме
+- Ten Elites - Десять Избранных
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 - Officers Academy - Офицерская Академия
 - Imperial Year - Имперский Год
 
+### События
+
+- War of Heroes - Война Героев
+- War of the Eagle and Lion - Война Орла и Льва
+- Crescent Moon War - Война Полумесяца
+- Insurrection of the Seven - Восстание Семерых
+- Tragedy of Duscur - Трагедия Дускар
+
 ### Локации
 
 - Garreg Mach - Гаррег Мах
+- Shambhala (Underground City) - Шамбала (Подземный Город)
 - Abyss - Бездна
 - Fódlan - Фодлан
+- Fódlan's Throat - Хребет Фодлана
 - Dagda - Дагда
+- Brigid - Бригид
 - Mach - Мах
+- Duscur - Дускар
 - Aegir - Эгир
 - Enbarr - Энбарр
+- Fhirdiad - Фирдиад
+- Derdriu - Дердри
+- Hrym - Хрим
+- Bergliez - Берглиез
+- Sreng - Сренг
+- Nuvelle - Нювель
+- Edmund - Эдмунд
+- Ochs - Окс
+- Rowe - Роу
 - Gronder Field - Поле Грондер
 - Tailtean Plains - Равнины Тайлтин
+- Itha Plains - Равнины Ита
+- Oghma Mountains - Горы Огма
+- Fort Merceus - Форт Мерсеус
+- Airmid River - Река Эирмид
+- Great Bridge of Myrddin - Великий мост Мердина
 - Adrestian Empire - Адрастейская Империя
 - Holy Kingdom of Faerghus - Святое Королевство Фаэргус
 - Leicester Alliance - Лестерский Альянс
+- Mittelfrank Opera Company - Оперная труппа Миттельфранка
+- Blue Sea Star - Синяя Морская Звезда
+
+### Календарь (12 месяцев)
+
+- Great Tree Moon - Луна Великого Древа
+- Harpstring Moon - Луна Арфовой Струны
+- Garland Moon - Луна Венка
+- Blue Sea Moon - Луна Синего Моря
+- Verdant Rain Moon - Луна Зеленого Дождя
+- Horsebow Moon - Луна Конного Лука
+- Wyvern Moon - Луна Виверны
+- Red Wolf Moon - Луна Красного Волка
+- Ethereal Moon - Луна Эфира
+- Guardian Moon - Луна Стража
+- Pegasus Moon - Луна Пегаса
+- Lone Moon - Луна Одиночества
 
 ### Дом Чёрных Орлов
 
@@ -67,7 +114,7 @@
 - Flayn - Флан
 - Hanneman - Ханнеман
 - Manuela - Мануэла
-- Gilbert - Гилберт
+- Gustave Eddie Dominic (Gilbert) - Густав Эдди Доминик (Гилберт)
 - Alois - Алоис
 - Catherine - Катерина
 - Shamir - Шамир
@@ -75,7 +122,7 @@
 
 ### Церковь Сэйрос (DLC)
 
-- Jeritza - Ерица
+- Jeritza (Emile) - Ерица (Эмиль)
 - Anna - Анна
 - Aelfric - Элфрик
 
@@ -215,4 +262,5 @@
 ### Предметы / Оружие
 
 - Sword of the Creator - Меч Создателя
+- Lance of Ruin - Копьё Гибели
 - Crest of Flames - Герб Пламени
