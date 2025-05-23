@@ -42,6 +42,7 @@
 - Enbarr - Энбарр
 - Fhirdiad - Фирдиад
 - Derdriu - Дердри
+- Varley - Вали
 - Hrym - Хрим
 - Bergliez - Берглиез
 - Sreng - Сренг
@@ -77,16 +78,15 @@
 
 ### Дом Чёрных Орлов
 
-- Edelgard - Эдельгард
-- Edi - Эди
-- Edel - Эдель
-- Hubert - Хьюберт
-- Ferdinand - Фердинанд
-- Linhardt - Линхарт
-- Caspar - Каспар
-- Bernadetta - Бернадетта
-- Dorothea - Доротея
-- Petra - Петра
+- Edelgard von Hresvelg - Эдельгард фон Хрёсвельг
+- Edi (Edel) - Эди (Эдель)
+- Hubert von Vestra - Хьюберт фон Вестра
+- Ferdinand von Aegir - Фердинанд фон Эгир
+- Linhardt von Hevring - Линхарт фон Хефринг
+- Caspar von Bergliez - Каспар фон Берглиц
+- Bernadetta von Varley - Бернадетта фон Вали
+- Dorothea Arnault - Доротея Арно
+- Petra Macneary - Петра Макнеари
 
 ### Дом Синих Львов
 
@@ -227,9 +227,9 @@
 - Grégoire - Грегуар
 - Marquis Vestra - Маркиз Вестра
 - Derick - Дерик
-- Lycaon von Hresvelg I - (Lycaon I) - Ликаон фон Хресвельг (Ликаон I)
+- Lycaon von Hresvelg I - (Lycaon I) - Ликаон фон Хрёсвельг (Ликаон I)
 - Lycaon III - Ликаон III
-- Wilhelm Paul Hresvelg (Wilhelm I) - Вильгельм Пауль Хресвельг (Вильгельм I)
+- Wilhelm Paul Hresvelg (Wilhelm I) - Вильгельм Пауль Хрёсвельг (Вильгельм I)
 - Patricia (Anselma) - Патриция (Ансельма)
 - Christophe - Кристоф
 - Matthias - Маттиас
