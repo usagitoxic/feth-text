@@ -7,6 +7,7 @@
 - Minor Crest - Малый Герб
 - Crestology - Геральдика
 - Crest Stone - Гербовый Камень
+- Crest of Ernest - Герб Эрнеста
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
 - Flame Emperor - Император Пламени
