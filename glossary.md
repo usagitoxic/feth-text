@@ -24,6 +24,9 @@
 - Imperial Year - Имперский Год
 - Mittelfrank Opera Company - Оперная труппа Миттельфранка
 - Blue Sea Star - Синяя Морская Звезда
+- Divine Pulse - Божественный Импульс
+- Relic - Реликвия
+- False God - Ложный Бог
 
 ### События
 
@@ -57,6 +60,10 @@
 - Ochs - Окс
 - Rowe - Роу
 - Gaspard - Гаспар
+- Thinis - Тинис
+- Malum - Малум
+- Septen - Септин
+- Llium - Ллиум
 - Gronder Field - Поле Грондер
 - Tailtean Plains - Равнины Тайлтин
 - Itha Plains - Равнины Ита
