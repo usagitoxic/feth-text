@@ -4,8 +4,8 @@
 - Goddess - Богиня
 - Crest - Герб
 - Major Crest - Высший Герб
-- Minor Crest - Низший Герб
-- Crestology - Гербология
+- Minor Crest - Малый Герб
+- Crestology - Геральдика
 - Crest Stone - Гербовый Камень
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
