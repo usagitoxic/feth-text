@@ -3,7 +3,12 @@
 - Byleth - Белет
 - Goddess - Богиня
 - Crest - Герб
+- Major Crest - Высший Герб
+- Minor Crest - Низший Герб
 - Crestology - Гербология
+- Crest Stone - Гербовый Камень
+- Four Saints - Четверо Святых
+- Four Apostles - Четверо Апостолов
 - Flame Emperor - Император Пламени
 - Black Eagles - Чёрные Орлы
 - Blue Lions - Синие Львы
@@ -50,6 +55,7 @@
 - Edmund - Эдмунд
 - Ochs - Окс
 - Rowe - Роу
+- Gaspard - Гаспар
 - Gronder Field - Поле Грондер
 - Tailtean Plains - Равнины Тайлтин
 - Itha Plains - Равнины Ита
@@ -85,30 +91,31 @@
 - Linhardt von Hevring - Линхарт фон Хефринг
 - Caspar von Bergliez - Каспар фон Берглиц
 - Bernadetta von Varley - Бернадетта фон Вали
+- Bernie - Берни
 - Dorothea Arnault - Доротея Арно
 - Petra Macneary - Петра Макнеари
 
 ### Дом Синих Львов
 
-- Dimitri - Дмитрий
-- Dedue - Дедью
-- Felix - Феликс
-- Ashe - Эш
-- Sylvain - Сильвейн
-- Mercedes - Мерседес
-- Annette - Аннетт
-- Ingrid - Ингрид
+- Dimitri Alexandre Blaiddyd - Дмитрий Александр Бладуд
+- Dedue Molinaro - Дедью Молинаро
+- Felix Hugo Fraldarius - Феликс Гуго Фральдариус
+- Ashe Ubert - Эш Дюран
+- Sylvain Jose Gautier - Сильвен Жозе Готье
+- Mercedes von Martritz - Мерседес
+- Annette Fantine Dominic - Аннетт
+- Ingrid Brandl Galatea - Ингрид
 
 ### Дом Золотых Оленей
 
-- Claude - Клод
-- Lorenz - Лоренц
-- Raphael - Рафаэль
-- Ignatz - Игнац
-- Lysithea - Лиситея
-- Marianne - Марианна
-- Hilda - Хильда
-- Leonie - Леони
+- Claude von Riegan - Клод
+- Lorenz Hellman Gloucester - Лоренц
+- Raphael Kirsten - Рафаэль
+- Ignatz Victor - Игнац
+- Lysithea von Ordelia - Лиситея
+- Marianne von Edmund - Марианна
+- Hilda Valentine Goneril - Хильда
+- Leonie Pinelli - Леони
 
 ### Церковь Сэйрос
 
@@ -208,7 +215,7 @@
 ### Двенадцать Героев Фодлана
 
 - Nemesis - Немезис
-- Blaiddyd - Блэйдид
+- Blaiddyd - Бладуд
 - Charon - Карон
 - Daphnel - Дафнель
 - Dominic - Доминик
