@@ -11,12 +11,13 @@
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
 - Flame Emperor - Император Пламени
+- King of Liberation - Король Освобождения
 - Black Eagles - Чёрные Орлы
 - Blue Lions - Синие Львы
 - Golden Deer - Золотые Олени
 - Ashen Wolves - Пепельные Волки
 - Resistance Army - Армия Сопротивления
-- Rite of Rising - Обряд Воскрешения
+- Rite of Rising - Обряд Вознесения
 - Those Who Slither in the Dark - Крадущиеся во Тьме
 - Ten Elites - Десять Избранных
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
@@ -27,6 +28,7 @@
 - Divine Pulse - Божественный Импульс
 - Relic - Реликвия
 - False God - Ложный Бог
+- Gambit - Манёвр
 
 ### События
 
@@ -43,6 +45,7 @@
 - Abyss - Бездна
 - Fódlan - Фодлан
 - Fódlan's Throat - Хребет Фодлана
+- Almyra - Альмира
 - Dagda - Дагда
 - Brigid - Бригид
 - Mach - Мах
@@ -74,6 +77,8 @@
 - Adrestian Empire - Адрастейская Империя
 - Holy Kingdom of Faerghus - Святое Королевство Фаэргус
 - Leicester Alliance - Лестерский Альянс
+- Holy Mausoleum - Святой Мавзолей
+- Arianrhod - Арианрод
 
 ### Календарь (12 месяцев)
 
@@ -279,5 +284,13 @@
 ### Предметы / Оружие
 
 - Sword of the Creator - Меч Создателя
+- Sublime Creator Sword - Пробуждённый Меч Создателя
 - Lance of Ruin - Копьё Гибели
+- Thunderbrand - Громовержец
 - Crest of Flames - Герб Пламени
+
+
+### Классы
+
+- Warlock - Колдун
+- Brigand - Разбойник
