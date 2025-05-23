@@ -1,13 +1,13 @@
 ### Общие термины
 
-- Byleth - Белет
-- Goddess - Богиня
-- Crest - Герб
-- Major Crest - Высший Герб
-- Minor Crest - Малый Герб
-- Crestology - Геральдика
-- Crest Stone - Гербовый Камень
-- Crest of Ernest - Герб Эрнеста
+- Byleth - **Белет**
+- Goddess - **Богиня**
+- Crest - **Герб**
+- Major Crest - **Высший Герб**
+- Minor Crest - **Малый Герб**
+- Crestology - **Геральдика**
+- Crest Stone - **Гербовый Камень**
+- Crest of Ernest - **Герб Эрнеста**
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
 - Flame Emperor - Император Пламени
@@ -92,27 +92,27 @@
 
 ### Дом Чёрных Орлов
 
-- Edelgard von Hresvelg - Эдельгард фон Хрёсвельг
-- Edi (Edel) - Эди (Эдель)
-- Hubert von Vestra - Хьюберт фон Вестра
-- Ferdinand von Aegir - Фердинанд фон Эгир
-- Linhardt von Hevring - Линхарт фон Хефринг
-- Caspar von Bergliez - Каспар фон Берглиц
-- Bernadetta von Varley - Бернадетта фон Вали
-- Bernie - Берни
-- Dorothea Arnault - Доротея Арно
-- Petra Macneary - Петра Макнеари
+- Edelgard von Hresvelg - **Эдельгард фон Хрёсвельг**
+- Edi (Edel) - **Эди (Эдель)**
+- Hubert von Vestra - **Хьюберт фон Вестра**
+- Ferdinand von Aegir - **Фердинанд фон Эгир**
+- Linhardt von Hevring - **Линхарт фон Хефринг**
+- Caspar von Bergliez - **Каспар фон Берглиц**
+- Bernadetta von Varley - **Бернадетта фон Вали**
+- Bernie - **Берни**
+- Dorothea Arnault - **Доротея Арно**
+- Petra Macneary - **Петра Макнеари**
 
 ### Дом Синих Львов
 
-- Dimitri Alexandre Blaiddyd - Дмитрий Александр Бладуд
-- Dedue Molinaro - Дедью Молинаро
-- Felix Hugo Fraldarius - Феликс Гуго Фральдариус
-- Ashe Ubert - Эш Дюран
-- Sylvain Jose Gautier - Сильвен Жозе Готье
-- Mercedes von Martritz - Мерседес
-- Annette Fantine Dominic - Аннетт
-- Ingrid Brandl Galatea - Ингрид
+- Dimitri Alexandre Blaiddyd - **Дмитрий Александр Бладуд**
+- Dedue Molinaro - **Дедью Молинаро**
+- Felix Hugo Fraldarius - **Феликс Гуго Фральдариус**
+- Ashe Ubert - **Эш Дюран**
+- Sylvain Jose Gautier - **Сильвен Жозе Готье**
+- Mercedes von Martritz (Bartels) - **Мерседес фон Мартриц (Бартельс)**
+- Annette Fantine Dominic - **Аннетт Фантин Доминик**
+- Ingrid Brandl Galatea - **Ингрид Брандль Галатея**
 
 ### Дом Золотых Оленей
 
