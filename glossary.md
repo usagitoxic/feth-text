@@ -16,6 +16,8 @@
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 - Officers Academy - Офицерская Академия
 - Imperial Year - Имперский Год
+- Mittelfrank Opera Company - Оперная труппа Миттельфранка
+- Blue Sea Star - Синяя Морская Звезда
 
 ### События
 
@@ -57,8 +59,6 @@
 - Adrestian Empire - Адрастейская Империя
 - Holy Kingdom of Faerghus - Святое Королевство Фаэргус
 - Leicester Alliance - Лестерский Альянс
-- Mittelfrank Opera Company - Оперная труппа Миттельфранка
-- Blue Sea Star - Синяя Морская Звезда
 
 ### Календарь (12 месяцев)
 
@@ -78,6 +78,8 @@
 ### Дом Чёрных Орлов
 
 - Edelgard - Эдельгард
+- Edi - Эди
+- Edel - Эдель
 - Hubert - Хьюберт
 - Ferdinand - Фердинанд
 - Linhardt - Линхарт
