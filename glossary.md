@@ -11,19 +11,19 @@
 - Crest of Ernest - **Герб Эрнеста**
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
-- Flame Emperor - Император Пламени
+- Flame Emperor - **Император Пламени**
 - King of Liberation - Король Освобождения
-- Black Eagles - Чёрные Орлы
-- Blue Lions - Синие Львы
-- Golden Deer - Золотые Олени
-- Ashen Wolves - Пепельные Волки
+- Black Eagles - **Чёрные Орлы**
+- Blue Lions - **Синие Львы**
+- Golden Deer - **Золотые Олени**
+- Ashen Wolves - П**епельные Волки**
 - Resistance Army - Армия Сопротивления
 - Rite of Rising - Обряд Вознесения
-- Those Who Slither in the Dark - Крадущиеся во Тьме
-- Ten Elites - Десять Избранных
+- Those Who Slither in the Dark - **Крадущиеся во Тьме**
+- Ten Elites - **Десять Избранных**
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
-- Officers Academy - Офицерская Академия
-- Imperial Year - Имперский Год
+- Officers Academy - **Офицерская Академия**
+- Imperial Year - **Имперский Год**
 - Mittelfrank Opera Company - Оперная труппа Миттельфранка
 - Blue Sea Star - Синяя Морская Звезда
 - Divine Pulse - Божественный Импульс
@@ -113,7 +113,7 @@
 
 - Dimitri Alexandre Blaiddyd - **Дмитрий Александр Бладуд**
 - Dedue Molinaro - **Дедью Молинаро**
-- Felix Hugo Fraldarius - **Феликс Гуго Фральдариус**
+- Felix Hugo Fraldarius - **Феликс Юго Фральдариус**
 - Ashe Ubert - **Эш Дюран**
 - Sylvain Jose Gautier - **Сильвен Жозе Готье**
 - Mercedes von Martritz (Bartels) - **Мерседес фон Мартриц (Бартельс)**
@@ -152,10 +152,10 @@
 
 ### Пепельные Волки (DLC)
 
-- Yuri - Юри
-- Balthus - Балтус
-- Constance - Констанция
-- Hapi - Хэпи
+- Yuri Leclerc - Юрий Леклерк
+- Balthus von Albrecht - Бальтазар фон Адальбрехт
+- Constance von Nuvelle - Констанция фон Нувэль
+- Hapi - Хапи
 
 ### Неиграбельные персонажи
 
