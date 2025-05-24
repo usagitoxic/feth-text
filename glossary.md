@@ -27,14 +27,14 @@
 - Mittelfrank Opera Company - Оперная труппа Миттельфранка
 - Blue Sea Star - Синяя Морская Звезда
 - Divine Pulse - Божественный Импульс
-- Relic - Реликвия
-- False God - Ложный Бог
-- Gambit - Манёвр
+- Relic - **Реликвия**
+- False God - **Ложный Бог**
+- Gambit - **Манёвр**
 
 ### События
 
-- War of Heroes - Война Героев
-- War of the Eagle and Lion - Война Орла и Льва
+- War of Heroes - **Война Героев**
+- War of the Eagle and Lion - **Война Орла и Льва**
 - Crescent Moon War - Война Полумесяца
 - Insurrection of the Seven - Восстание Семерых
 - Tragedy of Duscur - Трагедия Дускар
@@ -47,7 +47,7 @@
 - Fódlan - Фодлан
 - Fódlan's Throat - Хребет Фодлана
 - Almyra - Альмира
-- Dagda - Дагда
+- Dagda - **Дагда**
 - Brigid - Бригид
 - Mach - Мах
 - Duscur - Дускар
@@ -56,11 +56,11 @@
 - Fhirdiad - Фирдиад
 - Derdriu - Дердри
 - Varley - Вали
-- Hrym - Хрим
+- Hrym - **Хрюм**
 - Bergliez - Берглиез
 - Sreng - Сренг
 - Nuvelle - Нювель
-- Edmund - Эдмунд
+- Edmund - **Эдмунд**
 - Ochs - Окс
 - Rowe - Роу
 - Gaspard - Гаспар
@@ -83,18 +83,18 @@
 
 ### Календарь (12 месяцев)
 
-- Great Tree Moon - Луна Древа
-- Harpstring Moon - Луна Струны
-- Garland Moon - Луна Венка
-- Blue Sea Moon - Луна Моря
-- Verdant Rain Moon - Луна Дождя
-- Horsebow Moon - Луна Лука
-- Wyvern Moon - Луна Виверны
-- Red Wolf Moon - Луна Волка
-- Ethereal Moon - Луна Эфира
-- Guardian Moon - Луна Стража
-- Pegasus Moon - Луна Пегаса
-- Lone Moon - Луна Одиночества
+- Great Tree Moon - **Луна Древа**
+- Harpstring Moon - **Луна Струны**
+- Garland Moon - **Луна Венка**
+- Blue Sea Moon - **Луна Моря**
+- Verdant Rain Moon - **Луна Дождя**
+- Horsebow Moon - **Луна Лука**
+- Wyvern Moon - **Луна Виверны**
+- Red Wolf Moon - **Луна Волка**
+- Ethereal Moon - **Луна Эфира**
+- Guardian Moon - **Луна Стража**
+- Pegasus Moon - **Луна Пегаса**
+- Lone Moon - **Луна Одиночества**
 
 ### Дом Чёрных Орлов
 
@@ -134,33 +134,33 @@
 
 ### Церковь Сэйрос
 
-- Seteth - Сетес
-- Flayn - Флан
-- Hanneman - Ханнеман
-- Manuela - Мануэла
-- Gustave Eddie Dominic (Gilbert) - Густав Эдди Доминик (Гилберт)
-- Alois - Алоис
-- Catherine - Катерина
-- Shamir - Шамир
-- Cyril - Кирилл
+- Seteth (Cichol) - **Сетес (Кихол)**
+- Flayn (Cethleann) - **Флэн (Кетеленн)**
+- Hanneman von Essar - **Ханнеман фон Эсса**
+- Manuela Casagranda - **Мануэла Казагранда**
+- Gustave Eddie Dominic (Gilbert Pronislav) - **Гюстав Эдди Доминик (Гилберт Пронислав)**
+- Alois Rangeld - **Алоис Рангельт**
+- Cassandra Rubens Charon (Catherine) - **Кассандра Рубенс Харон (Катерина)**
+- Shamir Nevrand - **Шамир Неврант**
+- Cyril - **Кирилл**
 
 ### Церковь Сэйрос (DLC)
 
-- Jeritza (Emile) - Ерица (Эмиль)
-- Anna - Анна
+- Jeritza von Hrym (Emile von Bartels) - **Ерица фон Хрюм (Эмиль фон Бартельс)**
+- Anna - **Анна**
 - Aelfric - Элфрик
 
 ### Пепельные Волки (DLC)
 
-- Yuri Leclerc - Юрий Леклерк
-- Balthus von Albrecht - Бальтазар фон Адальбрехт
-- Constance von Nuvelle - Констанция фон Нувэль
-- Hapi - Хапи
+- Yuri Leclerc - **Юрий Леклерк**
+- Balthus von Albrecht - **Бальтазар фон Адальбрехт**
+- Constance von Nuvelle - **Констанция фон Нувэль**
+- Hapi - **Хапи**
 
 ### Неиграбельные персонажи
 
-- Sothis - Сотис
-- Jeralt - Джеральт
+- Sothis - **Сотис**
+- Jeralt Reus Eisner - **Джеральт Ройс Айснер**
 - Tomas - Томас
 - Gatekeeper - Страж Ворот
 - Monica - Моника
@@ -216,9 +216,9 @@
 ### Дети Богини и Големы Церкви
 
 - Seiros - Сэйрос
-- Indech (The Immovable) - Индех (Непоколебимый)
-- Macuil (The Wind Caller) - Макуиль (Призыватель Ветров)
-- Rhea (The Immaculate One) - Рея (Непорочная)
+- Indech (The Immovable) - **Индех (Непоколебимый)**
+- Macuil (The Wind Caller) - **Макуил (Призыватель Ветров)**
+- Rhea (The Immaculate One) - **Рея (Непорочная)**
 - Luca - Лука
 - Iris - Ирис
 - Bernhard - Бернхард
@@ -231,15 +231,15 @@
 ### Двенадцать Героев Фодлана
 
 - Nemesis - Немезис
-- Blaiddyd - Бладуд
-- Charon - Карон
+- Blaiddyd - **Бладуд**
+- Charon - **Харон**
 - Daphnel - Дафнель
 - Dominic - Доминик
-- Fraldarius - Фралдариус
-- Gautier - Готьер
-- Gloucester - Глостер
-- Goneril - Гонерил
-- Riegan - Риган
+- Fraldarius - **Фральдариус**
+- Gautier - **Готье**
+- Gloucester - **Глостер**
+- Goneril - **Гонериль**
+- Riegan - **Риган**
 - Lamine - Ламин
 - Maurice - Морис
 
@@ -266,7 +266,7 @@
 - Rufus - Руфус
 - Viscount Kleiman - Виконт Клейман
 - Count Rowe - Граф Роу
-- Count Charon - Граф Карон
+- Count Charon - **Граф Харон**
 - Claudia - Клаудия
 - Godfrey - Годфри
 - Erwin - Эрвин
@@ -274,11 +274,9 @@
 - Maya - Майя
 - Oswald - Освальд
 - Tiana - Тиана
-- Count Ordelia - Граф Орделия
-- Margrave Edmund - Марграф Эдмунд
-- Cethleann - Сетлинн
-- Cichol - Кихол
-- Sitri - Ситри
+- Count Ordelia - **Граф Корделия**
+- Margrave Edmund - **Марграф Эдмунд**
+- Sitri Eisner - **Ситри Айснер**
 - Aubin - Обен
 - Noa - Ноа
 - Timotheos - Тимофей
