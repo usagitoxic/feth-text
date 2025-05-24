@@ -20,7 +20,7 @@
 - Resistance Army - Армия Сопротивления
 - Rite of Rising - Обряд Вознесения
 - Those Who Slither in the Dark - **Крадущиеся во Тьме**
-- Ten Elites - **Десять Избранных**
+- Ten Elites - **Десять Героев**
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 - Officers Academy - **Офицерская Академия**
 - Imperial Year - **Имперский Год**
@@ -37,7 +37,7 @@
 - War of the Eagle and Lion - **Война Орла и Льва**
 - Crescent Moon War - Война Полумесяца
 - Insurrection of the Seven - Восстание Семерых
-- Tragedy of Duscur - Трагедия Дускар
+- Tragedy of Duscur - Трагедия Даскар
 
 ### Локации
 
@@ -50,7 +50,7 @@
 - Dagda - **Дагда**
 - Brigid - Бригид
 - Mach - Мах
-- Duscur - Дускар
+- Duscur - Даскар
 - Aegir - Эгир
 - Enbarr - Энбарр
 - Fhirdiad - Фирдиад
@@ -80,6 +80,8 @@
 - Leicester Alliance - **Лестерский Альянс**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
+- Sauin Village - Деревня Саин
+- Remire Village - Деревня Ремайр
 
 ### Календарь (12 месяцев)
 
@@ -119,6 +121,7 @@
 - Mercedes von Martritz (Bartels) - **Мерседес фон Мартриц (Бартельс)**
 - Merci - **Мерси**
 - Annette Fantine Dominic - **Аннетт Фантин Доминик**
+- Annie - **Анни**
 - Ingrid Brandl Galatea - **Ингрид Брандль Галатея**
 
 ### Дом Золотых Оленей
