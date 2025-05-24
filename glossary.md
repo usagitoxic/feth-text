@@ -2,6 +2,7 @@
 
 - Byleth - **Белет**
 - Goddess - **Богиня**
+- Noble - **Знать**
 - Crest - **Герб**
 - Major Crest - **Высший Герб**
 - Minor Crest - **Малый Герб**
@@ -40,7 +41,7 @@
 
 ### Локации
 
-- Garreg Mach - Гаррег Мах
+- Garreg Mach - **Гаррег Мах**
 - Shambhala (Underground City) - Шамбала (Подземный Город)
 - Abyss - Бездна
 - Fódlan - Фодлан
@@ -67,29 +68,29 @@
 - Malum - Малум
 - Septen - Септин
 - Llium - Ллиум
-- Gronder Field - Поле Грондер
-- Tailtean Plains - Равнины Тайлтин
-- Itha Plains - Равнины Ита
-- Oghma Mountains - Горы Огма
+- Gronder Field - **Поле Грондер**
+- Tailtean Plains - **Равнины Тайлтин**
+- Itha Plains - **Равнины Ита**
+- Oghma Mountains - **Горы Огма**
 - Fort Merceus - Форт Мерсеус
 - Airmid River - Река Эирмид
 - Great Bridge of Myrddin - Великий мост Мердина
-- Adrestian Empire - Адрастейская Империя
-- Holy Kingdom of Faerghus - Святое Королевство Фаэргус
-- Leicester Alliance - Лестерский Альянс
+- Adrestian Empire - **Адрастейская Империя**
+- Holy Kingdom of Faerghus - **Святое Королевство Фаэргус**
+- Leicester Alliance - **Лестерский Альянс**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
 
 ### Календарь (12 месяцев)
 
-- Great Tree Moon - Луна Великого Древа
-- Harpstring Moon - Луна Арфовой Струны
+- Great Tree Moon - Луна Древа
+- Harpstring Moon - Луна Струны
 - Garland Moon - Луна Венка
-- Blue Sea Moon - Луна Синего Моря
-- Verdant Rain Moon - Луна Зеленого Дождя
-- Horsebow Moon - Луна Конного Лука
+- Blue Sea Moon - Луна Моря
+- Verdant Rain Moon - Луна Дождя
+- Horsebow Moon - Луна Лука
 - Wyvern Moon - Луна Виверны
-- Red Wolf Moon - Луна Красного Волка
+- Red Wolf Moon - Луна Волка
 - Ethereal Moon - Луна Эфира
 - Guardian Moon - Луна Стража
 - Pegasus Moon - Луна Пегаса
@@ -116,6 +117,7 @@
 - Ashe Ubert - **Эш Дюран**
 - Sylvain Jose Gautier - **Сильвен Жозе Готье**
 - Mercedes von Martritz (Bartels) - **Мерседес фон Мартриц (Бартельс)**
+- Merci - **Мерси**
 - Annette Fantine Dominic - **Аннетт Фантин Доминик**
 - Ingrid Brandl Galatea - **Ингрид Брандль Галатея**
 
@@ -166,10 +168,11 @@
 - Fleche - Флеш
 - Abysskeeper - Страж Бездны
 - Duke Gerth - Герцог Герт
+- Ionius IX - Ионий IX
 
 ### Антагонисты (Адрастейская Империя)
 
-- Volkhard - Вольхард
+- Volkhard von Arundel - Вольхард фон Арундел
 - Metodey - Методей
 - Randolph - Рэндольф
 - Ladislava - Ладислава
@@ -245,7 +248,7 @@
 - Leopold - Леопольд
 - Waldemar - Вальдемар
 - Grégoire - Грегуар
-- Marquis Vestra - Маркиз Вестра
+- Marquis Vestra - **Маркиз Вестра**
 - Derick - Дерик
 - Lycaon von Hresvelg I - (Lycaon I) - Ликаон фон Хрёсвельг (Ликаон I)
 - Lycaon III - Ликаон III
@@ -294,3 +297,17 @@
 
 - Warlock - Колдун
 - Brigand - Разбойник
+- Myrmidon - Мирмидон
+- Soldier - Солдат
+- Fighter - Боец
+- Monk - Монах
+- Mercenary - Наёмник
+- Cavalier - Всадник
+- Mage - Маг
+- Dark Mage - Чёрный маг
+- Priest - Жрец
+- Hero - Герой
+- Warrior - Воин
+- Sniper - Снайпер
+- Grappler - Борец
+- Archer - Лучник
