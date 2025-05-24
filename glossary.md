@@ -123,14 +123,14 @@
 
 ### Дом Золотых Оленей
 
-- Claude von Riegan - Клод
-- Lorenz Hellman Gloucester - Лоренц
-- Raphael Kirsten - Рафаэль
-- Ignatz Victor - Игнац
-- Lysithea von Ordelia - Лиситея
-- Marianne von Edmund - Марианна
-- Hilda Valentine Goneril - Хильда
-- Leonie Pinelli - Леони
+- Claude von Riegan - **Клод фон Риган**
+- Lorenz Hellman Gloucester - **Лоренц Герман Глостер**
+- Raphael Kirsten - **Рафаэль Кирстен**
+- Ignatz Victor - **Игнац Виктор**
+- Lysithea von Ordelia - **Лиситея фон Корделия**
+- Marianne von Edmund - **Марианна фон Эдмунд**
+- Hilda Valentine Goneril - **Хильда Валентин Гонериль**
+- Leonie Pinelli - **Леони Пинелли**
 
 ### Церковь Сэйрос
 
