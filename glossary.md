@@ -45,10 +45,13 @@
 - Shambhala (Underground City) - Шамбала (Подземный Город)
 - Abyss - Бездна
 - Fódlan - Фодлан
-- Fódlan's Throat - Хребет Фодлана
+- Fódlan's Throat - **Глотка Фодлана**
+- Fódlan's Locket - **Камея Фодлана**
 - Almyra - Альмира
+- Albinea - Альбинея
+- Morfis - Морфис
 - Dagda - **Дагда**
-- Brigid - Бригид
+- Brigid - **Бригид**
 - Mach - Мах
 - Duscur - Даскар
 - Aegir - Эгир
