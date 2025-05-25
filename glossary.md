@@ -16,7 +16,7 @@
 - Black Eagles - **Чёрные Орлы**
 - Blue Lions - **Синие Львы**
 - Golden Deer - **Золотые Олени**
-- Ashen Wolves - П**епельные Волки**
+- Ashen Wolves - **Пепельные Волки**
 - Resistance Army - Армия Сопротивления
 - Rite of Rising - Обряд Вознесения
 - Those Who Slither in the Dark - **Крадущиеся во Тьме**
@@ -77,13 +77,13 @@
 - Oghma Mountains - **Горы Огма**
 - Fort Merceus - Форт Мерсеус
 - Airmid River - Река Эирмид
-- Great Bridge of Myrddin - Великий мост Мердина
+- Great Bridge of Myrddin - Великий мост Мирддина
 - Adrestian Empire - **Адрастейская Империя**
-- Holy Kingdom of Faerghus - **Святое Королевство Фаэргус**
+- Holy Kingdom of Faerghus - **Священное Королевство Фаэргус**
 - Leicester Alliance - **Лестерский Альянс**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
-- Sauin Village - Деревня Саин
+- Sauin Village - Деревня Сауин
 - Remire Village - Деревня Ремайр
 
 ### Календарь (12 месяцев)
@@ -178,7 +178,7 @@
 
 ### Антагонисты (Адрастейская Империя)
 
-- Volkhard von Arundel - Вольхард фон Арундел
+- Volkhard von Arundel - Фолькхарт фон Арундел
 - Metodey - Методей
 - Randolph - Рэндольф
 - Ladislava - Ладислава
@@ -194,9 +194,9 @@
 
 ### Антагонисты (Лестерский Альянс)
 
-- Acheron - Акерон
-- Judith - Юдит
-- Nader - Надер
+- Acheron - Ахерон
+- Judith - Джудит
+- Nader - Надир
 
 ### Антагонисты (Гаррег Мах)
 
@@ -209,19 +209,19 @@
 
 ### Крадущиеся во Тьме
 
-- Thales - Фалес
+- Thales - Талес
 - Solon - Солон
 - Kronya - Крония
 - Cornelia - Корнелия
 - Myson - Мисон
-- Odesse - Одессе
+- Odesse - Одесс
 - Chilon - Хилон
 - Pittacus - Питтак
 - Bias - Биас
 
 ### Дети Богини и Големы Церкви
 
-- Seiros - Сэйрос
+- Seiros - Сейрос
 - Indech (The Immovable) - **Индех (Непоколебимый)**
 - Macuil (The Wind Caller) - **Макуил (Призыватель Ветров)**
 - Rhea (The Immaculate One) - **Рея (Непорочная)**
