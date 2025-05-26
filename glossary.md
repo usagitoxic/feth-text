@@ -4,6 +4,7 @@
 - Goddess - **Богиня**
 - Noble - **Знать**
 - Crest - **Герб**
+- Teach - Препод
 - Major Crest - **Высший Герб**
 - Minor Crest - **Малый Герб**
 - Crestology - **Геральдика**
@@ -82,6 +83,7 @@
 - Adrestian Empire - **Адрастейская Империя**
 - Holy Kingdom of Faerghus - **Священное Королевство Фаэргус**
 - Leicester Alliance - **Лестерский Альянс**
+- Church of Seiros - **Церковь Сейрос**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
 - Sauin Village - **Деревня Сауин**
@@ -136,7 +138,7 @@
 - Ignatz Victor - **Игнац Виктор**
 - Lysithea von Ordelia - **Лиситея фон Корделия**
 - Marianne von Edmund - **Марианна фон Эдмунд**
-- Hilda Valentine Goneril - **Хильда Валентин Гонериль**
+- Hilda Valentine Goneril - **Хильда Валентин Gloucester**
 - Leonie Pinelli - **Леони Пинелли**
 
 ### Церковь Сэйрос
@@ -292,8 +294,9 @@
 ### Предметы / Оружие
 
 - Sword of the Creator - Меч Богини
-- Sublime Creator Sword - Пробуждённый Меч Богини
+- Sublime Creator Sword - Великий Меч Богини
 - Dark Creator Sword - Тёмный Меч Богини
+- Blutgang - **Блутганг**
 - Lance of Ruin - Копьё Гибели
 - Thunderbrand - Громовержец
 - Crest of Flames - Герб Пламени
