@@ -30,6 +30,7 @@
 - Relic - **Реликвия**
 - False God - **Ложный Бог**
 - Gambit - **Манёвр**
+- Demonic Beasts - **Демонические чудища**
 
 ### События
 
@@ -37,7 +38,7 @@
 - War of the Eagle and Lion - **Война Орла и Льва**
 - Crescent Moon War - Война Полумесяца
 - Insurrection of the Seven - Восстание Семерых
-- Tragedy of Duscur - Трагедия Даскар
+- Tragedy of Duscur - Трагедия Даскара
 
 ### Локации
 
@@ -60,7 +61,7 @@
 - Derdriu - Дердри
 - Varley - Вали
 - Hrym - **Хрюм**
-- Bergliez - Берглиез
+- Bergliez - **Берглиц**
 - Sreng - Сренг
 - Nuvelle - Нювель
 - Edmund - **Эдмунд**
@@ -290,8 +291,9 @@
 
 ### Предметы / Оружие
 
-- Sword of the Creator - Меч Создателя
-- Sublime Creator Sword - Пробуждённый Меч Создателя
+- Sword of the Creator - Меч Богини
+- Sublime Creator Sword - Пробуждённый Меч Богини
+- Dark Creator Sword - Тёмный Меч Богини
 - Lance of Ruin - Копьё Гибели
 - Thunderbrand - Громовержец
 - Crest of Flames - Герб Пламени
