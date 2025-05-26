@@ -13,7 +13,6 @@
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
 - Flame Emperor - **Император Пламени**
-- King of Liberation - Король Освобождения
 - Black Eagles - **Чёрные Орлы**
 - Blue Lions - **Синие Львы**
 - Golden Deer - **Золотые Олени**
