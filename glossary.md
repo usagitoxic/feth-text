@@ -20,7 +20,6 @@
 - Ashen Wolves - **Пепельные Волки**
 - Resistance Army - Армия Сопротивления
 - Rite of Rising - Обряд Вознесения
-- Those Who Slither in the Dark - **Крадущиеся во Тьме**
 - Ten Elites - **Десять Героев**
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 - Officers Academy - **Офицерская Академия**
@@ -31,7 +30,6 @@
 - Relic - **Реликвия**
 - False God - **Ложный Бог**
 - Gambit - **Манёвр**
-- Demonic Beasts - **Демонические чудища**
 
 ### События
 
@@ -41,9 +39,21 @@
 - Insurrection of the Seven - Восстание Семерых
 - Tragedy of Duscur - Трагедия Даскара
 
+### Организации
+
+- Adrestian Empire - **Адрастейская Империя**
+- Holy Kingdom of Faerghus - **Священное Королевство Фаэргус**
+- Leicester Alliance - **Лестерский Альянс**
+- Church of Seiros - **Церковь Сейрос**
+- Central Church - **Центральная Церковь**
+- Eastern Church - **Восточная Церковь**
+- Western Church - **Западная Церковь**
+- Southern Church - **Южная Церковь**
+- Those Who Slither in the Dark - **Крадущиеся во Тьме**
+
 ### Локации
 
-- Garreg Mach - **Гаррег Мах**
+- Garreg Mach - **Монастырь Гаррег Мах**
 - Shambhala (Underground City) - Шамбала (Подземный Город)
 - Abyss - Бездна
 - Fódlan - Фодлан
@@ -80,10 +90,6 @@
 - Fort Merceus - Форт Мерсеус
 - Airmid River - Река Эирмид
 - Great Bridge of Myrddin - **Великий мост Мирддина**
-- Adrestian Empire - **Адрастейская Империя**
-- Holy Kingdom of Faerghus - **Священное Королевство Фаэргус**
-- Leicester Alliance - **Лестерский Альянс**
-- Church of Seiros - **Церковь Сейрос**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
 - Sauin Village - **Деревня Сауин**
@@ -301,21 +307,81 @@
 - Thunderbrand - Громовержец
 - Crest of Flames - Герб Пламени
 
-### Классы
+### Играбельные классы
 
-- Warlock - Колдун
-- Brigand - Разбойник
+- Commoner - **Простолюдин**
+- Noble - **Знать**
+- Dancer - Танцор
 - Myrmidon - Мирмидон
 - Soldier - Солдат
 - Fighter - Боец
 - Monk - Монах
-- Mercenary - Наёмник
+- Lord - **Лорд**
+- Mercenary - **Наёмник**
+- Thief - **Вор**
 - Cavalier - Всадник
-- Mage - Маг
+- Pegasus Knight - Рыцарь на пегасе
+- Brigand - Разбойник
+- Armored Knight - Рыцарь в доспехах
+- Archer - **Лучник**
+- Brawler - Задира
+- Mage - **Маг**
 - Dark Mage - Чёрный маг
 - Priest - Жрец
-- Hero - Герой
+- Swordmaster - Мастер меча
+- Hero - **Герой**
+- Assassin - **Ассасин**
+- Paladin - **Паладин**
 - Warrior - Воин
+- Fortress Knight - Рыцарь цитадели
+- Wyvern Rider - Всадник на виверне
 - Sniper - Снайпер
 - Grappler - Борец
-- Archer - Лучник
+- Warlock - Колдун
+- Dark Bishop - Тёмный епископ
+- Bishop - Епископ
+- Trickster - Плут
+- War Monk - Боевой монах
+- War Cleric - Боевой клирик
+- Dark Flier - Тёмный всадник
+- Valkyrie - Валькирия
+- Falcon Knight - Соколиный рыцарь
+- Wyvern Lord - Владыка виверн
+- Mortal Savant - Мудрец смерти
+- Great Knight - Великий рыцарь
+- Bow Knight - Рыцарь лучник
+- Dark Knight - Тёмный рыцарь
+- Holy Knight - Святой рыцарь
+- War Master - Мастер войны
+- Gremory - Гремори
+
+### Неиграбельные классы
+
+- Ruffian - Грабитель
+- Archbishop - Архиепископ
+- Agastya - Агастья
+- King of Liberation - Король освобождения
+- Saint - Святая
+- Verrat - Веррат
+
+### Классы чудищ
+
+- Black Beast - Чёрное чудище
+- Giant Wolf - Огромный волк
+- Giant Bird - Огромная птица
+- Giant Crawler - Огромный ползун
+- Demonic Beast - Демоническое чудище
+- Wild Demonic Beast - Дикое демоническое чудище
+- Experimental Demonic Beast - Экспериментальное демоническое чудище
+- Altered Demonic Beast - Искажённое демоническое чудище
+- Giant Demonic Beast - Огромное демоническое чудище
+- Flying Demonic Beast - Летающее демоническое чудище
+- Golem - Голем
+- Altered Golem - Искажённый голем
+- Titanus - Титан
+- White Beast - Белое чудище
+- Lord of the Lake - Властелин озера
+- Lord of the Desert - Властелин пустыни
+- Hegemon Husk - Оболочка Гегемона
+- Umbral Beast - Теневое чудище
+- Guardian Golem - Голем страж
