@@ -77,13 +77,13 @@
 - Oghma Mountains - **Горы Огма**
 - Fort Merceus - Форт Мерсеус
 - Airmid River - Река Эирмид
-- Great Bridge of Myrddin - Великий мост Мирддина
+- Great Bridge of Myrddin - **Великий мост Мирддина**
 - Adrestian Empire - **Адрастейская Империя**
 - Holy Kingdom of Faerghus - **Священное Королевство Фаэргус**
 - Leicester Alliance - **Лестерский Альянс**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
-- Sauin Village - Деревня Сауин
+- Sauin Village - **Деревня Сауин**
 - Remire Village - Деревня Ремайр
 
 ### Календарь (12 месяцев)
@@ -178,13 +178,13 @@
 
 ### Антагонисты (Адрастейская Империя)
 
-- Volkhard von Arundel - Фолькхарт фон Арундел
+- Volkhard von Arundel - **Фолькхарт фон Арундел**
 - Metodey - Методей
 - Randolph - Рэндольф
 - Ladislava - Ладислава
 - Baron Ochs - Барон Окс
 
-### Антагонисты (Святое Королевство Фаэргус)
+### Антагонисты (Священное Королевство Фаэргус)
 
 - Lonato - Лонато
 - Miklan - Миклан
@@ -194,9 +194,9 @@
 
 ### Антагонисты (Лестерский Альянс)
 
-- Acheron - Ахерон
-- Judith - Джудит
-- Nader - Надир
+- Acheron - **Ахерон**
+- Judith - **Джудит**
+- Nader - **Надир**
 
 ### Антагонисты (Гаррег Мах)
 
@@ -221,7 +221,7 @@
 
 ### Дети Богини и Големы Церкви
 
-- Seiros - Сейрос
+- Seiros - **Сейрос**
 - Indech (The Immovable) - **Индех (Непоколебимый)**
 - Macuil (The Wind Caller) - **Макуил (Призыватель Ветров)**
 - Rhea (The Immaculate One) - **Рея (Непорочная)**
@@ -295,7 +295,6 @@
 - Lance of Ruin - Копьё Гибели
 - Thunderbrand - Громовержец
 - Crest of Flames - Герб Пламени
-
 
 ### Классы
 
