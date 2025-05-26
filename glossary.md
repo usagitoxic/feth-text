@@ -36,7 +36,7 @@
 - War of the Eagle and Lion - **Война Орла и Льва**
 - Crescent Moon War - Война Полумесяца
 - Insurrection of the Seven - Восстание Семерых
-- Tragedy of Duscur - Трагедия Даскара
+- Tragedy of Duscur - **Даскарская трагедия**
 
 ### Организации
 
@@ -52,7 +52,7 @@
 
 ### Локации
 
-- Garreg Mach - **Монастырь Гаррег Мах**
+- Garreg Mach Monastery - **Монастырь Гаррег Мах**
 - Shambhala (Underground City) - Шамбала (Подземный Город)
 - Abyss - Бездна
 - Fódlan - Фодлан
