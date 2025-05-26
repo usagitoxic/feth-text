@@ -138,7 +138,7 @@
 - Ignatz Victor - **Игнац Виктор**
 - Lysithea von Ordelia - **Лиситея фон Корделия**
 - Marianne von Edmund - **Марианна фон Эдмунд**
-- Hilda Valentine Goneril - **Хильда Валентин Gloucester**
+- Hilda Valentine Goneril - **Хильда Валентин Гонериль**
 - Leonie Pinelli - **Леони Пинелли**
 
 ### Церковь Сэйрос
