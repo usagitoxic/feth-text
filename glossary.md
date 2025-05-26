@@ -58,7 +58,7 @@
 - Abyss - Бездна
 - Fódlan - Фодлан
 - Fódlan's Throat - **Глотка Фодлана**
-- Fódlan's Locket - **Камея Фодлана**
+- Fódlan's Locket - **Ожерелье Фодлана**
 - Almyra - Альмира
 - Albinea - Альбинея
 - Morfis - Морфис
