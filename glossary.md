@@ -29,6 +29,11 @@
 - Relic - **Реликвия**
 - False God - **Ложный Бог**
 - Gambit - **Манёвр**
+- Cindered Shadows - Испепелённые Тени
+- Verdant Wind - Зелёный Ветер
+- Azure Moon - Лазурная Луна
+- Crimson Flower - Багровый Цветок
+- Silver Snow - Серебряный Снег
 
 ### События
 
@@ -93,6 +98,7 @@
 - Arianrhod - Арианрод
 - Sauin Village - **Деревня Сауин**
 - Remire Village - Деревня Ремайр
+- Zahras - Зарас
 
 ### Календарь (12 месяцев)
 
@@ -383,4 +389,4 @@
 - Lord of the Desert - Властелин пустыни
 - Hegemon Husk - Оболочка Гегемона
 - Umbral Beast - Теневое чудище
-- Guardian Golem - Голем страж
+- Guardian Golem - Голем-страж
