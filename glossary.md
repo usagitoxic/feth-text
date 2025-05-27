@@ -4,7 +4,7 @@
 - Goddess - **Богиня**
 - Noble - **Знать**
 - Crest - **Герб**
-- Teach - Препод
+- Teach - учитель
 - Major Crest - **Высший Герб**
 - Minor Crest - **Малый Герб**
 - Crestology - **Геральдика**
@@ -23,12 +23,17 @@
 - Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
 - Officers Academy - **Офицерская Академия**
 - Imperial Year - **Имперский Год**
-- Mittelfrank Opera Company - Оперная труппа Миттельфранка
+- Mittelfrank Opera Company - оперная труппа Миттельфранка
 - Blue Sea Star - Синяя Морская Звезда
 - Divine Pulse - Божественный Импульс
 - Relic - **Реликвия**
 - False God - **Ложный Бог**
 - Gambit - **Манёвр**
+- Cindered Shadows - Испепелённые Тени
+- Verdant Wind - Зелёный Ветер
+- Azure Moon - Лазурная Луна
+- Crimson Flower - Багровый Цветок
+- Silver Snow - Серебряный Снег
 
 ### События
 
@@ -58,7 +63,7 @@
 - Fódlan - Фодлан
 - Fódlan's Throat - **Глотка Фодлана**
 - Fódlan's Locket - **Ожерелье Фодлана**
-- Almyra - Альмира
+- Almyra - Пальмира
 - Albinea - Альбинея
 - Morfis - Морфис
 - Dagda - **Дагда**
@@ -73,26 +78,27 @@
 - Hrym - **Хрюм**
 - Bergliez - **Берглиц**
 - Sreng - Сренг
-- Nuvelle - Нювель
+- Nuvelle - Нувэль
 - Edmund - **Эдмунд**
 - Ochs - Окс
 - Rowe - Роу
 - Gaspard - Гаспар
 - Thinis - Тинис
 - Malum - Малум
-- Septen - Септин
+- Septen - Септен
 - Llium - Ллиум
 - Gronder Field - **Поле Грондер**
 - Tailtean Plains - **Равнины Тайлтин**
 - Itha Plains - **Равнины Ита**
 - Oghma Mountains - **Горы Огма**
 - Fort Merceus - Форт Мерсеус
-- Airmid River - Река Эирмид
+- Airmid River - Река Эйрмид
 - Great Bridge of Myrddin - **Великий мост Мирддина**
 - Holy Mausoleum - Святой Мавзолей
 - Arianrhod - Арианрод
 - Sauin Village - **Деревня Сауин**
 - Remire Village - Деревня Ремайр
+- Zahras - Зарас
 
 ### Календарь (12 месяцев)
 
@@ -146,7 +152,7 @@
 - Hilda Valentine Goneril - **Хильда Валентин Гонериль**
 - Leonie Pinelli - **Леони Пинелли**
 
-### Церковь Сэйрос
+### Церковь Сейрос
 
 - Seteth (Cichol) - **Сетес (Кихол)**
 - Flayn (Cethleann) - **Флэн (Кетеленн)**
@@ -158,7 +164,7 @@
 - Shamir Nevrand - **Шамир Неврант**
 - Cyril - **Кирилл**
 
-### Церковь Сэйрос (DLC)
+### Церковь Сейрос (DLC)
 
 - Jeritza von Hrym (Emile von Bartels) - **Ерица фон Хрюм (Эмиль фон Бартельс)**
 - Anna - **Анна**
@@ -359,7 +365,7 @@
 - Ruffian - Грабитель
 - Archbishop - Архиепископ
 - Agastya - Агастья
-- King of Liberation - Король освобождения
+- King of Liberation - Король-освободитель
 - Saint - Святая
 - Verrat - Веррат
 
@@ -383,4 +389,4 @@
 - Lord of the Desert - Властелин пустыни
 - Hegemon Husk - Оболочка Гегемона
 - Umbral Beast - Теневое чудище
-- Guardian Golem - Голем страж
+- Guardian Golem - Голем-страж
