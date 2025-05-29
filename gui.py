@@ -15,9 +15,9 @@ from PyQt5.QtWidgets import (
     QTextEdit,
     QFormLayout,
     QDialogButtonBox,
-    QHeaderView,
     QShortcut,
     QAbstractItemView,
+    QAction,
 )
 from PyQt5.QtGui import QKeySequence
 from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
@@ -163,7 +163,7 @@ class InsertDialog(QDialog):
 class CSVEditor(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Bundle Editor v2")
+        self.setWindowTitle("Bundle Editor")
         self.resize(1280, 600)
         self.model = None
 
@@ -180,22 +180,52 @@ class CSVEditor(QMainWindow):
 
         self.stats_label = QLabel("Нет данных")
 
-        load_button = QPushButton("Открыть CSV")
-        load_button.clicked.connect(self.load_csv)
+        menubar = self.menuBar()
+        file_menu = menubar.addMenu("Файл")
 
-        save_button = QPushButton("Сохранить CSV")
-        save_button.clicked.connect(self.save_csv)
+        open_action = QAction("Открыть...", self)
+        open_action.setShortcut(QKeySequence("Ctrl+O"))
+        open_action.triggered.connect(self.load_csv)
 
-        buttons = QHBoxLayout()
-        buttons.addWidget(load_button)
-        buttons.addWidget(save_button)
+        file_menu.addAction(open_action)
+
+        self.save_action = QAction("Сохранить", self)
+        self.save_action.setEnabled(False)
+        self.save_action.setShortcut(QKeySequence("Ctrl+S"))
+        self.save_action.triggered.connect(self.save_csv)
+
+        file_menu.addAction(self.save_action)
+
+        file_menu.addSeparator()
+
+        exit_action = QAction("Выход", self)
+        exit_action.setShortcut(QKeySequence("Ctrl+Q"))
+        exit_action.triggered.connect(self.close)
+
+        file_menu.addAction(exit_action)
+
+        # load_button = QPushButton("Открыть CSV")
+        # load_button.clicked.connect(self.load_csv)
+
+        # save_button = QPushButton("Сохранить CSV")
+        # save_button.clicked.connect(self.save_csv)
+
+        # buttons = QHBoxLayout()
+        # buttons.addWidget(load_button)
+        # buttons.addWidget(save_button)
+
+        filters = QHBoxLayout()
+        filters.addWidget(self.search_line_edit)
+        filters.addWidget(self.file_type_filter)
+
+        stats = QHBoxLayout()
+        stats.addWidget(self.show_untranslated_checkbox)
+        stats.addWidget(self.stats_label)
 
         top_layout = QVBoxLayout()
-        top_layout.addWidget(self.search_line_edit)
-        top_layout.addWidget(self.file_type_filter)
-        top_layout.addWidget(self.show_untranslated_checkbox)
-        top_layout.addLayout(buttons)
-        top_layout.addWidget(self.stats_label)
+        top_layout.addLayout(filters)
+        # top_layout.addLayout(buttons)
+        # top_layout.addLayout(stats)
 
         self.table = QTableView()
         self.table.horizontalHeader().setStretchLastSection(True)
@@ -211,6 +241,7 @@ class CSVEditor(QMainWindow):
         layout = QVBoxLayout()
         layout.addLayout(top_layout)
         layout.addWidget(self.table)
+        layout.addLayout(stats)
 
         container = QWidget()
         container.setLayout(layout)
@@ -237,6 +268,7 @@ class CSVEditor(QMainWindow):
         self.thread = CSVLoaderThread(file_path)
         self.thread.loaded.connect(self.on_csv_loaded)
         self.thread.start()
+        self.save_action.setEnabled(True)
 
     def on_csv_loaded(self, headers, rows):
         self.model = CSVTableModel(headers, rows)
