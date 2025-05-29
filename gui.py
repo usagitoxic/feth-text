@@ -274,6 +274,7 @@ class CSVEditor(QMainWindow):
         self.save_action.setEnabled(True)
 
     def on_csv_loaded(self, headers, rows):
+        self.file_type_filter.clear()
         self.filter_data = self.calc_filter_data(rows)
         self.file_type_filter.addItems(self.filter_data)
         self.file_type_filter.setEnabled(True)
