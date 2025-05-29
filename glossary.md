@@ -316,77 +316,77 @@
 
 - Commoner - **Простолюдин**
 - Noble - **Знать**
-- Dancer - Танцор
-- Myrmidon - Мирмидон
-- Soldier - Солдат
-- Fighter - Боец
-- Monk - Монах
+- Dancer - **Танцор**
+- Myrmidon - Мечник
+- Soldier - **Солдат**
+- Fighter - **Боец**
+- Monk - **Монах**
 - Lord - **Лорд**
 - Mercenary - **Наёмник**
 - Thief - **Вор**
-- Cavalier - Всадник
-- Pegasus Knight - Рыцарь на пегасе
-- Brigand - Разбойник
-- Armored Knight - Рыцарь в доспехах
+- Cavalier - **Всадник**
+- Pegasus Knight - **Рыцарь на пегасе**
+- Brigand - **Разбойник**
+- Armored Knight - **Рыцарь в доспехах**
 - Archer - **Лучник**
-- Brawler - Задира
+- Brawler - **Кулачный боец**
 - Mage - **Маг**
-- Dark Mage - Чёрный маг
-- Priest - Жрец
-- Swordmaster - Мастер меча
+- Dark Mage - **Тёмный маг**
+- Priest - **Священник**
+- Swordmaster - **Мастер меча**
 - Hero - **Герой**
 - Assassin - **Ассасин**
 - Paladin - **Паладин**
-- Warrior - Воин
-- Fortress Knight - Рыцарь цитадели
-- Wyvern Rider - Всадник на виверне
-- Sniper - Снайпер
-- Grappler - Борец
-- Warlock - Колдун
-- Dark Bishop - Тёмный епископ
-- Bishop - Епископ
-- Trickster - Плут
-- War Monk - Боевой монах
-- War Cleric - Боевой клирик
-- Dark Flier - Тёмный всадник
-- Valkyrie - Валькирия
-- Falcon Knight - Соколиный рыцарь
-- Wyvern Lord - Владыка виверн
-- Mortal Savant - Мудрец смерти
-- Great Knight - Великий рыцарь
-- Bow Knight - Рыцарь лучник
-- Dark Knight - Тёмный рыцарь
-- Holy Knight - Святой рыцарь
-- War Master - Мастер войны
-- Gremory - Гремори
+- Warrior - **Воин**
+- Fortress Knight - Рыцарь-крепость
+- Wyvern Rider - **Всадник на виверне**
+- Sniper - **Снайпер**
+- Grappler - **Борец**
+- Warlock - **Колдун**
+- Dark Bishop - **Тёмный епископ**
+- Bishop - **Епископ**
+- Trickster - **Плут**
+- War Monk - **Боевой монах**
+- War Cleric - **Боевой клирик**
+- Dark Flier - **Тёмный всадник**
+- Valkyrie - **Валькирия**
+- Falcon Knight - **Соколиный рыцарь**
+- Wyvern Lord - Повелитель виверн
+- Mortal Savant - Самурай
+- Great Knight - **Великий рыцарь**
+- Bow Knight - **Рыцарь-лучник**
+- Dark Knight - **Тёмный рыцарь**
+- Holy Knight - **Святой рыцарь**
+- War Master - **Мастер войны**
+- Gremory - **Гремори**
 
 ### Неиграбельные классы
 
-- Ruffian - Грабитель
-- Archbishop - Архиепископ
-- Agastya - Агастья
-- King of Liberation - Король-освободитель
-- Saint - Святая
-- Verrat - Веррат
+- Ruffian - **Головорез**
+- Archbishop - **Архиепископ**
+- Agastya - **Агастья**
+- King of Liberation - **Король-освободитель**
+- Saint - **Святая**
+- Verrat - **Веррат**
 
 ### Классы чудищ
 
-- Black Beast - Чёрное чудище
-- Giant Wolf - Огромный волк
-- Giant Bird - Огромная птица
-- Giant Crawler - Огромный ползун
-- Demonic Beast - Демоническое чудище
-- Wild Demonic Beast - Дикое демоническое чудище
-- Experimental Demonic Beast - Экспериментальное демоническое чудище
-- Altered Demonic Beast - Искажённое демоническое чудище
-- Giant Demonic Beast - Огромное демоническое чудище
-- Flying Demonic Beast - Летающее демоническое чудище
-- Golem - Голем
-- Altered Golem - Искажённый голем
-- Titanus - Титан
-- White Beast - Белое чудище
-- Lord of the Lake - Властелин озера
-- Lord of the Desert - Властелин пустыни
-- Hegemon Husk - Оболочка Гегемона
-- Umbral Beast - Теневое чудище
-- Guardian Golem - Голем-страж
+- Black Beast - **Чёрное чудище**
+- Giant Wolf - **Огромный волк**
+- Giant Bird - **Огромная птица**
+- Giant Crawler - **Огромный ползун**
+- Demonic Beast - Чудище-демон
+- Wild Demonic Beast - Дикое чудище-демон
+- Experimental Demonic Beast - Подопытное чудище-демон
+- Altered Demonic Beast - Искажённое чудище-демон
+- Giant Demonic Beast - Огромное чудище-демон
+- Flying Demonic Beast - Летающее чудище-демон
+- Golem - **Голем**
+- Altered Golem - **Искажённый голем**
+- Titanus - **Титан**
+- White Beast - **Белое чудище**
+- Lord of the Lake - **Владыка озера**
+- Lord of the Desert - **Владыка пустыни**
+- Hegemon Husk - **Оболочка Гегемона**
+- Umbral Beast - **Теневое чудище**
+- Guardian Golem - **Голем-страж**
