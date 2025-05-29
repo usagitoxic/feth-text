@@ -238,8 +238,8 @@ class CSVEditor(QMainWindow):
         self.table.resizeRowsToContents()
         self.table.setSelectionBehavior(QAbstractItemView.SelectRows)
 
-        shortcut = QShortcut(QKeySequence("Ctrl+I"), self.table)
-        # shortcut.activated.connect(self.insert_text)
+        shortcut = QShortcut(QKeySequence("Ctrl+F"), self)
+        shortcut.activated.connect(self.focus_input)
 
         layout = QVBoxLayout()
         layout.addLayout(top_layout)
@@ -251,6 +251,9 @@ class CSVEditor(QMainWindow):
         self.setCentralWidget(container)
 
         self.current_file = None
+
+    def focus_input(self):
+        self.search_line_edit.setFocus()
 
     def insert_text(self):
         dialog = InsertDialog(self)
@@ -279,7 +282,6 @@ class CSVEditor(QMainWindow):
         self.file_type_filter.addItems(self.filter_data)
         self.file_type_filter.setEnabled(True)
         self.file_type_filter.setCurrentIndex(0)
-        print(self.filter_data)
         self.model = CSVTableModel(headers, rows)
         self.table.setModel(self.model)
         self.apply_filter()
