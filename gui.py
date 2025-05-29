@@ -18,6 +18,7 @@ from PyQt5.QtWidgets import (
     QShortcut,
     QAbstractItemView,
     QAction,
+    QComboBox,
 )
 from PyQt5.QtGui import QKeySequence
 from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
@@ -166,14 +167,16 @@ class CSVEditor(QMainWindow):
         self.setWindowTitle("Bundle Editor")
         self.resize(1280, 600)
         self.model = None
+        self.filter_data = []
 
         self.search_line_edit = QLineEdit()
         self.search_line_edit.setPlaceholderText("Поиск по тексту")
         self.search_line_edit.textChanged.connect(self.apply_filter)
 
-        self.file_type_filter = QLineEdit()
+        self.file_type_filter = QComboBox()
         self.file_type_filter.setPlaceholderText("Фильтр по file_type")
-        self.file_type_filter.textChanged.connect(self.apply_filter)
+        self.file_type_filter.currentTextChanged.connect(self.apply_filter)
+        self.file_type_filter.setEnabled(False)
 
         self.show_untranslated_checkbox = QCheckBox("Показать только непереведенные")
         self.show_untranslated_checkbox.stateChanged.connect(self.apply_filter)
@@ -271,16 +274,31 @@ class CSVEditor(QMainWindow):
         self.save_action.setEnabled(True)
 
     def on_csv_loaded(self, headers, rows):
+        self.filter_data = self.calc_filter_data(rows)
+        self.file_type_filter.addItems(self.filter_data)
+        self.file_type_filter.setEnabled(True)
+        self.file_type_filter.setCurrentIndex(0)
+        print(self.filter_data)
         self.model = CSVTableModel(headers, rows)
         self.table.setModel(self.model)
         self.apply_filter()
 
+    def calc_filter_data(self, rows):
+        unique = ["ALL"]
+        for row in rows:
+            if row[1] not in unique:
+                unique.append(row[1])
+        return unique
+
     def apply_filter(self):
         if not self.model:
             return
+        filter_type = self.file_type_filter.currentText()
+        if filter_type == "ALL":
+            filter_type = ""
         self.model.apply_filter(
             self.search_line_edit.text(),
-            self.file_type_filter.text(),
+            filter_type,
             self.show_untranslated_checkbox.isChecked(),
         )
         total, untranslated, percent = self.model.stats()
@@ -302,6 +320,8 @@ class CSVEditor(QMainWindow):
             # self.apply_filter()
 
     def save_csv(self):
+        self.table.setEnabled(False)
+        self.save_action.setEnabled(False)
         if not self.model or not self.current_file:
             return
         with open(self.current_file, "w", newline="", encoding="utf-8") as f:
@@ -309,6 +329,8 @@ class CSVEditor(QMainWindow):
             writer.writerow(self.model.headers)
             for row in self.model.original_data:
                 writer.writerow(row)
+        self.table.setEnabled(True)
+        self.save_action.setEnabled(True)
 
 
 if __name__ == "__main__":
