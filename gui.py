@@ -16,7 +16,10 @@ from PyQt5.QtWidgets import (
     QFormLayout,
     QDialogButtonBox,
     QHeaderView,
+    QShortcut,
+    QAbstractItemView,
 )
+from PyQt5.QtGui import QKeySequence
 from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
 
 
@@ -136,6 +139,27 @@ class EditDialog(QDialog):
         return self.translated_text.toPlainText()
 
 
+class InsertDialog(QDialog):
+    def __init__(self, parent=None):
+        super().__init__(parent)
+        self.setWindowTitle("Вставка строки")
+        self.resize(500, 200)
+
+        self.inserted_text = QTextEdit(self)
+
+        self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
+        self.buttons.accepted.connect(self.accept)
+        self.buttons.rejected.connect(self.reject)
+
+        layout = QFormLayout()
+        layout.addRow("Перевод:", self.inserted_text)
+        layout.addWidget(self.buttons)
+        self.setLayout(layout)
+
+    def get_inserted_text(self):
+        return self.inserted_text.toPlainText()
+
+
 class CSVEditor(QMainWindow):
     def __init__(self):
         super().__init__()
@@ -179,6 +203,10 @@ class CSVEditor(QMainWindow):
         self.table.doubleClicked.connect(self.edit_translation)
         self.table.setWordWrap(True)
         self.table.resizeRowsToContents()
+        self.table.setSelectionBehavior(QAbstractItemView.SelectRows)
+
+        shortcut = QShortcut(QKeySequence("Ctrl+I"), self.table)
+        # shortcut.activated.connect(self.insert_text)
 
         layout = QVBoxLayout()
         layout.addLayout(top_layout)
@@ -189,6 +217,15 @@ class CSVEditor(QMainWindow):
         self.setCentralWidget(container)
 
         self.current_file = None
+
+    def insert_text(self):
+        dialog = InsertDialog(self)
+        if dialog.exec_() == QDialog.Accepted:
+            new_text = dialog.get_inserted_text()
+            rows = self.table.selectionModel().selectedRows()
+            print(rows)
+            for row in rows:
+                self.model.set_translation(row.row(), new_text)
 
     def load_csv(self):
         file_path, _ = QFileDialog.getOpenFileName(

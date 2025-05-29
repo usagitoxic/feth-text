@@ -12,6 +12,10 @@
 - Crest of Ernest - **Герб Эрнеста**
 - Four Saints - Четверо Святых
 - Four Apostles - Четверо Апостолов
+- Chalice of Beginnings - Чаша Истоков
+- Chalice of Blood - Чаша Крови
+- Vajra-Mushti - Ваджра-Мушти
+- Fetters of Dromi - Оковы Дроми
 - Flame Emperor - **Император Пламени**
 - Black Eagles - **Чёрные Орлы**
 - Blue Lions - **Синие Львы**
