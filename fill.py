@@ -7,10 +7,12 @@ REGS = [
     re.compile(r"カレンダーメッセージ(\d+)"),
     re.compile(r"tTemporarymessage"),
     re.compile(r"\[9999\]NULL#00＠DummyVoice"),
+    re.compile(r"Quest Reported Character Message (\d+)"),
+    re.compile(r"Sothis Message (\d+)"),
 ]
 
-with open("dlc.csv", "r", encoding="utf-8") as f:
-    with open("dlc_o.csv", "w", encoding="utf-8", newline="") as f2:
+with open("bundle.csv", "r", encoding="utf-8") as f:
+    with open("bundle_o.csv", "w", encoding="utf-8", newline="") as f2:
         reader = csv.reader(f)
         writer = csv.writer(f2)
         for row in reader:
