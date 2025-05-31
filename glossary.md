@@ -4,47 +4,43 @@
 - Goddess - **Богиня**
 - Noble - **Знать**
 - Crest - **Герб**
-- Teach - учитель
+- Teach - **учитель**
 - Major Crest - **Высший Герб**
 - Minor Crest - **Малый Герб**
 - Crestology - **Геральдика**
 - Crest Stone - **Гербовый Камень**
 - Crest of Ernest - **Герб Эрнеста**
-- Four Saints - Четверо Святых
-- Four Apostles - Четверо Апостолов
-- Chalice of Beginnings - Чаша Истоков
-- Chalice of Blood - Чаша Крови
-- Vajra-Mushti - Ваджра-Мушти
-- Fetters of Dromi - Оковы Дроми
+- Four Saints - **Четверо Святых**
+- Four Apostles - **Четверо Апостолов**
 - Flame Emperor - **Император Пламени**
 - Black Eagles - **Чёрные Орлы**
 - Blue Lions - **Синие Львы**
 - Golden Deer - **Золотые Олени**
 - Ashen Wolves - **Пепельные Волки**
-- Resistance Army - Армия Сопротивления
-- Rite of Rising - Обряд Вознесения
+- Resistance Army - **Армия Сопротивления**
+- Rite of Rising - **Обряд Вознесения**
 - Ten Elites - **Десять Героев**
-- Twelve Heroes of Fódlan - Двенадцать Героев Фодлана
+- Twelve Heroes of Fódlan - **Двенадцать Героев Фодлана**
 - Officers Academy - **Офицерская Академия**
 - Imperial Year - **Имперский Год**
-- Mittelfrank Opera Company - оперная труппа Миттельфранка
-- Blue Sea Star - Синяя Морская Звезда
-- Divine Pulse - Божественный Импульс
+- Mittelfrank Opera Company - **оперная труппа Миттельфранка**
+- Blue Sea Star - **Синяя Морская Звезда**
+- Divine Pulse - **Божественный Пульс**
 - Relic - **Реликвия**
 - False God - **Ложный Бог**
 - Gambit - **Манёвр**
-- Cindered Shadows - Испепелённые Тени
-- Verdant Wind - Зелёный Ветер
-- Azure Moon - Лазурная Луна
-- Crimson Flower - Багровый Цветок
-- Silver Snow - Серебряный Снег
+- Cindered Shadows - **Пепельные Тени**
+- Verdant Wind - **Зелёный Ветер**
+- Azure Moon - **Лазурная Луна**
+- Crimson Flower - **Багровый Цветок**
+- Silver Snow - **Серебряный Снег**
 
 ### События
 
 - War of Heroes - **Война Героев**
 - War of the Eagle and Lion - **Война Орла и Льва**
-- Crescent Moon War - Война Полумесяца
-- Insurrection of the Seven - Восстание Семерых
+- Crescent Moon War - **Война Полумесяца**
+- Insurrection of the Seven - **Восстание Семерых**
 - Tragedy of Duscur - **Даскарская трагедия**
 
 ### Организации
@@ -62,47 +58,47 @@
 ### Локации
 
 - Garreg Mach Monastery - **Монастырь Гаррег Мах**
-- Shambhala (Underground City) - Шамбала (Подземный Город)
-- Abyss - Бездна
-- Fódlan - Фодлан
+- Shambhala (Underground City) - **Шамбала (Подземный Город)**
+- Abyss - **Бездна**
+- Fódlan - **Фодлан**
 - Fódlan's Throat - **Глотка Фодлана**
 - Fódlan's Locket - **Ожерелье Фодлана**
-- Almyra - Пальмира
-- Albinea - Альбинея
-- Morfis - Морфис
+- Almyra - **Пальмира**
+- Albinea - **Альбинея**
+- Morfis - **Морфис**
 - Dagda - **Дагда**
 - Brigid - **Бригид**
-- Mach - Мах
-- Duscur - Даскар
-- Aegir - Эгир
-- Enbarr - Энбарр
-- Fhirdiad - Фирдиад
-- Derdriu - Дердри
-- Varley - Вали
+- Mach - **Мах**
+- Duscur - **Даскар**
+- Aegir - **Эгир**
+- Enbarr - **Энбарр**
+- Fhirdiad - **Фирдиад**
+- Derdriu - **Дейрдре**
+- Varley - **Вали**
 - Hrym - **Хрюм**
 - Bergliez - **Берглиц**
-- Sreng - Сренг
-- Nuvelle - Нувэль
+- Sreng - **Сренг**
+- Nuvelle - **Нувэль**
 - Edmund - **Эдмунд**
-- Ochs - Окс
-- Rowe - Роу
-- Gaspard - Гаспар
-- Thinis - Тинис
-- Malum - Малум
-- Septen - Септен
-- Llium - Ллиум
+- Ochs - **Окс**
+- Rowe - **Роу**
+- Gaspard - **Гаспар**
+- Thinis - **Тинис**
+- Malum - **Малум**
+- Septen - **Септен**
+- Llium - **Ллиум**
 - Gronder Field - **Поле Грондер**
 - Tailtean Plains - **Равнины Тайлтин**
 - Itha Plains - **Равнины Ита**
 - Oghma Mountains - **Горы Огма**
-- Fort Merceus - Форт Мерсеус
-- Airmid River - Река Эйрмид
+- Fort Merceus - **Форт Мерсеус**
+- Airmid River - **Река Эйрмид**
 - Great Bridge of Myrddin - **Великий мост Мирддина**
-- Holy Mausoleum - Святой Мавзолей
-- Arianrhod - Арианрод
+- Holy Mausoleum - **Святой Мавзолей**
+- Arianrhod - **Арианрод**
 - Sauin Village - **Деревня Сауин**
-- Remire Village - Деревня Ремайр
-- Zahras - Зарас
+- Remire Village - **Деревня Ремайр**
+- Zahras - **Зарас**
 
 ### Календарь (12 месяцев)
 
@@ -172,7 +168,7 @@
 
 - Jeritza von Hrym (Emile von Bartels) - **Ерица фон Хрюм (Эмиль фон Бартельс)**
 - Anna - **Анна**
-- Aelfric - Элфрик
+- Aelfric - **Элфрик**
 
 ### Пепельные Волки (DLC)
 
@@ -185,30 +181,30 @@
 
 - Sothis - **Сотис**
 - Jeralt Reus Eisner - **Джеральт Ройс Айснер**
-- Tomas - Томас
-- Gatekeeper - Страж Ворот
-- Monica - Моника
-- Ludwig - Людвиг
-- Fleche - Флеш
-- Abysskeeper - Страж Бездны
-- Duke Gerth - Герцог Герт
-- Ionius IX - Ионий IX
+- Tomas - **Томас**
+- Gatekeeper - **Страж Ворот**
+- Monica - **Моника**
+- Ludwig - **Людвиг**
+- Fleche - **Флеш**
+- Abysskeeper - **Страж Бездны**
+- Duke Gerth - **Герцог Герт**
+- Ionius IX - **Ионий IX**
 
 ### Антагонисты (Адрастейская Империя)
 
 - Volkhard von Arundel - **Фолькхарт фон Арундел**
-- Metodey - Методей
-- Randolph - Рэндольф
-- Ladislava - Ладислава
-- Baron Ochs - Барон Окс
+- Metodey - **Методей**
+- Randolph - **Рэндольф**
+- Ladislava - **Ладислава**
+- Baron Ochs - **Барон Окс**
 
 ### Антагонисты (Священное Королевство Фаэргус)
 
-- Lonato - Лонато
-- Miklan - Миклан
-- Rodrigue - Родриг
-- Gwendal - Гвендаль
-- Baron Dominic - Барон Доминик
+- Lonato - **Лонато**
+- Miklan - **Миклан**
+- Rodrigue - **Родриг**
+- Gwendal - **Гвендаль**
+- Baron Dominic - **Барон Доминик**
 
 ### Антагонисты (Лестерский Альянс)
 
@@ -218,24 +214,24 @@
 
 ### Антагонисты (Гаррег Мах)
 
-- Pallardó - Пальардо
+- Pallardó - **Пальярдо**
 
 ### Армия Императора Пламени
 
-- Death Knight - Рыцарь Смерти
-- Kostas - Костас
+- Death Knight - **Рыцарь Смерти**
+- Kostas - **Костас**
 
 ### Крадущиеся во Тьме
 
-- Thales - Талес
-- Solon - Солон
-- Kronya - Крония
-- Cornelia - Корнелия
-- Myson - Мисон
-- Odesse - Одесс
-- Chilon - Хилон
-- Pittacus - Питтак
-- Bias - Биас
+- Thales - **Талес**
+- Solon - **Солон**
+- Kronya - **Крония**
+- Cornelia - **Корнелия**
+- Myson - **Мисон**
+- Odesse - **Одесс**
+- Chilon - **Хилон**
+- Pittacus - **Питтак**
+- Bias - **Биас**
 
 ### Дети Богини и Големы Церкви
 
@@ -243,85 +239,110 @@
 - Indech (The Immovable) - **Индех (Непоколебимый)**
 - Macuil (The Wind Caller) - **Макуил (Призыватель Ветров)**
 - Rhea (The Immaculate One) - **Рея (Непорочная)**
-- Luca - Лука
-- Iris - Ирис
-- Bernhard - Бернхард
-- Gajus - Гайус
-- Chevalier - Шевалье
-- Wilhelm - Вильгельм
-- Marcelle - Марсель
-- Simone - Симона
+- Luca - **Лука**
+- Iris - **Ирис**
+- Bernhard - **Бернхард**
+- Gajus - **Гайус**
+- Chevalier - **Шевалье**
+- Wilhelm - **Вильгельм**
+- Marcelle - **Марсель**
+- Simone - **Симона**
 
 ### Двенадцать Героев Фодлана
 
-- Nemesis - Немезис
+- Nemesis - **Немезис**
 - Blaiddyd - **Бладуд**
 - Charon - **Харон**
-- Daphnel - Дафнель
-- Dominic - Доминик
+- Daphnel - **Дафнель**
+- Dominic - **Доминик**
 - Fraldarius - **Фральдариус**
 - Gautier - **Готье**
 - Gloucester - **Глостер**
 - Goneril - **Гонериль**
 - Riegan - **Риган**
-- Lamine - Ламин
-- Maurice - Морис
+- Lamine - **Ламина**
+- Maurice - **Морис**
 
 ### Прочие персонажи
 
-- Leopold - Леопольд
-- Waldemar - Вальдемар
-- Grégoire - Грегуар
+- Leopold - **Леопольд**
+- Waldemar - **Вальдемар**
+- Grégoire - **Грегуар**
 - Marquis Vestra - **Маркиз Вестра**
-- Derick - Дерик
-- Lycaon von Hresvelg I - (Lycaon I) - Ликаон фон Хрёсвельг (Ликаон I)
-- Lycaon III - Ликаон III
-- Wilhelm Paul Hresvelg (Wilhelm I) - Вильгельм Пауль Хрёсвельг (Вильгельм I)
-- Patricia (Anselma) - Патриция (Ансельма)
-- Christophe - Кристоф
-- Matthias - Маттиас
-- Gunnar - Гуннар
-- Glenn - Гленн
-- Klaus I - Клаус I
-- Kyphon - Кифон
-- Lambert - Ламберт
-- Loog - Луг
-- Pan - Пан
-- Rufus - Руфус
-- Viscount Kleiman - Виконт Клейман
-- Count Rowe - Граф Роу
+- Derick - **Дерик**
+- Lycaon von Hresvelg I - (Lycaon I) - **Ликаон фон Хрёсвельг (Ликаон I)**
+- Lycaon III - **Ликаон III**
+- Wilhelm Paul Hresvelg (Wilhelm I) - **Вильгельм Пауль Хрёсвельг (Вильгельм I)**
+- Patricia (Anselma) - **Патриция (Ансельма)**
+- Christophe - **Кристоф**
+- Matthias - **Маттиас**
+- Gunnar - **Гуннар**
+- Glenn - **Гленн**
+- Klaus I - **Клаус I**
+- Kyphon - **Кифон**
+- Lambert - **Ламберт**
+- Loog - **Луг**
+- Pan - **Пан**
+- Rufus - **Руфус**
+- Viscount Kleiman - **Виконт Клейман**
+- Count Rowe - **Граф Роу**
 - Count Charon - **Граф Харон**
-- Claudia - Клаудия
-- Godfrey - Годфри
-- Erwin - Эрвин
-- Holst - Хольст
-- Maya - Майя
-- Oswald - Освальд
-- Tiana - Тиана
+- Claudia - **Клаудия**
+- Godfrey - **Годфри**
+- Erwin - **Эрвин**
+- Holst - **Хольст**
+- Maya - **Майя**
+- Oswald - **Освальд**
+- Tiana - **Тиана**
 - Count Ordelia - **Граф Корделия**
 - Margrave Edmund - **Марграф Эдмунд**
 - Sitri Eisner - **Ситри Айснер**
-- Aubin - Обен
-- Noa - Ноа
-- Timotheos - Тимофей
-- Zoltan - Золтан
+- Aubin - **Обен**
+- Noa - **Ноа**
+- Timotheos - **Тимофей**
+- Zoltan - **Золтан**
 
 ### Предметы / Оружие
 
-- Sword of the Creator - Меч Богини
-- Sublime Creator Sword - Великий Меч Богини
-- Dark Creator Sword - Тёмный Меч Богини
+- Sword of the Creator - **Меч Богини**
+- Sublime Creator Sword - **Великий Меч Богини**
+- Dark Creator Sword - **Тёмный Меч Богини**
 - Blutgang - **Блутганг**
-- Lance of Ruin - Копьё Гибели
-- Thunderbrand - Громовержец
-- Crest of Flames - Герб Пламени
+- Lance of Ruin - **Копьё Раскола**
+- Thunderbrand - **Громовержец**
+- Crest of Flames - **Герб Пламени**
+- Areadbhar - Ареадбар
+- Aegis Shield - Щит Эгида
+- Crusher - Крушитель
+- Failnaught - Фейлнот
+- Freikugel - Фрайкугель
+- Lúin - Луин
+- Rafail Gem - Самоцвет Рафаила
+- Thyrsus - Тирс
+- Aymr - Эймир
+- Hrotti - Хротти
+- Chalice of Beginnings - **Чаша Истока**
+- Chalice of Blood - **Чаша Крови**
+- Vajra-Mushti - **Ваджра-Мушти**
+- Fetters of Dromi - **Оковы Дроми**
+- Axe of Ukonvasara - Топор Уконвасара
+- Caduceus Staff - Жезл Кадуцей
+- Ochain Shield - Щит Охайн
+- Spear of Assal - Копьё Ассал
+- Sword of Begalta - Меч Бегалта
+- Sword of Moralta - Меч Моралта
+- Sword of Seiros - Меч Сейрос
+- Shield of Seiros - Щит Сейрос
+- Tathlum Bow - Лук Татлум
+- The Inexhaustible - Неиссякаемый
+
 
 ### Играбельные классы
 
 - Commoner - **Простолюдин**
 - Noble - **Знать**
 - Dancer - **Танцор**
-- Myrmidon - Мечник
+- Myrmidon - **Мечник**
 - Soldier - **Солдат**
 - Fighter - **Боец**
 - Monk - **Монах**
@@ -342,7 +363,7 @@
 - Assassin - **Ассасин**
 - Paladin - **Паладин**
 - Warrior - **Воин**
-- Fortress Knight - Рыцарь-крепость
+- Fortress Knight - **Рыцарь-крепость**
 - Wyvern Rider - **Всадник на виверне**
 - Sniper - **Снайпер**
 - Grappler - **Борец**
@@ -355,7 +376,7 @@
 - Dark Flier - **Тёмный всадник**
 - Valkyrie - **Валькирия**
 - Falcon Knight - **Соколиный рыцарь**
-- Wyvern Lord - Повелитель виверн
+- Wyvern Lord - **Повелитель виверн**
 - Mortal Savant - Самурай
 - Great Knight - **Великий рыцарь**
 - Bow Knight - **Рыцарь-лучник**
@@ -379,12 +400,12 @@
 - Giant Wolf - **Огромный волк**
 - Giant Bird - **Огромная птица**
 - Giant Crawler - **Огромный ползун**
-- Demonic Beast - Чудище-демон
-- Wild Demonic Beast - Дикое чудище-демон
-- Experimental Demonic Beast - Подопытное чудище-демон
-- Altered Demonic Beast - Искажённое чудище-демон
-- Giant Demonic Beast - Огромное чудище-демон
-- Flying Demonic Beast - Летающее чудище-демон
+- Demonic Beast - **Чудище-демон**
+- Wild Demonic Beast - **Дикое чудище-демон**
+- Experimental Demonic Beast - **Подопытное чудище-демон**
+- Altered Demonic Beast - **Искажённое чудище-демон**
+- Giant Demonic Beast - **Огромное чудище-демон**
+- Flying Demonic Beast - **Летающее чудище-демон**
 - Golem - **Голем**
 - Altered Golem - **Искажённый голем**
 - Titanus - **Титан**
