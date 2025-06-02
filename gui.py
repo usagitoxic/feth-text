@@ -1,5 +1,6 @@
 import csv
 import ctypes
+import re
 from PyQt5.QtWidgets import (
     QApplication,
     QMainWindow,
@@ -20,14 +21,60 @@ from PyQt5.QtWidgets import (
     QAbstractItemView,
     QAction,
     QComboBox,
+    QToolTip,
+    QListWidget,
 )
-from PyQt5.QtGui import QKeySequence, QIcon
-from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
+from PyQt5.QtGui import (
+    QKeySequence,
+    QIcon,
+    QSyntaxHighlighter,
+    QTextCharFormat,
+    QColor,
+    QFont,
+    QTextCursor,
+)
+from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal, QRegExp
 
-MY_APP_ID = "elmblem_team.gui.fe3h.1"
+MY_APP_ID = "emblem_team.gui.fe3h.1"
 
 RU_HEADERS = ["Индекс", "Тип", "Исходный текст", "Текст перевода"]
 RAW_HEADERS = ["file_index", "file_type", "source_language", "destination_language"]
+
+from glossary import GLOSSARY
+
+
+class GlossaryHighlighter(QSyntaxHighlighter):
+    def __init__(
+        self, document, glossary: list[tuple[str, str]], on_found_terms_changed
+    ):
+        super().__init__(document)
+        self.glossary = glossary
+        self.on_found_terms_changed = on_found_terms_changed
+        self.found_terms = set()
+
+        self.fmt = QTextCharFormat()
+        self.fmt.setForeground(QColor("darkred"))
+        self.fmt.setFontWeight(QFont.Bold)
+
+        self.rules = []
+        for name, _ in glossary:
+            escaped = re.escape(name)
+            pattern = QRegExp(escaped)
+            self.rules.append((name, pattern))
+
+    def highlightBlock(self, text):
+        for term, pattern in self.rules:
+            index = pattern.indexIn(text)
+            while index >= 0:
+                length = pattern.matchedLength()
+                self.setFormat(index, length, self.fmt)
+                self.found_terms.add(term)
+                index = pattern.indexIn(text, index + length)
+
+    def rehighlight(self):
+        self.found_terms.clear()
+        super().rehighlight()
+        self.on_found_terms_changed(sorted(self.found_terms))
 
 
 class CSVLoaderThread(QThread):
@@ -115,16 +162,22 @@ class EditDialog(QDialog):
     def __init__(self, original_text, translated_text, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Редактирование ячейки")
-        self.resize(800, 400)
+        self.resize(1200, 400)
 
         self.original_text = QTextEdit(self)
+        self.original_light = GlossaryHighlighter(
+            self.original_text.document(), GLOSSARY, self.update_list
+        )
         self.original_text.setPlainText(original_text)
         self.original_text.setReadOnly(True)
 
         self.translated_text = QTextEdit(self)
+        self.translated_light = GlossaryHighlighter(
+            self.translated_text.document(), GLOSSARY, self.update_list
+        )
         self.translated_text.setPlainText(translated_text)
 
-        self.clone_button = QPushButton("Копировать в перевод")
+        self.clone_button = QPushButton("Клонировать")
         self.clone_button.clicked.connect(self.clone_text)
 
         self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
@@ -136,7 +189,20 @@ class EditDialog(QDialog):
         layout.addRow("Текст перевода:", self.translated_text)
         layout.addWidget(self.clone_button)
         layout.addWidget(self.buttons)
-        self.setLayout(layout)
+
+        self.glossary_label = QLabel("Глоссарий:")
+        self.glossary_layout = QVBoxLayout()
+        self.glossary_layout.addWidget(self.glossary_label)
+        self.glossary_table = QListWidget()
+        self.glossary_table.setFixedWidth(300)
+        self.glossary_layout.addWidget(self.glossary_table)
+
+        def_lay = QHBoxLayout()
+        def_lay.addLayout(layout)
+        def_lay.addLayout(self.glossary_layout)
+        self.setLayout(def_lay)
+
+        self.original_light.rehighlight()
 
     def clone_text(self):
         self.translated_text.setPlainText(self.original_text.toPlainText())
@@ -144,26 +210,15 @@ class EditDialog(QDialog):
     def get_translated_text(self):
         return self.translated_text.toPlainText()
 
-
-class InsertDialog(QDialog):
-    def __init__(self, parent=None):
-        super().__init__(parent)
-        self.setWindowTitle("Вставка строки")
-        self.resize(500, 200)
-
-        self.inserted_text = QTextEdit(self)
-
-        self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
-        self.buttons.accepted.connect(self.accept)
-        self.buttons.rejected.connect(self.reject)
-
-        layout = QFormLayout()
-        layout.addRow("Перевод:", self.inserted_text)
-        layout.addWidget(self.buttons)
-        self.setLayout(layout)
-
-    def get_inserted_text(self):
-        return self.inserted_text.toPlainText()
+    def update_list(self, terms: list[str]):
+        self.glossary_table.clear()
+        for name in terms:
+            for nname in GLOSSARY:
+                if nname[0] == name:
+                    value = nname[1]
+                    item = f"{name} = {value}"
+                    self.glossary_table.addItem(item)
+                    break
 
 
 class CSVEditor(QMainWindow):
@@ -216,16 +271,6 @@ class CSVEditor(QMainWindow):
 
         file_menu.addAction(exit_action)
 
-        # load_button = QPushButton("Открыть CSV")
-        # load_button.clicked.connect(self.load_csv)
-
-        # save_button = QPushButton("Сохранить CSV")
-        # save_button.clicked.connect(self.save_csv)
-
-        # buttons = QHBoxLayout()
-        # buttons.addWidget(load_button)
-        # buttons.addWidget(save_button)
-
         filters = QHBoxLayout()
         filters.addWidget(self.search_line_edit)
         filters.addWidget(self.file_type_filter)
@@ -236,16 +281,9 @@ class CSVEditor(QMainWindow):
 
         top_layout = QVBoxLayout()
         top_layout.addLayout(filters)
-        # top_layout.addLayout(buttons)
-        # top_layout.addLayout(stats)
 
         self.table = QTableView()
-        self.table.horizontalHeader().setStretchLastSection(True)
-        # self.table.horizontalHeader().setSectionResizeMode(QHeaderView.Stretch)
         self.table.doubleClicked.connect(self.edit_translation)
-        self.table.setWordWrap(True)
-        self.table.resizeRowsToContents()
-        self.table.setSelectionBehavior(QAbstractItemView.SelectRows)
 
         shortcut = QShortcut(QKeySequence("Ctrl+F"), self)
         shortcut.activated.connect(self.focus_input)
@@ -264,15 +302,6 @@ class CSVEditor(QMainWindow):
     def focus_input(self):
         self.search_line_edit.setFocus()
 
-    def insert_text(self):
-        dialog = InsertDialog(self)
-        if dialog.exec_() == QDialog.Accepted:
-            new_text = dialog.get_inserted_text()
-            rows = self.table.selectionModel().selectedRows()
-            print(rows)
-            for row in rows:
-                self.model.set_translation(row.row(), new_text)
-
     def load_csv(self):
         file_path, _ = QFileDialog.getOpenFileName(
             self, "Открыть CSV", "", "CSV файлы (*.csv)"
@@ -280,13 +309,13 @@ class CSVEditor(QMainWindow):
         if not file_path:
             return
         self.current_file = file_path
-        self.setWindowTitle(f"Bundle Editor - {self.current_file}")
         self.thread = CSVLoaderThread(file_path)
         self.thread.loaded.connect(self.on_csv_loaded)
         self.thread.start()
-        self.save_action.setEnabled(True)
 
     def on_csv_loaded(self, headers, rows):
+        self.save_action.setEnabled(True)
+        self.setWindowTitle(f"Bundle Editor - {self.current_file}")
         self.show_untranslated_checkbox.setEnabled(True)
         self.search_line_edit.setEnabled(True)
         self.file_type_filter.clear()
@@ -296,6 +325,10 @@ class CSVEditor(QMainWindow):
         self.file_type_filter.setCurrentIndex(0)
         self.model = CSVTableModel(headers, rows)
         self.table.setModel(self.model)
+        self.table.setColumnWidth(0, 80)
+        self.table.setColumnWidth(1, 100)
+        self.table.setColumnWidth(2, 600)
+        self.table.horizontalHeader().setStretchLastSection(True)
         self.apply_filter()
 
     def calc_filter_data(self, rows):
@@ -332,7 +365,6 @@ class CSVEditor(QMainWindow):
         if dialog.exec_() == QDialog.Accepted:
             new_translation = dialog.get_translated_text()
             self.model.set_translation(row, new_translation)
-            # self.apply_filter()
 
     def save_csv(self):
         self.table.setEnabled(False)
