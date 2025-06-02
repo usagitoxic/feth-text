@@ -6,7 +6,7 @@
 - Crest - **Герб**
 - Teach - **учитель**
 - student - **студент**
-- Professor - 
+- Professor -
 - Four Saints - **Четверо Святых**
 - Four Apostles - **Четверо Апостолов**
 - Flame Emperor - **Император Пламени**
@@ -100,6 +100,7 @@
 - Airmid River - **Река Эйрмид**
 - Great Bridge of Myrddin - **Великий мост Мирддина**
 - Holy Mausoleum - **Святой Мавзолей**
+- Holy Tomb - **Святая Гробница**
 - Arianrhod - **Арианрод**
 - Sauin Village - **Деревня Сауин**
 - Remire Village - **Деревня Ремайр**
@@ -340,7 +341,6 @@
 - Shield of Seiros - Щит Сейрос
 - Tathlum Bow - Лук Татлум
 - The Inexhaustible - Неиссякаемый
-
 
 ### Играбельные классы
 

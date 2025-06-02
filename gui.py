@@ -1,4 +1,5 @@
 import csv
+import ctypes
 from PyQt5.QtWidgets import (
     QApplication,
     QMainWindow,
@@ -20,8 +21,10 @@ from PyQt5.QtWidgets import (
     QAction,
     QComboBox,
 )
-from PyQt5.QtGui import QKeySequence
+from PyQt5.QtGui import QKeySequence, QIcon
 from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
+
+MY_APP_ID = "elmblem_team.gui.fe3h.1"
 
 
 class CSVLoaderThread(QThread):
@@ -37,6 +40,7 @@ class CSVLoaderThread(QThread):
             data = list(reader)
         headers = data[0]
         rows = data[1:]
+        headers = ["Индекс", "Тип", "Исходный текст", "Текст перевода"]
         self.loaded.emit(headers, rows)
 
 
@@ -109,7 +113,7 @@ class CSVTableModel(QAbstractTableModel):
 class EditDialog(QDialog):
     def __init__(self, original_text, translated_text, parent=None):
         super().__init__(parent)
-        self.setWindowTitle("Редактирование строки")
+        self.setWindowTitle("Редактирование ячейки")
         self.resize(800, 400)
 
         self.original_text = QTextEdit(self)
@@ -128,7 +132,7 @@ class EditDialog(QDialog):
 
         layout = QFormLayout()
         layout.addRow("Исходный текст:", self.original_text)
-        layout.addRow("Перевод:", self.translated_text)
+        layout.addRow("Текст перевода:", self.translated_text)
         layout.addWidget(self.clone_button)
         layout.addWidget(self.buttons)
         self.setLayout(layout)
@@ -164,14 +168,17 @@ class InsertDialog(QDialog):
 class CSVEditor(QMainWindow):
     def __init__(self):
         super().__init__()
+        self.window_icon = QIcon("icon.png")
         self.setWindowTitle("Bundle Editor")
+        self.setWindowIcon(self.window_icon)
         self.resize(1280, 600)
         self.model = None
         self.filter_data = []
 
         self.search_line_edit = QLineEdit()
-        self.search_line_edit.setPlaceholderText("Поиск по тексту")
+        self.search_line_edit.setPlaceholderText("Поиск по файлу")
         self.search_line_edit.textChanged.connect(self.apply_filter)
+        self.search_line_edit.setEnabled(False)
 
         self.file_type_filter = QComboBox()
         self.file_type_filter.setPlaceholderText("Фильтр по file_type")
@@ -180,6 +187,7 @@ class CSVEditor(QMainWindow):
 
         self.show_untranslated_checkbox = QCheckBox("Показать только непереведенные")
         self.show_untranslated_checkbox.stateChanged.connect(self.apply_filter)
+        self.show_untranslated_checkbox.setEnabled(False)
 
         self.stats_label = QLabel("Нет данных")
 
@@ -271,12 +279,15 @@ class CSVEditor(QMainWindow):
         if not file_path:
             return
         self.current_file = file_path
+        self.setWindowTitle(f"Bundle Editor - {self.current_file}")
         self.thread = CSVLoaderThread(file_path)
         self.thread.loaded.connect(self.on_csv_loaded)
         self.thread.start()
         self.save_action.setEnabled(True)
 
     def on_csv_loaded(self, headers, rows):
+        self.show_untranslated_checkbox.setEnabled(True)
+        self.search_line_edit.setEnabled(True)
         self.file_type_filter.clear()
         self.filter_data = self.calc_filter_data(rows)
         self.file_type_filter.addItems(self.filter_data)
@@ -337,6 +348,7 @@ class CSVEditor(QMainWindow):
 
 
 if __name__ == "__main__":
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(MY_APP_ID)
     app = QApplication([])
     window = CSVEditor()
     window.show()
