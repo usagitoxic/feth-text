@@ -5,11 +5,8 @@
 - Noble - **Знать**
 - Crest - **Герб**
 - Teach - **учитель**
-- Major Crest - **Высший Герб**
-- Minor Crest - **Малый Герб**
-- Crestology - **Геральдика**
-- Crest Stone - **Гербовый Камень**
-- Crest of Ernest - **Герб Эрнеста**
+- student - **студент**
+- Professor - 
 - Four Saints - **Четверо Святых**
 - Four Apostles - **Четверо Апостолов**
 - Flame Emperor - **Император Пламени**
@@ -34,6 +31,14 @@
 - Azure Moon - **Лазурная Луна**
 - Crimson Flower - **Багровый Цветок**
 - Silver Snow - **Серебряный Снег**
+
+### Гербология
+
+- Major Crest - **Высший Герб**
+- Minor Crest - **Малый Герб**
+- Crestology - **Геральдика**
+- Crest Stone - **Гербовый Камень**
+- Crest of Ernest - **Герб Эрнеста**
 
 ### События
 
