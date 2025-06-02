@@ -26,6 +26,9 @@ from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal
 
 MY_APP_ID = "elmblem_team.gui.fe3h.1"
 
+RU_HEADERS = ["Индекс", "Тип", "Исходный текст", "Текст перевода"]
+RAW_HEADERS = ["file_index", "file_type", "source_language", "destination_language"]
+
 
 class CSVLoaderThread(QThread):
     loaded = pyqtSignal(list, list)  # headers, rows
@@ -38,10 +41,8 @@ class CSVLoaderThread(QThread):
         with open(self.file_path, newline="", encoding="utf-8") as f:
             reader = csv.reader(f)
             data = list(reader)
-        headers = data[0]
         rows = data[1:]
-        headers = ["Индекс", "Тип", "Исходный текст", "Текст перевода"]
-        self.loaded.emit(headers, rows)
+        self.loaded.emit(RU_HEADERS, rows)
 
 
 class CSVTableModel(QAbstractTableModel):
@@ -340,7 +341,7 @@ class CSVEditor(QMainWindow):
             return
         with open(self.current_file, "w", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
-            writer.writerow(self.model.headers)
+            writer.writerow(RAW_HEADERS)
             for row in self.model.original_data:
                 writer.writerow(row)
         self.table.setEnabled(True)
