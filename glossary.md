@@ -6,7 +6,7 @@
 - Crest - **Герб**
 - Teach - **учитель**
 - student - **студент**
-- Professor -
+- Professor - Профессор
 - Four Saints - **Четверо Святых**
 - Four Apostles - **Четверо Апостолов**
 - Flame Emperor - **Император Пламени**
@@ -24,6 +24,7 @@
 - Blue Sea Star - **Синяя Морская Звезда**
 - Divine Pulse - **Божественный Пульс**
 - Relic - **Реликвия**
+- Hero's Relic - **Реликвия Героя**
 - False God - **Ложный Бог**
 - Gambit - **Манёвр**
 - Cindered Shadows - **Пепельные Тени**
@@ -50,9 +51,13 @@
 
 ### Организации
 
-- Adrestian Empire - **Адрастейская Империя**
+- Empire - **Империя**
+- Adrestian - **Адрастейская**
+- Kingdom - **Королевство**
+- Faerghus - **Фаэргус**
 - Holy Kingdom of Faerghus - **Священное Королевство Фаэргус**
-- Leicester Alliance - **Лестерский Альянс**
+- Alliance - **Альянс**
+- Leicester - **Лестерский**
 - Church of Seiros - **Церковь Сейрос**
 - Central Church - **Центральная Церковь**
 - Eastern Church - **Восточная Церковь**
@@ -62,6 +67,7 @@
 
 ### Локации
 
+- Garreg Mach - **Гаррег Мах**
 - Garreg Mach Monastery - **Монастырь Гаррег Мах**
 - Shambhala (Underground City) - **Шамбала (Подземный Город)**
 - Abyss - **Бездна**
@@ -84,7 +90,6 @@
 - Bergliez - **Берглиц**
 - Sreng - **Сренг**
 - Nuvelle - **Нувэль**
-- Edmund - **Эдмунд**
 - Ochs - **Окс**
 - Rowe - **Роу**
 - Gaspard - **Гаспар**
@@ -123,86 +128,92 @@
 
 ### Дом Чёрных Орлов
 
-- Edelgard von Hresvelg - **Эдельгард фон Хрёсвельг**
-- Edi (Edel) - **Эди (Эдель)**
-- Hubert von Vestra - **Хьюберт фон Вестра**
-- Ferdinand von Aegir - **Фердинанд фон Эгир**
-- Linhardt von Hevring - **Линхарт фон Хефринг**
-- Caspar von Bergliez - **Каспар фон Берглиц**
-- Bernadetta von Varley - **Бернадетта фон Вали**
+- Edelgard - **Эдельгард**
+- Edi - **Эди**
+- Edel - **Эдель**
+- Hubert - **Хьюберт**
+- Ferdinand - **Фердинанд**
+- Linhardt - **Линхарт**
+- Caspar - **Каспар**
+- Bernadetta - **Бернадетта**
 - Bernie - **Берни**
-- Dorothea Arnault - **Доротея Арно**
-- Petra Macneary - **Петра Макнеари**
+- Dorothea - **Доротея**
+- Petra - **Петра**
 
 ### Дом Синих Львов
 
-- Dimitri Alexandre Blaiddyd - **Дмитрий Александр Бладуд**
-- Dedue Molinaro - **Дедью Молинаро**
-- Felix Hugo Fraldarius - **Феликс Юго Фральдариус**
-- Ashe Ubert - **Эш Дюран**
-- Sylvain Jose Gautier - **Сильвен Жозе Готье**
-- Mercedes von Martritz (Bartels) - **Мерседес фон Мартриц (Бартельс)**
+- Dimitri - **Дмитрий**
+- Dedue - **Дедью**
+- Felix - **Феликс**
+- Ashe - **Эш**
+- Sylvain - **Сильвен**
+- Mercedes - **Мерседес**
 - Merci - **Мерси**
-- Annette Fantine Dominic - **Аннетт Фантин Доминик**
+- Annette - **Аннетт**
 - Annie - **Анни**
-- Ingrid Brandl Galatea - **Ингрид Брандль Галатея**
+- Ingrid - **Ингрид**
 
 ### Дом Золотых Оленей
 
-- Claude von Riegan - **Клод фон Риган**
-- Lorenz Hellman Gloucester - **Лоренц Герман Глостер**
-- Raphael Kirsten - **Рафаэль Кирстен**
-- Ignatz Victor - **Игнац Виктор**
-- Lysithea von Ordelia - **Лиситея фон Корделия**
-- Marianne von Edmund - **Марианна фон Эдмунд**
-- Hilda Valentine Goneril - **Хильда Валентин Гонериль**
-- Leonie Pinelli - **Леони Пинелли**
+- Claude - **Клод**
+- Lorenz - **Лоренц**
+- Raphael - **Рафаэль**
+- Ignatz - **Игнац**
+- Lysithea - **Лиситея**
+- Marianne - **Марианна**
+- Hilda - **Хильда**
+- Leonie - **Леони**
 
 ### Церковь Сейрос
 
-- Seteth (Cichol) - **Сетес (Кихол)**
-- Flayn (Cethleann) - **Флэн (Кетеленн)**
-- Hanneman von Essar - **Ханнеман фон Эсса**
-- Manuela Casagranda - **Мануэла Казагранда**
-- Gustave Eddie Dominic (Gilbert Pronislav) - **Гюстав Эдди Доминик (Гилберт Пронислав)**
-- Alois Rangeld - **Алоис Рангельт**
-- Cassandra Rubens Charon (Catherine) - **Кассандра Рубенс Харон (Катерина)**
-- Shamir Nevrand - **Шамир Неврант**
+- Seteth - **Сетес**
+- Cichol - **Кихол**
+- Flayn - **Флэн**
+- Cethleann - **Кетеленн**
+- Hanneman - **Ханнеман**
+- Manuela - **Мануэла**
+- Gustave - **Гюстав**
+- Gilbert - **Гилберт**
+- Alois - **Алоис**
+- Cassandra - **Кассандра**
+- Catherine - **Катерина**
+- Shamir - **Шамир**
 - Cyril - **Кирилл**
 
 ### Церковь Сейрос (DLC)
 
-- Jeritza von Hrym (Emile von Bartels) - **Ерица фон Хрюм (Эмиль фон Бартельс)**
+- Jeritza - **Ерица**
+- Emile - **Эмиль**
 - Anna - **Анна**
 - Aelfric - **Элфрик**
 
 ### Пепельные Волки (DLC)
 
-- Yuri Leclerc - **Юрий Леклерк**
-- Balthus von Albrecht - **Бальтазар фон Адальбрехт**
-- Constance von Nuvelle - **Констанция фон Нувэль**
+- Yuri - **Юрий**
+- Balthus - **Бальтазар**
+- Constance - **Констанция**
 - Hapi - **Хапи**
 
 ### Неиграбельные персонажи
 
 - Sothis - **Сотис**
-- Jeralt Reus Eisner - **Джеральт Ройс Айснер**
+- Jeralt - **Джеральт**
 - Tomas - **Томас**
 - Gatekeeper - **Страж Ворот**
 - Monica - **Моника**
 - Ludwig - **Людвиг**
 - Fleche - **Флеш**
 - Abysskeeper - **Страж Бездны**
-- Duke Gerth - **Герцог Герт**
-- Ionius IX - **Ионий IX**
+- Gerth - **Герт**
+- Ionius - **Ионий**
 
 ### Антагонисты (Адрастейская Империя)
 
-- Volkhard von Arundel - **Фолькхарт фон Арундел**
+- Volkhard - **Фолькхарт**
 - Metodey - **Методей**
 - Randolph - **Рэндольф**
 - Ladislava - **Ладислава**
-- Baron Ochs - **Барон Окс**
+- Ochs - **Окс**
 
 ### Антагонисты (Священное Королевство Фаэргус)
 
@@ -210,7 +221,6 @@
 - Miklan - **Миклан**
 - Rodrigue - **Родриг**
 - Gwendal - **Гвендаль**
-- Baron Dominic - **Барон Доминик**
 
 ### Антагонисты (Лестерский Альянс)
 
@@ -242,9 +252,12 @@
 ### Дети Богини и Големы Церкви
 
 - Seiros - **Сейрос**
-- Indech (The Immovable) - **Индех (Непоколебимый)**
-- Macuil (The Wind Caller) - **Макуил (Призыватель Ветров)**
-- Rhea (The Immaculate One) - **Рея (Непорочная)**
+- Indech - **Индех**
+- The Immovable - **Непоколебимый**
+- Macuil - **Макуил**
+- The Wind Caller - **Призыватель Ветров**
+- Rhea - **Рея**
+- The Immaculate One - **Непорочная**
 - Luca - **Лука**
 - Iris - **Ирис**
 - Bernhard - **Бернхард**
@@ -269,30 +282,73 @@
 - Lamine - **Ламина**
 - Maurice - **Морис**
 
+### Титулы
+
+- Marquis - **Маркиз**
+- Viscount - **Виконт**
+- Count - **Граф**
+- Margrave - **Марграф**
+- Paul - **Пауль**
+- Eddie - **Эдди**
+- Valentine - **Валентин**
+- Hellman - **Герман**
+- Brandl - **Брандль**
+- Fantine - **Фантин**
+- Jose - **Жозе**
+- Hugo - **Юго**
+- Alexandre - **Александр**
+- Baron - **Барон**
+- von - **фон**
+- Duke - **Герцог**
+- Reus - **Ройс**
+- Rubens - **Рубенс**
+
+### Фамилии
+
+- Vestra - **Вестра**
+- Hresvelg - **Хрёсвельг**
+- Eisner - **Айснер**
+- Arundel - **Арундел**
+- Albrecht - **Адальбрехт**
+- Leclerc - **Леклерк**
+- Bartels - **Бартельс**
+- Nevrand - **Неврант**
+- Rangeld - **Рангельт**
+- Pronislav - **Пронислав**
+- Casagranda - **Казагранда**
+- Essar - **Эсса**
+- Pinelli - **Пинелли**
+- Victor - **Виктор**
+- Kirsten - **Кирстен**
+- Galatea - **Галатея**
+- Martritz - **Мартриц**
+- Ubert - **Дюран**
+- Molinaro - **Молинаро**
+- Macneary - **Макнеари**
+- Arnault - **Арно**
+- Hevring - **Хефринг**
+
 ### Прочие персонажи
 
 - Leopold - **Леопольд**
 - Waldemar - **Вальдемар**
 - Grégoire - **Грегуар**
-- Marquis Vestra - **Маркиз Вестра**
 - Derick - **Дерик**
-- Lycaon von Hresvelg I - (Lycaon I) - **Ликаон фон Хрёсвельг (Ликаон I)**
-- Lycaon III - **Ликаон III**
-- Wilhelm Paul Hresvelg (Wilhelm I) - **Вильгельм Пауль Хрёсвельг (Вильгельм I)**
-- Patricia (Anselma) - **Патриция (Ансельма)**
+- Lycaon - **Ликаон**
+- Patricia - **Патриция**
+- Anselma - **Ансельма**
 - Christophe - **Кристоф**
 - Matthias - **Маттиас**
 - Gunnar - **Гуннар**
 - Glenn - **Гленн**
-- Klaus I - **Клаус I**
+- Klaus - **Клаус**
 - Kyphon - **Кифон**
 - Lambert - **Ламберт**
 - Loog - **Луг**
 - Pan - **Пан**
 - Rufus - **Руфус**
-- Viscount Kleiman - **Виконт Клейман**
-- Count Rowe - **Граф Роу**
-- Count Charon - **Граф Харон**
+- Kleiman - **Клейман**
+- Rowe - **Роу**
 - Claudia - **Клаудия**
 - Godfrey - **Годфри**
 - Erwin - **Эрвин**
@@ -300,9 +356,9 @@
 - Maya - **Майя**
 - Oswald - **Освальд**
 - Tiana - **Тиана**
-- Count Ordelia - **Граф Корделия**
-- Margrave Edmund - **Марграф Эдмунд**
-- Sitri Eisner - **Ситри Айснер**
+- Ordelia - **Корделия**
+- Edmund - **Эдмунд**
+- Sitri - **Ситри**
 - Aubin - **Обен**
 - Noa - **Ноа**
 - Timotheos - **Тимофей**

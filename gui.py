@@ -40,7 +40,9 @@ MY_APP_ID = "emblem_team.gui.fe3h.1"
 RU_HEADERS = ["Индекс", "Тип", "Исходный текст", "Текст перевода"]
 RAW_HEADERS = ["file_index", "file_type", "source_language", "destination_language"]
 
-from glossary import GLOSSARY
+from glossary import get_glossary
+
+GLOSSARY = get_glossary()
 
 
 class GlossaryHighlighter(QSyntaxHighlighter):
@@ -194,7 +196,7 @@ class EditDialog(QDialog):
         self.glossary_layout = QVBoxLayout()
         self.glossary_layout.addWidget(self.glossary_label)
         self.glossary_table = QListWidget()
-        self.glossary_table.setFixedWidth(300)
+        self.glossary_table.setFixedWidth(400)
         self.glossary_layout.addWidget(self.glossary_table)
 
         def_lay = QHBoxLayout()
