@@ -18,11 +18,10 @@ from PyQt5.QtWidgets import (
     QFormLayout,
     QDialogButtonBox,
     QShortcut,
-    QAbstractItemView,
     QAction,
     QComboBox,
-    QToolTip,
     QListWidget,
+    QMessageBox,
 )
 from PyQt5.QtGui import (
     QKeySequence,
@@ -31,13 +30,12 @@ from PyQt5.QtGui import (
     QTextCharFormat,
     QColor,
     QFont,
-    QTextCursor,
 )
 from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal, QRegExp
 
 MY_APP_ID = "emblem_team.gui.fe3h.1"
 
-RU_HEADERS = ["Индекс", "Тип", "Исходный текст", "Текст перевода"]
+RU_HEADERS = ["Index", "Type", "Source", "Translated"]
 RAW_HEADERS = ["file_index", "file_type", "source_language", "destination_language"]
 
 from glossary import get_glossary
@@ -163,7 +161,7 @@ class CSVTableModel(QAbstractTableModel):
 class EditDialog(QDialog):
     def __init__(self, original_text, translated_text, parent=None):
         super().__init__(parent)
-        self.setWindowTitle("Редактирование ячейки")
+        self.setWindowTitle("Edit cell")
         self.resize(1200, 400)
 
         self.original_text = QTextEdit(self)
@@ -179,7 +177,7 @@ class EditDialog(QDialog):
         )
         self.translated_text.setPlainText(translated_text)
 
-        self.clone_button = QPushButton("Клонировать")
+        self.clone_button = QPushButton("Clone")
         self.clone_button.clicked.connect(self.clone_text)
 
         self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
@@ -187,12 +185,12 @@ class EditDialog(QDialog):
         self.buttons.rejected.connect(self.reject)
 
         layout = QFormLayout()
-        layout.addRow("Исходный текст:", self.original_text)
-        layout.addRow("Текст перевода:", self.translated_text)
+        layout.addRow("Source:", self.original_text)
+        layout.addRow("Translated:", self.translated_text)
         layout.addWidget(self.clone_button)
         layout.addWidget(self.buttons)
 
-        self.glossary_label = QLabel("Глоссарий:")
+        self.glossary_label = QLabel("Glossary:")
         self.glossary_layout = QVBoxLayout()
         self.glossary_layout.addWidget(self.glossary_label)
         self.glossary_table = QListWidget()
@@ -232,33 +230,33 @@ class CSVEditor(QMainWindow):
         self.resize(1280, 600)
         self.model = None
         self.filter_data = []
+        self.can_save = False
 
         self.search_line_edit = QLineEdit()
-        self.search_line_edit.setPlaceholderText("Поиск по файлу")
+        self.search_line_edit.setPlaceholderText("Search...")
         self.search_line_edit.textChanged.connect(self.apply_filter)
         self.search_line_edit.setEnabled(False)
 
         self.file_type_filter = QComboBox()
-        self.file_type_filter.setPlaceholderText("Фильтр по file_type")
         self.file_type_filter.currentTextChanged.connect(self.apply_filter)
         self.file_type_filter.setEnabled(False)
 
-        self.show_untranslated_checkbox = QCheckBox("Показать только непереведенные")
+        self.show_untranslated_checkbox = QCheckBox("Show untranslated")
         self.show_untranslated_checkbox.stateChanged.connect(self.apply_filter)
         self.show_untranslated_checkbox.setEnabled(False)
 
-        self.stats_label = QLabel("Нет данных")
+        self.stats_label = QLabel("No data")
 
         menubar = self.menuBar()
-        file_menu = menubar.addMenu("Файл")
+        file_menu = menubar.addMenu("File")
 
-        open_action = QAction("Открыть...", self)
+        open_action = QAction("Open...", self)
         open_action.setShortcut(QKeySequence("Ctrl+O"))
         open_action.triggered.connect(self.load_csv)
 
         file_menu.addAction(open_action)
 
-        self.save_action = QAction("Сохранить", self)
+        self.save_action = QAction("Save", self)
         self.save_action.setEnabled(False)
         self.save_action.setShortcut(QKeySequence("Ctrl+S"))
         self.save_action.triggered.connect(self.save_csv)
@@ -267,7 +265,7 @@ class CSVEditor(QMainWindow):
 
         file_menu.addSeparator()
 
-        exit_action = QAction("Выход", self)
+        exit_action = QAction("Exit", self)
         exit_action.setShortcut(QKeySequence("Ctrl+Q"))
         exit_action.triggered.connect(self.close)
 
@@ -306,7 +304,7 @@ class CSVEditor(QMainWindow):
 
     def load_csv(self):
         file_path, _ = QFileDialog.getOpenFileName(
-            self, "Открыть CSV", "", "CSV файлы (*.csv)"
+            self, "Open CSV", "", "CSV files (*.csv)"
         )
         if not file_path:
             return
@@ -353,7 +351,7 @@ class CSVEditor(QMainWindow):
         )
         total, untranslated, percent = self.model.stats()
         self.stats_label.setText(
-            f"Статистика: {total} строк, {untranslated} не переведено ({percent}% переведено)"
+            f"Stats: {total} cells, {untranslated} untranslated ({percent}% translated)"
         )
 
     def edit_translation(self, index):
@@ -367,6 +365,8 @@ class CSVEditor(QMainWindow):
         if dialog.exec_() == QDialog.Accepted:
             new_translation = dialog.get_translated_text()
             self.model.set_translation(row, new_translation)
+            self.can_save = True
+            self.setWindowTitle(f"Bundle Editor - {self.current_file} *")
 
     def save_csv(self):
         self.table.setEnabled(False)
@@ -380,6 +380,28 @@ class CSVEditor(QMainWindow):
                 writer.writerow(row)
         self.table.setEnabled(True)
         self.save_action.setEnabled(True)
+        self.can_save = False
+        self.setWindowTitle(f"Bundle Editor - {self.current_file}")
+
+    def closeEvent(self, event):
+        if self.can_save:
+            reply = QMessageBox.question(
+                self,
+                "Exit",
+                "Exit and save file?",
+                QMessageBox.Yes | QMessageBox.No | QMessageBox.Abort,
+                QMessageBox.No,
+            )
+
+            if reply == QMessageBox.Yes:
+                self.save_csv()
+                event.accept()
+            elif reply == QMessageBox.Abort:
+                event.accept()
+            else:
+                event.ignore()
+        else:
+            event.accept()
 
 
 if __name__ == "__main__":
