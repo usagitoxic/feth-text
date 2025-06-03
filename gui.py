@@ -330,6 +330,7 @@ class CSVEditor(QMainWindow):
         self.table.setColumnWidth(2, 600)
         self.table.horizontalHeader().setStretchLastSection(True)
         self.apply_filter()
+        self.can_save = False
 
     def calc_filter_data(self, rows):
         unique = ["ALL"]
