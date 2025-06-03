@@ -59,7 +59,7 @@ class GlossaryHighlighter(QSyntaxHighlighter):
         self.rules = []
         for name, _ in glossary:
             escaped = re.escape(name)
-            pattern = QRegExp(escaped)
+            pattern = QRegExp(escaped, re.IGNORECASE)
             self.rules.append((name, pattern))
 
     def highlightBlock(self, text):
