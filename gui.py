@@ -308,6 +308,17 @@ class CSVEditor(QMainWindow):
         )
         if not file_path:
             return
+        if self.can_save:
+            reply = QMessageBox.question(
+                self,
+                "Save file",
+                "Save current opened file?",
+                QMessageBox.Yes | QMessageBox.No,
+                QMessageBox.Yes,
+            )
+
+            if reply == QMessageBox.Yes:
+                self.save_csv()
         self.current_file = file_path
         self.thread = CSVLoaderThread(file_path)
         self.thread.loaded.connect(self.on_csv_loaded)
