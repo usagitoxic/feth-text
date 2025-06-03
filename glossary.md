@@ -4,9 +4,9 @@
 - Goddess - **Богиня**
 - Noble - **Знать**
 - Crest - **Герб**
-- Teach - **учитель**
-- student - **студент**
-- Professor - Профессор
+- Teach - **Учитель**
+- Student - **Студент**
+- Professor - **Учитель**
 - Four Saints - **Четверо Святых**
 - Four Apostles - **Четверо Апостолов**
 - Flame Emperor - **Император Пламени**
