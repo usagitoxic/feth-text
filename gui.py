@@ -195,6 +195,7 @@ class EditDialog(QDialog):
         self.glossary_layout.addWidget(self.glossary_label)
         self.glossary_table = QListWidget()
         self.glossary_table.setFixedWidth(400)
+        self.glossary_table.itemDoubleClicked.connect(self.on_glossary_clicked)
         self.glossary_layout.addWidget(self.glossary_table)
 
         def_lay = QHBoxLayout()
@@ -203,6 +204,11 @@ class EditDialog(QDialog):
         self.setLayout(def_lay)
 
         self.original_light.rehighlight()
+    
+    def on_glossary_clicked(self, item):
+        text = item.text()
+        _, ru = text.split(" = ")
+        self.translated_text.setPlainText(self.translated_text.toPlainText() + f"{ru.strip()}")
 
     def clone_text(self):
         self.translated_text.setPlainText(self.original_text.toPlainText())
@@ -277,6 +283,7 @@ class CSVEditor(QMainWindow):
 
         stats = QHBoxLayout()
         stats.addWidget(self.show_untranslated_checkbox)
+        stats.addStretch()
         stats.addWidget(self.stats_label)
 
         top_layout = QVBoxLayout()
