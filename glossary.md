@@ -134,6 +134,7 @@
 - Hubert - **Хьюберт**
 - Ferdinand - **Фердинанд**
 - Linhardt - **Линхарт**
+- Lin - **Лин**
 - Caspar - **Каспар**
 - Bernadetta - **Бернадетта**
 - Bernie - **Берни**
