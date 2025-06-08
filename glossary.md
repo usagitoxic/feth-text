@@ -48,6 +48,8 @@
 - Crescent Moon War - **Война Полумесяца**
 - Insurrection of the Seven - **Восстание Семерых**
 - Tragedy of Duscur - **Даскарская трагедия**
+- Fish Bounty Festival - Фестиваль щедрой рыбы
+- Spice Festival - Фестиваль пряностей
 
 ### Организации
 
