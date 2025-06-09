@@ -48,6 +48,8 @@
 - Crescent Moon War - **Война Полумесяца**
 - Insurrection of the Seven - **Восстание Семерых**
 - Tragedy of Duscur - **Даскарская трагедия**
+- Fish Bounty Festival - Фестиваль щедрой рыбы
+- Spice Festival - Фестиваль пряностей
 
 ### Организации
 
@@ -149,7 +151,7 @@
 - Ashe - **Эш**
 - Sylvain - **Сильвен**
 - Mercedes - **Мерседес**
-- Merci - **Мерси**
+- Mercie - **Мерси**
 - Annette - **Аннетт**
 - Annie - **Анни**
 - Ingrid - **Ингрид**
@@ -477,3 +479,17 @@
 - Hegemon Husk - **Оболочка Гегемона**
 - Umbral Beast - **Теневое чудище**
 - Guardian Golem - **Голем-страж**
+
+### Навыки
+
+- Sword - **Меч**
+- Lance - **Копьё**
+- Axe - **Топор**
+- Bow - **Лук**
+- Brawl - **Кулаки**
+- Reason - **Разум**
+- Faith - **Вера**
+- Authority - **Лидерство**
+- Hvy Armor - **Броня**
+- Riding- **Кавалерия**
+- Flying - **Полёт**
