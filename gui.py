@@ -204,11 +204,13 @@ class EditDialog(QDialog):
         self.setLayout(def_lay)
 
         self.original_light.rehighlight()
-    
+
     def on_glossary_clicked(self, item):
         text = item.text()
         _, ru = text.split(" = ")
-        self.translated_text.setPlainText(self.translated_text.toPlainText() + f"{ru.strip()}")
+        self.translated_text.setPlainText(
+            self.translated_text.toPlainText() + f"{ru.strip()}"
+        )
 
     def clone_text(self):
         self.translated_text.setPlainText(self.original_text.toPlainText())
@@ -368,6 +370,11 @@ class CSVEditor(QMainWindow):
             filter_type,
             self.show_untranslated_checkbox.isChecked(),
         )
+        self.update_stats()
+
+    def update_stats(self):
+        if not self.model:
+            return
         total, untranslated, percent = self.model.stats()
         self.stats_label.setText(
             f"Stats: {total} cells, {untranslated} untranslated ({percent}% translated)"
@@ -386,6 +393,7 @@ class CSVEditor(QMainWindow):
             self.model.set_translation(row, new_translation)
             self.can_save = True
             self.setWindowTitle(f"Bundle Editor - {self.current_file} *")
+            self.update_stats()
 
     def save_csv(self):
         self.table.setEnabled(False)
