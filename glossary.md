@@ -106,6 +106,7 @@
 - Fort Merceus - **Форт Мерсеус**
 - Airmid River - **Река Эйрмид**
 - Great Bridge of Myrddin - **Великий мост Мирддина**
+- Myrddin - **Мирддин**
 - Holy Mausoleum - **Святой Мавзолей**
 - Holy Tomb - **Святая Гробница**
 - Arianrhod - **Арианрод**
@@ -113,6 +114,8 @@
 - Remire Village - **Деревня Ремайр**
 - Zahras - **Зарас**
 - Boramas - **Борамас**
+- Ailell - **Айлиль**
+- Valley of Torment - **Долина Мучений**
 
 ### Календарь (12 месяцев)
 
