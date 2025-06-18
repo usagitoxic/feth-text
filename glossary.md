@@ -48,8 +48,8 @@
 - Crescent Moon War - **Война Полумесяца**
 - Insurrection of the Seven - **Восстание Семерых**
 - Tragedy of Duscur - **Даскарская трагедия**
-- Fish Bounty Festival - Фестиваль щедрой рыбы
-- Spice Festival - Фестиваль пряностей
+- Fish Bounty Festival - **Фестиваль изобилия рыбы**
+- Spice Festival - **Фестиваль пряностей**
 
 ### Организации
 
@@ -379,30 +379,30 @@
 - Lance of Ruin - **Копьё Раскола**
 - Thunderbrand - **Громовержец**
 - Crest of Flames - **Герб Пламени**
-- Areadbhar - Ареадбар
-- Aegis Shield - Щит Эгида
-- Crusher - Крушитель
-- Failnaught - Фейлнот
-- Freikugel - Фрайкугель
-- Lúin - Луин
-- Rafail Gem - Самоцвет Рафаила
-- Thyrsus - Тирс
-- Aymr - Эймир
-- Hrotti - Хротти
+- Areadbhar - **Ареадбар**
+- Aegis Shield - **Щит Эгида**
+- Crusher - **Крушитель**
+- Failnaught - **Фейлнот**
+- Freikugel - **Фрайкугель**
+- Lúin - **Луин**
+- Rafail Gem - **Самоцвет Рафаила**
+- Thyrsus - **Тирс**
+- Aymr - **Эймир**
+- Hrotti - **Хротти**
 - Chalice of Beginnings - **Чаша Истока**
 - Chalice of Blood - **Чаша Крови**
 - Vajra-Mushti - **Ваджра-Мушти**
 - Fetters of Dromi - **Оковы Дроми**
-- Axe of Ukonvasara - Топор Уконвасара
-- Caduceus Staff - Жезл Кадуцей
-- Ochain Shield - Щит Охайн
-- Spear of Assal - Копьё Ассал
-- Sword of Begalta - Меч Бегалта
-- Sword of Moralta - Меч Моралта
-- Sword of Seiros - Меч Сейрос
-- Shield of Seiros - Щит Сейрос
-- Tathlum Bow - Лук Татлум
-- The Inexhaustible - Неиссякаемый
+- Axe of Ukonvasara - **Топор Уконвасара**
+- Caduceus Staff - **Жезл Кадуцей**
+- Ochain Shield - **Щит Охайн**
+- Spear of Assal - **Копьё Ассал**
+- Sword of Begalta - **Меч Бегалта**
+- Sword of Moralta - **Меч Моралта**
+- Sword of Seiros - **Меч Сейрос**
+- Shield of Seiros - **Щит Сейрос**
+- Tathlum Bow - **Лук Татлум**
+- The Inexhaustible - **Неиссякаемый**
 
 ### Играбельные классы
 
