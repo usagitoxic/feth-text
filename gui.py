@@ -38,7 +38,20 @@ MY_APP_ID = "emblem_team.gui.fe3h.1"
 RU_HEADERS = ["Index", "Type", "Source", "Translated"]
 RAW_HEADERS = ["file_index", "file_type", "source_language", "destination_language"]
 
-from glossary import get_glossary
+glossary_pattern = re.compile(r"- (.*?) - \*{0,2}(.*?)\*{0,2}$")
+
+
+def get_glossary() -> list[tuple[str, str]]:
+    glossary: list[tuple[str, str]] = []
+    with open("glossary.md", "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            match = glossary_pattern.match(line)
+            if match:
+                en_term, ru_term = match.groups()
+                glossary.append((en_term, ru_term))
+    return glossary
+
 
 GLOSSARY = get_glossary()
 
