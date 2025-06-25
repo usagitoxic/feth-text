@@ -72,7 +72,8 @@
 
 - Garreg Mach - **Гаррег Мах**
 - Garreg Mach Monastery - **Монастырь Гаррег Мах**
-- Shambhala (Underground City) - **Шамбала (Подземный Город)**
+- Shambhala - **Шамбала**
+- Underground City - **Подземный Город**
 - Abyss - **Бездна**
 - Fódlan - **Фодлан**
 - Fódlan's Throat - **Глотка Фодлана**
