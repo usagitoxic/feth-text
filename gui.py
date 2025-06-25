@@ -1,6 +1,9 @@
 import csv
 import ctypes
 import re
+import os
+import pathlib
+
 from PyQt5.QtWidgets import (
     QApplication,
     QMainWindow,
@@ -23,6 +26,7 @@ from PyQt5.QtWidgets import (
     QListWidget,
     QMessageBox,
 )
+
 from PyQt5.QtGui import (
     QKeySequence,
     QIcon,
@@ -31,18 +35,18 @@ from PyQt5.QtGui import (
     QColor,
     QFont,
 )
+
 from PyQt5.QtCore import Qt, QAbstractTableModel, QVariant, QThread, pyqtSignal, QRegExp
 
 MY_APP_ID = "emblem_team.gui.fe3h.1"
 
-RU_HEADERS = ["Index", "Type", "Source", "Translated"]
+HEADERS = ["Index", "Type", "Source", "Translate"]
 RAW_HEADERS = ["file_index", "file_type", "source_language", "destination_language"]
-
-glossary_pattern = re.compile(r"- (.*?) - \*{0,2}(.*?)\*{0,2}$")
 
 
 def get_glossary() -> list[tuple[str, str]]:
     glossary: list[tuple[str, str]] = []
+    glossary_pattern = re.compile(r"- (.*?) - \*{0,2}(.*?)\*{0,2}$")
     with open("glossary.md", "r", encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -51,9 +55,6 @@ def get_glossary() -> list[tuple[str, str]]:
                 en_term, ru_term = match.groups()
                 glossary.append((en_term, ru_term))
     return glossary
-
-
-GLOSSARY = get_glossary()
 
 
 class GlossaryHighlighter(QSyntaxHighlighter):
@@ -102,7 +103,7 @@ class CSVLoaderThread(QThread):
             reader = csv.reader(f)
             data = list(reader)
         rows = data[1:]
-        self.loaded.emit(RU_HEADERS, rows)
+        self.loaded.emit(HEADERS, rows)
 
 
 class CSVTableModel(QAbstractTableModel):
@@ -177,35 +178,47 @@ class EditDialog(QDialog):
         self.setWindowTitle("Edit cell")
         self.resize(1200, 400)
 
+        self.glossary = get_glossary()
+
         self.original_text = QTextEdit(self)
         self.original_light = GlossaryHighlighter(
-            self.original_text.document(), GLOSSARY, self.update_list
+            self.original_text.document(), self.glossary, self.update_list
         )
         self.original_text.setPlainText(original_text)
         self.original_text.setReadOnly(True)
 
         self.translated_text = QTextEdit(self)
         self.translated_light = GlossaryHighlighter(
-            self.translated_text.document(), GLOSSARY, self.update_list
+            self.translated_text.document(), self.glossary, self.update_list
         )
         self.translated_text.setPlainText(translated_text)
 
         self.clone_button = QPushButton("Clone")
         self.clone_button.clicked.connect(self.clone_text)
 
+        self.clear_button = QPushButton("Clear")
+        self.clear_button.clicked.connect(self.clear_text)
+
+        self.btn_layout = QHBoxLayout()
+        self.btn_layout.addWidget(self.clone_button)
+        self.btn_layout.addWidget(self.clear_button)
+
         self.buttons = QDialogButtonBox(QDialogButtonBox.Ok | QDialogButtonBox.Cancel)
         self.buttons.accepted.connect(self.accept)
         self.buttons.rejected.connect(self.reject)
 
-        layout = QFormLayout()
-        layout.addRow("Source:", self.original_text)
-        layout.addRow("Translated:", self.translated_text)
-        layout.addWidget(self.clone_button)
+        # flayout = QFormLayout()
+        # flayout.addRow("Source:", self.original_text)
+        # flayout.addRow("Translate:", self.translated_text)
+
+        layout = QVBoxLayout()
+        layout.addWidget(self.original_text)
+        layout.addWidget(self.translated_text)
+        # layout.addLayout(flayout)
+        layout.addLayout(self.btn_layout)
         layout.addWidget(self.buttons)
 
-        self.glossary_label = QLabel("Glossary:")
         self.glossary_layout = QVBoxLayout()
-        self.glossary_layout.addWidget(self.glossary_label)
         self.glossary_table = QListWidget()
         self.glossary_table.setFixedWidth(400)
         self.glossary_table.itemDoubleClicked.connect(self.on_glossary_clicked)
@@ -228,13 +241,16 @@ class EditDialog(QDialog):
     def clone_text(self):
         self.translated_text.setPlainText(self.original_text.toPlainText())
 
+    def clear_text(self):
+        self.translated_text.setPlainText("")
+
     def get_translated_text(self):
         return self.translated_text.toPlainText()
 
     def update_list(self, terms: list[str]):
         self.glossary_table.clear()
         for name in terms:
-            for nname in GLOSSARY:
+            for nname in self.glossary:
                 if nname[0] == name:
                     value = nname[1]
                     item = f"{name} = {value}"
@@ -245,13 +261,19 @@ class EditDialog(QDialog):
 class CSVEditor(QMainWindow):
     def __init__(self):
         super().__init__()
+
         self.window_icon = QIcon("icon.png")
-        self.setWindowTitle("Bundle Editor")
-        self.setWindowIcon(self.window_icon)
-        self.resize(1280, 600)
         self.model = None
         self.filter_data = []
         self.can_save = False
+        self.current_file = None
+        self.config_dir = pathlib.Path(os.getenv("APPDATA")) / "Bundle Editor"
+        self.config_dir.mkdir(exist_ok=True)
+        self.recent_file_path = self.config_dir / "recent"
+
+        self.setWindowTitle("Bundle Editor")
+        self.setWindowIcon(self.window_icon)
+        self.resize(1280, 600)
 
         self.search_line_edit = QLineEdit()
         self.search_line_edit.setPlaceholderText("Search...")
@@ -259,6 +281,7 @@ class CSVEditor(QMainWindow):
         self.search_line_edit.setEnabled(False)
 
         self.file_type_filter = QComboBox()
+        self.file_type_filter.setFixedWidth(100)
         self.file_type_filter.currentTextChanged.connect(self.apply_filter)
         self.file_type_filter.setEnabled(False)
 
@@ -319,7 +342,14 @@ class CSVEditor(QMainWindow):
         container.setLayout(layout)
         self.setCentralWidget(container)
 
-        self.current_file = None
+        if self.recent_file_path.exists():
+            recent = self.recent_file_path.read_bytes().decode("utf-8")
+            if pathlib.Path(recent).exists():
+                self.setWindowTitle("Bundle Editor - opening recent bundle...")
+                self.current_file = recent
+                self.thread = CSVLoaderThread(recent)
+                self.thread.loaded.connect(self.on_csv_loaded)
+                self.thread.start()
 
     def focus_input(self):
         self.search_line_edit.setFocus()
@@ -364,6 +394,7 @@ class CSVEditor(QMainWindow):
         self.table.horizontalHeader().setStretchLastSection(True)
         self.apply_filter()
         self.can_save = False
+        self.recent_file_path.write_bytes(self.current_file.encode("utf-8"))
 
     def calc_filter_data(self, rows):
         unique = ["ALL"]
