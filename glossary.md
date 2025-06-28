@@ -16,6 +16,7 @@
 - Ashen Wolves - **Пепельные Волки**
 - Resistance Army - **Армия Сопротивления**
 - Rite of Rising - **Обряд Вознесения**
+- Rite of Rebirth - **Обряд Возрождения**
 - Ten Elites - **Десять Героев**
 - Twelve Heroes of Fódlan - **Двенадцать Героев Фодлана**
 - Officers Academy - **Офицерская Академия**
@@ -33,6 +34,7 @@
 - Crimson Flower - **Багровый Цветок**
 - Silver Snow - **Серебряный Снег**
 - Viskam - **Вискам**
+- Blade Breaker - **Разрушитель Клинков**
 
 ### Гербология
 
