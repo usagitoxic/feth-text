@@ -121,11 +121,11 @@
 - Airmid River - **Река Эйрмид**
 - Great Bridge of Myrddin - **Великий мост Мирддина**
 - Myrddin - **Мирддин**
-- Holy Mausoleum - **Святой Мавзолей**
-- Holy Tomb - **Святая Гробница**
+- Holy Mausoleum - **Священный Мавзолей**
+- Holy Tomb - **Священная Гробница**
 - Arianrhod - **Арианрод**
 - Sauin Village - **Деревня Сауин**
-- Remire Village - **Деревня Ремайр**
+- Remire Village - **Деревня Ремир**
 - Zahras - **Зарас**
 - Boramas - **Борамас**
 - Ailell - **Айлиль**
