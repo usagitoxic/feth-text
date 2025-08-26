@@ -434,6 +434,7 @@
 - Shield of Seiros - **Щит Сейрос**
 - Tathlum Bow - **Лук Татлум**
 - The Inexhaustible - **Неиссякаемый**
+- Talons of Macuil - **Когти Макуила**
 
 ### Играбельные классы
 
