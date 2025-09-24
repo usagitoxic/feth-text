@@ -2,6 +2,7 @@
 
 - Byleth - **Белет**
 - Goddess - **Богиня**
+- progenitor god - Богиня-прародительница
 - Noble - **Знать**
 - Crest - **Герб**
 - Teach - **Учитель**
