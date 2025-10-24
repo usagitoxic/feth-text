@@ -20,7 +20,7 @@
 - Rite of Rebirth - **Обряд Возрождения**
 - Ten Elites - **Десять Героев**
 - Twelve Heroes of Fódlan - **Двенадцать Героев Фодлана**
-- Officers Academy - **Офицерская Академия**
+- Officers Academy - **Офицерская академия**
 - Imperial Year - **Имперский Год**
 - Mittelfrank Opera Company - **оперная труппа Миттельфранка**
 - Blue Sea Star - **Синяя Морская Звезда**
