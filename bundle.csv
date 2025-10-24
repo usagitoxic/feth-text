@@ -66521,11 +66521,11 @@ to that, but to a greater degree than usual...","А это что? Может б
 11363,SUPPORT,...,...
 11364,SUPPORT,"How are you enjoying your time at the academy
 thus far? I hope you have found our halls brimming
-with the vitality of well-intentioned souls.","Вам понравилось в академии? Надеюсь, 
+with the vitality of well-intentioned souls.","Тебе понравилось в академии? Надеюсь, 
 в наших стенах ощущается жизненная 
 сила всех её благонамеренных душ."
 11364,SUPPORT,"Hm. I suppose it is time for you to take charge of
-one of our three houses of students.",Хм. Теперь вы будете отвечать за один из трёх домов.
+one of our three houses of students.",Итак. Теперь вы будете отвечать за один из трёх домов.
 11364,SUPPORT,"I must note that I am personally against entrusting
 someone as lacking in trackable history as yourself
 with such a task, but it is as the archbishop desires.","Я против того, чтобы такую задачу поручали 
@@ -66537,8 +66537,9 @@ made it a point to get to know each of them.","Чёрные Орлы, Синие
 Надеюсь, вы уже успели с ними познакомиться."
 11364,SUPPORT,"Since you are new here, we have decided to allow
 you first pick. Manuela and I will take charge of the
-remaining two houses.","Раз вы новичок, мы решили предоставить вам выбор дома.
-Мы с Мануэлой будем отвечать за оставшиеся два."
+remaining two houses.","Раз вы новичок, мы решили предоставить вам
+выбор дома. Мы с Мануэлой будем отвечать за 
+оставшиеся два."
 11364,SUPPORT,(Which house will I choose...),(Какой же дом выбрать...)
 11364,SUPPORT,The Black Eagles of the Adrestian Empire.,Чёрные Орлы Адрастейской Империи.
 11364,SUPPORT,The Blues Lions of the Holy Kingdom of Faerghus.,Синие Львы Священного Королевства Фаэргус.
@@ -70385,14 +70386,13 @@ You are still my Teach, after all.","Понимаю. Ну, сейчас не в�
 a difficult task.",Итак. Вы отлично справились со сложным заданием.
 11413,SUPPORT,"You have shown exceptional skill in leading
 your students. I am forever grateful for the
-safe return of the Hero's Relic.","Ведя учеников, вы продемонстрировали 
+safe return of the Hero's Relic.","Ведя учеников, ты $EK00продемонстрировал$EL00продемонстрировала$EM00
 исключительные способности. Я бесконечно 
 благодарна, что вы вернули Реликвию Героя."
 11413,SUPPORT,"Just as I expected, you have mastered the Sword of
-the Creator.","Как и ожидалось, вы овладели Мечом Богини."
+the Creator.","Как и ожидалось, ты $EK00овладел$EL00овладела$EM00 Мечом Богини."
 11413,SUPPORT,"Now then, I shall tell you about your mission
-for the coming month...","А теперь, мне стоит рассказать вам о следующем
-задании..."
+for the coming month...","А теперь, мне стоит рассказать о следующем задании..."
 11413,SUPPORT,Rhe— Archbishop!,Ре... Архиепископ!
 11413,SUPPORT,"Seteth, what troubles you?","Сетес, что случилось?"
 11413,SUPPORT,Flayn is missing! I cannot find her anywhere!,Я нигде не могу найти Флэн!
@@ -70406,8 +70406,8 @@ I could not find her anywhere.","Я везде искал, где только �
 What am I to do?!","Она может быть в опасности. О-о...
 Что же мне делать?!"
 11413,SUPPORT,"Calm yourself, Seteth. Professor, we shall continue
-our discussion another time.","Сетес, возьми себя в руки... Давайте продолжим 
-наш разговор в другой раз."
+our discussion another time.","Сетес, возьми себя в руки... Продолжим наш разговор 
+в другой раз."
 11414,SUPPORT,"As I believe you are already aware, Seteth's younger
 sister, Flayn, has gone missing.","Как я понимаю, вы уже в курсе о том, что младшая
 сестра Сетеса, Флэн, пропала."
@@ -141546,8 +141546,7 @@ seriously after all!＠034020#00","[0004]Отлично, учитель. Пох�
 We will have to face you with our full might!＠034021#00","[0002]Меньшего я от вас и не ожидала, учитель.
 Мы тоже будем сражаться в полную силу!＠034021#00"
 12456,MAP,"[0035]If they're waiting in the forest, we'd do well to take
-a detour.＠034022#00","[0035]Если они ждут в лесу, то нам лучше пойти
-в обход.＠034022#00"
+a detour.＠034022#00","[0035]Если они ждут в лесу, то лучше пойти в обход.＠034022#00"
 12456,MAP,"[0035]The battle will be easier if we make full use of our
 formations. But be wary of the foe's formations
 as well.＠034023#00","[0035]Сражение пройдёт легче, если мы извлечем
@@ -141573,7 +141572,7 @@ need to train harder...＠034027#03","[0006]Я, законный наследн�
 12456,MAP,[0014]Ah—so strong! Have to do better next time...＠034030#03,[0014]Такая сила!.. В следующий раз я не проиграю!＠034030#03
 12456,MAP,[0016]Oh no... This is as far as I can go...＠034031#03,[0016]Ох-ох... я проиграла. Я больше не могу...＠034031#03
 12456,MAP,[0019]I've lost?! Oh! Unthinkable!＠034032#02,"[0019]Как я мог проиграть?.. Это всего лишь
-учебный бой, но всё равно досадно...＠034032#02"
+учебная битва, но всё равно досадно...＠034032#02"
 12456,MAP,[0021]I've lost. The new professor is quite a commander.＠034033#01,"[0021]Ха-ха, я проиграл. А новый учитель — неплохой командир.＠034033#01"
 12456,MAP,[0024]Ouch! Was that really necessary?＠034034#03,"[0024]Ой, всё! Просто оставьте меня в покое!＠034034#03"
 12456,MAP,"[0002]To think that the Black Eagle House could lose
@@ -144599,107 +144598,151 @@ We must destroy those golems, and quickly!＠035711#04","[0002]Вот каков
 можно быстрее уничтожить этих кукол!＠035711#04"
 12492,MAP,[0212]Now!＠036422#00,[0212]Сейчас!＠036422#00
 12492,MAP,[0212]At once!＠036423#00,[0212]По готовности!＠036423#00
-12493,MAP,[0030]Something is wrong. Do not let your guard down.＠035743#00,
+12493,MAP,[0030]Something is wrong. Do not let your guard down.＠035743#00,[0030]Что-то не так. Не теряйте бдительности.＠035743#00
 12493,MAP,"[0004]There's something there. Are those the devices
-that Rhea warned us about?＠035744#00",
+that Rhea warned us about?＠035744#00","[0004]Тут что-то есть. Это и есть те самые механизмы,
+о которых нас предупреждала Рея?＠035744#00"
 12493,MAP,"[0026]These are the guardians of the Holy Tomb. They
-will attack any intruders. We had better take care.＠035745#00",
+will attack any intruders. We had better take care.＠035745#00","[0026]Как я и думал... это стражи Священной Гробницы. Они нападут
+на любого нарушителя границ. Будьте осторожны.＠035745#00"
 12493,MAP,"[0030]Phantoms? And some are giving commands. Remove
-them from the battlefield immediately.＠035746#00",
+them from the battlefield immediately.＠035746#00","[0030]Это фантомы? Похоже, некоторые из них отдают
+приказы. Их необходимо убрать.＠035746#00"
 12493,MAP,"[0004]Those are the phantoms... And some of them are
-giving orders. Let's target those first.＠035747#00",
+giving orders. Let's target those first.＠035747#00","[0004]Похоже, это фантомы... и некоторые из них
+отдают приказы. Займёмся ими в первую очередь.＠035747#00"
 12493,MAP,"[0026]Rather excessive merely to deter thieves, isn't it?
-We should target those commanding phantoms.＠035748#00",
+We should target those commanding phantoms.＠035748#00","[0026]По-моему, для противодействия ворам это излишние меры...
+Нам следует избавиться от фантомов, отдающих приказы.＠035748#00"
 12493,MAP,"[0030]Mechanical beasts... Locate their puppet masters,
-and eliminate them!＠035749#00",
+and eliminate them!＠035749#00","[0030]Огромные марионетки... В первую очередь нужно
+избавиться от тех, кто управляет ими.＠035749#00"
 12493,MAP,"[0004]Giant monsters... It would be best to take care of
-whoever's controlling them straight away.＠035750#00",
+whoever's controlling them straight away.＠035750#00","[0004]Огромные чудища... Будет лучше всего немедленно
+избавиться от тех, кто ими управляет.＠035750#00"
 12493,MAP,"[0026]These phantoms are strengthening the golems.
-We must defeat the phantoms first.＠035751#00",
+We must defeat the phantoms first.＠035751#00","[0026]Среди фантомов есть кто-то, кто усиливает
+стражей. Сперва нужно расправиться с ними.＠035751#00"
 12493,MAP,"[0030]The puppets still move, but they appear 
-weaker. Destroying them should be easier now.＠035752#00",
+weaker. Destroying them should be easier now.＠035752#00","[0030]Марионетки всё ещё двигаются, но выглядят слабее. 
+Теперь избавиться от них должно быть проще.＠035752#00"
 12493,MAP,"[0004]Those giant monsters can still move, but they seem
-much weaker now. We should be able to finish them.＠035753#00",
+much weaker now. We should be able to finish them.＠035753#00","[0004]Огромные чудища всё ещё могут двигаться, но уже
+кажутся гораздо слабее. Теперь их можно одолеть.＠035753#00"
 12493,MAP,"[0026]That's reduced the golems' strength. Now is our
-chance to take them out.＠035754#00",
-12493,MAP,[0030]One down! Target the remaining commanders!＠035755#00,
+chance to take them out.＠035754#00","[0026]Проблема усиления стражей решена. Теперь у нас
+есть возможность от них избавиться.＠035754#00"
+12493,MAP,[0030]One down! Target the remaining commanders!＠035755#00,[0030]Один есть. Необходимо покончить с остальными командирами.＠035755#00
 12493,MAP,"[0004]They may be phantoms, but they can still be harmed.
-Let's take out the other commanders!＠035756#00",
+Let's take out the other commanders!＠035756#00","[0004]Хоть это и фантомы, но им можно навредить.
+Давайте разберёмся с остальными командирами.＠035756#00"
 12493,MAP,"[0026]That's one, but there are others. We need to handle
-all of these commanders.＠035757#00",
+all of these commanders.＠035757#00","[0026]Остались и другие фантомы-командиры. Необходимо
+избавиться от всех.＠035757#00"
 12493,MAP,"[0030]It's down. Well done. However, there are other 
-commanders still on the battlefield.＠035758#00",
+commanders still on the battlefield.＠035758#00","[0030]Готово. Отличная работа. Однако на поле боя
+остались ещё командиры.＠035758#00"
 12493,MAP,"[0004]OK, that's that. But there are still some
-commanders remaining.＠035759#00",
+commanders remaining.＠035759#00",[0004]Готово. Но остались и ещё командиры.＠035759#00
 12493,MAP,"[0026]There are still more commanding phantoms. 
-We must work together to bring them down.＠035760#00",
+We must work together to bring them down.＠035760#00","[0026]Всё ещё остались фантомы-командиры. Нам нужно
+сообща избавиться от них.＠035760#00"
 12493,MAP,"[0030]It seems all is safe. Let's find Lady Rhea's 
-treasure, quickly.＠035761#00",
+treasure, quickly.＠035761#00","[0030]Похоже, механизмы обезврежены. Давайте разыщем
+сокровище, оставленное леди Реей.＠035761#00"
 12493,MAP,"[0004]Looks like we made it through the madhouse.
-So where's this treasure that Rhea mentioned?＠035762#00",
+So where's this treasure that Rhea mentioned?＠035762#00","[0004]О, похоже, механизмы обезврежены. Итак,
+где же может быть сокровище Реи?..＠035762#00"
 12493,MAP,"[0026]We have subdued the Holy Tomb's guardians. Let us
-get what Rhea left behind so we can leave this place.＠035763#00",
-12493,MAP,[0030]Here! So this is Lady Rhea's treasure...＠035764#00,
+get what Rhea left behind so we can leave this place.＠035763#00","[0026]Стражи Священной Гробницы замолкли. Забираем то,
+что оставила Рея, и возвращаемся.＠035763#00"
+12493,MAP,[0030]Here! So this is Lady Rhea's treasure...＠035764#00,[0030]Нашёл. Так это и есть сокровище леди Реи...＠035764#00
 12493,MAP,"[0004]We finally found it. This must be...the treasure?
-Let's get out of here and take a look.＠035765#00",
-12493,MAP,[0026]Got it! Ah—this seems important.＠035766#00,
+Let's get out of here and take a look.＠035765#00","[0004]Ого-го. Это и есть сокровище? Давайте убедимся
+в этом, как вернёмся.＠035765#00"
+12493,MAP,[0026]Got it! Ah—this seems important.＠035766#00,[0026]Нашёл! Неужели она доверила вам это...＠035766#00
 12494,MAP,"[0005]It seems we are just in time. Any later, and
-Arianrhod may have been lost.＠035767#00",
-12494,MAP,[0005]Her Majesty was right to send me here.＠035768#00,
+Arianrhod may have been lost.＠035767#00","[0005]Хм, похоже, мы как раз вовремя. Замешкайся мы,
+и Арианрод был бы потерян.＠035767#00"
+12494,MAP,[0005]Her Majesty was right to send me here.＠035768#00,"[0005]Похоже, моя госпожа приняла верное решение,
+прислав меня сюда.＠035768#00"
 12494,MAP,"[0003]Hubert. So, you have come here in command of
-extra troops from the Imperial capital...＠035769#00",
+extra troops from the Imperial capital...＠035769#00","[0003]Хьюберт... привёл подкрепление из имперской
+столицы под своим командованием.＠035769#00"
 12494,MAP,"[0003]I had hoped to take the fort while it was poorly
-defended, but now...＠035770#00",
+defended, but now...＠035770#00","[0003]Я надеялся занять крепость, пока она плохо защищена...＠035770#00"
 12494,MAP,"[0003]Well, there is nothing to be done. We must defeat
-him and then take Arianrhod.＠035771#00",
+him and then take Arianrhod.＠035771#00","[0003]Ничего не поделать. Покончим с ним и возьмём
+Арианрод.＠035771#00"
 12494,MAP,"[0003]Traps have been set throughout Arianrhod to repel
-invaders who make it inside.＠035772#00",
+invaders who make it inside.＠035772#00","[0003]По всему Арианроду расположены ловушки для того, 
+чтобы помешать пробравшимся в город захватчикам.＠035772#00"
 12494,MAP,"[0003]If I remember correctly, there should be devices
 somewhere that let you deactivate the traps.
-However...＠035773#00",
+However...＠035773#00","[0003]Если я правильно помню, существуют устройства
+для деактивации ловушек. Но...＠035773#00"
 12494,MAP,"[0003]Arianrhod has been in Imperial hands for a while
-now. They may have changed how things work.＠035774#00",
+now. They may have changed how things work.＠035774#00","[0003]Арианрод уже давно в руках Империи.
+Они могли поменять, как всё работает.＠035774#00"
 12494,MAP,"[0003]But there's no point in dawdling. Let's just make a
-point to disable any devices we come across.＠035775#00",
+point to disable any devices we come across.＠035775#00","[0003]Но нет смысла размышлять. Придётся уничтожать
+устройства, которые мы найдём.＠035775#00"
 12494,MAP,"[0028]So what if they disable some old contraptions.
-It's no loss to us.＠035776#00",
-12494,MAP,[0028]The city's defenses are under my exclusive control.＠035777#00,
+It's no loss to us.＠035776#00","[0028]Даже если они уничтожили старые устройства,
+для нас это несущественная потеря.＠035776#00"
+12494,MAP,[0028]The city's defenses are under my exclusive control.＠035777#00,"[0028]Сейчас механизмы для защиты города находятся
+под моим единоличным управлением.＠035777#00"
 12494,MAP,"[0444]No luck, buddy. All the city's defenses are under
-my control!＠035778#00",
+my control!＠035778#00","[0444]Не повезло тебе. Все механизмы защиты этого
+города под моим контролем!＠035778#00"
 12494,MAP,"[0003]So, the system has been modified. The person
-operating the traps must be elsewhere...＠035779#00",
-12494,MAP,[0028]If I die for this new Empire...then I have no...regrets.＠035780#03,
+operating the traps must be elsewhere...＠035779#00","[0003]Как и ожидалась, работу механизмов поменяли.
+Похоже, оператор ловушек находится где-то ещё.＠035779#00"
+12494,MAP,[0028]If I die for this new Empire...then I have no...regrets.＠035780#03,[0028]Если я умру... ради новой Империи... то мне не жаль.＠035780#03
 12494,MAP,"[0003]Professor Hanneman... That should take care of
-the traps.＠035781#03",
-12494,MAP,[0003]That should take care of the traps.＠035782#00,
+the traps.＠035781#03","[0003]Учитель Ханнеман... ловушки больше не должны
+доставлять нам проблем.＠035781#03"
+12494,MAP,[0003]That should take care of the traps.＠035782#00,[0003]Ловушки больше не должны доставлять нам проблем.＠035782#00
 12494,MAP,"[0029]So, the Silver Maiden...will be my last stage?
-Heh... You know, that's...that's not too bad.＠035783#03",
+Heh... You know, that's...that's not too bad.＠035783#03","[0029]Серебряная Дева... здесь будет мой последний поклон?..
+Если так, то мне... не жаль...＠035783#03"
 12494,MAP,"[0003]Professor Manuela... At least we have stopped
-the reinforcements.＠035784#03",
-12494,MAP,[0003]Good. We've cut them off from their reinforcements.＠035785#00,
+the reinforcements.＠035784#03","[0003]Учитель Мануэла... по крайней мере мы разобрались
+с подкреплениями.＠035784#03"
+12494,MAP,[0003]Good. We've cut them off from their reinforcements.＠035785#00,[0003]Хорошо. Мы отрезали путь подкреплениям.＠035785#00
 12494,MAP,"[0005]Did you really think such a transparent maneuver
-would find me unprepared?＠035786#00",
-12494,MAP,[0005]Let this be your final lesson. Now!＠035787#00,
+would find me unprepared?＠035786#00","[0005]Вы правда считали, что я не буду готов к столь
+очевидному манёвру?＠035786#00"
+12494,MAP,[0005]Let this be your final lesson. Now!＠035787#00,"[0005]Может, вы хоть поумнеете ценой собственных жизней.
+Засада, в атаку.＠035787#00"
 12494,MAP,"[0003]He hid troops in that alleyway, did he? We'll just
-have to meet them head-on!＠035788#00",
+have to meet them head-on!＠035788#00","[0003]Значит, он спрятал войска в этой аллее.
+Придётся нанести встречный удар!＠035788#00"
 12494,MAP,"[0005]I suppose you thought defeating the troops outside
-the castle first would demoralize the ones within.＠035789#00",
+the castle first would demoralize the ones within.＠035789#00","[0005]Хе-хе... разделавшись с войсками за пределами
+замка, вы хотели деморализовать войска внутри замка?＠035789#00"
 12494,MAP,"[0005]Not such a bad idea, honestly. But you failed to
-account for me.＠035790#00",
-12494,MAP,[0003]Surprise reinforcements... We must defeat them.＠035791#00,
-12494,MAP,[0005]That's as far as I go... I'll withdraw...for now.＠035792#03,
+account for me.＠035790#00","[0005]Признаю, неплохая идея, но я не из тех,
+кто так просто это стерпит.＠035790#00"
+12494,MAP,[0003]Surprise reinforcements... We must defeat them.＠035791#00,"[0003]Засада. Это неприятно, но... подкрепления обязательно
+нужно разгромить.＠035791#00"
+12494,MAP,[0005]That's as far as I go... I'll withdraw...for now.＠035792#03,[0005]Больше не могу... Пока что я отступлю.＠035792#03
 12494,MAP,"[0028]If Hubert is gone, then I see no reason to remain.
-Time to go.＠035793#00",
+Time to go.＠035793#00","[0028]Похоже, Хьюберт отступил. Значит, и мне нет смысла
+оставаться здесь.＠035793#00"
 12494,MAP,"[0029]I've never been one to fight to the death. I'll make a
-graceful exit while I still can.＠035794#00",
+graceful exit while I still can.＠035794#00","[0029]Сражаться до конца — это не ко мне. Я удалюсь,
+пока всё ещё могу.＠035794#00"
 12494,MAP,"[0445]Lord Hubert was defeated?! Hm... Retreat!
-Sound the retreat!＠035795#00",
-12494,MAP,[0003]The Empire troops are withdrawing... This is it.＠035796#00,
+Sound the retreat!＠035795#00",[0445]Лорд Хьюберт побеждён?! Гх... Отступаем! Отступаем!＠035795#00
+12494,MAP,[0003]The Empire troops are withdrawing... This is it.＠035796#00,[0003]Войска Империи уходят... вот и всё.＠035796#00
 12494,MAP,"[0003]We failed to get Hubert, but at least we have
-recaptured Arianrhod.＠035797#00",
+recaptured Arianrhod.＠035797#00","[0003]Нам не удалось достать Хьюберта, но по крайней мере,
+мы вернули Арианрод.＠035797#00"
 12494,MAP,"[0003]Let's clean up the wreckage and return
-to Garreg Mach.＠035798#00",
-12494,MAP,"[0003]Well done, everyone! The day is ours!＠035799#00",
+to Garreg Mach.＠035798#00","[0003]Давайте вернёмся в Гаррег Мах, как только
+оставим распоряжения.＠035798#00"
+12494,MAP,"[0003]Well done, everyone! The day is ours!＠035799#00",[0003]Все славно поработали! Победа за нами!＠035799#00
 12495,MAP,"[0002]It seems we made it in time. Let's help the soldiers
 of House Goneril withdraw.＠035813#00",
 12495,MAP,"[0002]The Black Eagle Strike Force will protect
@@ -194121,7 +194164,7 @@ receive a schedule for the month ahead.","В конце каждого меся�
 Офицерской академии получают расписание
 на следующий месяц."
 3,MSGDATA,"It notes the days on which events and missions
-will take place that month.","В нём расписаны все активности и задания, 
+will take place that month.","В нём указаны все активности и задания, 
 которые будут происходить в этом месяце."
 3,MSGDATA,"Pay careful attention to your schedule so that you
 may thoughtfully plan what you intend to do
