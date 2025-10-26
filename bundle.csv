@@ -9339,7 +9339,7 @@ both King Dimitri and Archbishop Rhea.","Решающая битва уже не
 0,MSGDATA,Eternal Guardian,Вечный защитник
 0,MSGDATA,The Silver Maiden,Серебрянная дева
 0,MSGDATA,Insurmountable,Непреодолимый
-0,MSGDATA,The Sleeping Sand Legend,Легенда об Усыпляющем песке
+0,MSGDATA,The Sleeping Sand Legend,Легенда о Спящем в песке
 0,MSGDATA,Tales of the Red Canyon,Сказания о Красном каньоне
 0,MSGDATA,War for the Weak,Недельная война
 0,MSGDATA,True Chivalry,Истинный рыцарь
@@ -27695,7 +27695,7 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 • Слушать людей"
 0,MSGDATA,"• Reading
 • Solitary exploration","• Чтение
-• Одинокое созерцание"
+• Гулять в одиночку"
 0,MSGDATA,"• Battle training
 • Weapon maintenance","• Боевая подготовка
 • Уход за оружием"
@@ -27703,8 +27703,8 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 • Planning feasts","• Схематизация тактик
 • Планирование праздников"
 0,MSGDATA,"• Strategy and tactics research
-• Protecting Edelgard","• Исследование стратегии и тактики
-• Защита Эдельгард"
+• Protecting Edelgard","• Изучение стратегии и тактики
+• Присматривать за Эдельгард"
 0,MSGDATA,"• Being noble
 • Collecting armor","• Источать благородство
 • Коллекционирование доспехов"
@@ -27712,14 +27712,13 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 • Crest research","• Сон
 • Исследование Гербов"
 0,MSGDATA,"• Training
-• Early mornings and quick breakfasts","• Тренировки
-• Раннее утро и быстрые завтраки"
+• Early mornings and quick breakfasts","• Физическая подготовка
+• Рано вставать и быстро есть"
 0,MSGDATA,"• Knitting and embroidery
 • Writing and illustrating novels","• Вязание и вышивка
 • Писать и иллюстрировать романы"
 0,MSGDATA,"• Singing
-• A bit of everything","• Пение
-• Всего понемногу"
+• A bit of everything",• Ничего особенного
 0,MSGDATA,"• Hunting and hide tanning
 • Studying","• Охота и выделка шкур
 • Учёба"
@@ -27825,19 +27824,20 @@ going for long rides, physically laborious work","Боевые действия,
 физ. тренировки, долгие поездки, тяжелый труд"
 0,MSGDATA,"Feasts, long rides, archery, topics of curiosity","Праздники, долгие поездки, стрельба из лука, 
 темы для любопытства"
-0,MSGDATA,"Irony, coffee, intelligence, useful people","Ирония, кофе, интеллект, полезные люди"
+0,MSGDATA,"Irony, coffee, intelligence, useful people","Ирония, кофе, полезные Эдельгард люди, 
+умные люди"
 0,MSGDATA,"Horseback riding, tea, justice, being noble, heights","Верховая езда, чай, правосудие, благородство, 
 новые высоты"
 0,MSGDATA,"Sleeping in, midday naps, reading, fishing,
-sweets, freedom","Спать, полуденные сны, читать, рыбачить,
+sweets, freedom","Дневной сон, поздно вставать, чтение, рыбалка,
 сладости, свобода"
-0,MSGDATA,"Fighting, training, vanquishing evil","Сражения, тренировки, искоренение зла"
+0,MSGDATA,"Fighting, training, vanquishing evil","Драки, тренировки, искоренение зла"
 0,MSGDATA,"Reading, drawing, music, embroidery, unusual creatures,
-stuffed animals, solitude","Чтение, рисование, музыка, вышивание, необычные
-существа, чучела животных, одиночество"
+stuffed animals, solitude","Чтение, рисование, музыка, вышивание, редкие 
+растения, мягкие игрушки, уединение"
 0,MSGDATA,"Singing, acting, music, decorative ornaments and
-accessories, small animals","Пение, актерство, музыка, декоративные
-украшения и аксессуары, маленькие животные"
+accessories, small animals","Пение, музыка, актёрское мастерство, украшения,
+маленькие животные"
 0,MSGDATA,"Swimming in the ocean, sunshine, climbing trees,
 family, her homeland","Плавание в океане, солнце, лазанье по деревьям,
 семья, её родина"
@@ -27909,7 +27909,7 @@ refreshing beverages","Пение, танцы, приготовление пищ
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,"Outdated values, Crests, rats, chains, swimming,
 losing control","Устаревшие ценности, Гербы, крысы, цепи,
-плавание, терять контроль"
+плавание, терять самообладание"
 0,MSGDATA,"Delicate work, fragile objects, scorching heat,
 selfish people","Тонкая работа, хрупкие предметы, палящий
 зной, эгоисты"
@@ -27917,15 +27917,14 @@ selfish people","Тонкая работа, хрупкие предметы, п�
 being bound by common sense","Слепая надежда на богов, оставлять всё на волю
 случая, быть связанным здравым смыслом"
 0,MSGDATA,"The Church of Seiros, those who bother Edelgard,
-gambling, heights, nostalgia, laziness","Церковь Сейрос, те, кто докучает Эдельгард,
-азартные игры, высоты, ностальгия, лень"
-0,MSGDATA,"Slothfulness, nobles who are not noble","Леность, неблагородная знать"
+gambling, heights, nostalgia, laziness","Церковь Сейрос, азартные игры, высота, предаваться
+воспоминаниям, докучающие Эдельгард люди, глупцы"
+0,MSGDATA,"Slothfulness, nobles who are not noble","Леность, неблагородно ведущая себя знать"
 0,MSGDATA,"Fighting, blood, weapons, duty, self-restraint,
-politics, ghosts","Драки, кровь, оружие, долг, самоограничение,
-политика, призраки"
-0,MSGDATA,"Liars, injustice, wasting time, the rain","Лжецы, несправедливость, тратить время, дождь"
-0,MSGDATA,"Speaking to people, imposing figures, overbearing fathers","Говорить с людьми, внушительные люди,
-властные отцы"
+politics, ghosts","Драки, кровь, оружие, трудолюбие, обязанности,
+ограничения, политика, призраки"
+0,MSGDATA,"Liars, injustice, wasting time, the rain","Ложь, несправедливость, сидеть без дела, дождь"
+0,MSGDATA,"Speaking to people, imposing figures, overbearing fathers","Общение с людьми, грозные люди, её отец"
 0,MSGDATA,"Arrogant nobles, herself","Высокомерная знать, она сама"
 0,MSGDATA,"Mathematics, idleness, discrimination","Математика, безделье, дискриминация"
 0,MSGDATA,Anyone who attempts to harm Dimitri,"Любой, кто пытается навредить Дмитрию"
@@ -36120,8 +36119,8 @@ exploration has increased!","Число $C1очков активности$R д�
 0,MSGDATA,The Silver Maiden: After Battle,Серебряная дева: После битвы
 0,MSGDATA,Insurmountable: Before Battle,Непреодолимый: Перед битвой
 0,MSGDATA,Insurmountable: After Battle,Непреодолимый: После битвы
-0,MSGDATA,The Sleeping Sand Legend: Before Battle,Легенда об Усыпляющем песке: Перед битвой
-0,MSGDATA,The Sleeping Sand Legend: After Battle,Легенда об Усыпляющем песке: После битвы
+0,MSGDATA,The Sleeping Sand Legend: Before Battle,Легенда о Спящем в песке: Перед битвой
+0,MSGDATA,The Sleeping Sand Legend: After Battle,Легенда о Спящем в песке: После битвы
 0,MSGDATA,Tales of the Red Canyon: Before Battle,Легенды о Красном Каньоне: Перед битвой
 0,MSGDATA,Tales of the Red Canyon: After Battle,Легенды о Красном Каньоне: После битвы
 0,MSGDATA,War for the Weak: Before Battle,Война для Слабых: Перед битвой
@@ -58958,8 +58957,8 @@ you become a professor...","Вам следует поговорить с каж
 1,MSGDATA,"Speak to the three house leaders and gather information
 about the students in each house. The students can be
 found in the reception hall on the first floor and
-throughout the Officers Academy.","Поговорите с лидерами трёх домов и соберите информацию
-о студентах каждого дома. Студентов можно найти в зале
+throughout the Officers Academy.","Поговорите со старостами трёх домов и разузнайте о 
+студентах каждого дома. Студентов можно найти в зале
 встреч на первом этаже и по всей Офицерской академии."
 1,MSGDATA,"You should speak with every student you can. This might
 be your only chance to see what they're really like,
@@ -58973,7 +58972,7 @@ and the student body.","Новому персоналу: пожалуйста, �
 с территорией монастыря и составом студентов."
 1,MSGDATA,カレンダーメッセージ０００,カレンダーメッセージ０００
 1,MSGDATA,Accept the quest from Rhea.,Примите задание Реи.
-1,MSGDATA,Speak to the three house leaders.,Поговорите с лидерами трёх домов.
+1,MSGDATA,Speak to the three house leaders.,Поговорите со старостами трёх домов.
 1,MSGDATA,Report to Rhea.,Сообщите Рее.
 1,MSGDATA,"They need help taking care of the horses. And more help 
 over at the fishing spot too. I'm helping out, but I have to
@@ -61347,8 +61346,8 @@ try visiting each house's homeroom.","Вы отвечаете за выбор д
 1,MSGDATA,"Speak to the three house leaders and gather information
 about the students in each house. The students can be
 found in the reception hall on the first floor and
-throughout the Officers Academy.","Поговорите с лидерами трёх домов и соберите информацию
-о студентах каждого дома. Студентов можно найти в зале
+throughout the Officers Academy.","Поговорите со старостами трёх домов и разузнайте о 
+студентах каждого дома. Студентов можно найти в зале
 встреч на первом этаже и по всей Офицерской академии."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -160841,7 +160840,7 @@ rebuild Fódlan and rule it as a single nation.","Теперь нам нужен
 Adrestian emperor...","И всё же меня огорчает, что у нас не будет
 императора Адрастеи..."
 12784,SUPPORT,Five years ago...Edelgard said a thing to me.,Пять лет назад... Эдельгард мне кое-что сказала.
-12784,SUPPORT,Brigid is a vassal of the Empire.,Бриджит – имперский вассал.
+12784,SUPPORT,Brigid is a vassal of the Empire.,Бригид — вассал Империи.
 12784,SUPPORT,"But she also said I always have the freedom to be
 choosing whether I am with or not with her.","Но она ещё сказала, что я свободна выбирать
 с ней я буду иди нет."
@@ -162199,7 +162198,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12787,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12787,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -162296,7 +162295,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12787,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12787,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12787,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12787,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12787,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -165768,7 +165767,7 @@ rebuild Fódlan and rule it as a single nation.","Теперь нам нужен
 Adrestian emperor...","И всё же меня огорчает, что у нас не будет
 императора Адрастеи..."
 12795,SUPPORT,Five years ago...Edelgard said a thing to me.,Пять лет назад... Эдельгард мне кое-что сказала.
-12795,SUPPORT,Brigid is a vassal of the Empire.,Бриджит – имперский вассал.
+12795,SUPPORT,Brigid is a vassal of the Empire.,Бригид — вассал Империи.
 12795,SUPPORT,"But she also said I always have the freedom to be
 choosing whether I am with or not with her.","Но она ещё сказала, что я свободна выбирать
 с ней я буду иди нет."
@@ -168575,7 +168574,7 @@ rebuild Fódlan and rule it as a single nation.","Теперь нам нужен
 Adrestian emperor...","И всё же меня огорчает, что у нас не будет
 императора Адрастеи..."
 12801,SUPPORT,Five years ago...Edelgard said a thing to me.,Пять лет назад... Эдельгард мне кое-что сказала.
-12801,SUPPORT,Brigid is a vassal of the Empire.,Бриджит – имперский вассал.
+12801,SUPPORT,Brigid is a vassal of the Empire.,Бригид — вассал Империи.
 12801,SUPPORT,"But she also said I always have the freedom to be
 choosing whether I am with or not with her.","Но она ещё сказала, что я свободна выбирать
 с ней я буду иди нет."
@@ -169934,7 +169933,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12804,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12804,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -170031,7 +170030,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12804,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12804,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12804,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12804,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12804,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -170205,7 +170204,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12805,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12805,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -170302,7 +170301,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12805,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12805,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12805,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12805,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12805,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -170476,7 +170475,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12806,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12806,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -170573,7 +170572,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12806,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12806,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12806,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12806,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12806,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -170747,7 +170746,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12807,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12807,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -170844,7 +170843,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12807,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12807,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12807,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12807,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12807,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -171018,7 +171017,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12808,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12808,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -171115,7 +171114,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12808,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12808,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12808,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12808,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12808,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -171289,7 +171288,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12809,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12809,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -171386,7 +171385,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12809,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12809,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12809,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12809,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12809,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -171560,7 +171559,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12810,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12810,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -171657,7 +171656,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12810,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12810,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12810,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12810,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12810,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -171831,7 +171830,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12811,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12811,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -171928,7 +171927,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12811,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12811,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12811,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12811,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12811,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -172102,7 +172101,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12812,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12812,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -172199,7 +172198,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12812,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12812,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12812,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12812,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12812,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -172373,7 +172372,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12813,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12813,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -172470,7 +172469,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12813,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12813,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12813,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12813,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12813,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -172644,7 +172643,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12814,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12814,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -172741,7 +172740,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12814,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12814,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12814,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12814,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12814,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -172915,7 +172914,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12815,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12815,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -173012,7 +173011,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12815,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12815,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12815,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12815,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12815,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -173186,7 +173185,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12816,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12816,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -173283,7 +173282,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12816,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12816,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12816,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12816,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12816,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -173457,7 +173456,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12817,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12817,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -173554,7 +173553,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12817,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12817,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12817,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12817,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12817,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -173728,7 +173727,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12818,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12818,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -173825,7 +173824,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12818,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12818,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12818,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12818,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12818,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -173999,7 +173998,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12819,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12819,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -174096,7 +174095,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12819,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12819,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12819,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12819,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12819,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -174270,7 +174269,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12820,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12820,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -174367,7 +174366,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12820,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12820,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12820,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12820,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12820,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -174543,7 +174542,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12823,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12823,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -174640,7 +174639,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12823,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12823,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12823,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12823,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12823,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -174814,7 +174813,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12824,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12824,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -174911,7 +174910,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12824,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12824,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12824,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12824,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12824,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -175085,7 +175084,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12825,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12825,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -175182,7 +175181,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12825,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12825,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12825,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12825,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12825,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -175356,7 +175355,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12826,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12826,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -175453,7 +175452,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12826,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12826,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12826,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12826,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12826,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -175627,7 +175626,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12827,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12827,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -175724,7 +175723,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12827,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12827,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12827,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12827,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12827,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -175898,7 +175897,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12828,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12828,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -175995,7 +175994,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12828,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12828,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12828,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12828,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12828,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -176169,7 +176168,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12829,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12829,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -176266,7 +176265,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12829,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12829,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12829,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12829,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12829,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -176440,7 +176439,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12830,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12830,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -176537,7 +176536,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12830,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12830,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12830,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12830,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12830,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -176716,7 +176715,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12836,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12836,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -176813,7 +176812,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12836,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12836,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12836,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12836,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12836,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -176987,7 +176986,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12837,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12837,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -177084,7 +177083,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12837,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12837,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12837,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12837,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12837,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -177258,7 +177257,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12838,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12838,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -177355,7 +177354,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12838,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12838,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12838,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12838,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12838,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -177529,7 +177528,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12839,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12839,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -177626,7 +177625,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12839,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12839,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12839,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12839,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12839,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -177800,7 +177799,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12840,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12840,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -177897,7 +177896,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12840,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12840,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12840,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12840,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12840,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -178590,7 +178589,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12842,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12842,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -178687,7 +178686,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12842,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12842,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12842,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12842,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12842,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -178861,7 +178860,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12843,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12843,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -178958,7 +178957,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12843,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12843,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12843,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12843,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12843,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -179132,7 +179131,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12844,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12844,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -179229,7 +179228,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12844,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12844,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12844,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12844,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12844,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -179403,7 +179402,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12845,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12845,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -179500,7 +179499,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12845,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12845,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12845,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12845,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12845,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -179674,7 +179673,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12846,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12846,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -179771,7 +179770,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12846,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12846,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12846,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12846,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12846,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -179945,7 +179944,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12847,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12847,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -180042,7 +180041,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12847,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12847,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12847,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12847,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12847,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -180216,7 +180215,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12848,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12848,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -180313,7 +180312,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12848,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12848,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12848,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12848,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12848,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -180487,7 +180486,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12849,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12849,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -180584,7 +180583,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12849,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12849,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12849,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12849,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12849,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -180758,7 +180757,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12850,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12850,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -180855,7 +180854,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12850,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12850,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12850,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12850,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12850,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -181029,7 +181028,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12851,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12851,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -181126,7 +181125,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12851,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12851,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12851,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12851,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12851,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -181300,7 +181299,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12852,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12852,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -181397,7 +181396,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12852,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12852,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12852,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12852,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12852,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -181571,7 +181570,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12853,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12853,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -181668,7 +181667,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12853,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12853,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12853,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12853,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12853,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -181842,7 +181841,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12854,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12854,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -181939,7 +181938,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12854,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12854,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12854,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12854,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12854,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -182113,7 +182112,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12855,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12855,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -182210,7 +182209,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12855,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12855,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12855,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12855,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12855,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -182384,7 +182383,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12856,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12856,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -182481,7 +182480,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12856,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12856,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12856,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12856,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12856,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -182655,7 +182654,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12857,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12857,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -182752,7 +182751,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12857,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12857,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12857,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12857,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12857,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -182926,7 +182925,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12858,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12858,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -183023,7 +183022,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12858,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12858,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12858,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12858,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12858,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -183197,7 +183196,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12859,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12859,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -183294,7 +183293,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12859,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12859,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12859,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12859,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12859,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -183468,7 +183467,7 @@ to study in the Empire.","О, а это уважаемая Петра — она
 Fódlan terms, she would be called heir to the throne.","По правде говоря, она — принцесса. В Фодлане она
 по праву считается наследницей престола Бригида."
 12860,SUPPORT,"Hello. I am called Petra. I am pleased to be meeting
-with...no, I am pleased to have met you.","Моё имя Петра. Здравствуйте. Рада вас узнать."
+with...no, I am pleased to have met you.",Моё имя Петра. Здравствуйте. Рада вас узнать.
 12860,SUPPORT,"Please accept my apologies for the other day.
 You came to our aid, yet I hadn't even the
 courtesy to properly introduce myself.","Прошу, примите мои извинения за случившееся ранее.
@@ -183565,7 +183564,7 @@ greatest apprentice! I'm sure he's told you about me?","Я Леони Пинел
 you again?",А я Рафаэль Кирстен. Так вы всё-таки кто?
 12860,SUPPORT,"So you're the skilled mercenary who saved Claude,
 are you?","Значит, это вы тот умелый наёмник, что спас Клода?"
-12860,SUPPORT,"Oh, you are? It's such an honor to meet you!","Что? Правда? Для меня честь познакомиться с вами!"
+12860,SUPPORT,"Oh, you are? It's such an honor to meet you!",Что? Правда? Для меня честь познакомиться с вами!
 12860,SUPPORT,Ignatz Victor. My parents are Alliance merchants.,Я Игнац Виктор. Мои родители — купцы из Альянса.
 12860,SUPPORT,"And I am Lysithea von Ordelia. Please do not
 forget it.",А я Лиситея фон Корделия. Рада познакомиться с вами.
@@ -184144,7 +184143,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12865,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12865,SUPPORT,Is it true?,Это правда?
 12865,SUPPORT,Need more sleep...,Нужно поспать...
-12865,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12865,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12865,SUPPORT,Um...,Эм...
 12865,SUPPORT,I am most grateful.,Я благодарен.
 12865,SUPPORT,I am pleased...,Я рада...
@@ -184168,7 +184167,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12865,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12865,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12865,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12865,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12865,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12865,SUPPORT,Who are you?,Кто вы?
 12865,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12865,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -184189,7 +184188,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12865,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12865,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12865,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12865,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12865,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12865,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12865,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12865,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -185426,7 +185425,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12891,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12891,SUPPORT,Is it true?,Это правда?
 12891,SUPPORT,Need more sleep...,Нужно поспать...
-12891,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12891,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12891,SUPPORT,Um...,Эм...
 12891,SUPPORT,I am most grateful.,Я благодарен.
 12891,SUPPORT,I am pleased...,Я рада...
@@ -185450,7 +185449,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12891,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12891,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12891,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12891,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12891,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12891,SUPPORT,Who are you?,Кто вы?
 12891,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12891,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -185471,7 +185470,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12891,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12891,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12891,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12891,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12891,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12891,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12891,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12891,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -185909,7 +185908,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12899,SUPPORT,Come back in one piece.,Вернитесь целыми и невредимыми.
 12899,SUPPORT,The Margraves are heartless.,Маркграфы бессердечны.
 12899,SUPPORT,I hope my friends are safe in the fort.,"Надеюсь, мои друзья в форте в безопасности."
-12899,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12899,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12899,SUPPORT,I'm praying for you.,Я молюсь за вас.
 12899,SUPPORT,You won't lose... Right?,"Вы не проиграете, да?"
 12899,SUPPORT,Take care of Lady Rhea.,Позаботьтесь о леди Рее.
@@ -186323,7 +186322,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12908,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12908,SUPPORT,Is it true?,Это правда?
 12908,SUPPORT,Need more sleep...,Нужно поспать...
-12908,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12908,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12908,SUPPORT,Um...,Эм...
 12908,SUPPORT,I am most grateful.,Я благодарен.
 12908,SUPPORT,I am pleased...,Я рада...
@@ -186347,7 +186346,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12908,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12908,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12908,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12908,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12908,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12908,SUPPORT,Who are you?,Кто вы?
 12908,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12908,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186368,7 +186367,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12908,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12908,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12908,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12908,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12908,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12908,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12908,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12908,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186386,7 +186385,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12909,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12909,SUPPORT,Is it true?,Это правда?
 12909,SUPPORT,Need more sleep...,Нужно поспать...
-12909,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12909,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12909,SUPPORT,Um...,Эм...
 12909,SUPPORT,I am most grateful.,Я благодарен.
 12909,SUPPORT,I am pleased...,Я рада...
@@ -186410,7 +186409,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12909,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12909,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12909,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12909,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12909,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12909,SUPPORT,Who are you?,Кто вы?
 12909,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12909,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186431,7 +186430,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12909,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12909,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12909,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12909,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12909,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12909,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12909,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12909,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186449,7 +186448,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12910,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12910,SUPPORT,Is it true?,Это правда?
 12910,SUPPORT,Need more sleep...,Нужно поспать...
-12910,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12910,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12910,SUPPORT,Um...,Эм...
 12910,SUPPORT,I am most grateful.,Я благодарен.
 12910,SUPPORT,I am pleased...,Я рада...
@@ -186473,7 +186472,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12910,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12910,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12910,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12910,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12910,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12910,SUPPORT,Who are you?,Кто вы?
 12910,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12910,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186494,7 +186493,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12910,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12910,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12910,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12910,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12910,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12910,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12910,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12910,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186512,7 +186511,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12911,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12911,SUPPORT,Is it true?,Это правда?
 12911,SUPPORT,Need more sleep...,Нужно поспать...
-12911,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12911,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12911,SUPPORT,Um...,Эм...
 12911,SUPPORT,I am most grateful.,Я благодарен.
 12911,SUPPORT,I am pleased...,Я рада...
@@ -186536,7 +186535,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12911,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12911,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12911,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12911,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12911,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12911,SUPPORT,Who are you?,Кто вы?
 12911,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12911,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186557,7 +186556,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12911,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12911,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12911,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12911,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12911,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12911,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12911,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12911,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186575,7 +186574,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12912,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12912,SUPPORT,Is it true?,Это правда?
 12912,SUPPORT,Need more sleep...,Нужно поспать...
-12912,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12912,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12912,SUPPORT,Um...,Эм...
 12912,SUPPORT,I am most grateful.,Я благодарен.
 12912,SUPPORT,I am pleased...,Я рада...
@@ -186599,7 +186598,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12912,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12912,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12912,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12912,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12912,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12912,SUPPORT,Who are you?,Кто вы?
 12912,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12912,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186620,7 +186619,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12912,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12912,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12912,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12912,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12912,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12912,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12912,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12912,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186638,7 +186637,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12913,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12913,SUPPORT,Is it true?,Это правда?
 12913,SUPPORT,Need more sleep...,Нужно поспать...
-12913,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12913,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12913,SUPPORT,Um...,Эм...
 12913,SUPPORT,I am most grateful.,Я благодарен.
 12913,SUPPORT,I am pleased...,Я рада...
@@ -186662,7 +186661,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12913,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12913,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12913,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12913,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12913,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12913,SUPPORT,Who are you?,Кто вы?
 12913,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12913,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186683,7 +186682,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12913,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12913,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12913,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12913,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12913,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12913,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12913,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12913,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186701,7 +186700,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12914,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12914,SUPPORT,Is it true?,Это правда?
 12914,SUPPORT,Need more sleep...,Нужно поспать...
-12914,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12914,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12914,SUPPORT,Um...,Эм...
 12914,SUPPORT,I am most grateful.,Я благодарен.
 12914,SUPPORT,I am pleased...,Я рада...
@@ -186725,7 +186724,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12914,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12914,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12914,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12914,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12914,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12914,SUPPORT,Who are you?,Кто вы?
 12914,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12914,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186746,7 +186745,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12914,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12914,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12914,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12914,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12914,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12914,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12914,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12914,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186764,7 +186763,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12915,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12915,SUPPORT,Is it true?,Это правда?
 12915,SUPPORT,Need more sleep...,Нужно поспать...
-12915,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12915,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12915,SUPPORT,Um...,Эм...
 12915,SUPPORT,I am most grateful.,Я благодарен.
 12915,SUPPORT,I am pleased...,Я рада...
@@ -186788,7 +186787,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12915,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12915,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12915,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12915,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12915,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12915,SUPPORT,Who are you?,Кто вы?
 12915,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12915,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186809,7 +186808,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12915,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12915,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12915,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12915,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12915,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12915,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12915,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12915,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186827,7 +186826,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12916,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12916,SUPPORT,Is it true?,Это правда?
 12916,SUPPORT,Need more sleep...,Нужно поспать...
-12916,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12916,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12916,SUPPORT,Um...,Эм...
 12916,SUPPORT,I am most grateful.,Я благодарен.
 12916,SUPPORT,I am pleased...,Я рада...
@@ -186851,7 +186850,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12916,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12916,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12916,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12916,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12916,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12916,SUPPORT,Who are you?,Кто вы?
 12916,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12916,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186872,7 +186871,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12916,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12916,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12916,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12916,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12916,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12916,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12916,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12916,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186890,7 +186889,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12917,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12917,SUPPORT,Is it true?,Это правда?
 12917,SUPPORT,Need more sleep...,Нужно поспать...
-12917,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12917,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12917,SUPPORT,Um...,Эм...
 12917,SUPPORT,I am most grateful.,Я благодарен.
 12917,SUPPORT,I am pleased...,Я рада...
@@ -186914,7 +186913,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12917,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12917,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12917,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12917,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12917,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12917,SUPPORT,Who are you?,Кто вы?
 12917,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12917,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186935,7 +186934,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12917,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12917,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12917,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12917,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12917,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12917,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12917,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12917,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -186953,7 +186952,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12918,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12918,SUPPORT,Is it true?,Это правда?
 12918,SUPPORT,Need more sleep...,Нужно поспать...
-12918,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12918,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12918,SUPPORT,Um...,Эм...
 12918,SUPPORT,I am most grateful.,Я благодарен.
 12918,SUPPORT,I am pleased...,Я рада...
@@ -186977,7 +186976,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12918,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12918,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12918,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12918,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12918,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12918,SUPPORT,Who are you?,Кто вы?
 12918,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12918,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -186998,7 +186997,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12918,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12918,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12918,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12918,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12918,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12918,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12918,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12918,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187016,7 +187015,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12919,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12919,SUPPORT,Is it true?,Это правда?
 12919,SUPPORT,Need more sleep...,Нужно поспать...
-12919,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12919,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12919,SUPPORT,Um...,Эм...
 12919,SUPPORT,I am most grateful.,Я благодарен.
 12919,SUPPORT,I am pleased...,Я рада...
@@ -187040,7 +187039,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12919,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12919,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12919,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12919,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12919,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12919,SUPPORT,Who are you?,Кто вы?
 12919,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12919,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187061,7 +187060,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12919,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12919,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12919,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12919,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12919,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12919,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12919,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12919,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187079,7 +187078,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12920,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12920,SUPPORT,Is it true?,Это правда?
 12920,SUPPORT,Need more sleep...,Нужно поспать...
-12920,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12920,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12920,SUPPORT,Um...,Эм...
 12920,SUPPORT,I am most grateful.,Я благодарен.
 12920,SUPPORT,I am pleased...,Я рада...
@@ -187103,7 +187102,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12920,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12920,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12920,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12920,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12920,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12920,SUPPORT,Who are you?,Кто вы?
 12920,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12920,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187124,7 +187123,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12920,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12920,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12920,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12920,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12920,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12920,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12920,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12920,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187142,7 +187141,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12921,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12921,SUPPORT,Is it true?,Это правда?
 12921,SUPPORT,Need more sleep...,Нужно поспать...
-12921,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12921,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12921,SUPPORT,Um...,Эм...
 12921,SUPPORT,I am most grateful.,Я благодарен.
 12921,SUPPORT,I am pleased...,Я рада...
@@ -187166,7 +187165,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12921,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12921,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12921,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12921,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12921,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12921,SUPPORT,Who are you?,Кто вы?
 12921,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12921,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187187,7 +187186,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12921,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12921,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12921,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12921,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12921,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12921,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12921,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12921,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187205,7 +187204,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12922,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12922,SUPPORT,Is it true?,Это правда?
 12922,SUPPORT,Need more sleep...,Нужно поспать...
-12922,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12922,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12922,SUPPORT,Um...,Эм...
 12922,SUPPORT,I am most grateful.,Я благодарен.
 12922,SUPPORT,I am pleased...,Я рада...
@@ -187229,7 +187228,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12922,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12922,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12922,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12922,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12922,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12922,SUPPORT,Who are you?,Кто вы?
 12922,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12922,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187250,7 +187249,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12922,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12922,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12922,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12922,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12922,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12922,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12922,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12922,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187268,7 +187267,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12923,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12923,SUPPORT,Is it true?,Это правда?
 12923,SUPPORT,Need more sleep...,Нужно поспать...
-12923,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12923,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12923,SUPPORT,Um...,Эм...
 12923,SUPPORT,I am most grateful.,Я благодарен.
 12923,SUPPORT,I am pleased...,Я рада...
@@ -187292,7 +187291,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12923,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12923,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12923,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12923,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12923,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12923,SUPPORT,Who are you?,Кто вы?
 12923,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12923,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187313,7 +187312,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12923,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12923,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12923,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12923,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12923,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12923,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12923,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12923,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187331,7 +187330,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12924,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12924,SUPPORT,Is it true?,Это правда?
 12924,SUPPORT,Need more sleep...,Нужно поспать...
-12924,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12924,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12924,SUPPORT,Um...,Эм...
 12924,SUPPORT,I am most grateful.,Я благодарен.
 12924,SUPPORT,I am pleased...,Я рада...
@@ -187355,7 +187354,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12924,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12924,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12924,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12924,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12924,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12924,SUPPORT,Who are you?,Кто вы?
 12924,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12924,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187376,7 +187375,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12924,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12924,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12924,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12924,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12924,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12924,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12924,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12924,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187403,7 +187402,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12927,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12927,SUPPORT,Is it true?,Это правда?
 12927,SUPPORT,Need more sleep...,Нужно поспать...
-12927,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12927,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12927,SUPPORT,Um...,Эм...
 12927,SUPPORT,I am most grateful.,Я благодарен.
 12927,SUPPORT,I am pleased...,Я рада...
@@ -187427,7 +187426,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12927,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12927,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12927,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12927,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12927,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12927,SUPPORT,Who are you?,Кто вы?
 12927,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12927,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187448,7 +187447,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12927,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12927,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12927,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12927,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12927,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12927,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12927,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12927,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187466,7 +187465,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12928,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12928,SUPPORT,Is it true?,Это правда?
 12928,SUPPORT,Need more sleep...,Нужно поспать...
-12928,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12928,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12928,SUPPORT,Um...,Эм...
 12928,SUPPORT,I am most grateful.,Я благодарен.
 12928,SUPPORT,I am pleased...,Я рада...
@@ -187490,7 +187489,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12928,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12928,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12928,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12928,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12928,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12928,SUPPORT,Who are you?,Кто вы?
 12928,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12928,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187511,7 +187510,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12928,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12928,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12928,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12928,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12928,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12928,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12928,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12928,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187529,7 +187528,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12929,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12929,SUPPORT,Is it true?,Это правда?
 12929,SUPPORT,Need more sleep...,Нужно поспать...
-12929,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12929,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12929,SUPPORT,Um...,Эм...
 12929,SUPPORT,I am most grateful.,Я благодарен.
 12929,SUPPORT,I am pleased...,Я рада...
@@ -187553,7 +187552,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12929,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12929,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12929,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12929,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12929,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12929,SUPPORT,Who are you?,Кто вы?
 12929,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12929,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187574,7 +187573,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12929,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12929,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12929,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12929,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12929,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12929,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12929,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12929,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187592,7 +187591,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12930,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12930,SUPPORT,Is it true?,Это правда?
 12930,SUPPORT,Need more sleep...,Нужно поспать...
-12930,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12930,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12930,SUPPORT,Um...,Эм...
 12930,SUPPORT,I am most grateful.,Я благодарен.
 12930,SUPPORT,I am pleased...,Я рада...
@@ -187616,7 +187615,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12930,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12930,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12930,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12930,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12930,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12930,SUPPORT,Who are you?,Кто вы?
 12930,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12930,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187637,7 +187636,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12930,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12930,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12930,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12930,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12930,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12930,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12930,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12930,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187655,7 +187654,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12931,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12931,SUPPORT,Is it true?,Это правда?
 12931,SUPPORT,Need more sleep...,Нужно поспать...
-12931,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12931,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12931,SUPPORT,Um...,Эм...
 12931,SUPPORT,I am most grateful.,Я благодарен.
 12931,SUPPORT,I am pleased...,Я рада...
@@ -187679,7 +187678,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12931,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12931,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12931,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12931,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12931,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12931,SUPPORT,Who are you?,Кто вы?
 12931,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12931,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187700,7 +187699,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12931,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12931,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12931,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12931,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12931,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12931,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12931,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12931,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187718,7 +187717,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12932,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12932,SUPPORT,Is it true?,Это правда?
 12932,SUPPORT,Need more sleep...,Нужно поспать...
-12932,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12932,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12932,SUPPORT,Um...,Эм...
 12932,SUPPORT,I am most grateful.,Я благодарен.
 12932,SUPPORT,I am pleased...,Я рада...
@@ -187742,7 +187741,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12932,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12932,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12932,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12932,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12932,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12932,SUPPORT,Who are you?,Кто вы?
 12932,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12932,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187763,7 +187762,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12932,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12932,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12932,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12932,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12932,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12932,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12932,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12932,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187781,7 +187780,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12933,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12933,SUPPORT,Is it true?,Это правда?
 12933,SUPPORT,Need more sleep...,Нужно поспать...
-12933,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12933,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12933,SUPPORT,Um...,Эм...
 12933,SUPPORT,I am most grateful.,Я благодарен.
 12933,SUPPORT,I am pleased...,Я рада...
@@ -187805,7 +187804,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12933,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12933,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12933,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12933,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12933,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12933,SUPPORT,Who are you?,Кто вы?
 12933,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12933,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187826,7 +187825,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12933,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12933,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12933,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12933,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12933,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12933,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12933,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12933,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187844,7 +187843,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12934,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12934,SUPPORT,Is it true?,Это правда?
 12934,SUPPORT,Need more sleep...,Нужно поспать...
-12934,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12934,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12934,SUPPORT,Um...,Эм...
 12934,SUPPORT,I am most grateful.,Я благодарен.
 12934,SUPPORT,I am pleased...,Я рада...
@@ -187868,7 +187867,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12934,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12934,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12934,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12934,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12934,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12934,SUPPORT,Who are you?,Кто вы?
 12934,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12934,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187889,7 +187888,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12934,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12934,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12934,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12934,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12934,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12934,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12934,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12934,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187915,7 +187914,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12940,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12940,SUPPORT,Is it true?,Это правда?
 12940,SUPPORT,Need more sleep...,Нужно поспать...
-12940,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12940,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12940,SUPPORT,Um...,Эм...
 12940,SUPPORT,I am most grateful.,Я благодарен.
 12940,SUPPORT,I am pleased...,Я рада...
@@ -187939,7 +187938,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12940,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12940,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12940,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12940,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12940,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12940,SUPPORT,Who are you?,Кто вы?
 12940,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12940,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -187960,7 +187959,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12940,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12940,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12940,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12940,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12940,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12940,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12940,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12940,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -187978,7 +187977,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12941,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12941,SUPPORT,Is it true?,Это правда?
 12941,SUPPORT,Need more sleep...,Нужно поспать...
-12941,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12941,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12941,SUPPORT,Um...,Эм...
 12941,SUPPORT,I am most grateful.,Я благодарен.
 12941,SUPPORT,I am pleased...,Я рада...
@@ -188002,7 +188001,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12941,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12941,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12941,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12941,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12941,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12941,SUPPORT,Who are you?,Кто вы?
 12941,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12941,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188023,7 +188022,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12941,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12941,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12941,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12941,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12941,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12941,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12941,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12941,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188041,7 +188040,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12942,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12942,SUPPORT,Is it true?,Это правда?
 12942,SUPPORT,Need more sleep...,Нужно поспать...
-12942,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12942,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12942,SUPPORT,Um...,Эм...
 12942,SUPPORT,I am most grateful.,Я благодарен.
 12942,SUPPORT,I am pleased...,Я рада...
@@ -188065,7 +188064,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12942,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12942,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12942,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12942,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12942,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12942,SUPPORT,Who are you?,Кто вы?
 12942,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12942,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188086,7 +188085,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12942,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12942,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12942,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12942,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12942,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12942,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12942,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12942,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188104,7 +188103,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12943,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12943,SUPPORT,Is it true?,Это правда?
 12943,SUPPORT,Need more sleep...,Нужно поспать...
-12943,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12943,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12943,SUPPORT,Um...,Эм...
 12943,SUPPORT,I am most grateful.,Я благодарен.
 12943,SUPPORT,I am pleased...,Я рада...
@@ -188128,7 +188127,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12943,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12943,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12943,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12943,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12943,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12943,SUPPORT,Who are you?,Кто вы?
 12943,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12943,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188149,7 +188148,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12943,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12943,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12943,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12943,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12943,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12943,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12943,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12943,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188167,7 +188166,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12944,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12944,SUPPORT,Is it true?,Это правда?
 12944,SUPPORT,Need more sleep...,Нужно поспать...
-12944,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12944,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12944,SUPPORT,Um...,Эм...
 12944,SUPPORT,I am most grateful.,Я благодарен.
 12944,SUPPORT,I am pleased...,Я рада...
@@ -188191,7 +188190,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12944,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12944,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12944,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12944,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12944,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12944,SUPPORT,Who are you?,Кто вы?
 12944,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12944,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188212,7 +188211,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12944,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12944,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12944,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12944,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12944,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12944,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12944,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12944,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188250,7 +188249,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12946,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12946,SUPPORT,Is it true?,Это правда?
 12946,SUPPORT,Need more sleep...,Нужно поспать...
-12946,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12946,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12946,SUPPORT,Um...,Эм...
 12946,SUPPORT,I am most grateful.,Я благодарен.
 12946,SUPPORT,I am pleased...,Я рада...
@@ -188274,7 +188273,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12946,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12946,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12946,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12946,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12946,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12946,SUPPORT,Who are you?,Кто вы?
 12946,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12946,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188295,7 +188294,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12946,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12946,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12946,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12946,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12946,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12946,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12946,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12946,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188313,7 +188312,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12947,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12947,SUPPORT,Is it true?,Это правда?
 12947,SUPPORT,Need more sleep...,Нужно поспать...
-12947,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12947,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12947,SUPPORT,Um...,Эм...
 12947,SUPPORT,I am most grateful.,Я благодарен.
 12947,SUPPORT,I am pleased...,Я рада...
@@ -188337,7 +188336,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12947,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12947,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12947,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12947,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12947,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12947,SUPPORT,Who are you?,Кто вы?
 12947,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12947,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188358,7 +188357,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12947,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12947,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12947,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12947,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12947,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12947,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12947,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12947,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188376,7 +188375,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12948,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12948,SUPPORT,Is it true?,Это правда?
 12948,SUPPORT,Need more sleep...,Нужно поспать...
-12948,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12948,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12948,SUPPORT,Um...,Эм...
 12948,SUPPORT,I am most grateful.,Я благодарен.
 12948,SUPPORT,I am pleased...,Я рада...
@@ -188400,7 +188399,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12948,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12948,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12948,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12948,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12948,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12948,SUPPORT,Who are you?,Кто вы?
 12948,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12948,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188421,7 +188420,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12948,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12948,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12948,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12948,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12948,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12948,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12948,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12948,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188439,7 +188438,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12949,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12949,SUPPORT,Is it true?,Это правда?
 12949,SUPPORT,Need more sleep...,Нужно поспать...
-12949,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12949,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12949,SUPPORT,Um...,Эм...
 12949,SUPPORT,I am most grateful.,Я благодарен.
 12949,SUPPORT,I am pleased...,Я рада...
@@ -188463,7 +188462,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12949,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12949,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12949,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12949,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12949,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12949,SUPPORT,Who are you?,Кто вы?
 12949,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12949,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188484,7 +188483,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12949,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12949,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12949,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12949,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12949,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12949,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12949,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12949,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188502,7 +188501,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12950,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12950,SUPPORT,Is it true?,Это правда?
 12950,SUPPORT,Need more sleep...,Нужно поспать...
-12950,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12950,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12950,SUPPORT,Um...,Эм...
 12950,SUPPORT,I am most grateful.,Я благодарен.
 12950,SUPPORT,I am pleased...,Я рада...
@@ -188526,7 +188525,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12950,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12950,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12950,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12950,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12950,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12950,SUPPORT,Who are you?,Кто вы?
 12950,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12950,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188547,7 +188546,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12950,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12950,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12950,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12950,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12950,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12950,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12950,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12950,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188565,7 +188564,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12951,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12951,SUPPORT,Is it true?,Это правда?
 12951,SUPPORT,Need more sleep...,Нужно поспать...
-12951,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12951,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12951,SUPPORT,Um...,Эм...
 12951,SUPPORT,I am most grateful.,Я благодарен.
 12951,SUPPORT,I am pleased...,Я рада...
@@ -188589,7 +188588,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12951,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12951,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12951,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12951,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12951,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12951,SUPPORT,Who are you?,Кто вы?
 12951,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12951,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188610,7 +188609,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12951,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12951,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12951,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12951,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12951,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12951,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12951,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12951,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188628,7 +188627,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12952,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12952,SUPPORT,Is it true?,Это правда?
 12952,SUPPORT,Need more sleep...,Нужно поспать...
-12952,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12952,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12952,SUPPORT,Um...,Эм...
 12952,SUPPORT,I am most grateful.,Я благодарен.
 12952,SUPPORT,I am pleased...,Я рада...
@@ -188652,7 +188651,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12952,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12952,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12952,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12952,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12952,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12952,SUPPORT,Who are you?,Кто вы?
 12952,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12952,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188673,7 +188672,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12952,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12952,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12952,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12952,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12952,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12952,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12952,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12952,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188691,7 +188690,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12953,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12953,SUPPORT,Is it true?,Это правда?
 12953,SUPPORT,Need more sleep...,Нужно поспать...
-12953,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12953,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12953,SUPPORT,Um...,Эм...
 12953,SUPPORT,I am most grateful.,Я благодарен.
 12953,SUPPORT,I am pleased...,Я рада...
@@ -188715,7 +188714,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12953,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12953,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12953,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12953,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12953,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12953,SUPPORT,Who are you?,Кто вы?
 12953,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12953,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188736,7 +188735,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12953,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12953,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12953,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12953,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12953,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12953,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12953,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12953,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188754,7 +188753,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12954,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12954,SUPPORT,Is it true?,Это правда?
 12954,SUPPORT,Need more sleep...,Нужно поспать...
-12954,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12954,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12954,SUPPORT,Um...,Эм...
 12954,SUPPORT,I am most grateful.,Я благодарен.
 12954,SUPPORT,I am pleased...,Я рада...
@@ -188778,7 +188777,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12954,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12954,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12954,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12954,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12954,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12954,SUPPORT,Who are you?,Кто вы?
 12954,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12954,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188799,7 +188798,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12954,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12954,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12954,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12954,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12954,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12954,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12954,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12954,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188817,7 +188816,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12955,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12955,SUPPORT,Is it true?,Это правда?
 12955,SUPPORT,Need more sleep...,Нужно поспать...
-12955,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12955,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12955,SUPPORT,Um...,Эм...
 12955,SUPPORT,I am most grateful.,Я благодарен.
 12955,SUPPORT,I am pleased...,Я рада...
@@ -188841,7 +188840,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12955,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12955,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12955,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12955,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12955,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12955,SUPPORT,Who are you?,Кто вы?
 12955,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12955,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188862,7 +188861,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12955,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12955,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12955,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12955,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12955,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12955,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12955,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12955,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188880,7 +188879,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12956,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12956,SUPPORT,Is it true?,Это правда?
 12956,SUPPORT,Need more sleep...,Нужно поспать...
-12956,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12956,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12956,SUPPORT,Um...,Эм...
 12956,SUPPORT,I am most grateful.,Я благодарен.
 12956,SUPPORT,I am pleased...,Я рада...
@@ -188904,7 +188903,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12956,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12956,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12956,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12956,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12956,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12956,SUPPORT,Who are you?,Кто вы?
 12956,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12956,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188925,7 +188924,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12956,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12956,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12956,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12956,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12956,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12956,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12956,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12956,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -188943,7 +188942,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12957,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12957,SUPPORT,Is it true?,Это правда?
 12957,SUPPORT,Need more sleep...,Нужно поспать...
-12957,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12957,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12957,SUPPORT,Um...,Эм...
 12957,SUPPORT,I am most grateful.,Я благодарен.
 12957,SUPPORT,I am pleased...,Я рада...
@@ -188967,7 +188966,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12957,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12957,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12957,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12957,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12957,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12957,SUPPORT,Who are you?,Кто вы?
 12957,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12957,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -188988,7 +188987,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12957,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12957,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12957,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12957,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12957,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12957,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12957,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12957,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189006,7 +189005,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12958,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12958,SUPPORT,Is it true?,Это правда?
 12958,SUPPORT,Need more sleep...,Нужно поспать...
-12958,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12958,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12958,SUPPORT,Um...,Эм...
 12958,SUPPORT,I am most grateful.,Я благодарен.
 12958,SUPPORT,I am pleased...,Я рада...
@@ -189030,7 +189029,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12958,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12958,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12958,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12958,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12958,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12958,SUPPORT,Who are you?,Кто вы?
 12958,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12958,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189051,7 +189050,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12958,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12958,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12958,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12958,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12958,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12958,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12958,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12958,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189069,7 +189068,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12959,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12959,SUPPORT,Is it true?,Это правда?
 12959,SUPPORT,Need more sleep...,Нужно поспать...
-12959,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12959,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12959,SUPPORT,Um...,Эм...
 12959,SUPPORT,I am most grateful.,Я благодарен.
 12959,SUPPORT,I am pleased...,Я рада...
@@ -189093,7 +189092,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12959,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12959,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12959,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12959,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12959,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12959,SUPPORT,Who are you?,Кто вы?
 12959,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12959,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189114,7 +189113,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12959,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12959,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12959,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12959,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12959,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12959,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12959,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12959,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189132,7 +189131,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12960,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12960,SUPPORT,Is it true?,Это правда?
 12960,SUPPORT,Need more sleep...,Нужно поспать...
-12960,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12960,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12960,SUPPORT,Um...,Эм...
 12960,SUPPORT,I am most grateful.,Я благодарен.
 12960,SUPPORT,I am pleased...,Я рада...
@@ -189156,7 +189155,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12960,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12960,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12960,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12960,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12960,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12960,SUPPORT,Who are you?,Кто вы?
 12960,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12960,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189177,7 +189176,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12960,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12960,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12960,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12960,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12960,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12960,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12960,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12960,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189195,7 +189194,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12961,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12961,SUPPORT,Is it true?,Это правда?
 12961,SUPPORT,Need more sleep...,Нужно поспать...
-12961,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12961,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12961,SUPPORT,Um...,Эм...
 12961,SUPPORT,I am most grateful.,Я благодарен.
 12961,SUPPORT,I am pleased...,Я рада...
@@ -189219,7 +189218,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12961,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12961,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12961,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12961,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12961,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12961,SUPPORT,Who are you?,Кто вы?
 12961,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12961,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189240,7 +189239,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12961,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12961,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12961,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12961,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12961,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12961,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12961,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12961,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189258,7 +189257,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12962,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12962,SUPPORT,Is it true?,Это правда?
 12962,SUPPORT,Need more sleep...,Нужно поспать...
-12962,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12962,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12962,SUPPORT,Um...,Эм...
 12962,SUPPORT,I am most grateful.,Я благодарен.
 12962,SUPPORT,I am pleased...,Я рада...
@@ -189282,7 +189281,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12962,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12962,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12962,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12962,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12962,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12962,SUPPORT,Who are you?,Кто вы?
 12962,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12962,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189303,7 +189302,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12962,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12962,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12962,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12962,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12962,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12962,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12962,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12962,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189321,7 +189320,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12963,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12963,SUPPORT,Is it true?,Это правда?
 12963,SUPPORT,Need more sleep...,Нужно поспать...
-12963,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12963,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12963,SUPPORT,Um...,Эм...
 12963,SUPPORT,I am most grateful.,Я благодарен.
 12963,SUPPORT,I am pleased...,Я рада...
@@ -189345,7 +189344,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12963,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12963,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12963,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12963,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12963,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12963,SUPPORT,Who are you?,Кто вы?
 12963,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12963,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189366,7 +189365,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12963,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12963,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12963,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12963,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12963,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12963,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12963,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12963,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189384,7 +189383,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12964,SUPPORT,"Oh, an unfamiliar face.","О, новые лица."
 12964,SUPPORT,Is it true?,Это правда?
 12964,SUPPORT,Need more sleep...,Нужно поспать...
-12964,SUPPORT,"Oh, you must be...","О, должно быть вы..."
+12964,SUPPORT,"Oh, you must be...","О, вы, должно быть..."
 12964,SUPPORT,Um...,Эм...
 12964,SUPPORT,I am most grateful.,Я благодарен.
 12964,SUPPORT,I am pleased...,Я рада...
@@ -189408,7 +189407,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12964,SUPPORT,I've never seen you before.,Я раньше вас не видела.
 12964,SUPPORT,You must be a new student.,Вы наверное новый студент.
 12964,SUPPORT,"Goddess, let there be harmony here...","Богиня, пусть здесь прибудет гармония..."
-12964,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя богиня.
+12964,SUPPORT,Blessings of the goddess upon you.,Да благословит тебя Богиня.
 12964,SUPPORT,Who are you?,Кто вы?
 12964,SUPPORT,This is the homeroom of the Black Eagles.,Это аудитория Чёрных Орлов.
 12964,SUPPORT,Have some business with the Blue Lions?,У вас дело к Синим Львам?
@@ -189429,7 +189428,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12964,SUPPORT,"Felix, Ingrid, and Sylvain are old friends.","Феликс, Ингрид и Сильвен – старые друзья."
 12964,SUPPORT,"The songstress Dorothea, in my class?",Певица Доротея в моём классе?
 12964,SUPPORT,Mercedes seems a bit eccentric.,Мерседес кажется слегка эксцентричной.
-12964,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры тату?
+12964,SUPPORT,Is that a tattoo on Petra's face?,На лице Петры татуировка?
 12964,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12964,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12964,SUPPORT,The professors' rooms are on the 2nd floor.,Комнаты преподавателей на втором этаже.
@@ -189468,11 +189467,11 @@ reference materials.","Просмотрите книжные полки, что�
 всевозможные справочные материалы."
 12970,SUPPORT,iron_untranslated,iron_untranslated
 12970,SUPPORT,iron_untranslated,iron_untranslated
-12970,SUPPORT,Speak with your house leader.,Поговорите с лидером своего дома.
+12970,SUPPORT,Speak with your house leader.,Поговорите со старостой своего дома.
 12971,SUPPORT,$NONE,$NONE
 12971,SUPPORT,iron_untranslated,iron_untranslated
 12971,SUPPORT,iron_untranslated,iron_untranslated
-12971,SUPPORT,Speak with your house leader.,Поговорите с лидером своего дома.
+12971,SUPPORT,Speak with your house leader.,Поговорите со старостой своего дома.
 12972,SUPPORT,$NONE,$NONE
 12973,SUPPORT,$NONE,$NONE
 12974,SUPPORT,$NONE,$NONE
@@ -192435,73 +192434,73 @@ Black Eagles?","Надеюсь, вам уже довелось со всеми �
 Желаете узнать больше о ком-то из Чёрных Орлов?"
 3,MSGDATA,"Me? Well...some think I'm a bit distant. Arrogant,
 even. But there's little to be done. One day, I must
-rise to become Adrestia's next emperor.","Я? Ну, некоторые считают меня сдержанной. И гордой.
-Но тут ничего не поделать. Чтобы стать следующим
-императором Адрастеи, я должна быть сильной."
+rise to become Adrestia's next emperor.","Я? По мне всё и так очевидно. Может, вы сочтёте меня 
+нескромной, но я всё-таки следующий Император."
 3,MSGDATA,"What else... Well, it seems to me that we may have
-similar personalities.","Что ещё... Ну, кажется, что мы с вами в чём-то похожи."
+similar personalities.","Что ещё? Ну, мне почему-то кажется, что мы с вами
+поладим."
 3,MSGDATA,"Hubert is the heir of Marquis Vestra. He has served
-me since I was a child.","Хьюберт – наследник маркиза Вестры. Он служит
+me since I was a child.","Хьюберт — наследник маркиза Вестры. Он служит
 мне с самого детства."
 3,MSGDATA,"You may think his blood runs a bit cold, but... Heh,
 actually, that's rather accurate. Still, if you can get
-past that, you'll see he's quite astute and reasonable.","Может показаться, что он немного хладнокровен, но...
-Хах, на самом деле, так и есть. Ко всему прочему, он
-довольно проницательный и ответственный человек."
+past that, you'll see he's quite astute and reasonable.","Он может показаться хладнокровным... так оно и есть.
+Ум у него тоже холодный."
 3,MSGDATA,"For some reason, he thinks of me as a bitter
 rival and is always trying to challenge me.
 It's terribly irritating.","По какой-то причине он считает меня своей
-соперницей. Постоянно пытается соревноваться
-со мной. Это ужасно раздражает."
+злейшей соперницей и постоянно провоцирует
+меня на состязания. Это ужасно раздражает."
 3,MSGDATA,"His house is that of Duke Aegir, which produces
 Adrestia's Prime Ministers. That family is...perhaps
-too pleased with its own status.","Он из дома герцога Эгира, который представляет
-интересы премьер-министров Адрастеи. Эта семья... 
-Пожалуй, они слишком довольны своим положением."
+too pleased with its own status.","Он из дома герцога Эгира, в котором из поколения в 
+поколение передаётся должность премьер-министра.
+И он излишне трепетно относится к своему статусу."
 3,MSGDATA,"He's remarkably intelligent, but he only wishes to
 apply himself to tasks that particularly interest him
-and nothing else. He's also fond of...well, napping.","Он необычайно умён, но предпочитает делать то, что
-ему интересно, и ничего больше. А ещё он огромный
-любитель... ну, поспать."
+and nothing else. He's also fond of...well, napping.","Он умён, но ему как будто всё в тягость, и он 
+постоянно сонный."
 3,MSGDATA,"If he had any work ethic or sense of duty to speak of,
 I suppose he would be destined to become an official
-of the Empire.","Если бы он был трудолюбивее и не забывал о чувстве
-долга, то, скорее всего, его бы уже давно избрали
-официальным представителем Империи."
+of the Empire.","Если бы он ответственнее относился к жизни, то в 
+будущем мог бы стать выдающимся государственным
+служащим в Империи, но это вряд ли произойдёт."
 3,MSGDATA,"He's the second son of Count Bergliez. He has no
 inheritance in his future, which is perhaps why he's
-always so eager to prove himself.","Он второй сын графа Берглица. Ему не досталось
-наследство, и поэтому, наверное, он так стремится
+always so eager to prove himself.","Он — второй сын графа Берглица. Ему не достанется
+наследства, и поэтому, наверное, он так стремится
 проявить себя."
 3,MSGDATA,"He's overly energetic and rushes headfirst into any
 battle. If he ends up in your care, be sure to keep a
-close eye on him.","Он чрезвычайно энергичен – первым рвётся в любую 
-битву. Если он окажется под вашим присмотром,
-то обязательно держите его в поле зрения."
+close eye on him.","Он черезвычайно энергичен и всегда готов полезть
+в драку. Если он окажется под вашим присмотром,
+не спускайте с него глаз."
 3,MSGDATA,"She's Count Varley's only daughter. I suppose you
 could say she's a bit eccentric, but she seems like a
-gentle soul.","Она единственная дочь графа Вали. Полагаю, она
-покажется вам немного эксцентричной, но на деле
-она довольно чувствительный человек."
+gentle soul.","Она — единственная дочь графа Вали. Она
+немного эксцентричная, но в душе славная 
+девушка."
 3,MSGDATA,"I believe she's shut herself away in her quarters and
 doesn't care to leave, but...don't worry. I'll make
-sure she finds her way to class.","Думаю, она заперлась у себя и даже не думает выходить.
-Не переживайте, я прослежу, что бы она нашла
-дорогу в класс."
+sure she finds her way to class.","Правда, она объявила, что не будет выходить 
+из комнаты в общежитии... Но не волнуйтесь. 
+Я прослежу, чтобы она посещала занятия."
 3,MSGDATA,"Few commoners have joined the Black Eagle House,
 but Dorothea is an exception.","Немногие простолюдины присоединились к дому
-Чёрных Орлов, но Доротея — исключение."
+Чёрных Орлов, но Доротея — исключение даже
+среди них."
 3,MSGDATA,"She's a songstress from a famous opera company in
 the Empire. I'm not entirely sure what brought her
-to the Officers Academy.","Она — певица из знаменитой оперной труппы Империи.
-Не знаю, что привело её сюда, в Офицерскую академию."
+to the Officers Academy.","Она — певица, гордость знаменитой в столице 
+Империи оперной труппы... не знаю, для чего 
+она поступила в Офицерскую академию."
 3,MSGDATA,"To the west of Fódlan is an archipelago called Brigid.
 Petra is the granddaughter of their king.","К западу от Фодлана находится архипелаг Бригид.
-Петра – внучка их короля."
+Петра — внучка их короля."
 3,MSGDATA,"Brigid is a vassal state of the Empire, which is how
 she came to be enrolled here. She's incredibly smart
 and studious.","Бригид — вассальное государство Империи, поэтому
-она была зачислена сюда. Она очень умна и прилежна."
+она была зачислена сюда. Она очень прилежна."
 3,MSGDATA,"I hear you're investigating the different houses here.
 Did any of the Blue Lions catch your attention?","Слышал, вы интересуетесь представителями домов.
 Не приглянулся ли вам кто-нибудь из Синих Львов?"
@@ -194517,7 +194516,7 @@ grown from taking part in activities with $S0.","Поговорите с таи�
 4,MSGDATA,So shameful. How could I...fall like this?,Позор. Как меня... могло постигнуть поражение?
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Perhaps it's time for a nice nap...,"Возможно, пришло время хорошенько вздремнуть..."
+4,MSGDATA,Perhaps it's time for a nice nap...,Эх... я не хотел сражаться... а теперь ещё и проиграл.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,What? I lost? Not me. Never me...,"Что? Проиграть? Только не я. Не может быть,что я..."
