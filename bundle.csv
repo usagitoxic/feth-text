@@ -27700,7 +27700,7 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 • Weapon maintenance","• Боевая подготовка
 • Уход за снаряжением"
 0,MSGDATA,"• Tactical scheming
-• Planning feasts","• Схематизация тактик
+• Planning feasts","• Плетение интриг
 • Планирование праздников"
 0,MSGDATA,"• Strategy and tactics research
 • Protecting Edelgard","• Изучение стратегии и тактики
@@ -27744,23 +27744,23 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 • Eating","• Чтение
 • Еда"
 0,MSGDATA,"• Monitoring Claude
-• Writing poetry","• Наблюдение за Клодом
+• Writing poetry","• Надзор за Клодом
 • Сочинение стихов"
 0,MSGDATA,"• Bodybuilding
 • Eating","• Культуризм
 • Еда"
 0,MSGDATA,"• Painting
-• Collecting art supplies","• Рисование
-• Сбор предметов искусства"
+• Collecting art supplies","• Живопись
+• Сбор худ. принадлежностей"
 0,MSGDATA,"• Magic and tactics research
-• Eating sweets (secretly)","• Изучение тактики и магии
-• Есть сладости (в тайне)"
+• Eating sweets (secretly)","• Изучение магии и тактики
+• Тайком есть сладкое"
 0,MSGDATA,"• Praying
-• Talking to animals","• Молитвы
+• Talking to animals","• Молитвы Богине
 • Говорить с животными"
 0,MSGDATA,"• Chatting
-• Making accessories","• Болтать
-• Делать аксессуары"
+• Making accessories","• Болтовня
+• Изготовление украшений"
 0,MSGDATA,"• Saving money
 • Bow maintenance","• Экономить деньги
 • Уход за луком"
@@ -27822,12 +27822,12 @@ strategies, nature, beautiful scenery","Талантливые люди, обс�
 0,MSGDATA,"Combat, high-quality weapons, strength training,
 going for long rides, physically laborious work","Поединки, высококачественная экипировка,
 физ. тренировки, дальние поездки, ручной труд"
-0,MSGDATA,"Feasts, long rides, archery, topics of curiosity","Праздники, долгие поездки, стрельба из лука, 
-темы для любопытства"
+0,MSGDATA,"Feasts, long rides, archery, topics of curiosity","Пиршества, дальние поездки, стрельба из лука,
+диковинки"
 0,MSGDATA,"Irony, coffee, intelligence, useful people","Ирония, кофе, полезные Эдельгард люди, 
 умные люди"
-0,MSGDATA,"Horseback riding, tea, justice, being noble, heights","Верховая езда, чай, правосудие, благородство, 
-новые высоты"
+0,MSGDATA,"Horseback riding, tea, justice, being noble, heights","Верховая езда, чай, правосудие, благородное
+поведение, новые высоты"
 0,MSGDATA,"Sleeping in, midday naps, reading, fishing,
 sweets, freedom","Дневной сон, поздно вставать, чтение, рыбалка,
 сладости, свобода"
@@ -27857,19 +27857,18 @@ getting dressed up","Уборка, стирка, утренние прогулк
 tales of chivalry, virtuous knights","Дегустация разных блюд, мясо, забота о лошадях, 
 рыцарские романы, добродетельные рыцари"
 0,MSGDATA,"Tea, red roses, art, worthy women, anything that befits
-the nobility","Чай, красные розы, искусство, достойные женщины,
-всё, что подходит знати"
-0,MSGDATA,"Pure protein, muscles, training, his baby sister","Чистый белок, мышцы, тренировки,
-его младшая сестра"
+the nobility","Чай, красные розы, искусство, красивые женщины,
+благородное поведение"
+0,MSGDATA,"Pure protein, muscles, training, his baby sister","Мясо, рыба, красота мышц, его младшая сестра"
 0,MSGDATA,"Art, the goddess, the Four Saints, striking landscapes,
-faraway lands, peace and quiet, beautiful flowers","Искусство, богиня, Четверо Святых, поразительные 
-пейзажи, далёкие земли, мир и покой, красивые цветы"
+faraway lands, peace and quiet, beautiful flowers","Богиня, Святые, живописные пейзажи, искусство, 
+рассказы об иных странах, спокойствие, нежные цветы"
 0,MSGDATA,"Sweets, cute things, lilies","Сладости, милые вещи, лилии"
 0,MSGDATA,"The goddess, birds and other animals, reading,
-delicate flowers","Богиня, птицы и другие животные, чтение,
-нежные цветы"
+delicate flowers","Богиня, птицы, животные, чтение, быстро 
+отцветающие растения"
 0,MSGDATA,"Fashion, chatting, persuasion, singing, dancing,
-colorful flowers","Мода, общение, убеждения, пение, танцы,
+colorful flowers","Мода, общение, выпрашивание, пение, танцы,
 красочные цветы"
 0,MSGDATA,"Captain Jeralt, military arts, competition, hunting, fishing,
 gardening, collecting and reusing discarded objects","Военное дело, капитан Джеральт, побеждать, сад, охота,
@@ -27914,7 +27913,7 @@ losing control","Устаревшие ценности, Гербы, крысы, 
 selfish people","Тонкая работа, хрупкие предметы, палящий
 зной, рассчитывать выгоду и убытки"
 0,MSGDATA,"Blind reliance on gods, leaving things to chance,
-being bound by common sense","Слепая надежда на богов, оставлять всё на волю
+being bound by common sense","Упование на помощь богов, полагаться на волю
 случая, быть связанным здравым смыслом"
 0,MSGDATA,"The Church of Seiros, those who bother Edelgard,
 gambling, heights, nostalgia, laziness","Церковь Сейрос, азартные игры, высота, предаваться
@@ -27938,16 +27937,14 @@ a good dusting, coffee","Лень, тёмные места, труднодост
 0,MSGDATA,"Extravagance, hunger, the people of Duscur","Даскарцы, роскошь, голод"
 0,MSGDATA,"Coffee, injustice, filth, foul odors, vulgarity","Кофе, несправедливость, грязь, неприятные запахи,
 пошлость"
-0,MSGDATA,"Book learning, unfinished meals","Штудирование книг, незаконченные блюда"
+0,MSGDATA,"Book learning, unfinished meals","Штудирование книг, недоеденные блюда"
 0,MSGDATA,"People who don't appreciate art, stressful situations,
-lightning","Люди, которые не ценят искусство, стрессовые
-ситуации, молнии"
+lightning","Не ценящие искусство люди, беспокойство, молнии"
 0,MSGDATA,"Being treated like a child, anything physically laborious,
 ghosts, bitter foods","Когда к ней относятся как к ребёнку, физические 
 нагрузки, призраки, горькая еда"
-0,MSGDATA,"Herself, Crests, tidying up","Она сама, Герба, уборка"
-0,MSGDATA,"Effort, exhaustion, responsibility, extreme heat or cold","Усердие, истощение, ответственность, экстремальная
-жара или холод"
+0,MSGDATA,"Herself, Crests, tidying up","Она сама, Гербы, поддержание порядка"
+0,MSGDATA,"Effort, exhaustion, responsibility, extreme heat or cold","Хлопоты, уставать, нести ответственность, жара, холод"
 0,MSGDATA,"Defeat, decadence, debt, poisonous creatures","Проигрывать, расточительство, долги, ядовитые 
 существа"
 0,MSGDATA,"Anyone who is a threat to Flayn or who opposes the
@@ -190831,10 +190828,11 @@ for her in return, mark my words.","Профессор, не ведитесь. �
 взамен, попомните мои слова."
 2,MSGDATA,"This meager meal isn't enough to fill me up.
 I'd really prefer a daily, lavish feast!","Таким скудным рационом мне не наесться.
-В моих предпочтениях был бы ежедневный роскошный пир!"
+Мне были бы по нраву ежедневные роскошные пиры."
 2,MSGDATA,"Feasts are special because they're kinda rare. If you
-had a feast every day, you'd start to be sick of 'em.","Пиры особенные потому что редко проводятся.
-Если бы они были каждый день, ты бы от них устал."
+had a feast every day, you'd start to be sick of 'em.","Но ведь пиры потому и весёлые, что они нечасто
+устраиваются? К тому же, если только и делать,
+что пировать, то растолстеешь."
 2,MSGDATA,"Thanks to you two, I get to sit down and enjoy this
 tasty meal.","Благодаря вашей парочке я смогла насладиться этой вкусной
 едой."
@@ -192573,26 +192571,26 @@ knights you will ever meet.","Она благовоспитанная, добр�
 yet? Care to know more about anyone?","Вы уже познакомились с людьми из дома Золотых
 Оленей? Хотите лучше узнать кого-либо из них?"
 3,MSGDATA,"Piqued your interest, have I? As luck would
-have it, I'm pretty curious about you as well.","Заинтригованы? Так совпало, что мне тоже любопытно
-узнать о вас побольше."
+have it, I'm pretty curious about you as well.","Заинтригованы? Так совпало, что мне тоже 
+любопытно узнать о вас побольше."
 3,MSGDATA,"But what's life without a bit of mystery? Let's just
 spend the next year or so learning about each other,
-little by little.","Но что за жизнь без тайны? Давайте весь следующий
-год понемногу узнавать друг о друге что-то новое."
+little by little.","Ну, у нас впереди ещё целый год вместе, 
+так что давайте понемногу показывать друг 
+другу истинные лица."
 3,MSGDATA,"He's the heir of Gloucester territory. If you haven't
 already picked up on it, he's a bit arrogant and
-fancies himself a lady's man.","Он наследник территории Глостера.
-Если вы ещё не поняли, он немного высокомерен и
-вообразил себя тем ещё ловеласом."
+fancies himself a lady's man.","Он — наследник графа Глостера. И, как видите, 
+жеманный ловелас."
 3,MSGDATA,"That said, deep down he's really devoted and
 honest... Though I wouldn't mind never hearing
-him talk about his noble obligations ever again.","Да, в глубине души он действительно преданный и
-честный человек... Но мне не хотелось бы больше
-слушать о его обязанностях знати."
+him talk about his noble obligations ever again.","Но несмотря на это, можно сказать, что
+в глубине души он добропорядочный человек...
+который не замолкает об обязанностях знати."
 3,MSGDATA,"He comes from a merchant family, but his parents
-died in an accident. Seems like he's had a rough life.","Сам он из семьи торговца, но его родители погибли в
-результате несчастного случая. Похоже, у него была
-тяжелая жизнь."
+died in an accident. Seems like he's had a rough life.","Он из семьи купцов, но его родители погибли в
+результате несчастного случая. Похоже, у него 
+была тяжёлая жизнь."
 3,MSGDATA,"Despite all that, he's just about the most cheerful
 guy you'll ever meet. His passions are training,
 eating, and... Actually, that's about it.","Несмотря на всё это, он самый весёлый парень,
@@ -192600,40 +192598,39 @@ eating, and... Actually, that's about it.","Несмотря на всё это,
 тренировки, еду, и... Собственно, это всё."
 3,MSGDATA,"He's the second son of a merchant family. Since his
 brother will inherit the business, he's training to
-become a knight.","Он второй сын в семье торговца. Стремится стать
-рыцарем, поскольку семейное дело унаследует его
-старший брат."
+become a knight.","По-моему, он второй сын в семье купцов. Стремится 
+стать рыцарем, поскольку семейное дело унаследует 
+его старший брат."
 3,MSGDATA,"If you ask me, doesn't seem like he truly wants to
 be a knight... He's probably just doing it to please
 his parents.","Как по мне, рыцарем ему быть не очень хочется.
 Скорее всего, он делает это, чтобы угодить родителям."
 3,MSGDATA,"Lysithea is the daughter of Count Ordelia, and is
-probably the youngest student here.","Лиситея – дочь графа Корделия.
-Она тут, наверное, самая младшая студентка."
+probably the youngest student here.","Лиситея — дочь графа Корделия, и, наверное,
+самая младшая среди студентов этого года."
 3,MSGDATA,"But watch out! She gets angry if you treat her like a
 child. As for me, I do it on purpose. You have to
-make your own fun in this place, you know?","Но будьте осторожны! Она злится, если относиться к
-ней как к ребёнку. Ну, а я делаю это специально.
-Надо же как то здесь развлекаться, разве нет?"
+make your own fun in this place, you know?","Но берегитесь — она сердится, если относиться
+к ней как к ребёнку. Я делаю это нарочно... потому
+что это весело, разве нет?"
 3,MSGDATA,"Marianne is Margrave Edmund's daughter...
 and that's pretty much all I know about her.","Марианна – дочь маркграфа Эдмунда...
 И это всё, что я о ней знаю."
 3,MSGDATA,"She doesn't interact much with other students,
 so I wouldn't be surprised if a lot of folks here
 have never even heard her speak.","Она мало общается с другими студентами.
-Не удивлюсь, если многие никогда даже не слышали
-её голос."
+Не удивлюсь, если многие никогда даже не 
+слышали её голос."
 3,MSGDATA,"Hilda is the only daughter of Duke Goneril. It seems
-her father and brother coddle her quite a bit.","Хильда – единственная дочь герцога Гонериль.
-Видимо, отец и брат её немного балуют."
+her father and brother coddle her quite a bit.","Хильда — единственная дочь герцога Гонериль.
+Видимо, отец и старший брат её изрядно избаловали."
 3,MSGDATA,"If you look up ""lazy"" in the dictionary...her picture
 won't be there because she never got around to
-submitting it. Not too unusual for a noble, I guess.","Если найти в словаре слово ""ленивый""... Там не будет её
-портрета, потому что ей было лень его отправить.
-Хотя для знатной особы тут нет ничего необычного."
+submitting it. Not too unusual for a noble, I guess.","Слово «лентяйка» подходит ей как ни к кому иному.
+Хотя для знатной особы в этом нет ничего необычного."
 3,MSGDATA,"Leonie enrolled because she wants to be a mercenary.
-I think she said that her father is a hunter.","Леони поступила, потому что хочет стать наёмницей.
-Ещё она говорила, что её отец — охотник."
+I think she said that her father is a hunter.","Леони поступила сюда, потому что хочет стать 
+наёмницей. Ещё она говорила, что её отец — охотник."
 3,MSGDATA,"She's pretty blunt and as stingy as they come.
 A habitual saver, too. I think she's hoping to repay
 her village for helping to send her here.","Прямолинейная и искренняя, но при этом скупая 
