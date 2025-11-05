@@ -144740,28 +144740,40 @@ to Garreg Mach.＠035798#00","[0003]Давайте вернёмся в Гарр�
 оставим распоряжения.＠035798#00"
 12494,MAP,"[0003]Well done, everyone! The day is ours!＠035799#00",[0003]Все славно поработали! Победа за нами!＠035799#00
 12495,MAP,"[0002]It seems we made it in time. Let's help the soldiers
-of House Goneril withdraw.＠035813#00",
+of House Goneril withdraw.＠035813#00","[0002]Похоже, мы вовремя. Поможем солдатам дома
+Гонериль отступить.＠035813#00"
 12495,MAP,"[0002]The Black Eagle Strike Force will protect
-Fódlan's Locket!＠035814#00",
+Fódlan's Locket!＠035814#00","[0002]Ударные силы Чёрного Орла защитят 
+Ожерелье Фодлана!＠035814#00"
 12495,MAP,"[0052]Reinforcements? And that flag belongs to the
-Imperial army... Ha! A fine enemy, indeed!＠035815#00",
+Imperial army... Ha! A fine enemy, indeed!＠035815#00","[0052]О-о, подкрепление? Под флагом имперской
+армии... тут нет недостатка в противниках!＠035815#00"
 12495,MAP,"[0052]Break through the Locket and make a name for
-yourself! No need to be shy—strike all at once!＠035816#00",
+yourself! No need to be shy—strike all at once!＠035816#00","[0052]Хотите прославиться — покажите, что можете
+перейти Ожерелье! Не стесняемся — наваливаемся
+сообща!＠035816#00"
 12495,MAP,"[0002]We fight to protect Fódlan! If the defensive line
-is broken, we fail!＠035817#02",
+is broken, we fail!＠035817#02","[0002]В этой битве мы защищаем Фодлан! Если линию
+обороны прорвут, нас ждёт поражение!＠035817#02"
 12495,MAP,"[0002]Our enemies are many...but we can use the terrain to
-our advantage and stop them where they stand!＠035818#02",
+our advantage and stop them where they stand!＠035818#02","[0002]Противник многочислен... но мы можем использовать
+рельеф, чтобы остановить его продвижение!＠035818#02"
 12495,MAP,"[0052]So this is how far I go... Unbelievable...
-What a scary woman...＠035819#00",
-12495,MAP,"[0446]Nader?! Impossible! Everyone, withdraw! Run!＠035820#00",
+What a scary woman...＠035819#00","[0052]Ну вот и всё... Подумать только...
+Страшная женщина...＠035819#00"
+12495,MAP,"[0446]Nader?! Impossible! Everyone, withdraw! Run!＠035820#00","[0446]Неужто... Надир?! Чёрт возьми, уходим! Уходим!＠035820#00"
 12495,MAP,"[0002]No matter how many times you attack, we will never
-allow you to capture the Throat.＠035821#00",
+allow you to capture the Throat.＠035821#00","[0002]Сколько бы вы ни нападали... мы никогда
+не позволим захватить Глотку!＠035821#00"
 12495,MAP,"[0002]The Almyran troops are difficult opponents...
 For now, I would much rather focus on Fódlan's
-internal territories.＠035822#00",
+internal territories.＠035822#00","[0002]Войска Пальмиры... были грозными противниками. 
+Но сейчас я хочу сосредоточиться на внутренней 
+территории Фодлана.＠035822#00"
 12495,MAP,"[0002]I hope they don't mount another attack
-anytime soon.＠035823#00",
-12495,MAP,[0502]Support! We're saved!＠036333#00,
+anytime soon.＠035823#00","[0002]Надеюсь, в ближайшее время они не
+нападут ещё раз.＠035823#00"
+12495,MAP,[0502]Support! We're saved!＠036333#00,[0502]Подкрепление! Мы спасены!＠036333#00
 12496,MAP,"[0004]There are the ruins... It looks like we're not gonna
 have the luxury of an excavation.＠035829#00",
 12496,MAP,"[0004]Look. I bet those are the watchmen of the ruins,
@@ -145181,19 +145193,25 @@ trouble. But are you all right? Did they hurt you?＠036130#01",
 12504,MAP,"[0018]I'm OK. Really. Thank you, Dorothea.＠036131#00",
 12504,MAP,[0018]My father will need to hear of this.＠036132#00,
 12505,MAP,"[0005]My, my. Looks like this forest became infested with
-Demonic Beasts while we weren't looking.＠036133#00",
-12505,MAP,[0005]I suppose we've not a moment to lose.＠036134#00,
-12505,MAP,[0005]Not that I'm concerned for any of these...people.＠036135#00,
+Demonic Beasts while we weren't looking.＠036133#00","[0005]Ну и ну. И когда же в этом лесу успели расплодиться
+чудища-демоны?＠036133#00"
+12505,MAP,[0005]I suppose we've not a moment to lose.＠036134#00,"[0005]Похоже, нельзя терять ни минуты.＠036134#00"
+12505,MAP,[0005]Not that I'm concerned for any of these...people.＠036135#00,"[0005]Нет, на деле мне безразличны потери среди этих...
+людей, но...＠036135#00"
 12505,MAP,"[0005]But since there may be a reward in it for us, we may
-as well do what we can to rescue them.＠036136#00",
-12505,MAP,[0005]Now then. Let's split up and move in to assist.＠036137#00,
+as well do what we can to rescue them.＠036136#00","[0005]Если мы хотим получить от них вознаграждение,
+то придётся их спасти.＠036136#00"
+12505,MAP,[0005]Now then. Let's split up and move in to assist.＠036137#00,[0005]Итак. Разделимся и отправимся на помощь.＠036137#00
 12505,MAP,"[0005]It may be worth focusing your attention on those
-being targeted by multiple Demonic Beasts.＠036138#00",
-12505,MAP,[0479]What a disgrace to be saved by those fools...＠036139#00,
+being targeted by multiple Demonic Beasts.＠036138#00","[0005]Разумнее всего будет сосредоточиться на тех, 
+кого избрали своей целью сразу несколько чудищ.＠036138#00"
+12505,MAP,[0479]What a disgrace to be saved by those fools...＠036139#00,[0479]Какой позор — быть спасёнными ими...＠036139#00
 12505,MAP,"[0480]Enough. These certainly proved useful. Go ahead
-and take them.＠036140#00",
+and take them.＠036140#00","[0480]Хватит. Думаю, они нам пригодились. 
+Можете забрать это.＠036140#00"
 12505,MAP,"[0005]Your tools, I gather? Yes, I suppose we will take
-them off your hands since you asked so nicely.＠036141#00",
+them off your hands since you asked so nicely.＠036141#00","[0005]Ваше оружие, как я понимаю? Да, пожалуй, 
+заберём, раз уж вы предлагаете.＠036141#00"
 12506,MAP,"[0006]This is where my father was sighted? The citizens are
 rioting everywhere.＠036142#00",
 12506,MAP,[0022]Over there! Quick—we need to help them!＠036143#04,
