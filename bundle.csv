@@ -144775,43 +144775,56 @@ anytime soon.＠035823#00","[0002]Надеюсь, в ближайшее врем
 нападут ещё раз.＠035823#00"
 12495,MAP,[0502]Support! We're saved!＠036333#00,[0502]Подкрепление! Мы спасены!＠036333#00
 12496,MAP,"[0004]There are the ruins... It looks like we're not gonna
-have the luxury of an excavation.＠035829#00",
+have the luxury of an excavation.＠035829#00","[0004]Вот и руины... похоже, не доведётся спокойно
+заняться раскопками.＠035829#00"
 12496,MAP,"[0004]Look. I bet those are the watchmen of the ruins,
-and that they've been ordered to keep out intruders.＠035830#00",
+and that they've been ordered to keep out intruders.＠035830#00","[0004]Посмотрите. Видимо, это стражи руин, и им
+приказано устранять нарушителей.＠035830#00"
 12496,MAP,"[0004]And that big beast... I hear they call it
-The Wind Caller.＠035831#00",
+The Wind Caller.＠035831#00","[0004]А этого огромного зверя... я слышал, в здешних
+местах его называют Призывателем Ветров.＠035831#00"
 12496,MAP,"[0215]Thieves... Only by defeating me can you claim
-the secret treasure!＠035832#00",
-12496,MAP,[0004]Agh! It speaks! What is it?!＠035833#04,
+the secret treasure!＠035832#00","[0215]Воры, я отдам вам сокровища, только если
+вы сможете одолеть меня...＠035832#00"
+12496,MAP,[0004]Agh! It speaks! What is it?!＠035833#04,"[0004]Ого, он разговаривает?! Что же это такое...＠035833#04"
 12496,MAP,"[0447]Huh? Who are you? I'm just here for a bit
-of treasure! Don't attack me!＠035834#00",
-12496,MAP,[0004]Someone got here first... Must be a band of looters.＠035835#00,
+of treasure! Don't attack me!＠035834#00","[0447]Вы кто такие? Я просто позаимствовал
+немного сокровищ — не надо на меня нападать!＠035834#00"
+12496,MAP,[0004]Someone got here first... Must be a band of looters.＠035835#00,"[0004]Ого, тут уже побывали... похоже, здесь действует
+шайка расхитителей руин.＠035835#00"
 12496,MAP,"[0004]We can't let them get the treasure! Guess their
-luck's about to run out.＠035836#00",
-12496,MAP,[0215]Have a taste of my power...＠035837#00,
-12496,MAP,[0004]Really? It wields the power of lightning?!＠035838#04,
+luck's about to run out.＠035836#00","[0004]Нельзя позволить им уйти с сокровищами. Пусть
+сетуют на невезение, раз уж столкнулись с нами.＠035836#00"
+12496,MAP,[0215]Have a taste of my power...＠035837#00,"[0215]Хорошенько отведайте моей силы — источника
+всей магии!＠035837#00"
+12496,MAP,[0004]Really? It wields the power of lightning?!＠035838#04,[0004]Неужели он владеет силой молнии?!＠035838#04
 12496,MAP,"[0004]And it's difficult to move in this sand...
-This might not be an easy fight at all.＠035839#00",
+This might not be an easy fight at all.＠035839#00","[0004]И в песках трудно передвигаться... 
+Битва всё-таки может оказаться нелёгкой.＠035839#00"
 12496,MAP,[0215]...＠035840#00,[0215]...＠035840#00
-12496,MAP,[0004]It stopped moving... Is it dead?＠035841#00,
-12496,MAP,[0215]Zzz...＠035842#00,[0215]Zzz...＠035842#00
-12496,MAP,[0004]No... It seems it's just sleeping...＠035843#00,
+12496,MAP,[0004]It stopped moving... Is it dead?＠035841#00,[0004]Больше не двигается!.. Он умер?＠035841#00
+12496,MAP,[0215]Zzz...＠035842#00,[0215]*сопит*＠035842#00
+12496,MAP,[0004]No... It seems it's just sleeping...＠035843#00,"[0004]Нет... похоже, просто уснул.＠035843#00"
 12496,MAP,"[0448]Huh? Are you looting too? Well, I'm not letting you
-have this treasure!＠035844#00",
-12496,MAP,[0448]No! That's my treasure...＠035845#00,
+have this treasure!＠035844#00","[0448]Вы что, тоже пришли за сокровищами? Я их
+не отдам!＠035844#00"
+12496,MAP,[0448]No! That's my treasure...＠035845#00,[0448]Чёрт... мои сокровища...＠035845#00
 12496,MAP,"[0447]You're not trying to take this treasure from me,
-are you?＠035846#00",
-12496,MAP,[0447]The treasure... I thought it would make me rich...＠035847#00,
+are you?＠035846#00","[0447]Вы что, собираетесь отбить у меня сокровища?!＠035846#00"
+12496,MAP,[0447]The treasure... I thought it would make me rich...＠035847#00,"[0447]Сокровища... я думал, что смогу разбогатеть...＠035847#00"
 12496,MAP,"[0449]If I don't get this treasure back, the boss is gonna
-be really angry with me!＠035848#00",
-12496,MAP,[0449]I should never have become a thief...＠035849#00,
+be really angry with me!＠035848#00","[0449]Если я не принесу обратно эти сокровища,
+наш главарь так рассердится!..＠035848#00"
+12496,MAP,[0449]I should never have become a thief...＠035849#00,[0449]Не надо было идти в воры...＠035849#00
 12496,MAP,"[0450]After all the trouble we went through to get this
 treasure, I'm not gonna let you get your hands
-on it!＠035850#00",
-12496,MAP,[0450]Gah... Those thieves...＠035851#00,[0450]Гх... Эти воры...＠035851#00
+on it!＠035850#00","[0450]Мы с таким трудом нашли эти сокровища —
+я вам их не отдам!＠035850#00"
+12496,MAP,[0450]Gah... Those thieves...＠035851#00,[0450]Чёрт... эти проклятые воры...＠035851#00
 12496,MAP,"[0004]I thought we were supposed to be given the treasure,
-but... Forget it. I'll just have a look around there.＠035852#00",
-12496,MAP,[0004]What about this thing? Huh. I'll think about it later.＠035853#00,
+but... Forget it. I'll just have a look around there.＠035852#00","[0004]Я думал, что он отдаст нам сокровища, как и обещал,
+но... ничего не поделать, сами найдём.＠035852#00"
+12496,MAP,[0004]What about this thing? Huh. I'll think about it later.＠035853#00,"[0004]Но что же он... ладно, потом буду думать об этом.＠035853#00"
 12497,MAP,[0037]Aaaoooooh!＠035871#00,[0037]Аааооооох!＠035871#00
 12497,MAP,[0037]What is it now?!＠035871#04,
 12497,MAP,"[0037]Those hungry wolves... That howl must have riled
