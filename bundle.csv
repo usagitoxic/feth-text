@@ -144826,68 +144826,97 @@ but... Forget it. I'll just have a look around there.＠035852#00","[0004]Я д�
 но... ничего не поделать, сами найдём.＠035852#00"
 12496,MAP,[0004]What about this thing? Huh. I'll think about it later.＠035853#00,"[0004]Но что же он... ладно, потом буду думать об этом.＠035853#00"
 12497,MAP,[0037]Aaaoooooh!＠035871#00,[0037]Аааооооох!＠035871#00
-12497,MAP,[0037]What is it now?!＠035871#04,
+12497,MAP,[0037]What is it now?!＠035871#04,[0037]Чего ещё?!＠035871#04
 12497,MAP,"[0037]Those hungry wolves... That howl must have riled
-them up.＠035872#00",
+them up.＠035872#00",[0037]Голодные волки... неужели вой так их взбудоражил?＠035872#00
 12497,MAP,"[0037]We have no choice but to fight our way out.
-Give it your all!＠035873#02",
+Give it your all!＠035873#02",[0037]Боя в любом случае не избежать. Вперёд!＠035873#02
 12497,MAP,"[0005]It's good we've caught up with the professor, but this
-situation is—hard to put into words, actually.＠035874#03",
+situation is—hard to put into words, actually.＠035874#03","[0005]Хорошо, что мы нагнали учителя, но теперь сложилось
+неописуемо затруднительное положение.＠035874#03"
 12497,MAP,"[0002]Wolves to the front, hawks to the rear, and
 what appears to be a Demonic Beast at the
-canyon's mouth...＠035875#00",
+canyon's mouth...＠035875#00","[0002]Спереди волки, сзади ястребы, а на входе
+в каньон... похоже, чудище-демон.＠035875#00"
 12497,MAP,"[0005]A wild beast, at that. Or perhaps it's more fitting to
-call it a stray.＠035876#00",
+call it a stray.＠035876#00","[0005]Ещё и дикое... или вернее будет сказать, отбившееся
+от своих?＠035876#00"
 12497,MAP,"[0002]If we can't prevail over that Demonic Beast, we won't
-make it out of the Red Canyon alive.＠035877#03",
+make it out of the Red Canyon alive.＠035877#03","[0002]Если не одолеем это чудище-демона, живыми
+из Красного Каньона не выберемся.＠035877#03"
 12497,MAP,"[0003]This is bad... It's a good thing we managed to
-catch up with our professor.＠035878#03",
+catch up with our professor.＠035878#03","[0003]Плохо дело. Хорошо, что мы сумели нагнать
+учителя.＠035878#03"
 12497,MAP,"[0012]Wolves at the front. Hawks at the rear. And at the
-canyon mouth, a Demonic Beast.＠035879#00",
+canyon mouth, a Demonic Beast.＠035879#00","[0012]Спереди и сзади огромные волки и ястребы,
+а также... чудище-демон на входе в каньон?＠035879#00"
 12497,MAP,"[0003]Or perhaps to call it a stray beast would be
-most fitting...＠035880#00",
+most fitting...＠035880#00","[0003]Да... так и есть. Можно сказать, что это 
+отбившееся от своих чудище.＠035880#00"
 12497,MAP,"[0003]If we cannot take out the beast, I doubt we will ever
-see the monastery again.＠035881#03",
+see the monastery again.＠035881#03","[0003]Если мы не одолеем это чудище, то вряд ли 
+сможем вернуться в монастырь.＠035881#03"
 12497,MAP,"[0004]It was the right move for us to follow Teach.
 But however you look at it, we're in a tough
-spot now...＠035882#03",
+spot now...＠035882#03","[0004]Мы правильно сделали, что последовали за учителем. 
+Только вот как ни посмотри, а угодили мы прямо в засаду...＠035882#03"
 12497,MAP,"[0024]Wolves, hawks...not to mention a Demonic Beast
 guarding the canyon's entrance! We should never
-have come here.＠035883#00",
+have come here.＠035883#00","[0024]Огромные волки и ястребы... а на входе
+в каньон — чудище-демон?! Не надо было нам
+сюда приходить.＠035883#00"
 12497,MAP,"[0004]Don't say that! But what's a Demonic Beast
-doing here? Is it a stray?＠035884#00",
+doing here? Is it a stray?＠035884#00","[0004]Не говори так. Но что тут забыло чудище-демон?..
+Отбилось от сородичей?＠035884#00"
 12497,MAP,"[0004]Even Teach would have trouble out here all alone.
-Let's help out before we're down one professor!＠035885#03",
+Let's help out before we're down one professor!＠035885#03","[0004]Даже учителю здесь в одиночку несдобровать.
+Поможем, пока $EK00его$EL00её$EM00 не сожрали.＠035885#03"
 12497,MAP,"[0002]The first thing we need to do is reunite with our
-professor. The wolves are closing in...＠035886#00",
+professor. The wolves are closing in...＠035886#00","[0002]Так или иначе, сперва нужно объединить силы с учителем.
+$EK00Его$EL00Её$EM00 окружают волки.＠035886#00"
 12497,MAP,"[0003]We must help our professor, first and foremost.
-This is a tough situation for anyone.＠035887#00",
+This is a tough situation for anyone.＠035887#00","[0003]Как бы то ни было, в первую очередь нужно выручить 
+учителя. Даже для $EK00него$EL00неё$EM00 сложившееся
+положение опасно.＠035887#00"
 12497,MAP,"[0004]First thing's first. We need to reunite with Teach.
-Hurry up, everyone!＠035888#00",
+Hurry up, everyone!＠035888#00","[0004]Перво-наперво надо объединить силы с учителем.
+Поспешим!＠035888#00"
 12497,MAP,"[0002]More hawks... This is bad. We'll be caught from
-both sides!＠035889#04",
-12497,MAP,[0003]They must hope to catch us from both sides.＠035890#04,
+both sides!＠035889#04","[0002]Ещё ястребы!.. Это плохо — мы так попадём
+в клещи.＠035889#04"
+12497,MAP,[0003]They must hope to catch us from both sides.＠035890#04,"[0003]К нам направляется ещё стая ястребов!..
+Должно быть, они намереваются взять нас в клещи.＠035890#04"
 12497,MAP,"[0004]Great...more hawks. Those feathery jerks are trying
-to take us out from both sides!＠035891#04",
+to take us out from both sides!＠035891#04","[0004]К нам летят ещё ястребы. Эти птицы забыли своё 
+место, и пытаются взять нас — людей — в клещи.＠035891#04"
 12497,MAP,"[0002]More hawks... And our professor is still trapped
-out there!＠035892#04",
+out there!＠035892#04","[0002]Снова ястребы!.. Плохо дело — наш учитель
+всё ещё там!＠035892#04"
 12497,MAP,"[0003]Another swarm of hawks! And our professor is still
-over there...＠035893#04",
+over there...＠035893#04","[0003]Ещё стая ястребов! А наш учитель до сих пор там... 
+плохо дело.＠035893#04"
 12497,MAP,"[0004]Even more feathery jerks are flying in! And with
-Teach still over there... This is bad.＠035894#04",
+Teach still over there... This is bad.＠035894#04","[0004]К нам снова летят ястребы. А наш учитель всё ещё
+там — плохо дело.＠035894#04"
 12497,MAP,"[0002]The hawks are still coming. Perhaps we should see
-to those before we deal with the beast.＠035895#04",
+to those before we deal with the beast.＠035895#04","[0002]Ястребы всё ещё прибывают. Думаю, сначала стоит
+разобраться с ними, а потом сражаться с чудищем.＠035895#04"
 12497,MAP,"[0003]Blast! More hawks! We should probably take those
-out before we approach that beast...＠035896#04",
+out before we approach that beast...＠035896#04","[0003]Чёрт, ещё ястребы! Я думаю, следует сначала
+расправиться с ними, прежде чем биться с чудищем.＠035896#04"
 12497,MAP,"[0004]More hawks?! The air's swarming with those
 feathered freaks! Let's get them before we fight
-the beast.＠035897#04",
+the beast.＠035897#04","[0004]Ещё ястребы?.. Высоко летают, черти.
+Давайте собьём их, а потом будем бить чудище.＠035897#04"
 12497,MAP,"[0037]Our work is done? My, my... Things did not go
-as planned.＠035898#00",
+as planned.＠035898#00","[0037]Мы справились? Ну и дела — всё пошло не
+по плану.＠035898#00"
 12497,MAP,"[0037]Let us return, before any more hawks or wolves
-join us.＠035899#00",
+join us.＠035899#00","[0037]Давай поскорее вернёмся, пока на нас снова
+не напали волки или ястребы.＠035899#00"
 12497,MAP,"[0037]But what was that Demonic Beast doing within
-the Red Canyon...＠035900#00",
+the Red Canyon...＠035900#00","[0037]Правда... в Красном Каньоне — и чудище-демон?
+Что оно тут потеряло?..＠035900#00"
 12497,MAP,[0202]Graaargh!＠036424#00,[0202]Ррррааагх!＠036424#00
 12498,MAP,"[0012]The Kingdom's vanguard has already arrived. Just
 as we'd feared, they far outclass the Duscur forces.＠035907#00",
@@ -147666,20 +147695,25 @@ now.＠048822#00",
 Persuade this one to join our side later, yeah?＠048824#00",
 12692,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0031]I can't believe you would try to kill Lady Rhea.
-Jeralt must be turning in his grave.＠035510#02",
+Jeralt must be turning in his grave.＠035510#02","[0031]Не могу поверить, что вы собираетесь убить леди Рею... 
+Капитан, должно быть, в гробу переворачивается!＠035510#02"
 12693,MAP,"[0031]I can't protect you like I promised. I have to kill you
-and bury you with my own hands.＠035511#02",
+and bury you with my own hands.＠035511#02","[0031]Я обязан хотя бы своими руками отправить вас
+на тот свет. Готовьтесь!＠035511#02"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0033]You still align yourself with the emperor? What
-a shame.＠035512#02",
-12693,MAP,[0033]Let's make this quick. I don't want the loser to suffer.＠035513#00,
+a shame.＠035512#02",[0033]Ты всё ещё на стороне императора? Что же... жаль.＠035512#02
+12693,MAP,[0033]Let's make this quick. I don't want the loser to suffer.＠035513#00,"[0033]Давай покончим с этим сразу. Не хочу, чтобы кто-то 
+из нас умирал в муках.＠035513#00"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0026]It saddens me to face you on the field of battle,
-after all you've done for Flayn.＠035514#03",
+after all you've done for Flayn.＠035514#03","[0026]Я вынужден сражаться с вами — с человеком, 
+который столько сделал для Флэн...＠035514#03"
 12693,MAP,"[0026]I cannot approve of your actions. But I also cannot
-follow Rhea on her current course.＠035515#00",
+follow Rhea on her current course.＠035515#00","[0026]Я не могу оправдать ваши действия. Но я также
+не могу поддерживать и то, что сейчас делает Рея.＠035515#00"
 12693,MAP,"[0026]It may not change anything, but allow me to make
 a promise to you.＠035516#00",
 12693,MAP,"[0026]If Flayn and I survive this battle, we will withdraw
