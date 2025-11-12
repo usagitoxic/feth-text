@@ -147698,8 +147698,8 @@ Persuade this one to join our side later, yeah?＠048824#00",
 Jeralt must be turning in his grave.＠035510#02","[0031]Не могу поверить, что вы собираетесь убить леди Рею... 
 Капитан, должно быть, в гробу переворачивается!＠035510#02"
 12693,MAP,"[0031]I can't protect you like I promised. I have to kill you
-and bury you with my own hands.＠035511#02","[0031]Я обязан хотя бы своими руками отправить вас
-на тот свет. Готовьтесь!＠035511#02"
+and bury you with my own hands.＠035511#02","[0031]Я обязан своими руками отправить вас на тот свет. 
+Готовьтесь!＠035511#02"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0033]You still align yourself with the emperor? What
@@ -147715,51 +147715,65 @@ after all you've done for Flayn.＠035514#03","[0026]Я вынужден сра�
 follow Rhea on her current course.＠035515#00","[0026]Я не могу оправдать ваши действия. Но я также
 не могу поддерживать и то, что сейчас делает Рея.＠035515#00"
 12693,MAP,"[0026]It may not change anything, but allow me to make
-a promise to you.＠035516#00",
+a promise to you.＠035516#00","[0026]Возможно, это уже ничего не изменит, но позвольте
+мне обещать вам...＠035516#00"
 12693,MAP,"[0026]If Flayn and I survive this battle, we will withdraw
-from the world and leave you to do as you please.＠035517#03",
+from the world and leave you to do as you please.＠035517#03","[0026]Если мы с Флэн переживём эту битву, то удалимся
+от мира. А вы сможете делать, что пожелаете.＠035517#03"
 12693,MAP,"[0027]When I heard you were alive, Professor, I was so
-happy. But now... Now this?＠035518#03",
-12693,MAP,[0027]How can it be that you fight on that side?＠035519#02,
+happy. But now... Now this?＠035518#03","[0027]Учитель! Когда я узнала, что вы живы, я была
+так рада, но теперь...＠035518#03"
+12693,MAP,[0027]How can it be that you fight on that side?＠035519#02,[0027]Вы всё ещё сражаетесь на той стороне... почему?!＠035519#02
 12693,MAP,"[0027]I cannot take your life, for I owe you mine,
-even now.＠035520#02",
-12693,MAP,[0027]And yet I cannot back away from this fight.＠035521#03,
+even now.＠035520#02","[0027]Я... никак не могу лишить вас жизни,
+раз обязана вам своей!＠035520#02"
+12693,MAP,[0027]And yet I cannot back away from this fight.＠035521#03,[0027]Но и прекратить эту битву я не в силах...＠035521#03
 12693,MAP,"[0027]When this is over, my brother and I will go
-into hiding. It is the only way.＠035522#00",
+into hiding. It is the only way.＠035522#00","[0027]Когда кончится бой, я попрошу брата о том,
+чтобы мы скрылись вдвоём.＠035522#00"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0033]So, you're the leader of the Knights of Seiros now?
-Good for you, Alois.＠035523#01",
+Good for you, Alois.＠035523#01","[0033]Так ты теперь лидер Рыцарей Сейрос? Молодец, Алоис.＠035523#01"
 12693,MAP,"[0031]Indeed! You seem to be doing well for yourself too.
-The other knights are always cursing you.＠035524#01",
+The other knights are always cursing you.＠035524#01","[0031]Да и вы, похоже, трудитесь не покладая рук.
+Другие рыцари всё время о вас злословят.＠035524#01"
 12693,MAP,"[0033]Don't worry, I won't hold back. I owe an old ally
-the courtesy.＠035525#02",
-12693,MAP,[0031]I won't either. I hope you're ready.＠035526#02,
+the courtesy.＠035525#02","[0033]Хм... сдерживаться не буду. Из уважения к
+бывшему соратнику.＠035525#02"
+12693,MAP,[0031]I won't either. I hope you're ready.＠035526#02,"[0031]Взаимно! Готовьтесь, уважаемая Шамир!＠035526#02"
 12693,MAP,"[0031]Why, if it isn't Shamir! You're still with the knights.
-What a surprise.＠035527#01",
+What a surprise.＠035527#01","[0031]Да это же уважаемая Шамир! Как удивительно,
+что вы до сих пор с рыцарями.＠035527#01"
 12693,MAP,"[0033]You're the surprise, Alois. I never thought I'd see the
-day you'd choose anyone over Rhea.＠035528#00",
+day you'd choose anyone over Rhea.＠035528#00","[0033]Это ты меня удивил. Подумать только, ты выбрал 
+того учителя вместо леди Реи.＠035528#00"
 12693,MAP,"[0033]Don't worry, I won't hold back. I owe an old ally
-the courtesy.＠035525#02",
-12693,MAP,[0031]I won't either. I hope you're ready.＠035526#02,
+the courtesy.＠035525#02","[0033]Хм... сдерживаться не буду. Из уважения к
+бывшему соратнику.＠035525#02"
+12693,MAP,[0031]I won't either. I hope you're ready.＠035526#02,"[0031]Взаимно! Готовьтесь, уважаемая Шамир!＠035526#02"
 12693,MAP,"[0031]You fiend, bearing ill will against the goddess.
-This place will be your grave!＠035529#02",
+This place will be your grave!＠035529#02","[0031]Злодеи, замыслившие дурное против Богини!
+Здесь вы и упокоитесь!＠035529#02"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0033]How much of this can you take? It doesn't matter.
-We will be reclaiming Garreg Mach.＠035530#02",
+We will be reclaiming Garreg Mach.＠035530#02","[0033]Мы возвращаем Гаррег Мах. Итак, сколько вы
+ещё сможете продержаться?＠035530#02"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0026]Trespassing on holy ground is a grave sin indeed.
-You must atone for it with your life!＠035531#02",
+You must atone for it with your life!＠035531#02","[0026]Вторжение в святые места — это тяжкий грех,
+который вам придётся искупить жизнью!＠035531#02"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,"[0027]This makes me terribly sad, but this is my duty, to
-which I must be true!＠035532#02",
+which I must be true!＠035532#02","[0027]Это печально, но... это мой долг, от которого я не
+отвернусь!＠035532#02"
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12693,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -147960,7 +147974,7 @@ raise a glass to the occasion. Celebrate your return.＠035666#00","[0015]Здр
 12695,MAP,"[0015]Professor, there's something I should admit. I've got 
 some regrets about how our lives have gone.＠035668#00",[0015]Учитель... Я вам признаюсь об одном сожалении.＠035668#00
 12695,MAP,"[0015]I should have made a proper attempt to woo you
-before now. Instead, I have to kill you.＠035669#02","[0015]Придётся вас убить, а перед этим надо было 
+before now. Instead, I have to kill you.＠035669#02","[0015]Мне придётся вас убить, а перед этим надо было 
 хоть раз приударить за вами как следует!..＠035669#02"
 12695,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12695,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
