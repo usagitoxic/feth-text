@@ -144919,65 +144919,87 @@ the Red Canyon...＠035900#00","[0037]Правда... в Красном Кань
 Что оно тут потеряло?..＠035900#00"
 12497,MAP,[0202]Graaargh!＠036424#00,[0202]Ррррааагх!＠036424#00
 12498,MAP,"[0012]The Kingdom's vanguard has already arrived. Just
-as we'd feared, they far outclass the Duscur forces.＠035907#00",
-12498,MAP,[0012]We cannot stand by and allow another massacre.＠035908#03,
-12498,MAP,"[0012]But we cannot obstruct the Faerghus army, either.＠035909#00",
+as we'd feared, they far outclass the Duscur forces.＠035907#00","[0012]Авангард Королевства уже прибыл. Как и ожидалось,
+силы Даскара не идут ни в какое сравнение с ним.＠035907#00"
+12498,MAP,[0012]We cannot stand by and allow another massacre.＠035908#03,"[0012]Нельзя допустить, чтобы снова повторилась резня.＠035908#03"
+12498,MAP,"[0012]But we cannot obstruct the Faerghus army, either.＠035909#00",[0012]Но... и вмешиваться в действия армии Королевства нельзя.＠035909#00
 12498,MAP,"[0012]Our best hope is to force the troops of Duscur to
-withdraw before the Kingdom soldiers get to them.＠035910#00",
+withdraw before the Kingdom soldiers get to them.＠035910#00","[0012]Остаётся одно: заставить войска Даскара отступить
+до того, как их всех перебьют.＠035910#00"
 12498,MAP,"[0003]The main body of the Kingdom's army is bound
 to arrive soon. Until then, let's aim to quell this
-uprising ourselves.＠035911#00",
+uprising ourselves.＠035911#00","[0003]Скоро прибудут основные силы королевской армии.
+Пока этого не произошло, давайте сами постараемся
+подавить это восстание.＠035911#00"
 12498,MAP,"[0003]Once the main force arrives, we will be out
-of options. We must move fast.＠035912#00",
+of options. We must move fast.＠035912#00","[0003]Как только появятся основные силы, других 
+вариантов у нас не будет. Нужно двигаться быстро.＠035912#00"
 12498,MAP,"[0003]I will try heading for the Kingdom army's camp.
-I hope to work something out with them.＠035913#00",
+I hope to work something out with them.＠035913#00","[0003]Я попробую отправиться в лагерь королевской
+армии. Надеюсь, как-нибудь договоримся.＠035913#00"
 12498,MAP,"[0003]I don't have the right to give orders to Kingdom
 soldiers, but... Let's try conveying that there's no
-point to harming soldiers who have withdrawn.＠035914#00",
-12498,MAP,"[0012]Thank you, Your Highness. We will do our utmost.＠035915#00",
+point to harming soldiers who have withdrawn.＠035914#00","[0003]У меня нет полномочий отдавать приказы солдатам 
+Королевства, но... постараемся донести до них, что нет 
+нужды причинять вред отступающим.＠035914#00"
+12498,MAP,"[0012]Thank you, Your Highness. We will do our utmost.＠035915#00","[0012]Благодарю, Ваше Высочество. Мы также будем
+стараться изо всех сил.＠035915#00"
 12498,MAP,"[0003]It seems the church and the Kingdom troops are
 not working together. My head hurts just thinking
-about it, but we may be able to use that.＠035916#00",
+about it, but we may be able to use that.＠035916#00","[0003]Похоже, войска Церкви и Королевства не 
+сотрудничают. Голова от такого идёт кругом, но 
+этим можно воспользоваться.＠035916#00"
 12498,MAP,"[0003]First, let's push Duscur to retreat. The Kingdom
-might then also withdraw without a fight.＠035917#00",
-12498,MAP,[0012]Let us be quick about it.＠035918#00,
+might then also withdraw without a fight.＠035917#00","[0003]Сперва заставим войска Даскара отступить. В таком 
+случае армия Королевства должна будет уйти без боя.＠035917#00"
+12498,MAP,[0012]Let us be quick about it.＠035918#00,[0012]Понятно. Тогда давайте поторопимся.＠035918#00
 12498,MAP,"[0452]Split up between the east and the west, and advance!
 That'll put the squeeze on those Duscur animals in
-a hurry!＠035919#00",
-12498,MAP,"[0012]They are moving out. Time is of the essence, now.＠035920#00",
-12498,MAP,[0012]Go now if you value your life.＠035921#00,
+a hurry!＠035919#00","[0452]Разделяйтесь на два отряда и наступайте с востока 
+и запада. Быстро подавите войска Даскара!＠035919#00"
+12498,MAP,"[0012]They are moving out. Time is of the essence, now.＠035920#00","[0012]Похоже, они выдвигаются. Времени в обрез.＠035920#00"
+12498,MAP,[0012]Go now if you value your life.＠035921#00,"[0012]Уходите, если жизнь дорога.＠035921#00"
 12498,MAP,"[0453]But aren't you with Faerghus? In any case...
-Thank you.＠035922#00",
-12498,MAP,[0012]You can still get out of here. Run.＠035923#00,
-12498,MAP,"[0454]I...will repay you for this kindness, some day.＠035924#00",
+Thank you.＠035922#00","[0453]Вы разве... не за Фаэргус? В любом случае,
+спасибо за помощь.＠035922#00"
+12498,MAP,[0012]You can still get out of here. Run.＠035923#00,[0012]На этот раз я вас отпущу. Уходите.＠035923#00
+12498,MAP,"[0454]I...will repay you for this kindness, some day.＠035924#00",[0454]Я... когда-нибудь отплачу вам за доброту.＠035924#00
 12498,MAP,"[0455]You're not going to kill us?! Well, I won't wait to
-find out. I'm leaving!＠035925#00",
-12498,MAP,[0012]Safely away.＠035926#00,
-12498,MAP,[0456]I won't allow it... If only you dastards weren't here...＠035927#00,
-12498,MAP,"[0457]I'll have your life for atonement, king slayer!＠035928#00",
-12498,MAP,[0458]Heretics... What is it you think...we have done?!＠035929#00,
-12498,MAP,[0459]Filthy Duscur demons...＠035930#00,
-12498,MAP,[0460]Revenge for my brothers...even at the cost of death...＠035931#00,
+find out. I'm leaving!＠035925#00","[0455]Вы что, не собираетесь нас убивать?.. 
+Ответа ждать не буду — я пошёл!＠035925#00"
+12498,MAP,[0012]Safely away.＠035926#00,[0012]Лёгкой дороги.＠035926#00
+12498,MAP,[0456]I won't allow it... If only you dastards weren't here...＠035927#00,[0456]Кх... Не прощу... Если бы не вы... если бы вас не было...＠035927#00
+12498,MAP,"[0457]I'll have your life for atonement, king slayer!＠035928#00","[0457]Это мы должны говорить! Поплатитесь смертью
+за убийство короля!＠035928#00"
+12498,MAP,[0458]Heretics... What is it you think...we have done?!＠035929#00,[0458]Еретики... что мы... вам сделали?!＠035929#00
+12498,MAP,[0459]Filthy Duscur demons...＠035930#00,[0459]Грязные даскарцы...＠035930#00
+12498,MAP,[0460]Revenge for my brothers...even at the cost of death...＠035931#00,[0460]Отомщу за собратьев... даже ценой жизни...＠035931#00
 12498,MAP,"[0461]Not content with slaying His Majesty, you thought
-to revolt?! Pathetic!＠035932#00",
+to revolt?! Pathetic!＠035932#00","[0461]Мало вам было убить Его Величество, вы ещё
+и мятеж поднять вздумали!＠035932#00"
 12498,MAP,"[0452]Seems this area's done already. All right, men!
-Fall back!＠035933#00",
+Fall back!＠035933#00","[0452]Похоже, здесь всё улажено. Так, уходим!＠035933#00"
 12498,MAP,"[0452]OK, looks like they're already under control.
-Let's head back now.＠035934#00",
-12498,MAP,[0451]Damn you... Faerghus brutes...＠035935#00,
+Let's head back now.＠035934#00","[0452]Хм, похоже, здесь уже всё под контролем.
+Возвращаемся.＠035934#00"
+12498,MAP,[0451]Damn you... Faerghus brutes...＠035935#00,[0451]Чёрт... фаэргусские твари...＠035935#00
 12498,MAP,"[0452]Hmph. The leader's finally dead. Round up the
 survivors! Don't let a single one of those animals
-get away!＠035936#00",
-12498,MAP,[0012]We have failed...＠035937#03,
+get away!＠035936#00","[0452]Хм. Наконец-то их главарь мёртв. Уничтожить
+оставшихся! Не упустите никого!＠035936#00"
+12498,MAP,[0012]We have failed...＠035937#03,[0012]Проклятье!.. Вот и всё... мы опоздали!＠035937#03
 12498,MAP,"[0462]We're here to quell this rebellion, starting now.
-Hunt down those filthy beasts, and give no quarter!＠035938#00",
+Hunt down those filthy beasts, and give no quarter!＠035938#00","[0462]Теперь мы займёмся усмирением мятежников.
+Ловите этих грязных животных, не щадя усилий!＠035938#00"
 12498,MAP,"[0012]The main army has arrived. We stand no chance
-against those numbers.＠035939#03",
-12498,MAP,[0012]We took too long. It is all over...＠035940#03,
-12498,MAP,[0451]Is this...how our dream ends...＠035941#00,
+against those numbers.＠035939#03","[0012]Это... прибыли основные силы. У нас нет шанса
+против стольких людей.＠035939#03"
+12498,MAP,[0012]We took too long. It is all over...＠035940#03,[0012]Мы слишком долго медлили. Всё кончено.＠035940#03
+12498,MAP,[0451]Is this...how our dream ends...＠035941#00,[0451]Кх... здесь и конец нашей мечте!＠035941#00
 12498,MAP,"[0003]I will check the status of the Kingdom's troops.
-Dedue, I leave the Duscur army to you.＠035942#00",
-12498,MAP,"[0012]Yes, Your Highness. Please be careful.＠035943#00",
+Dedue, I leave the Duscur army to you.＠035942#00","[0003]Я проверю, как там королевская армия. 
+Дедью, поручаю тебе войска Даскара.＠035942#00"
+12498,MAP,"[0012]Yes, Your Highness. Please be careful.＠035943#00","[0012]Да. Пожалуйста, берегите себя.＠035943#00"
 12499,MAP,"[0013]Hmph. Struggling to defeat some bandits? What a
 pathetic old man my father is.＠035952#00",
 12499,MAP,[0013]Some villagers are trapped. Let's help them escape.＠035953#00,
