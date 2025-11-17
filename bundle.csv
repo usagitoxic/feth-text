@@ -145001,77 +145001,108 @@ Dedue, I leave the Duscur army to you.＠035942#00","[0003]Я проверю, к
 Дедью, поручаю тебе войска Даскара.＠035942#00"
 12498,MAP,"[0012]Yes, Your Highness. Please be careful.＠035943#00","[0012]Да. Пожалуйста, берегите себя.＠035943#00"
 12499,MAP,"[0013]Hmph. Struggling to defeat some bandits? What a
-pathetic old man my father is.＠035952#00",
-12499,MAP,[0013]Some villagers are trapped. Let's help them escape.＠035953#00,
-12499,MAP,"[0050]Felix, my son. You've finally brought reinforcements!＠035954#00",
+pathetic old man my father is.＠035952#00","[0013]Хм... мой отец — и с трудом справляется с какими-то
+бандитами? Похоже, он выжил из ума.＠035952#00"
+12499,MAP,[0013]Some villagers are trapped. Let's help them escape.＠035953#00,"[0013]Видимо, некоторые жители не сумели выбраться.
+Поможем им.＠035953#00"
+12499,MAP,"[0050]Felix, my son. You've finally brought reinforcements!＠035954#00","[0050]Феликс, сын мой, наконец-то ты привёл подкрепление!＠035954#00"
 12499,MAP,"[0050]Everything will be fine! Good people of this hamlet,
-escape while you can!＠035955#00",
-12499,MAP,"[0463]Thank you so much! Please, help my neighbors too.＠035956#00",
-12499,MAP,[0464]I'm saved! I'm saved!＠035957#00,
-12499,MAP,[0465]Thank you! We've all been evacuated now.＠035958#00,
+escape while you can!＠035955#00","[0050]Всё будет в порядке — прибыло подкрепление! 
+Так что, добрые люди, уходите, пока можете!＠035955#00"
+12499,MAP,"[0463]Thank you so much! Please, help my neighbors too.＠035956#00","[0463]С-спасибо вам огромное! Пожалуйста, спасите и
+моих соседей!＠035956#00"
+12499,MAP,[0464]I'm saved! I'm saved!＠035957#00,[0464]Я спасён!＠035957#00
+12499,MAP,[0465]Thank you! We've all been evacuated now.＠035958#00,[0465]Спасибо большое! Мы все спаслись из деревни!＠035958#00
 12499,MAP,"[0050]They all got away safely. Now we're free to deal with
-those bandits.＠035959#00",
-12499,MAP,[0466]Aaagh! No!＠035960#00,
-12499,MAP,[0467]Urgh. I can't hold on any longer.＠035961#00,
+those bandits.＠035959#00","[0050]Все теперь в безопасности! Значит, можно спокойно
+разобраться с этими бандитами.＠035959#00"
+12499,MAP,[0466]Aaagh! No!＠035960#00,[0466]А-а... м-мама...＠035960#00
+12499,MAP,[0467]Urgh. I can't hold on any longer.＠035961#00,[0467]Н-не могу... больше...＠035961#00
 12499,MAP,"[0013]Weakling. That should put a stop to
-their reinforcements.＠035962#00",
+their reinforcements.＠035962#00","[0013]Хм, слабак... Это должно положить конец
+их подкреплениям.＠035962#00"
 12499,MAP,"[0050]The stronghold is ours. No more bandits should
-come crawling out of here.＠035963#00",
+come crawling out of here.＠035963#00","[0050]Отлично, мы взяли крепость. Отсюда больше
+не должны лезть бандиты.＠035963#00"
 12499,MAP,"[0468]I will not let you interfere with my plan! Cut them
-to ribbons, boys.＠035964#00",
-12499,MAP,[0050]Outmatched by a damn bandit...＠035965#03,
-12499,MAP,"[0013]Come now. Stop living in denial, old man.＠035966#00",
+to ribbons, boys.＠035964#00","[0468]Я не позволю вам помешать моим планам!
+Режьте их на лоскуты, парни!＠035964#00"
+12499,MAP,[0050]Outmatched by a damn bandit...＠035965#03,[0050]Кх... Я проиграл какому-то бандиту...＠035965#03
+12499,MAP,"[0013]Come now. Stop living in denial, old man.＠035966#00","[0013]Эй... прекращай врать самому себе, папаша.＠035966#00"
 12499,MAP,"[0050]I cannot die in this place... His Majesty would want
-me to keep going...＠035967#03",
-12499,MAP,[0013]My foolish father... He's in trouble.＠035968#03,
-12499,MAP,"[0050]Everyone, I'm sorry. It's over for me...＠035969#03",
+me to keep going...＠035967#03","[0050]Кх... я не могу умереть здесь... Ламберт будет
+так надо мной смеяться!..＠035967#03"
+12499,MAP,[0013]My foolish father... He's in trouble.＠035968#03,[0013]Чёрт... мой отец в опасности!＠035968#03
+12499,MAP,"[0050]Everyone, I'm sorry. It's over for me...＠035969#03","[0050]Простите меня... похоже, здесь я и...＠035969#03"
 12499,MAP,"[0050]That should do it. We've chased those ruffians away
-for good.＠035970#00",
+for good.＠035970#00","[0050]Отлично, вот и всё... мы благополучно избавились
+от этих бандитов.＠035970#00"
 12499,MAP,"[0469]Thank you so much for your assistance! Please accept
-this small gift as thanks.＠035971#00",
+this small gift as thanks.＠035971#00","[0469]Спасибо вам огромное за помощь. Пожалуйста,
+примите эту малость в знак благодарности.＠035971#00"
 12500,MAP,"[0470]There she is—the sneaky little witch trying to pass
-herself off as the goddess's envoy...＠035984#00",
+herself off as the goddess's envoy...＠035984#00","[0470]Явилась. Дряная лисица, выдающая себя 
+за посланницу Богини...＠035984#00"
 12500,MAP,"[0470]Archbishop Rhea! I'll bring judgment upon you in
-the goddess's stead!＠035985#00",
+the goddess's stead!＠035985#00","[0470]Архиепископ Рея! Я буду судить тебя здесь 
+вместо Богини!＠035985#00"
 12500,MAP,"[0032]They're using the fog as cover to ambush us.
-What a cheap ploy.＠035986#02",
+What a cheap ploy.＠035986#02","[0032]Так они собираются нападать под прикрытием
+тумана. Какая дешёвая уловка!＠035986#02"
 12500,MAP,"[0036]It won't do any good to get annoyed, Catherine.
-That voice... We're up against a faction of bishops.＠035987#00",
+That voice... We're up against a faction of bishops.＠035987#00","[0036]Не нужно нервничать, Катерина. Этот голос... боюсь,
+наш противник — фракция епископов.＠035987#00"
 12500,MAP,"[0032]They've shown themselves, at least, so we won't have
-to go to the trouble of finding them.＠035988#00",
+to go to the trouble of finding them.＠035988#00","[0032]Ха. Ну, раз они показались сами, то хотя бы нет
+нужды их искать.＠035988#00"
 12500,MAP,"[0032]All right. You got a death wish? Come at me!
-You really want to fight against Thunder Catherine?＠035989#02",
-12500,MAP,"[0032]Please, Professor. Don't let Lady Rhea get hurt.＠035990#00",
+You really want to fight against Thunder Catherine?＠035989#02","[0032]Ладно, умереть хотите, значит. Нападайте! 
+Вы связались с Катериной-Громовержцем!＠035989#02"
+12500,MAP,"[0032]Please, Professor. Don't let Lady Rhea get hurt.＠035990#00","[0032]Надеюсь на тебя. Не позволяй нанести леди Рее
+ни царапины.＠035990#00"
 12500,MAP,"[0032]Our mission isn't just to wipe out all the enemies,
-but also to protect Lady Rhea. Ready?＠035991#00",
-12500,MAP,[0014]Lady Rhea!＠035992#04,[0014]Леди Рея!＠035992#04
+but also to protect Lady Rhea. Ready?＠035991#00","[0032]Наша миссия — не только уничтожить врага,
+но и защитить леди Рею. Все готовы?＠035991#00"
+12500,MAP,[0014]Lady Rhea!＠035992#04,"[0014]Чёрт, леди Рея!..＠035992#04"
 12500,MAP,"[0032]Hold the line! Don't let them attack
-Lady Rhea again.＠035993#02",
+Lady Rhea again.＠035993#02","[0032]Держать оборону! Не дайте им
+снова напасть на леди Рею!＠035993#02"
 12500,MAP,"[0036]They have received reinforcements, and it seems the
-priests are calling them over.＠035994#00",
-12500,MAP,[0014]Then we'll just have to take them out!＠035995#00,
+priests are calling them over.＠035994#00","[0036]К ним прибыли подкрепления — похоже, священники
+зовут их к себе.＠035994#00"
+12500,MAP,[0014]Then we'll just have to take them out!＠035995#00,"[0014]Другими словами, если убрать этих священников,
+больше подкреплений не будет!＠035995#00"
 12500,MAP,"[0036]It seems that taking out the priest has stopped the
-reinforcements coming over here.＠035996#00",
+reinforcements coming over here.＠035996#00","[0036]Похоже, без этого священника подкрепления
+больше не будут сюда прибывать.＠035996#00"
 12500,MAP,"[0036]We should be able to stop the reinforcements coming
-from the other side by taking care of the other priest.＠035997#00",
+from the other side by taking care of the other priest.＠035997#00","[0036]Значит, позаботившись о втором священнике, 
+мы сможем остановить прибытие подкреплений 
+и с другой стороны.＠035997#00"
 12500,MAP,"[0036]They will not be able to send any more troops now.
-Let us sweep up the stragglers.＠035998#00",
+Let us sweep up the stragglers.＠035998#00","[0036]Больше они не смогут призвать солдат. 
+Давайте избавимся от тех, кто ещё остался.＠035998#00"
 12500,MAP,"[0032]Good work, Lady Rhea! Let's round 'em up and
-cut 'em down.＠035999#00",
-12500,MAP,[0470]Apostates! You sully the name of the goddess!＠036000#00,
-12500,MAP,[0036]You are the apostates! The goddess is with me!＠036001#00,
+cut 'em down.＠035999#00","[0032]Так точно, леди Рея! Ну-ка, соберём их и перебьём!＠035999#00"
+12500,MAP,[0470]Apostates! You sully the name of the goddess!＠036000#00,[0470]Отступники... вы позорите имя Богини...＠036000#00
+12500,MAP,[0036]You are the apostates! The goddess is with me!＠036001#00,[0036]Это вы — отступники. Богиня со мной.＠036001#00
 12500,MAP,"[0036]Goddess, have mercy. Forgive them their sins,
-and save their souls...＠036002#00",
+and save their souls...＠036002#00","[0036]Смилуйся, Богиня. Прости им грехи их,
+и спаси их души...＠036002#00"
 12500,MAP,"[0032]It would've been better if we'd captured the bishop.
-But they didn't make it easy for us.＠036003#00",
-12500,MAP,"[0032]What now, Lady Rhea?＠036004#00",
+But they didn't make it easy for us.＠036003#00","[0032]Было бы лучше, если бы мы схватили епископа,
+но они яростно сопротивлялись.＠036003#00"
+12500,MAP,"[0032]What now, Lady Rhea?＠036004#00","[0032]Леди Рея, что нам делать дальше?＠036004#00"
 12500,MAP,"[0036]We must go to the headquarters of the Western
 Church. Perhaps there is still someone there who
-knows what has transpired.＠036005#00",
+knows what has transpired.＠036005#00","[0036]Отправимся в Западную Церковь. Возможно,
+там ещё остался кто-то, кто знает все обстоятельства.＠036005#00"
 12500,MAP,"[0014]Let us help too. It may not be much, but we'll do
-whatever we can!＠036006#00",
+whatever we can!＠036006#00","[0014]Позвольте нам помочь. Даже если мы мало что
+сможем.＠036006#00"
 12500,MAP,"[0036]I am sure you will be a great help. I am glad to have
-you by my side.＠036007#00",
+you by my side.＠036007#00","[0036]Нет, я уверена, что вы сможете многое. Я буду
+рада вашей помощи.＠036007#00"
 12501,MAP,"[0015]OK, we've got the thieves covered on both sides.＠036013#00","[0015]Хорошо, мы окружили воров с обеих сторон.＠036013#00"
 12501,MAP,"[0015]Some of the thieves are still carrying what they stole, 
 so we have a chance to get it back.＠036014#00","[0015]У некоторых воров всё ещё при себе украденное,
