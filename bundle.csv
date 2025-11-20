@@ -145362,91 +145362,113 @@ and take them.＠036140#00","[0480]Хватит. Думаю, они нам пр�
 them off your hands since you asked so nicely.＠036141#00","[0005]Ваше оружие, как я понимаю? Да, пожалуй, 
 заберём, раз уж вы предлагаете.＠036141#00"
 12506,MAP,"[0006]This is where my father was sighted? The citizens are
-rioting everywhere.＠036142#00",
-12506,MAP,[0022]Over there! Quick—we need to help them!＠036143#04,
-12506,MAP,[0006]There seem to be some people inciting the violence.＠036144#00,
+rioting everywhere.＠036142#00",[0006]Здесь видели моего отца? Тут повсюду бунтуют люди.＠036142#00
+12506,MAP,[0022]Over there! Quick—we need to help them!＠036143#04,[0022]На тот дом напали! Нужно быстрее помочь!＠036143#04
+12506,MAP,[0006]There seem to be some people inciting the violence.＠036144#00,"[0006]Да... похоже, кто-то нарочно подстрекает людей.＠036144#00"
 12506,MAP,"[0006]If we take them out, perhaps the violence
-will subside.＠036145#00",
-12506,MAP,[0022]It might be best to spread out...＠036146#00,
+will subside.＠036145#00","[0006]Если устранить подстрекателей, бунт должен улечься.＠036145#00"
+12506,MAP,[0022]It might be best to spread out...＠036146#00,"[0022]Возможно, нам лучше разделиться.＠036146#00"
 12506,MAP,"[0006]The north side of the town is in chaos. I do not think
-we can advance.＠036147#00",
+we can advance.＠036147#00","[0006]В северной части города творится сущий хаос, 
+с которым невозможно справиться.＠036147#00"
 12506,MAP,"[0022]It seems better to simply hold the line against the
 enemies in the north, and focus our efforts on saving
-the citizens in the east and south.＠036148#00",
+the citizens in the east and south.＠036148#00","[0022]Возможно, будет лучше просто сдерживать противника
+на севере и сосредоточить усилия на спасении горожан
+на востоке и юге.＠036148#00"
 12506,MAP,"[0481]Th-thank you! Looks like I won't be robbed
-this time!＠036149#00",
+this time!＠036149#00",[0481]С-спасибо вам! Теперь меня не ограбят!＠036149#00
 12506,MAP,"[0482]Thank you ever so much for helping us! I don't know
-what would have happened if it weren't for you...＠036150#00",
-12506,MAP,"[0483]We owe you our lives! We're saved! Saved, I say!＠036151#00",
+what would have happened if it weren't for you...＠036150#00","[0482]Спасибо вам за помощь! Не знаю, что случилось бы,
+если бы не вы...＠036150#00"
+12506,MAP,"[0483]We owe you our lives! We're saved! Saved, I say!＠036151#00",[0483]Вы наши спасители! Мы спасены! Спасены!＠036151#00
 12506,MAP,"[0484]I get to live another day, and it's all because you
-came to the rescue!＠036152#00",
+came to the rescue!＠036152#00",[0484]Я осталась жива только благодаря вам!＠036152#00
 12506,MAP,"[0022]I think that's all of them. I'm so glad we were able
-to help everyone.＠036153#00",
-12506,MAP,[0485]All right! Let's ransack this place!＠036154#00,
+to help everyone.＠036153#00","[0022]Похоже, на этом всё. Я рада, что мы смогли спасти всех.＠036153#00"
+12506,MAP,[0485]All right! Let's ransack this place!＠036154#00,[0485]Отлично! Выносим всё дочиста!＠036154#00
 12506,MAP,"[0022]Ugh, we weren't fast enough! But there's still time to
-save the others. Hurry!＠036155#03",
-12506,MAP,"[0486]Oh yeah, keep going! Hahaha!＠036156#00",
+save the others. Hurry!＠036155#03","[0022]Мы не успели... Но мы всё ещё можем помочь
+другим людям!＠036155#03"
+12506,MAP,"[0486]Oh yeah, keep going! Hahaha!＠036156#00","[0486]Вот так, навались! Ха-ха-ха!＠036156#00"
 12506,MAP,"[0006]They got past us...again. We have to save the
-next one!＠036157#02",
+next one!＠036157#02","[0006]Они снова проскользнули мимо! Нужно обязательно
+защитить следующий дом!＠036157#02"
 12506,MAP,"[0487]I'll take whatever I want, and there ain't nothing
-you can do to stop me!＠036158#00",
+you can do to stop me!＠036158#00","[0487]Я делаю, что хочу, и никто мне не указ!＠036158#00"
 12506,MAP,"[0022]Ugh, they ransacked another house! But there may
-be others yet who need our help.＠036159#03",
-12506,MAP,"[0488]All right, boys! Smash and grab whatever's left!＠036160#00",
+be others yet who need our help.＠036159#03",[0022]То место тоже разграбили! Но ещё остаются люди...＠036159#03
+12506,MAP,"[0488]All right, boys! Smash and grab whatever's left!＠036160#00","[0488]Молодцы, парни! Выносим всё, что не привинчено
+к полу!＠036160#00"
 12506,MAP,"[0006]We could not save anyone?! It infuriates me to feel
-so helpless...＠036161#02",
-12506,MAP,[0486]Argh! I'm not the only...bad guy here...＠036162#00,
+so helpless...＠036161#02","[0006]Кх... Мы никого не смогли спасти! Я так зол на
+своё бессилие!..＠036161#02"
+12506,MAP,[0486]Argh! I'm not the only...bad guy here...＠036162#00,[0486]Гха-а... Тут не только я... виноват...＠036162#00
 12506,MAP,"[0485]What?! W-we give up! Have mercy! That guy made
-us do it!＠036163#00",
-12506,MAP,[0488]My ambition...unfulfilled...＠036164#00,
+us do it!＠036163#00",[0485]Э-э?! М-мы сдаёмся! Это он нас на это подбил!＠036163#00
+12506,MAP,[0488]My ambition...unfulfilled...＠036164#00,"[0488]Я не смог... сделать то, что хотел...＠036164#00"
 12506,MAP,"[0487]We yield! Yield! We were just following orders!
-It's not like we love a good riot, really!＠036165#00",
+It's not like we love a good riot, really!＠036165#00","[0487]Мы сдаёмся! Сдаёмся! Мы просто следовали
+его приказам, нам вообще не надо бунтов!＠036165#00"
 12506,MAP,"[0487]Oh, looky there, some houses are still untouched!
-Let's give 'em a good plundering, boys!＠036166#00",
+Let's give 'em a good plundering, boys!＠036166#00","[0487]Опа, тут ещё остались нетронутые дома!
+Давайте-ка их обнесём!＠036166#00"
 12506,MAP,"[0022]Professor, let's make haste and go help them! Their
-lives may be forfeit if we don't get to them quickly.＠036167#00",
+lives may be forfeit if we don't get to them quickly.＠036167#00","[0022]Учитель, нам нужно как можно скорее помочь!
+Иначе может случиться непоправимое!＠036167#00"
 12506,MAP,"[0489]And after I went to all the trouble of killing that
-noble and stealing his treasure...＠036168#00",
-12506,MAP,"[0006]Father, no! So, we were too late after all...＠036169#04",
+noble and stealing his treasure...＠036168#00","[0489]Чёрт... и это после того, как я убил этого
+аристократа... и присвоил его сокровища...＠036168#00"
+12506,MAP,"[0006]Father, no! So, we were too late after all...＠036169#04","[0006]Не может быть, он про... Отец! Неужели мы опоздали...＠036169#04"
 12506,MAP,[0006]...＠036170#03,[0006]...＠036170#03
-12506,MAP,[0022]Ferdinand... Hey.＠036171#03,[0022]Фердинанд... Эй.＠036171#03
+12506,MAP,[0022]Ferdinand... Hey.＠036171#03,"[0022]Ох, Фердинанд...＠036171#03"
 12506,MAP,[0006]Yes?＠036172#03,[0006]Да?＠036172#03
 12506,MAP,"[0022]I... I don't know what to say. About your father,
-I mean.＠036173#03",
+I mean.＠036173#03","[0022]Я... не знаю, что сказать. По поводу твоего отца.＠036173#03"
 12506,MAP,"[0006]No, it is all right. Some part of me was
-expecting this.＠036174#00",
+expecting this.＠036174#00","[0006]Нет, всё нормально. Я был к этому готов.＠036174#00"
 12506,MAP,"[0006]I do not know what happened in Hrym territory,
-but I am sure he got what he deserved.＠036175#00",
+but I am sure he got what he deserved.＠036175#00","[0006]Я не знаю, что случилось во владениях дома Хрюм,
+но похоже, мой отец получил то, что заслужил.＠036175#00"
 12506,MAP,"[0006]You knew more about it, you said? Maybe you can
-tell me everything later.＠036176#00",
-12507,MAP,[0025]Linhardt! Wake up! We've reached Lake Teutates!＠036180#00,
-12507,MAP,"[0007]Huh? What? Oh, um. Yes. So we have.＠036181#00",
+tell me everything later.＠036176#00","[0006]Ты говорила, что знаешь об этом немного больше.
+Не могла бы ты попозже рассказать мне обо всём?..＠036176#00"
+12507,MAP,[0025]Linhardt! Wake up! We've reached Lake Teutates!＠036180#00,"[0025]Линхарт, просыпайся! Мы добрались до озера Тевтат!＠036180#00"
+12507,MAP,"[0007]Huh? What? Oh, um. Yes. So we have.＠036181#00",[0007]А? Чего?＠036181#00
 12507,MAP,"[0025]A temple on a lake, huh? Looks fancy. And that's
-a cute...uh...guard dog?＠036182#00",
-12507,MAP,[0216]Guard dog? Is it I to whom you are referring?＠036183#00,
-12507,MAP,[0025]Whoa! A magic beast! And it talks!＠036184#04,
-12507,MAP,[0216]Nuisance... You weaklings should turn tail and run!＠036185#00,
-12507,MAP,"[0025]Uh, hi! We're actually, um, looking for something...＠036186#00",
+a cute...uh...guard dog?＠036182#00","[0025]На озере ещё и симпатичный храм стоит, значит.
+А у храма ещё... сторожевой пёс, наверное.＠036182#00"
+12507,MAP,[0216]Guard dog? Is it I to whom you are referring?＠036183#00,[0216]Сторожевой пёс? Ты про меня?＠036183#00
+12507,MAP,[0025]Whoa! A magic beast! And it talks!＠036184#04,"[0025]Ого, это волшебный зверь! Говорящий!＠036184#04"
+12507,MAP,[0216]Nuisance... You weaklings should turn tail and run!＠036185#00,[0216]Крикливая... Прочь — здесь нет места слабым!＠036185#00
+12507,MAP,"[0025]Uh, hi! We're actually, um, looking for something...＠036186#00","[0025]Здрасьте! По правде говоря, мы тут кое-что ищем...＠036186#00"
 12507,MAP,"[0216]I know well what it is that you desire. If you want it,
-you must first complete my trial.＠036187#00",
+you must first complete my trial.＠036187#00","[0216]Я знаю, что именно вам надобно. Если вы хотите это,
+то сначала должны пройти моё испытание.＠036187#00"
 12507,MAP,"[0007]Of course we do. This is as awful as I expected it
-would be. Perhaps we could go home now?＠036188#07",
+would be. Perhaps we could go home now?＠036188#07","[0007]Так и знал, что всё к этому и идёт. Я хочу обратно.＠036188#07"
 12507,MAP,"[0025]Are you kidding? It's just a little fog! Come on, let's
-go talk to Mr. Magic Beast!＠036189#01",
+go talk to Mr. Magic Beast!＠036189#01","[0025]Давай, вперёд! Подумаешь, в тумане плохо видно —
+шагом марш к господину Волшебному Зверю!＠036189#01"
 12507,MAP,"[0007]I suspect our opponent is an illusion. If we cut off the
-source of this magic, they should stop attacking.＠036190#00",
-12507,MAP,[0216]You did well. The trial ends here...＠036191#00,
+source of this magic, they should stop attacking.＠036190#00","[0007]Подозреваю, что наш противник — иллюзия, 
+порождённая магией. Если не перекрыть её источник,
+на нас будут нападать снова и снова.＠036190#00"
+12507,MAP,[0216]You did well. The trial ends here...＠036191#00,[0216]Хм... Вы справилсь. Испытание окончено.＠036191#00
 12507,MAP,"[0216]What sublime children of men... Go ahead. Name
-your desire.＠036192#00",
-12507,MAP,"[0025]So, uh, we heard you're giving away free weapons?＠036193#00",
-12507,MAP,"[0007]Do be quiet, Leonie.＠036194#00",
+your desire.＠036192#00","[0216]Вы — достойные дети человеческие... Итак.
+Озвучьте своё желание.＠036192#00"
+12507,MAP,"[0025]So, uh, we heard you're giving away free weapons?＠036193#00","[0025]Ага! Я слышала, что вы тут раздаёте бесплатное оружие...＠036193#00"
+12507,MAP,"[0007]Do be quiet, Leonie.＠036194#00","[0007]Давай ты немного помолчишь, Леони.＠036194#00"
 12507,MAP,"[0007]Somewhere in this temple is said to rest the holy 
-bow of Saint Indech. It is called ""the Inexhaustible.""＠036195#00",
+bow of Saint Indech. It is called ""the Inexhaustible.""＠036195#00","[0007]Где-то в этом храме должен находиться священный лук 
+святого Индеха под названием «Неиссякаемый».＠036195#00"
 12507,MAP,"[0007]Could you find it in your heart to let my friend here
-have it?＠036196#00",
+have it?＠036196#00",[0007]Не могли бы вы отдать его этой девушке?＠036196#00
 12507,MAP,"[0216]You have shown might deserving of my sacred bow.
-I will grant your wish.＠036197#00",
-12507,MAP,"[0025]Yes! Thanks, Mr. Magic Beast!＠036198#01",
+I will grant your wish.＠036197#00","[0216]Вы показали силу, достойную моего священного лука.
+Я исполню ваше желание.＠036197#00"
+12507,MAP,"[0025]Yes! Thanks, Mr. Magic Beast!＠036198#01","[0025]Ура! Спасибо, господин Волшебный Зверь!＠036198#01"
 12508,MAP,"[0009]Professor, this is bad! The enemy's already here!＠036213#04",
 12508,MAP,"[0011]In strength, the enemies may be winning, but I am
 having an idea...＠036214#00",
