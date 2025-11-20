@@ -207,14 +207,9 @@ class EditDialog(QDialog):
         self.buttons.accepted.connect(self.accept)
         self.buttons.rejected.connect(self.reject)
 
-        # flayout = QFormLayout()
-        # flayout.addRow("Source:", self.original_text)
-        # flayout.addRow("Translate:", self.translated_text)
-
         layout = QVBoxLayout()
         layout.addWidget(self.original_text)
         layout.addWidget(self.translated_text)
-        # layout.addLayout(flayout)
         layout.addLayout(self.btn_layout)
         layout.addWidget(self.buttons)
 
