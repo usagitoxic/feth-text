@@ -273,7 +273,7 @@ class CSVEditor(QMainWindow):
 
         self.setWindowTitle("Bundle Editor")
         self.setWindowIcon(self.window_icon)
-        self.resize(1280, 600)
+        self.resize(1280, 720)
 
         self.search_line_edit = QLineEdit()
         self.search_line_edit.setPlaceholderText("Search...")
