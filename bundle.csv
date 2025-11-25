@@ -145563,29 +145563,37 @@ give up. Let's retreat!＠036270#00",
 I will clean up here and then report to my father.＠036274#00","[0019]Благодарю вас, профессор. Проходите.
 Я наведу здесь порядок и потом доложу отцу.＠036274#00"
 12509,MAP,[0019]See you back at the monastery.＠036275#00,
-12510,MAP,[0497]Aah! Monsters! Begone!＠036284#00,
+12510,MAP,[0497]Aah! Monsters! Begone!＠036284#00,"[0497]А-а! Прочь отсюда, чудища!＠036284#00"
 12510,MAP,"[0021]Look! The monsters are attacking those
-merchants again.＠036285#04",
+merchants again.＠036285#04","[0021]Посмотрите туда! Похоже, чудовища снова
+нападают на купцов!＠036285#04"
 12510,MAP,"[0020]Looks like there are some humans mixed in there!
-Maybe they're controlling the monsters!＠036286#04",
+Maybe they're controlling the monsters!＠036286#04","[0020]Я вижу людей среди чудищ. Может, эти люди
+их науськивают?＠036286#04"
 12510,MAP,"[0020]If they are, do you think we just have to take out
-the leader?＠036287#00",
-12510,MAP,"[0021]Let's get started, before it's too late!＠036288#02",
+the leader?＠036287#00","[0020]Если это так, то нам надо проломить им головы,
+и мы победим... правильно, учитель?＠036287#00"
+12510,MAP,"[0021]Let's get started, before it's too late!＠036288#02","[0021]Поспешим, пока не стало слишком поздно!＠036288#02"
 12510,MAP,"[0020]The merchants can probably escape, but we gotta get
-rid of those enemies who are blocking the path!＠036289#02",
+rid of those enemies who are blocking the path!＠036289#02","[0020]Купцы, наверное, смогут сбежать, но сначала надо
+избавиться от врагов, которые нам мешают!＠036289#02"
 12510,MAP,"[0021]Look, a drawbridge! We can use that to cross,
-but we'll need to lower it first.＠036290#00",
-12510,MAP,[0497]Aaaaaah!＠036291#00,[0497]Аааааах!＠036291#00
-12510,MAP,[0020]Oh no! Looks like we just lost one of the merchants!＠036292#04,
-12510,MAP,[0021]Come on... Let's try to save the rest of them.＠036293#03,
-12510,MAP,[0498]No... Why?!＠036294#00,[0498]Нет... Почему?!＠036294#00
-12510,MAP,[0021]No! We couldn't save any of them?!＠036295#03,
+but we'll need to lower it first.＠036290#00","[0021]Там есть разводной мост. Думаю, мы сможем
+по нему пройти, если сначала опустим его.＠036290#00"
+12510,MAP,[0497]Aaaaaah!＠036291#00,[0497]Аааааа!＠036291#00
+12510,MAP,[0020]Oh no! Looks like we just lost one of the merchants!＠036292#04,[0020]Одного из купцов убили!＠036292#04
+12510,MAP,[0021]Come on... Let's try to save the rest of them.＠036293#03,[0021]Кх... Надо постараться спасти оставшихся!＠036293#03
+12510,MAP,[0498]No... Why?!＠036294#00,[0498]Чёрт... Почему?..＠036294#00
+12510,MAP,[0021]No! We couldn't save any of them?!＠036295#03,"[0021]О, нет... мы никого не спасли...＠036295#03"
 12510,MAP,"[0020]Aaargh! They can't get away with hurting those
-merchants! I'm gonna make them pay!＠036296#02",
-12510,MAP,[0499]I'm not looking forward to telling the count...＠036297#00,
-12510,MAP,[0020]Looks like we took care of 'em!＠036298#01,
+merchants! I'm gonna make them pay!＠036296#02","[0020]Гр-а-аа! Я их не прощу! Мы отомстим им 
+за всех этих купцов!＠036296#02"
+12510,MAP,[0499]I'm not looking forward to telling the count...＠036297#00,"[0499]Чёрт, путаются тут под ногами... 
+И что мне теперь доложить графу?＠036297#00"
+12510,MAP,[0020]Looks like we took care of 'em!＠036298#01,"[0020]Учитель, Игнац, у нас получилось! Мы победили!＠036298#01"
 12510,MAP,"[0021]That man mentioned the count. What could Count
-Gloucester have to do with all this?＠036299#04",
+Gloucester have to do with all this?＠036299#04","[0021]Этот человек... упомянул графа? 
+Неужели граф Глостер...＠036299#04"
 12511,MAP,"[0023]A-are you really the Wandering Beast that people
 talk about?＠036303#00",
 12511,MAP,"[0201]You... Do you bear our Crest? For what purpose
