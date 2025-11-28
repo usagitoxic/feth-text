@@ -145469,67 +145469,90 @@ have it?＠036196#00",[0007]Не могли бы вы отдать его это
 I will grant your wish.＠036197#00","[0216]Вы показали силу, достойную моего священного лука.
 Я исполню ваше желание.＠036197#00"
 12507,MAP,"[0025]Yes! Thanks, Mr. Magic Beast!＠036198#01","[0025]Ура! Спасибо, господин Волшебный Зверь!＠036198#01"
-12508,MAP,"[0009]Professor, this is bad! The enemy's already here!＠036213#04",
+12508,MAP,"[0009]Professor, this is bad! The enemy's already here!＠036213#04",[0009]Учитель! Всё плохо-о! Противник уже зде-е-есь!＠036213#04
 12508,MAP,"[0011]In strength, the enemies may be winning, but I am
-having an idea...＠036214#00",
+having an idea...＠036214#00",[0011]Силой враг превосходит нас. Но в моём уме есть план.＠036214#00
 12508,MAP,"[0011]I have been hearing that my friends are being
-imprisoned in the western stronghold...＠036215#00",
+imprisoned in the western stronghold...＠036215#00","[0011]Я слышала, что мои друзья заперты в западном
+укреплении.＠036215#00"
 12508,MAP,"[0011]We will be taking the stronghold and releasing our
-allies! Do not let loose your hope.＠036216#00",
-12508,MAP,[0009]Wh-what? That side's crawling with enemies!＠036217#04,
-12508,MAP,[0009]We should go east! Way fewer of them over there...＠036218#00,
-12508,MAP,[0011]The capturing of the stronghold has been completed.＠036219#00,
+allies! Do not let loose your hope.＠036216#00","[0011]Я хочу захватить укрепление, освободить союзников.＠036216#00"
+12508,MAP,[0009]Wh-what? That side's crawling with enemies!＠036217#04,[0009]Чего-о? Там разве не полно врагов?!＠036217#04
+12508,MAP,[0009]We should go east! Way fewer of them over there...＠036218#00,"[0009]На востоке врагов гораздо меньше! Берни считает,
+что надо идти туда!＠036218#00"
+12508,MAP,[0011]The capturing of the stronghold has been completed.＠036219#00,[0011]Мы полностью взяли укрепление.＠036219#00
 12508,MAP,"[0011]Our friends from the stronghold will soon be aiding
-us in battle...＠036220#00",
+us in battle...＠036220#00","[0011]Я думаю, наши союзники из укрепления скоро
+придут в бой как наши подкрепления.＠036220#00"
 12508,MAP,"[0011]I must be going inside the stronghold and releasing
 our allies. Professor... Friends... Please have patience
-for the reinforcements.＠036221#00",
+for the reinforcements.＠036221#00","[0011]Я пойду в укрепление освобождать наших союзников.
+Учитель, друзья, пожалуйста, ждите подкрепление.＠036221#00"
 12508,MAP,"[0011]Reinforcements are ready. Let us attack with
-each other!＠036222#00",
+each other!＠036222#00","[0011]Кажется, подкрепление готово. 
+Давайте вместе атаковать.＠036222#00"
 12508,MAP,"[0011]Reinforcements are ready. Take my apologies for
-the wait!＠036223#00",
-12508,MAP,[0495]What's this?! You there! Identify yourselves!＠036224#00,
+the wait!＠036223#00","[0011]Подкрепление закончило готовиться. 
+Извините, что заставили ждать.＠036223#00"
+12508,MAP,[0495]What's this?! You there! Identify yourselves!＠036224#00,[0495]Кто идёт?! Я вас не знаю!＠036224#00
 12508,MAP,"[0009]Ah! They're here. I'm not the one you want.
-I'm innocent!＠036225#07",
+I'm innocent!＠036225#07",[0009]Они... они пришли-ии?! Берни... Берни не виновата! И-ии!＠036225#07
 12508,MAP,"[0005]Well, well, well. This little diplomatic errand to
-Brigid just got interesting.＠036226#00",
+Brigid just got interesting.＠036226#00","[0005]Вот это да. Интересно обернулась дипломатическая 
+миссия в Бригид.＠036226#00"
 12508,MAP,"[0005]It seems we have some special guests. Capture the
-road ahead before they reach it.＠036227#00",
+road ahead before they reach it.＠036227#00","[0005]У нас незваные гости. Займите дорогу впереди
+до того, как они до неё дойдут.＠036227#00"
 12508,MAP,"[0011]If they are blocking the road, I will not have the
 ability to be seeing my grandfather! I must be
-moving quickly!＠036228#00",
+moving quickly!＠036228#00","[0011]Если они закроют дорогу, я не смогу увидеть
+дедушку. Мне нужно торопиться!＠036228#00"
 12508,MAP,"[0032]I came here to ask the people of Brigid not to join
-forces with our enemies.＠036229#00",
+forces with our enemies.＠036229#00","[0032]Я прибыла с просьбой к бригидцам не сотрудничать
+с Империей...＠036229#00"
 12508,MAP,"[0032]Looks like the Empire had the same idea. Let's block
-the road and cut them off!＠036230#00",
+the road and cut them off!＠036230#00","[0032]Похоже, наш противник придумал то же самое. 
+Заблокируем дорогу — отрежем им путь!＠036230#00"
 12508,MAP,"[0011]If they are blocking the road, I will not have the
 ability to be seeing my grandfather! I must be
-moving quickly!＠036228#00",
+moving quickly!＠036228#00","[0011]Если они закроют дорогу, я не смогу увидеть
+дедушку. Мне нужно торопиться!＠036228#00"
 12508,MAP,"[0011]It is done! Now, I can be meeting my grandfather.
-We must be moving with haste!＠036231#00",
-12508,MAP,"[0009]Finally over? Phew! All right, let's get out of here!＠036232#00",
+We must be moving with haste!＠036231#00","[0011]Мы справились! Теперь я смогу встретиться
+с дедушкой. Давайте поторопимся.＠036231#00"
+12508,MAP,"[0009]Finally over? Phew! All right, let's get out of here!＠036232#00","[0009]Ох... всё наконец-то закончилось? Поторопись, Петра!＠036232#00"
 12508,MAP,"[0009]This isn't exactly, um, the ideal environment for a
-recluse, you know.＠036233#00",
+recluse, you know.＠036233#00","[0009]А то переносить все эти открытые пространства
+и кучу людей вокруг тяжело для затворницы.＠036233#00"
 12508,MAP,"[0011]Professor, danger is becoming near! Soon, the enemy
-will be blocking the road!＠036234#00",
+will be blocking the road!＠036234#00","[0011]Учитель, опасность приближается. Противник скоро
+закроет дорогу.＠036234#00"
 12508,MAP,"[0011]Grandfather, I cannot be meeting you... My objective
-was failed...＠036235#03",
+was failed...＠036235#03","[0011]Дедушка, я не смогу тебя встретить. 
+Моя цель не совершилась...＠036235#03"
 12508,MAP,"[0005]Heh. No more I can do here. Troops, remember
-your orders. I must withdraw.＠036236#03",
+your orders. I must withdraw.＠036236#03","[0005]Ох... Я больше ничего не могу сделать. Пусть те,
+кто ещё остаётся в строю, остановят их.＠036236#03"
 12508,MAP,"[0032]I can't achieve anything more here. Keep fighting!
-Stop them!＠036237#03",
-12508,MAP,"[0011]I am being attacked, but I will not be losing!＠036238#03",
-12508,MAP,[0011]My life is endangered! I must keep alive!＠036239#03,
+Stop them!＠036237#03","[0032]Пф... больше я ничего не добьюсь. Оставшимся
+в строю: остановите их!＠036237#03"
+12508,MAP,"[0011]I am being attacked, but I will not be losing!＠036238#03","[0011]На меня нападают, но я не проиграю!＠036238#03"
+12508,MAP,[0011]My life is endangered! I must keep alive!＠036239#03,"[0011]Я ощущаю... чувствую, что моя жизнь в опасности.
+Я не должна умереть.＠036239#03"
 12508,MAP,"[0011]Professor... Please, convey to my grandfather...that
-I am without regret...＠036240#03",
-12508,MAP,"[0009]Petra?! Petra, no! Don't leave us!＠036241#04","[0009]Петра?! Петра, нет! Не бросай нас!＠036241#04"
+I am without regret...＠036240#03","[0011]Учитель... прошу, передайте моему дедушке...
+что у меня... нет сожалений...＠036240#03"
+12508,MAP,"[0009]Petra?! Petra, no! Don't leave us!＠036241#04","[0009]Петра?! Постой!.. Петра, не умирай!＠036241#04"
 12508,MAP,"[0011]I will be speaking with my grandfather. Once he is
-convinced, I will be returning.＠036242#00",
+convinced, I will be returning.＠036242#00","[0011]Я буду говорить с дедушкой — когда уговорю его,
+я вернусь.＠036242#00"
 12508,MAP,"[0011]Professor, everyone, please be waiting here. Enemies
-may still be nearby.＠036243#00",
+may still be nearby.＠036243#00","[0011]Учитель, все, пожалуйста, ждите здесь. Враг ещё
+может прийти.＠036243#00"
 12508,MAP,"[0009]Got it. We'll wait right here. And if anyone comes,
-um, the professor will handle it! Right, Professor?＠036244#00",
-12508,MAP,[0680]What's this?! You there! Identify yourselves!＠036224#00,
+um, the professor will handle it! Right, Professor?＠036244#00","[0009]Х-хорошо. Мы подождём. Учитель, если подойдёт
+противник, я могу рассчитывать на вас, верно?＠036244#00"
+12508,MAP,[0680]What's this?! You there! Identify yourselves!＠036224#00,[0680]Кто идёт?! Я вас не знаю!＠036224#00
 12509,MAP,"[0019]Far more enemies than I expected. I am glad you
 decided to come with us, Professor.＠036256#00","[0019]Врагов гораздо больше, чем я ожидал.
 Рад, что вы решили пойти с нами, учитель.＠036256#00"
