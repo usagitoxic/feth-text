@@ -143154,85 +143154,81 @@ old Claude.＠035450#02","[0024]Я не буду сдерживаться. Я н
 for my lord, to the death!＠034865#02","[0018]Мы все выбираем свой путь, и я выбрала свой.
 Я буду сражаться за своего лидера до самой смерти!＠034865#02"
 12475,MAP,"[0426]General, reinforcements have arrived from
-the capital.＠034868#00","[0426]Генерал, подкрепление прибыло из столицы.＠034868#00"
+the capital.＠034868#00","[0426]Генерал, из столицы прибыло подкрепление.＠034868#00"
 12475,MAP,"[0426]They clashed with Alliance forces in the outskirts
-of the city, but should enter the fortress soon.＠034869#00","[0426]Они столкнулись с силами Альянса на окраинах
-города, но скоро должны войти в крепость.＠034869#00"
-12475,MAP,[0042]You let them in? Make haste and slaughter them all.＠034870#00,[0042]Вы впустили их? Поторопитесь и перебейте их всех.＠034870#00
-12475,MAP,[0426]Huh? Why?＠034871#00,[0426]А? Почему?＠034871#00
+of the city, but should enter the fortress soon.＠034869#00","[0426]По-видимому, они подверглись нападению от сил
+Альянса в окрестностях города, но скоро они должны 
+благополучно войти в крепость...＠034869#00"
+12475,MAP,[0042]You let them in? Make haste and slaughter them all.＠034870#00,[0042]Их впустили? Немедленно избавьтесь от них.＠034870#00
+12475,MAP,[0426]Huh? Why?＠034871#00,[0426]А?..＠034871#00
 12475,MAP,"[0042]They are enemies. Slaughter them all. I will not say
-it again.＠034872#00","[0042]Они враги. Перебейте их всех. Я не повторю
-это снова.＠034872#00"
+it again.＠034872#00",[0042]Дважды повторять не буду. Исполнять. Это враг.＠034872#00
 12475,MAP,"[0004]We made it in. Professor, take control from
-the south.＠034873#00","[0004]Мы прорвались. Учитель, возьмите
-контроль с юга.＠034873#00"
+the south.＠034873#00","[0004]Похоже, мы успешно пробрались внутрь. Учитель,
+продолжайте контролировать положение на юге.＠034873#00"
 12475,MAP,"[0004]I have my own task to do from here. There are
 preparations to be made for our secret plan.＠034874#01","[0004]У меня здесь своя задача. Нужно провести
 приготовления к нашему секретному плану.＠034874#01"
 12475,MAP,"[0426]Report! A group posing as Imperial soldiers has
 infiltrated! They seem to be affiliated with
-the church!＠034875#00","[0426]Докладываю! Группа, выдающая себя за
-имперских солдат, проникла на территорию!
-Похоже, они связаны с церковью!!＠034875#00"
-12475,MAP,[0042]Close the gates. Leave no survivors.＠034876#00,"[0042]Закройте ворота. Не оставляйте в живых
-никого.＠034876#00"
+the church!＠034875#00","[0426]Докладываю! Группа, выдающая себя за солдат Империи, 
+проникла внутрь! Похоже, они на стороне Церкви!＠034875#00"
+12475,MAP,[0042]Close the gates. Leave no survivors.＠034876#00,[0042]Закройте ворота. Не щадить никого.＠034876#00
 12475,MAP,"[0004]An impregnable fortress is a wide-open prairie once
 you get inside. From here, we'll attack from the
-north and south at once!＠034877#00","[0004]Неприступная крепость становится открытым полем,
-как только ты оказываешься внутри. Отсюда мы атакуем
-одновременно с севера и юга!＠034877#00"
+north and south at once!＠034877#00","[0004]Когда ты оказываешься внутри, то в сущности нет разницы 
+между неприступной крепостью и равниной. Отсюда мы 
+начнём атаку на два направления сразу: с севера и юга!＠034877#00"
 12475,MAP,"[0052]No different than a prairie, you say? Heh! You've got
-a strange head on your shoulders, kiddo.＠034878#04","[0052]Открытым полем, говоришь? Хех!
-Ты странный, малец.＠034878#04"
+a strange head on your shoulders, kiddo.＠034878#04","[0052]Эй, каким местом это не отличается от равнины?
+Всё бы тебе чепуху нести.＠034878#04"
 12475,MAP,"[0004]For Nader the Undefeated, this should be as
-easy as a walk in a meadow, right?＠034879#01","[0004]Для Надира Непобедимого это должно быть
-так же легко, как прогулка по лугу, верно?＠034879#01"
+easy as a walk in a meadow, right?＠034879#01","[0004]Ха-ха-ха, так ведь для Непобедимого Надира тут
+тем более будто прогулка по безлюдной равнине... 
+ты согласен?＠034879#01"
 12475,MAP,"[0052]Heh. Well, goddess or death god or whoever they
-may be, let's crush them to dust.＠034880#02","[0052]Хех. Ну что ж, богиня или бог смерти, или кто бы
-они там ни были, давайте сотрем их в порошок.＠034880#02"
+may be, let's crush them to dust.＠034880#02","[0052]Пожалуй. Рыцарь Смерти там или рыцарша — мы 
+кого угодно сотрём в порошок!＠034880#02"
 12475,MAP,"[0008]Don't worry about me... I always knew...losing
-meant death...＠034881#03","[0008]Не волнуйтесь обо мне... Я всегда знал...
-поражение означало смерть...＠034881#03"
+meant death...＠034881#03","[0008]Не волнуйтесь обо мне... проиграл — погиб...
+в этом ведь суть драки?..＠034881#03"
 12475,MAP,"[0007]I hope someday there will be no fighting and we can
-all just...nap the afternoon away...＠034882#03","[0007]Я надеюсь, что когда-нибудь не будет никаких
-сражений, и мы все сможем просто... проспать весь
-день напролёт.＠034882#03"
+all just...nap the afternoon away...＠034882#03","[0007]Ах... надеюсь, что когда-нибудь настанет мир, где 
+не нужно будет идти в бой... и можно просто спать 
+весь день напролёт...＠034882#03"
 12475,MAP,[0042]The time is ripe.＠034883#00,[0042]Время пришло.＠034883#00
 12475,MAP,"[0427]Report! The Death Knight is moving! It looks like
 they're abandoning the fortress and making
-an escape!＠034884#00","[0427]Докладываю! Рыцарь Смерти бежит! Похоже,
-они покидают крепость и пытаются сбежать!＠034884#00"
+an escape!＠034884#00","[0427]Докладываю! Рыцарь Смерти пришёл в движение! Похоже, 
+противник покидает крепость в намерении оставить её!＠034884#00"
 12475,MAP,"[0004]We need to put an end to this here and now.
-Come on, let's circle around and cut off his retreat.＠034885#00","[0004]Нам нужно покончить с этим здесь и сейчас.
-Давай, обойдём его с фланга и отрежем ему путь
-к отступлению.＠034885#00"
+Come on, let's circle around and cut off his retreat.＠034885#00","[0004]С ним нужно покончить здесь и сейчас. Итак...
+Давайте обойдём его и отрежем ему путь к отступлению.＠034885#00"
 12475,MAP,"[0026]Do not let him get away! Circle around and cut off
-his retreat!＠034886#00","[0026]Не дайте ему уйти! Обойдите и отрежьте ему
+his retreat!＠034886#00","[0026]Не дайте ему уйти! Обойдите его и отрежьте ему
 путь к отступлению!＠034886#00"
 12475,MAP,"[0042]The time of ruin draws near... But their slaughter
-must wait until next we meet...＠034887#00","[0042]Время разрушений близится... Но их бойня должна
-подождать до нашей следующей встречи...＠034887#00"
-12475,MAP,[0427]Report! The Death Knight has escaped the fortress!＠034888#00,[0427]Докладываю! Рыцарь Смерти сбежал из крепости!＠034888#00
+must wait until next we meet...＠034887#00","[0042]Час краха близок... Но резне придётся подождать
+следующей схватки...＠034887#00"
+12475,MAP,[0427]Report! The Death Knight has escaped the fortress!＠034888#00,[0427]Докладываю обстановку! Рыцарь Смерти покинул крепость!＠034888#00
 12475,MAP,"[0004]He gave up too easily. Does he have some other
 plan? Let's deal with the remaining enemies and
-go after him, quickly!＠034889#02","[0004]Он сдался слишком легко. У него есть другой
-план? Давайте разберёмся с оставшимися
-врагами и быстро пойдём за ним!＠034889#02"
+go after him, quickly!＠034889#02","[0004]Подозрительно быстро отступил... он что-то задумал?
+Давайте разберёмся с оставшимися противниками —
+и в погоню за Рыцарем Смерти!＠034889#02"
 12475,MAP,"[0026]He's fled, has he? Let us deal with the remaining foes
-and then make haste in our pursuit!＠034890#02","[0026]Он сбежал, говоришь? Давайте разберёмся
-с оставшимися врагами, а затем поспешим
-в погоню!＠034890#02"
+and then make haste in our pursuit!＠034890#02","[0026]Так мы его упустили?! Разберёмся с оставшимися 
+противниками — и в погоню, за Рыцарем Смерти!＠034890#02"
 12475,MAP,"[0042]If you desire to slay me, follow. The appointed hour
 is at hand...＠034891#00","[0042]Если хочешь убить меня, следуй за мной.
 Назначенный час близок...＠034891#00"
 12475,MAP,"[0004]He's hiding something... It's annoying to do what
 he's telling us to, but we don't really have a choice.
-After him!＠034892#02","[0004]Он что-то скрывает... Раздражает делать то,
-что он нам говорит, но у нас особо нет выбора.
-За ним!＠034892#02"
+After him!＠034892#02","[0004]Он что-то скрывает... Мне не нравится делать так, 
+как он говорит, но у нас нет выбора. За ним!＠034892#02"
 12475,MAP,"[0026]We've come this far—we cannot let him escape now!
-Everyone, after the Death Knight!＠034893#02","[0026]Мы зашли так далеко — мы не можем позволить
-ему сбежать сейчас! Все, за Рыцарем Смерти!＠034893#02"
+Everyone, after the Death Knight!＠034893#02","[0026]Мы уже загнали его в угол — нельзя позволить ему
+сбежать! Все, за Рыцарем Смерти!＠034893#02"
 12476,MAP,"[0041]The preparations are all in place. Time to meet my
 old master.＠034917#01","[0041]Всё готово. Время встретиться с моим старым
 мастером.＠034917#01"
@@ -145554,38 +145550,49 @@ um, the professor will handle it! Right, Professor?＠036244#00","[0009]Х-хо�
 противник, я могу рассчитывать на вас, верно?＠036244#00"
 12508,MAP,[0680]What's this?! You there! Identify yourselves!＠036224#00,[0680]Кто идёт?! Я вас не знаю!＠036224#00
 12509,MAP,"[0019]Far more enemies than I expected. I am glad you
-decided to come with us, Professor.＠036256#00","[0019]Врагов гораздо больше, чем я ожидал.
-Рад, что вы решили пойти с нами, учитель.＠036256#00"
+decided to come with us, Professor.＠036256#00","[0019]Врагов гораздо больше, чем я ожидал. Рад, 
+что вы присоединились к нам, учитель.＠036256#00"
 12509,MAP,"[0083]Oh? And here I thought Count Gloucester would
-be too busy to send his soldiers here...＠036257#00",
+be too busy to send his soldiers here...＠036257#00","[0083]А-а? А я-то думал, что граф Глостер слишком
+занят, чтобы посылать сюда солдат...＠036257#00"
 12509,MAP,"[0083]Ah, well, it doesn't matter. I'll just have to deal
-with you little meddlers swiftly and decisively!＠036258#00",
+with you little meddlers swiftly and decisively!＠036258#00","[0083]Ну и ладно. Я не дам спуску никому, кто мне
+мешает!＠036258#00"
 12509,MAP,"[0019]That is Acheron. If we can deal with him, that ought
-to scare the rest of these rats off.＠036259#00",
+to scare the rest of these rats off.＠036259#00","[0019]Как видите, это Ахерон. Если мы разберёмся с ним,
+оставшаяся его шайка разбежится.＠036259#00"
 12509,MAP,"[0019]We need not actually kill him. So long as we cut his
-escape off convincingly enough, that should suffice.＠036260#00",
+escape off convincingly enough, that should suffice.＠036260#00","[0019]Хотя необязательно расправляться с ним — 
+если не позволять войскам пройти здесь, 
+то в конце концов они отступят.＠036260#00"
 12509,MAP,"[0019]Incidentally, take note of those drawbridges. They
-can only be operated from one of the banks.＠036261#00",
-12509,MAP,[0019]We may be able to use that to our advantage.＠036262#00,
+can only be operated from one of the banks.＠036261#00","[0019]К слову, через эти реки перекинуты разводные мосты. 
+Ими можно управлять только с одного берега.＠036261#00"
+12509,MAP,[0019]We may be able to use that to our advantage.＠036262#00,[0019]Это можно обернуть в нашу пользу.＠036262#00
 12509,MAP,"[0083]Ooh, have you found something nice? Go ahead and
-hand it over!＠036263#01",
-12509,MAP,[0019]Thieves! Do not allow them to escape!＠036264#04,
-12509,MAP,[0019]The enemy is on the move! Do not let them through!＠036265#00,
-12509,MAP,[0019]A thief has escaped!＠036266#03,
-12509,MAP,[0083]Looks like our boys gave them an artful slip!＠036267#01,
-12509,MAP,[0019]I cannot believe we missed both of those dastards!＠036268#02,
+hand it over!＠036263#01","[0083]О-о, вы нашли что-то хорошенькое? Так сперва
+вернитесь и продайте это!＠036263#01"
+12509,MAP,[0019]Thieves! Do not allow them to escape!＠036264#04,"[0019]Что?.. В погоню, за этими ворами! Нельзя дать
+им уйти!＠036264#04"
+12509,MAP,[0019]The enemy is on the move! Do not let them through!＠036265#00,"[0019]Противник пришёл в движение. Не позволяйте ему
+прорваться!＠036265#00"
+12509,MAP,[0019]A thief has escaped!＠036266#03,[0019]Мы упустили вора!＠036266#03
+12509,MAP,[0083]Looks like our boys gave them an artful slip!＠036267#01,"[0083]Ха-ха-ха-ха! Похоже, наши мальчики ловко
+от них упорхнули!＠036267#01"
+12509,MAP,[0019]I cannot believe we missed both of those dastards!＠036268#02,[0019]Проклятье... снова ускользнули!＠036268#02
 12509,MAP,"[0083]Argh! Wait! I lose, I give up! I surrender!
-Please don't kill meeee!＠036269#04",
+Please don't kill meeee!＠036269#04","[0083]Стой! Я проиграл! Я сдаюсь, только не убивай меня!＠036269#04"
 12509,MAP,[0019]...＠DummyVoice,[0019]...＠DummyVoice
 12509,MAP,"[0083]Now that's a stubborn defense... We should probably
-give up. Let's retreat!＠036270#00",
-12509,MAP,"[0019]So, they've withdrawn. What a pointless battle.＠036271#00",
-12509,MAP,"[0083]Well now, so you couldn't stop us after all!＠036272#01",
-12509,MAP,"[0019]Me, outmaneuvered by a rat?! Ugh. What a disgrace!＠036273#03",
+give up. Let's retreat!＠036270#00","[0083]Они упрямее, чем я думал... не стоило и начинать.
+Уходим.＠036270#00"
+12509,MAP,"[0019]So, they've withdrawn. What a pointless battle.＠036271#00",[0019]Они отступили. Какая бессмысленная битва.＠036271#00
+12509,MAP,"[0083]Well now, so you couldn't stop us after all!＠036272#01","[0083]Что, так и не смог нас остановить? Ха-ха-ха-ха!＠036272#01"
+12509,MAP,"[0019]Me, outmaneuvered by a rat?! Ugh. What a disgrace!＠036273#03",[0019]Такое ничтожество — и меня!.. Позор!＠036273#03
 12509,MAP,"[0019]You have my thanks, Professor. Please go on ahead.
-I will clean up here and then report to my father.＠036274#00","[0019]Благодарю вас, профессор. Проходите.
-Я наведу здесь порядок и потом доложу отцу.＠036274#00"
-12509,MAP,[0019]See you back at the monastery.＠036275#00,
+I will clean up here and then report to my father.＠036274#00","[0019]Спасибо, учитель. Вы можете возвращаться без меня.
+Я наведу здесь порядок и затем доложусь отцу.＠036274#00"
+12509,MAP,[0019]See you back at the monastery.＠036275#00,"[0019]Ещё поговорим, когда я вернусь в монастырь.＠036275#00"
 12510,MAP,[0497]Aah! Monsters! Begone!＠036284#00,"[0497]А-а! Прочь отсюда, чудища!＠036284#00"
 12510,MAP,"[0021]Look! The monsters are attacking those
 merchants again.＠036285#04","[0021]Посмотрите туда! Похоже, чудовища снова
@@ -145604,7 +145611,7 @@ rid of those enemies who are blocking the path!＠036289#02","[0020]Купцы, 
 but we'll need to lower it first.＠036290#00","[0021]Там есть разводной мост. Думаю, мы сможем
 по нему пройти, если сначала опустим его.＠036290#00"
 12510,MAP,[0497]Aaaaaah!＠036291#00,[0497]Аааааа!＠036291#00
-12510,MAP,[0020]Oh no! Looks like we just lost one of the merchants!＠036292#04,[0020]Одного из купцов убили!＠036292#04
+12510,MAP,[0020]Oh no! Looks like we just lost one of the merchants!＠036292#04,[0020]Один из купцов убит!＠036292#04
 12510,MAP,[0021]Come on... Let's try to save the rest of them.＠036293#03,[0021]Кх... Надо постараться спасти оставшихся!＠036293#03
 12510,MAP,[0498]No... Why?!＠036294#00,[0498]Чёрт... Почему?..＠036294#00
 12510,MAP,[0021]No! We couldn't save any of them?!＠036295#03,"[0021]О, нет... мы никого не спасли...＠036295#03"
@@ -145618,107 +145625,144 @@ merchants! I'm gonna make them pay!＠036296#02","[0020]Гр-а-аа! Я их н
 Gloucester have to do with all this?＠036299#04","[0021]Этот человек... упомянул графа? 
 Неужели граф Глостер...＠036299#04"
 12511,MAP,"[0023]A-are you really the Wandering Beast that people
-talk about?＠036303#00",
+talk about?＠036303#00","[0023]Ты действительно... Блуждающее Чудище,
+о котором ходят слухи?＠036303#00"
 12511,MAP,"[0201]You... Do you bear our Crest? For what purpose
-did you come here?＠036304#00",
-12511,MAP,[0023]Our Crest? Does that mean...＠036305#00,
+did you come here?＠036304#00",[0201]У тебя наш Герб? Зачем ты сюда пришла?＠036304#00
+12511,MAP,[0023]Our Crest? Does that mean...＠036305#00,[0023]Наш Герб? Неужели ты...＠036305#00
 12511,MAP,"[0201]It appears that your presence has been detected by
-bloodthirsty Demonic Beasts...＠036306#00",
+bloodthirsty Demonic Beasts...＠036306#00","[0201]Видимо, твоё присутствие почуяли охочие до крови
+чудища-демоны.＠036306#00"
 12511,MAP,"[0201]This forest is the den of Demonic Beasts. You will be
-lucky to make it out alive.＠036307#00",
-12511,MAP,[0023]Demonic Beasts? Everyone... Please move carefully!＠036308#04,
-12511,MAP,[0023]This one looks like a wolf!＠036309#04,
+lucky to make it out alive.＠036307#00","[0201]Этот лес — рассадник чудищ. Вы вряд ли выберетесь
+из него живыми.＠036307#00"
+12511,MAP,[0023]Demonic Beasts? Everyone... Please move carefully!＠036308#04,"[0023]В тумане чудища-демоны?.. Пожалуйста, пусть все
+будут осторожны.＠036308#04"
+12511,MAP,[0023]This one looks like a wolf!＠036309#04,[0023]Это чудище похоже на волка!＠036309#04
 12511,MAP,"[0201]My beastly blood is roused... You will not be able
-to stop me!＠036310#00",
-12511,MAP,[0023]Argh! I'm...not strong enough...＠036311#03,
-12511,MAP,[0023]I-is this it for me?＠036312#03,[0023]Э-это всё для меня?＠036312#03
-12511,MAP,[0023]Dear Goddess... My soul is yours to take...＠036313#03,
+to stop me!＠036310#00",[0201]Моя звериная кровь кипит... Вам меня не остановить!＠036310#00
+12511,MAP,[0023]Argh! I'm...not strong enough...＠036311#03,[0023]Кх... Моих сил не...＠036311#03
+12511,MAP,[0023]I-is this it for me?＠036312#03,[0023]Ах... Всё напрасно?..＠036312#03
+12511,MAP,[0023]Dear Goddess... My soul is yours to take...＠036313#03,[0023]Богиня... прими мою душу...＠036313#03
 12511,MAP,"[0201]Well done... Finally, this nightmare of a thousand
-years is at its end.＠036314#00",
+years is at its end.＠036314#00","[0201]Молодцы... наконец-то закончился этот кошмар
+в тысячу лет.＠036314#00"
 12511,MAP,"[0201]Oh, inheritor of my Crest...if this body is to decay,
-then the sword... I leave it to you...＠036315#00",
+then the sword... I leave it to you...＠036315#00","[0201]Наследница моего Герба... если это тело истлеет,
+то оставляю меч... тебе...＠036315#00"
 12511,MAP,[0023]...＠036316#00,[0023]...＠036316#00
 12512,MAP,"[0024]Most of our allies have fallen. My big brother and I
-can probably handle this though...＠036327#00",
+can probably handle this though...＠036327#00","[0024]Здесь... многие из наших союзников потерпели
+поражение? А я-то думала, что мой брат справится...＠036327#00"
 12512,MAP,"[0502]Hilda! Glad you made it! Lord Holst has been
-afflicted with a sudden illness and couldn't come...＠036328#00",
+afflicted with a sudden illness and couldn't come...＠036328#00","[0502]Г-госпожа Хильда! Хорошо, что вы прибыли! Лорд
+Хольст не смог из-за внезапной болезни...＠036328#00"
 12512,MAP,"[0024]He's not here?! Oh... I'm sorry. You must have been
-absolutely terrified.＠036329#04",
+absolutely terrified.＠036329#04","[0024]Что? Брата здесь нет? Мне так жаль — вам, 
+наверное, пришлось очень тяжело.＠036329#04"
 12512,MAP,"[0024]It's OK though! I brought along someone who can
-definitely help us.＠036330#00",
+definitely help us.＠036330#00","[0024]Но всё будет хорошо! Я привела с собой человека,
+на которого можно положиться!＠036330#00"
 12512,MAP,"[0024]That's you, Professor. Please help us save our allies
-and protect Fódlan's Locket.＠036331#01",
+and protect Fódlan's Locket.＠036331#01","[0024]Это вы, учитель! Пожалуйста, помогите нам спасти
+наших союзников и защитить Ожерелье Фодлана!＠036331#01"
 12512,MAP,"[0034]Good thing I knew about this back road, huh?
-We oughta be able to help our friends from here.＠036332#00",
-12512,MAP,[0502]Support! We're saved!＠036333#00,
+We oughta be able to help our friends from here.＠036332#00","[0034]Хорошо, что я вспомнил об этой потайной тропе.
+Думаю, отсюда мы легко сможем помочь нашим.＠036332#00"
+12512,MAP,[0502]Support! We're saved!＠036333#00,"[0502]О-о, подкрепление! Мы спасены!＠036333#00"
 12512,MAP,"[0024]Ah, things are looking up. Let's keep going, and save
-the others!＠036334#01",
-12512,MAP,[0502]Argh... No help came...＠036335#00,
+the others!＠036334#01","[0024]Замечательно! Давайте сохранять тот же темп,
+и поможем остальным!＠036334#01"
+12512,MAP,[0502]Argh... No help came...＠036335#00,[0502]Гха... Помощи... нет...＠036335#00
 12512,MAP,"[0024]Oh no! They got one...but we can still rescue
-the others!＠036336#04",
+the others!＠036336#04","[0024]Кто-то убит?! Мы обязательно должны спасти
+остальных!＠036336#04"
 12512,MAP,"[0503]We must defend here, or else... Our house...
-The Alliance...＠036337#00",
+The Alliance...＠036337#00","[0503]Надо стоять до последнего, иначе... наш дом...
+Альянс...＠036337#00"
 12512,MAP,"[0024]All our allied troops were wiped out. We won't be
-able to defend this place.＠036338#03",
+able to defend this place.＠036338#03","[0024]Наши войска полностью разгромлены. Больше мы
+не можем удерживать это место.＠036338#03"
 12512,MAP,"[0504]Yeah! We took Fódlan's Locket! With this, we'll be
-able to invade, no problem!＠036339#00",
-12512,MAP,[0024]They're going to invade. I guess it's over...＠036340#03,
-12512,MAP,"[0024]We did it somehow. Cyril, Professor—thank you.＠036341#00",
-12512,MAP,[0034]You bet.＠036342#00,
+able to invade, no problem!＠036339#00","[0504]Так держать! Мы захватили Ожерелье! Теперь мы
+с лёгкостью сможем вторгнуться в Фодлан!＠036339#00"
+12512,MAP,[0024]They're going to invade. I guess it's over...＠036340#03,[0024]Они устроят вторжение! Уже ничего не поделать...＠036340#03
+12512,MAP,"[0024]We did it somehow. Cyril, Professor—thank you.＠036341#00","[0024]Каким-то образом мы победили. Учитель, Кирилл,
+спасибо вам!＠036341#00"
+12512,MAP,[0034]You bet.＠036342#00,[0034]Ага.＠036342#00
 12512,MAP,"[0024]I'm gonna drop by my family's estate and complain
-to my brother a bit. You two should head back.＠036343#00",
+to my brother a bit. You two should head back.＠036343#00","[0024]Я наведаюсь в родительский дом и выскажу пару 
+ласковых брату. А вы вдвоём возвращайтесь без меня!＠036343#00"
 12513,MAP,"[0505]You heretics, who defile our goddess! The sacred
-coast belongs to us, the Western Church!＠036344#00",
-12513,MAP,[0026]You are the heretics! Begone from here at once!＠036345#02,
+coast belongs to us, the Western Church!＠036344#00","[0505]Еретики, оскверняющие нашу Богиню — священное
+взморье принадлежит нам, Западной Церкви!＠036344#00"
+12513,MAP,[0026]You are the heretics! Begone from here at once!＠036345#02,[0026]Это вы — еретики! Немедленно прочь отсюда!＠036345#02
 12513,MAP,"[0505]Silence, dog of the apostate! Prepare to receive our
-righteous blades!＠036346#00",
+righteous blades!＠036346#00","[0505]Молчи, прихвостень верооотступницы! Ты вкусишь
+наши праведные клинки!＠036346#00"
 12513,MAP,"[0026]I will recapture the monument. Everyone else should
-focus on removing the surrounding enemies.＠036347#00",
-12513,MAP,"[0027]Wait, Brother! I shall accompany you!＠036348#00",
-12513,MAP,[0505]We're no match for them... Brothers... Retreat...＠036349#00,
+focus on removing the surrounding enemies.＠036347#00","[0026]Я отобью памятник. Остальные — устраните
+подступающих противников.＠036347#00"
+12513,MAP,"[0027]Wait, Brother! I shall accompany you!＠036348#00","[0027]Подожди меня, брат! Я с тобой!＠036348#00"
+12513,MAP,[0505]We're no match for them... Brothers... Retreat...＠036349#00,"[0505]Мы не можем противостоять этим... из Центральной 
+Церкви? Братья... отступаем...＠036349#00"
 12513,MAP,"[0505]Brothers... Help the remaining priests escape!
 Be the shield that stops these miscreants...in their
-tracks...＠036350#00",
+tracks...＠036350#00","[0505]Братья... помогите оставшимся священникам
+уйти! Будьте щитом, который... остановит... тех...＠036350#00"
 12513,MAP,"[0026]Do you dare compound your crimes further?
-There will be no escape for you!＠036351#02",
-12513,MAP,[0506]Goddess... Have you abandoned us?＠036352#00,
-12513,MAP,[0507]But it was...for the sake of the goddess...＠036353#00,
-12513,MAP,"[0506]I got away, thanks to the protection of the goddess!＠036354#00",
+There will be no escape for you!＠036351#02","[0026]Так вы намереваетесь повторить своё преступление?
+Нельзя дать им уйти! За ними!＠036351#02"
+12513,MAP,[0506]Goddess... Have you abandoned us?＠036352#00,[0506]Богиня... Ты покинула нас?..＠036352#00
+12513,MAP,[0507]But it was...for the sake of the goddess...＠036353#00,[0507]Почему?.. ведь мы... ради Богини...＠036353#00
+12513,MAP,"[0506]I got away, thanks to the protection of the goddess!＠036354#00",[0506]Мы сумели уйти! Хвала заступничеству Богини!＠036354#00
 12513,MAP,"[0026]Insufferable arrogance! We'll have to send someone
-after them...＠036355#00",
+after them...＠036355#00","[0026]Что за наглость!.. Придётся послать кого-то, чтобы
+их схватить.＠036355#00"
 12513,MAP,"[0507]It's like the goddess herself commanded me to live...
-I must offer her my thanks!＠036356#00",
-12513,MAP,[0026]The goddess doesn't want your thanks!＠036357#00,
+I must offer her my thanks!＠036356#00",[0507]Будто сама Богиня велела мне жить... Хвала Ей!＠036356#00
+12513,MAP,[0026]The goddess doesn't want your thanks!＠036357#00,"[0026]Это непростительно. Богиня бы ни за что 
+этого не сказала!＠036357#00"
 12513,MAP,"[0026]I must pull back... I leave the rest to you. Do not let
-them take this position!＠036358#03",
+them take this position!＠036358#03","[0026]Нельзя позволить им занять эту землю.
+Я надеюсь на вас.＠036358#03"
 12513,MAP,"[0027]This place...is very precious to me... Please...protect
-it...for me...＠036359#03",
+it...for me...＠036359#03","[0027]Это очень драгоценное место для меня... Пожалуйста,
+обязательно защитите его.＠036359#03"
 12513,MAP,"[0026]That is the last of them. Flayn...will you place some
-flowers at the monument?＠036360#00",
+flowers at the monument?＠036360#00","[0026]Вот и всё. Флэн, ты возложишь венок к памятнику?＠036360#00"
 12513,MAP,"[0026]We will send the knights to chase down the rest.
-Flayn, will you place some flowers at the monument?＠036361#00",
-12513,MAP,"[0027]Of course, Brother. That is what I came here to do.＠036362#00",
+Flayn, will you place some flowers at the monument?＠036361#00","[0026]Мы пошлём рыцарей, чтобы они поймали тех, 
+кто сбежал. Флэн, ты возложишь венок к памятнику?＠036361#00"
+12513,MAP,"[0027]Of course, Brother. That is what I came here to do.＠036362#00","[0027]Конечно, брат мой. Именно за этим я сюда и пришла.＠036362#00"
 12514,MAP,"[0028]Manuela's in a tough spot, Professor. Even if she's
-only got herself to blame, we cannot abandon her.＠036367#00",
+only got herself to blame, we cannot abandon her.＠036367#00","[0028]Мануэла в рискованном положении. Пусть она сама
+в этом виновата, но мы не можем её бросить.＠036367#00"
 12514,MAP,"[0508]Heh... We have plenty of visitors today. Let's stop
-their annoying rescue attempt!＠036368#00",
-12514,MAP,[0509]Now that is a woman...＠036369#00,
-12514,MAP,[0029]Uh-oh. They've noticed me. Here they come!＠036370#00,
+their annoying rescue attempt!＠036368#00","[0508]Тьфу... Сегодня у нас полно клиентов. За ними,
+парни!＠036368#00"
+12514,MAP,[0509]Now that is a woman...＠036369#00,"[0509]Хе-хе-хе... Посмотрите, какая красотка.＠036369#00"
+12514,MAP,[0029]Uh-oh. They've noticed me. Here they come!＠036370#00,"[0029]Ох, я ощущаю на себе пристальный взгляд. 
+Уж не взяли ли меня на прицел?＠036370#00"
 12514,MAP,"[0510]Just when I decide to disguise myself as a mountain
-bandit and sneak in, we get attacked. Just my luck!＠036371#00",
-12514,MAP,"[0510]Well, time to grab what I can and get out of here!＠036372#00",
+bandit and sneak in, we get attacked. Just my luck!＠036371#00","[0510]Вот же не везёт: как только я решил переодеться
+разбойником и полез в горы, как тут на тебе — облава.＠036371#00"
+12514,MAP,"[0510]Well, time to grab what I can and get out of here!＠036372#00","[0510]Ну, пора хватать что плохо лежит, и валить отсюда!＠036372#00"
 12514,MAP,"[0508]What a bunch of meddlesome losers... Maybe we
-should take a hostage for leverage!＠036373#00",
+should take a hostage for leverage!＠036373#00","[0508]Чёрт... похоже, доставят эти черти нам проблем.
+Нужно попытаться взять заложника, чтобы им пригрозить.＠036373#00"
 12514,MAP,"[0508]Capture that woman! We'll show them what the
-Death God Gang's made of!＠036374#00",
+Death God Gang's made of!＠036374#00","[0508]Ребята, хватайте эту женщину! Покажем им,
+какой силой обладает Банда Смерти!＠036374#00"
 12514,MAP,"[0029]Death God Gang? What kind of childish nonsense—
-Where's the Death Knight?＠036375#04",
+Where's the Death Knight?＠036375#04",[0029]Банда... Смерти? А где Рыцарь Смерти?!＠036375#04
 12514,MAP,"[0508]That's the best we can do... C'mon, boys! Let's get
-out of here!＠036376#00",
+out of here!＠036376#00",[0508]Больше мы ничего не можем... Парни! Уходим!＠036376#00
 12514,MAP,"[0028]The Death Knight is absent, but we've found a band
-of criminals all the same. Do not let any escape!＠036377#00",
-12514,MAP,"[0028]Manuela, are you uninjured?＠036378#00",
-12514,MAP,"[0029]A few scrapes and bruises. But, yes, I'm well enough.＠036379#00",
+of criminals all the same. Do not let any escape!＠036377#00","[0028]Рыцаря Смерти здесь нет, но зато мы обнаружили банду.
+Не позволяйте никому уйти!＠036377#00"
+12514,MAP,"[0028]Manuela, are you uninjured?＠036378#00","[0028]Мануэла, ты не ранена?＠036378#00"
+12514,MAP,"[0029]A few scrapes and bruises. But, yes, I'm well enough.＠036379#00","[0029]Да, я цела. Только время зря потратила.＠036379#00"
 12515,MAP,"[0511]Tremble before us! We are the great navy of Almyra!
 Resist and we'll burn this town to the ground!＠036387#00",
 12515,MAP,"[0031]The Almyran Navy... This is going to be tougher
