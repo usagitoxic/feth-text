@@ -145764,45 +145764,63 @@ of criminals all the same. Do not let any escape!＠036377#00","[0028]Рыцар
 12514,MAP,"[0028]Manuela, are you uninjured?＠036378#00","[0028]Мануэла, ты не ранена?＠036378#00"
 12514,MAP,"[0029]A few scrapes and bruises. But, yes, I'm well enough.＠036379#00","[0029]Да, я цела. Только время зря потратила.＠036379#00"
 12515,MAP,"[0511]Tremble before us! We are the great navy of Almyra!
-Resist and we'll burn this town to the ground!＠036387#00",
+Resist and we'll burn this town to the ground!＠036387#00","[0511]Трепещите! Мы — пальмирский флот! Будете 
+сопротивляться — и мы сожжём этот город дотла!＠036387#00"
 12515,MAP,"[0031]The Almyran Navy... This is going to be tougher
-than I expected.＠036388#00",
+than I expected.＠036388#00","[0031]Пальмирский флот? Похоже, дело будет труднее,
+чем я ожидал.＠036388#00"
 12515,MAP,"[0004]Huh? Sure, those look like Almyran ships, but I
-guarantee you they're just common pirates.＠036389#00",
+guarantee you they're just common pirates.＠036389#00","[0004]Выглядят-то эти корабли как пальмирские, да вот
+только на них обычные пираты.036389#00"
 12515,MAP,"[0033]They're obviously bluffing, but it seems to be
-working on the merchants. Shall we?＠036390#00",
+working on the merchants. Shall we?＠036390#00","[0033]Это очевидный блеф, но я вижу, что на купцов
+он действует. Приступим?＠036390#00"
 12515,MAP,"[0512]It's the knights! Please, save us! We'll reward
-you handsomely!＠036391#00",
+you handsomely!＠036391#00","[0512]Пожалуйста, помогите нам, рыцари! Мы щедро
+вознаградим вас!＠036391#00"
 12515,MAP,"[0512]It would be a disaster if they attacked our shops.
-Please, don't let them into town!＠036392#00",
-12515,MAP,[0031]We've got you. Leave it to the Knights of Seiros!＠036393#00,
+Please, don't let them into town!＠036392#00","[0512]Будет катастрофа, если разорят наши лавки.
+Пожалуйста, не пускайте этих налётчиков в город!＠036392#00"
+12515,MAP,[0031]We've got you. Leave it to the Knights of Seiros!＠036393#00,[0031]Понял вас! Вы можете положиться на Рыцарей Сейрос!＠036393#00
 12515,MAP,"[0513]Hahaha! Smash up the houses and trash the shops!
-Swipe anything that's not nailed down!＠036394#00",
+Swipe anything that's not nailed down!＠036394#00","[0513]Ха-ха-ха! Громите дома и лавки! Выносите
+всё ценное дочиста!＠036394#00"
 12515,MAP,"[0512]Aah! If they attack the town, we won't even be able
-to pay the knights their reward...＠036395#00",
+to pay the knights their reward...＠036395#00","[0512]Ох! Если они разорят город, нам нечем будет
+вознаградить рыцарей!..＠036395#00"
 12515,MAP,"[0031]That's not good. The pirates have got into town.
-We have to beat them, quick.＠036396#04",
-12515,MAP,[0033]The town is under attack. We have to move quickly.＠036397#00,
+We have to beat them, quick.＠036396#04","[0031]Беда — пираты проникли в город! Нужно скорее
+с ними разобраться!＠036396#04"
+12515,MAP,[0033]The town is under attack. We have to move quickly.＠036397#00,[0033]Город разоряют. Нужно действовать быстро.＠036397#00
 12515,MAP,"[0031]We are the Knights of Seiros, and we will not
-tolerate your violent villainy!＠036398#02",
+tolerate your violent villainy!＠036398#02","[0031]Мы несём имя Рыцарей Сейрос, и мы не потерпим
+бандитского произвола!＠036398#02"
 12515,MAP,"[0512]If the town gets damaged any further, we won't have
-much to offer as a reward...＠036399#00",
+much to offer as a reward...＠036399#00","[0512]Если город так и продолжат разорять, нам нечем
+будет заплатить вам...＠036399#00"
 12515,MAP,"[0031]Who cares about the reward? We're trying to protect
-the people!＠036400#00",
+the people!＠036400#00","[0031]Нам не нужно вознаграждение, защитить город —
+наш долг!＠036400#00"
 12515,MAP,"[0514]We are the ruthless barbarians of Almyra! Resist and
-pay the price!＠036401#00",
+pay the price!＠036401#00","[0514]Мы — безжалостные пальмирцы! Будете сопротивляться —
+хлебнёте лиха!＠036401#00"
 12515,MAP,"[0515]Oh dear... My wares! I'll be ruined! Please, do
-something quickly!＠036402#00",
+something quickly!＠036402#00","[0515]Мне... мне после этого не возобновить торговлю!
+Пожалуйста, сделайте что-нибудь поскорее!＠036402#00"
 12515,MAP,"[0004]Ugh, what a pain that guy was. If you're going to
-pose as an Almyran, at least fight like one!＠036403#00",
+pose as an Almyran, at least fight like one!＠036403#00","[0004]Какие назойливые. Назвались пальмирцами, так хоть
+деритесь соответствующе.＠036403#00"
 12515,MAP,"[0031]Well, that's over with. They were a lot more trouble
-than I expected.＠036404#00",
+than I expected.＠036404#00","[0031]Ну, сдюжили. Дело обернулось гораздо труднее,
+чем я ожидал.＠036404#00"
 12515,MAP,"[0512]Thank you so much! Here's your reward. Please,
-take it.＠036405#00",
+take it.＠036405#00","[0512]Спасибо вам большое. Пожалуйсте, примите
+это в знак благодарности.＠036405#00"
 12515,MAP,"[0031]Well, we got rid of them, but the town's not looking
-too pretty.＠036406#03",
+too pretty.＠036406#03","[0031]В целом, мы всё уладили... но город сильно разорён.＠036406#03"
 12515,MAP,"[0512]Thank you. It's not much, but please take this
-as a reward.＠036407#00",
+as a reward.＠036407#00","[0512]Спасибо вам большое. Это сущая малость,
+но вот, в благодарность...＠036407#00"
 12557,SUPPORT,"Put the cursor over ($S0) and confirm,
 and then select ""Move.""","Наведите курсор на ($S0) и подтвердите,
 затем выберите ""Переместить""."
