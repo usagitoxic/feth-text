@@ -146478,11 +146478,11 @@ to life.＠034234#03",[0015]Что это?.. Как будто я вижу ко�
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12665,MAP,[0005]You should withdraw from here.＠034267#00,
-12665,MAP,[0042]I don't take orders from you...＠034268#00,
+12665,MAP,[0005]You should withdraw from here.＠034267#00,[0005]Тебе следует ретироваться отсюда.＠034267#00
+12665,MAP,[0042]I don't take orders from you...＠034268#00,[0042]Не ты отдаёшь мне приказы.＠034268#00
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12665,MAP,[0042]I have no need of you...＠035018#00,
+12665,MAP,[0042]I have no need of you...＠035018#00,[0042]Вы мне без надобности.＠035018#00
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -146491,99 +146491,129 @@ to life.＠034234#03",[0015]Что это?.. Как будто я вижу ко�
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12666,MAP,"[0002]If you stand in my way, I will cut you down until you
-have no blood left to bleed.＠034305#02",
+have no blood left to bleed.＠034305#02","[0002]Если будете стоять у меня на пути, я буду рубить,
+пока в вас не останется ни капли крови!＠034305#02"
 12666,MAP,[0000]...＠#00,[0000]...＠#00
 12666,MAP,"[0002]What? I was just trying to rally your spirits.
-Now, to victory!＠034306#03",
+Now, to victory!＠034306#03",[0002]Я просто пыталась нагнетать атмосферу. К бою!＠034306#03
 12666,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12666,MAP,"[0003]How far can I push myself with you as my foe...
-This will be a great chance to test our mettle.＠034307#01",
-12666,MAP,"[0003]Do not underestimate me, Professor, or you will fail.＠034308#02",
+This will be a great chance to test our mettle.＠034307#01","[0003]Насколько хорошо я смогу сражаться против вас...
+Вот и отличная возможность проверить.＠034307#01"
+12666,MAP,"[0003]Do not underestimate me, Professor, or you will fail.＠034308#02","[0003]Если будете слишком небрежны, я уведу победу 
+у вас из-под носа, учитель.＠034308#02"
 12666,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12666,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12666,MAP,"[0004]This is a great chance for me to find out if the Sword
-of the Creator really is all it's cracked up to be.＠034309#00",
-12666,MAP,"[0004]On that note, you'd better not surrender too quickly!＠034310#01",
+of the Creator really is all it's cracked up to be.＠034309#00","[0004]Мне выдалась отличная возможность убедиться, 
+чего стоит Меч Богини на самом деле.＠034309#00"
+12666,MAP,"[0004]On that note, you'd better not surrender too quickly!＠034310#01","[0004]Так что не свалитесь с одного-двух ударов, ладно?＠034310#01"
 12666,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12666,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12666,MAP,"[0003]So, it is time to cross blades... I never imagined such
-a day would come to pass.＠034311#00",
+a day would come to pass.＠034311#00","[0003]Вот мы с тобой и скрестим клинки. Раньше я
+и представить такого не мог.＠034311#00"
 12666,MAP,"[0002]If the Empire and the Kingdom go to war, we'll be
-able to fight as much as we please.＠034312#00",
+able to fight as much as we please.＠034312#00","[0002]Ну... если между Империей и Королевством будет война, 
+мы сможем сражаться сколько угодно, не так ли?＠034312#00"
 12666,MAP,"[0003]I am sorry, but that is not something to joke about.
-The thought of fighting you is troubling at best.＠034313#03",
+The thought of fighting you is troubling at best.＠034313#03","[0003]Нет... не говори так. Меня гнетёт необходимость
+сражаться с тобой.＠034313#03"
 12666,MAP,"[0002]In that case, I wonder when you'll be able to stomach
-facing me in battle... Do you need a few moments?＠034314#03",
+facing me in battle... Do you need a few moments?＠034314#03","[0002]Тогда... мне интересно, как скоро ты сможешь начать бой.
+Учитывая, что мы уже посреди битвы.＠034314#03"
 12666,MAP,"[0004]Hey, Princess! Heads up! There's a rat right by
-your Imperial feet...＠034315#02",
+your Imperial feet...＠034315#02","[0004]Принцесса, берегись! У тебя под ногами
+крыса с крысятами...＠034315#02"
 12666,MAP,"[0002]BAH! I— Huh. How dare you make a fool of me.
-You will not rile me with such childish tactics.＠034316#04",
+You will not rile me with such childish tactics.＠034316#04","[0002]А?! Ты... завязывай с розыгрышами. Такие детские
+уловки на меня не подействуют.＠034316#04"
 12666,MAP,"[0004]Ah, so the sheer terror in your eyes was...something
 else entirely. My mistake. Anyway, it was only
-a joke.＠034317#01",
+a joke.＠034317#01","[0004]Ну извини. В тот момент ты выглядела испуганной —
+или это мне показалось?.. Да шучу я, шучу.＠034317#01"
 12666,MAP,"[0002]You really hope to unsettle me with childish jokes?
-It won't work. You must stand and fight!＠034318#02",
+It won't work. You must stand and fight!＠034318#02","[0002]Думаешь ослабить боевой дух противника шуточками?
+Дерись уже!＠034318#02"
 12666,MAP,"[0004]Hey, Your Royalness! If you promise to let me have
 the prize, I'll let you take the honor of victory.
-Do we have a deal?＠034319#01",
+Do we have a deal?＠034319#01","[0004]О, принц. Давай договоримся — если ты уступишь мне
+приз, я уступлю тебе почесть победы, идёт?＠034319#01"
 12666,MAP,"[0003]Enough of your foolishness! I— Wait a moment.
-You are trying to anger me, is that it?＠034320#00",
+You are trying to anger me, is that it?＠034320#00","[0003]Что за чушь ты несёшь?! Я... а, так ты задался
+целью вывести меня из себя?＠034320#00"
 12666,MAP,"[0004]Saw right through me, did you? Well, if there's no
-deal, I'll just have to win this thing fair and square!＠034321#00",
+deal, I'll just have to win this thing fair and square!＠034321#00","[0004]Ха-ха, я попался. Ничего не поделать — значит,
+придётся побеждать честно!＠034321#00"
 12666,MAP,"[0003]I will happily face you, here and now. Do not hold
-back, Claude!＠034322#01",
+back, Claude!＠034322#01","[0003]Я принимаю вызов! Покажи, на что ты способен, Клод!＠034322#01"
 12666,MAP,"[0003]So, it is time to cross blades... I never imagined such
-a day would come to pass.＠034311#00",
+a day would come to pass.＠034311#00","[0003]Вот мы с тобой и скрестим клинки. Раньше я
+и представить такого не мог.＠034311#00"
 12666,MAP,"[0002]If the Empire and the Kingdom go to war, we'll be
-able to fight as much as we please.＠034312#00",
+able to fight as much as we please.＠034312#00","[0002]Ну... если между Империей и Королевством будет война, 
+мы сможем сражаться сколько угодно, не так ли?＠034312#00"
 12666,MAP,"[0003]I am sorry, but that is not something to joke about.
-The thought of fighting you is troubling at best.＠034313#03",
+The thought of fighting you is troubling at best.＠034313#03","[0003]Нет... не говори так. Меня гнетёт необходимость
+сражаться с тобой.＠034313#03"
 12666,MAP,"[0002]In that case, I wonder when you'll be able to stomach
-facing me in battle... Do you need a few moments?＠034314#03",
+facing me in battle... Do you need a few moments?＠034314#03","[0002]Тогда... мне интересно, как скоро ты сможешь начать бой.
+Учитывая, что мы уже посреди битвы.＠034314#03"
 12666,MAP,"[0004]Hey, Your Royalness! If you promise to let me have
 the prize, I'll let you take the honor of victory.
-Do we have a deal?＠034319#01",
+Do we have a deal?＠034319#01","[0004]О, принц. Давай договоримся — если ты уступишь мне
+приз, я уступлю тебе почесть победы, идёт?＠034319#01"
 12666,MAP,"[0003]Enough of your foolishness! I— Wait a moment.
-You are trying to anger me, is that it?＠034320#00",
+You are trying to anger me, is that it?＠034320#00","[0003]Что за чушь ты несёшь?! Я... а, так ты задался
+целью вывести меня из себя?＠034320#00"
 12666,MAP,"[0004]Saw right through me, did you? Well, if there's no
-deal, I'll just have to win this thing fair and square!＠034321#00",
+deal, I'll just have to win this thing fair and square!＠034321#00","[0004]Ха-ха, я попался. Ничего не поделать — значит,
+придётся побеждать честно!＠034321#00"
 12666,MAP,"[0003]I will happily face you, here and now. Do not hold
-back, Claude!＠034322#01",
+back, Claude!＠034322#01","[0003]Я принимаю вызов! Покажи, на что ты способен, Клод!＠034322#01"
 12666,MAP,"[0004]Hey, Princess! Heads up! There's a rat right by
-your Imperial feet...＠034315#02",
+your Imperial feet...＠034315#02","[0004]Принцесса, берегись! У тебя под ногами
+крыса с крысятами...＠034315#02"
 12666,MAP,"[0002]BAH! I— Huh. How dare you make a fool of me.
-You will not rile me with such childish tactics.＠034316#04",
+You will not rile me with such childish tactics.＠034316#04","[0002]А?! Ты... завязывай с розыгрышами. Такие детские
+уловки на меня не подействуют.＠034316#04"
 12666,MAP,"[0004]Ah, so the sheer terror in your eyes was...something
 else entirely. My mistake. Anyway, it was only
-a joke.＠034317#01",
+a joke.＠034317#01","[0004]Ну извини. В тот момент ты выглядела испуганной —
+или это мне показалось?.. Да шучу я, шучу.＠034317#01"
 12666,MAP,"[0002]You really hope to unsettle me with childish jokes?
-It won't work. You must stand and fight!＠034318#02",
+It won't work. You must stand and fight!＠034318#02","[0002]Думаешь ослабить боевой дух противника шуточками?
+Дерись уже!＠034318#02"
 12667,MAP,"[0039]Ah, the cursed Fell Star... This will be a fine
-opportunity to measure your power.＠034357#00",
+opportunity to measure your power.＠034357#00","[0039]О, проклятая Несчастливая Звезда... 
+Это благоприятный случай оценить твою силу.＠034357#00"
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,"[0042]My pleasure... Do your best to kill me with
-that blade...＠034358#00",
+that blade...＠034358#00","[0042]Почту за честь... Постарайся убить меня
+этим мечом.＠034358#00"
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12667,MAP,[0042]What are you trying to do here?＠034359#00,
+12667,MAP,[0042]What are you trying to do here?＠034359#00,[0042]Чего ты добиваешься?＠034359#00
 12667,MAP,"[0002]You're the one who should be answering that
-question. Stay out of my way!＠034360#02",
+question. Stay out of my way!＠034360#02","[0002]Вопрос в том, чего ты здесь добиваешься?
+Не мешай мне!＠034360#02"
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,"[0039]You are but a savage, insignificant beast... Yet you
-think you can kill me?＠034361#00",
+think you can kill me?＠034361#00","[0039]Вы, ничтожные, отвратительные животные — и думаете,
+что можете убить меня?＠034361#00"
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12667,MAP,[0002]Tomas! No... Solon. I will stop you.＠034362#02,
+12667,MAP,[0002]Tomas! No... Solon. I will stop you.＠034362#02,"[0002]Томас... нет, Солон? Я остановлю тебя.＠034362#02"
 12667,MAP,"[0039]What?! If you insist on turning your blade
-against me, then expect no mercy.＠034363#00",
+against me, then expect no mercy.＠034363#00","[0039]Что?! Если идёшь против меня, не жди пощады.＠034363#00"
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12667,MAP,[0042]You are not the one I crave...＠034364#00,
+12667,MAP,[0042]You are not the one I crave...＠034364#00,[0042]У меня к тебе нет дела...＠034364#00
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
