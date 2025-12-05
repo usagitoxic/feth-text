@@ -18,13 +18,13 @@ from PyQt5.QtWidgets import (
     QLabel,
     QDialog,
     QTextEdit,
-    QFormLayout,
     QDialogButtonBox,
     QShortcut,
     QAction,
     QComboBox,
     QListWidget,
     QMessageBox,
+    QAbstractItemView,
 )
 
 from PyQt5.QtGui import (
@@ -323,6 +323,7 @@ class CSVEditor(QMainWindow):
         top_layout.addLayout(filters)
 
         self.table = QTableView()
+        self.table.setSelectionBehavior(QAbstractItemView.SelectionBehavior.SelectRows)
         self.table.doubleClicked.connect(self.edit_translation)
 
         shortcut = QShortcut(QKeySequence("Ctrl+F"), self)
