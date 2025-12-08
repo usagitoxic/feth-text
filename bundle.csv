@@ -146618,10 +146618,12 @@ against me, then expect no mercy.＠034363#00","[0039]Что?! Если идёш
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12667,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12668,MAP,"[0035]Do you really think you can keep going? Don't push
-yourself too hard.＠034385#00",
+yourself too hard.＠034385#00",[0035]Ещё выстоишь? Не пытайся совершить невозможное.＠034385#00
 12668,MAP,"[0035]Thinking about what happened at Remire Village,
-it's clear you've gotten the hang of being a leader.＠034386#04",
-12668,MAP,[0035]Maybe you should have taken command of me too!＠034387#01,
+it's clear you've gotten the hang of being a leader.＠034386#04","[0035]Вспоминая о том, что случилось в деревне Ремир,
+становится ясно, что тебе хорошо удаётся брать 
+командование на себя.＠034386#04"
+12668,MAP,[0035]Maybe you should have taken command of me too!＠034387#01,"[0035]Так что, может, и мной покомандуешь? Ха-ха-ха!＠034387#01"
 12668,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12668,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12668,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -146636,37 +146638,43 @@ it's clear you've gotten the hang of being a leader.＠034386#04",
 12668,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12668,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,"[0038]You're a fool to be so brazen. You'll never avenge
-your father at this rate.＠034411#01",
-12669,MAP,[0038]I'll have to kill you too! With my own hands!＠034412#01,
+your father at this rate.＠034411#01","[0038]Какая глупая дерзость. Так тебе за папеньку
+не отомстить, не думаешь?＠034411#01"
+12669,MAP,[0038]I'll have to kill you too! With my own hands!＠034412#01,[0038]А-ха-ха-ха! Я и тебя убью! Вот этими руками!＠034412#01
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12669,MAP,[0039]I am terrified by you...＠034413#03,
+12669,MAP,[0039]I am terrified by you...＠034413#03,[0039]Ты приводишь меня в ужас...＠034413#03
 12669,MAP,"[0039]Even though an emotion like fear has no place
-inside me.＠034414#03",
-12669,MAP,[0039]That means you must be eliminated.＠034415#02,
+inside me.＠034414#03","[0039]А ведь во мне нет места эмоциям, подобным страху.＠034414#03"
+12669,MAP,[0039]That means you must be eliminated.＠034415#02,[0039]А значит... от тебя нужно избавиться.＠034415#02
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12669,MAP,"[0039]So, this is how it is... I cannot let you live!＠034416#02",
+12669,MAP,"[0039]So, this is how it is... I cannot let you live!＠034416#02","[0039]Ты... всерьёз? Раз так, я не собираюсь оставлять
+тебе жизнь!＠034416#02"
 12669,MAP,"[0002]You stole the words from my mouth. You lost the
-moment you failed to kill the professor.＠034417#00",
+moment you failed to kill the professor.＠034417#00","[0002]Как с языка снял. Вы проиграли в тот момент,
+когда вам не удалось убить учителя.＠034417#00"
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12669,MAP,[0038]Huh? What are you— Are you here to kill me?＠034418#00,
-12669,MAP,[0002]I am. Prepare yourself for death while you still can.＠034419#02,
+12669,MAP,[0038]Huh? What are you— Are you here to kill me?＠034418#00,[0038]Чего? Ты что тут... Неужели ты собираешься меня убить?＠034418#00
+12669,MAP,[0002]I am. Prepare yourself for death while you still can.＠034419#02,"[0002]Именно. Готовься к смерти, пока ещё можешь.＠034419#02"
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12669,MAP,[0025]Monica. You'll pay for what you've done.＠034420#02,
+12669,MAP,[0025]Monica. You'll pay for what you've done.＠034420#02,"[0025]Попалась, Моника! Я отомщу... за мастера!＠034420#02"
 12669,MAP,"[0038]I told you! I am not Monica, I am Kronya!
-Do not call me by that fake name!＠034421#02",
+Do not call me by that fake name!＠034421#02","[0038]Ну го-во-ри-ла же, не Моника, а Крония! Не зови
+меня этим фальшивым именем.＠034421#02"
 12669,MAP,"[0025]I don't care what you're called. I don't care if it takes
-my last breath. I'll kill you.＠034422#02",
+my last breath. I'll kill you.＠034422#02","[0025]Заткнись! Я тебя не прощу! Я убью тебя даже ценой
+своей жизни!＠034422#02"
 12669,MAP,"[0038]Please! My powers are beyond your comprehension.
-You're just a filthy worm!＠034423#02",
+You're just a filthy worm!＠034423#02",[0038]Не шуми. Ты мне и близко не ровня... ничтожество!＠034423#02
 12669,MAP,"[0038]How cute, you're trying so hard! But now it's time
-to die!＠034424#01",
+to die!＠034424#01","[0038]А-ха-ха! Как они стараются! А я вас и так
+отправлю в ад!＠034424#01"
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12669,MAP,[0039]I have no time to waste on the likes of you...＠034425#00,
+12669,MAP,[0039]I have no time to waste on the likes of you...＠034425#00,"[0039]Мне некогда возиться с такими, как вы...＠034425#00"
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
