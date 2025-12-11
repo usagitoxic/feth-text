@@ -146679,57 +146679,70 @@ to die!＠034424#01","[0038]А-ха-ха! Как они стараются! А �
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12669,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,"[0003]Do not try to say you have forgotten... Do you know
-just how many people died in Duscur?＠034438#02",
-12670,MAP,[0047]Why bother with this? Stay silent and fight.＠034439#00,
+just how many people died in Duscur?＠034438#02","[0003]Даже не думай сказать, что всё забыто. Как ты 
+считаешь, сколько людей погибло в Даскаре?＠034438#02"
+12670,MAP,[0047]Why bother with this? Stay silent and fight.＠034439#00,"[0047]К чему повторяться? Сражайся молча, дотошный ты наш.＠034439#00"
 12670,MAP,"[0003]So, you want to turn your eyes away from the lives
-you have trampled? Dastard!＠034440#00",
+you have trampled? Dastard!＠034440#00","[0003]Так ты намереваешься закрыть глаза на растоптанное
+тобой же?＠034440#00"
 12670,MAP,"[0003]You are a monster. The lowliest beast I have
-ever known.＠034441#02",
+ever known.＠034441#02",[0003]Еретик. Ты хуже любого животного!＠034441#02
 12670,MAP,"[0004]So, you're the fabled Flame Emperor? Go ahead and
 enlighten me. What are you planning to do with the
-Crest Stones?＠034442#00",
+Crest Stones?＠034442#00","[0004]Так ты и есть тот самый Император Пламени? 
+Ну-ка, просвети меня. Для чего тебе понадобились 
+Гербовые Камни?＠034442#00"
 12670,MAP,"[0004]What did you use Flayn's blood for?
-Who's Kronya? Who's Solon?＠034443#02",
-12670,MAP,[0047]Silence. There is no need for you to know.＠034444#00,
+Who's Kronya? Who's Solon?＠034443#02","[0004]Для каких целей была использована кровь Флэн?
+Кем именно были Крония и Солон?＠034443#02"
+12670,MAP,[0047]Silence. There is no need for you to know.＠034444#00,[0047]Молчать. Тебе незачем это знать.＠034444#00
 12670,MAP,"[0004]Is it that mask that's to blame for your curtness?
-If so, maybe I should rip it off and ask again.＠034445#01",
+If so, maybe I should rip it off and ask again.＠034445#01","[0004]Это ты так грубишь из-за маски? Тогда, наверное, мне 
+стоит сначала сорвать её с тебя, а потом расспрашивать.＠034445#01"
 12670,MAP,"[0002]Despite what I said, I have no intention of
-killing you.＠034446#00",
-12670,MAP,[0002]So why not stand down and get out of my way?＠034447#00,
+killing you.＠034446#00","[0002]Несмотря на сказанное мной, я не намереваюсь
+никого убивать.＠034446#00"
+12670,MAP,[0002]So why not stand down and get out of my way?＠034447#00,"[0002]Так что, может, просто вздремнёте и не будете
+мне мешать?＠034447#00"
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,"[0002]You could have had a peaceful life... Why did you
-have to come to Garreg Mach?＠034448#00",
+have to come to Garreg Mach?＠034448#00","[0002]Вы могли бы спокойно жить в мире... зачем вы
+по своей воле приехали в Гаррег Мах?＠034448#00"
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12670,MAP,[0047]You wish to interfere? Then your life is forfeit.＠034449#00,
+12670,MAP,[0047]You wish to interfere? Then your life is forfeit.＠034449#00,[0047]Решили мне мешать? Вы рискуете жизнью.＠034449#00
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,"[0047]You are the one person I did not wish to make an
-enemy of...＠034450#03",
+enemy of...＠034450#03","[0047]Вы... единственный человек, с кем мне не хотелось
+бы враждовать.＠034450#03"
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,"[0002]Professor... I will make no excuses. Thank you for
-all that you did for me.＠034451#03",
-12670,MAP,[0002]In truth...no. Let's leave it at that.＠034452#03,
+all that you did for me.＠034451#03",[0002]Учитель... я не буду оправдываться. Спасибо вам за всё.＠034451#03
+12670,MAP,[0002]In truth...no. Let's leave it at that.＠034452#03,"[0002]По правде... Нет, оставим это.＠034452#03"
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,"[0080]I'm told it's fine to kill those who resist.
-Now then, how shall I cook you?＠034453#01",
+Now then, how shall I cook you?＠034453#01","[0080]Хе-хе-хе... мне дозволено уничтожать любого, 
+кто оказывает сопротивление. Итак, как же 
+мне вас приготовить?＠034453#01"
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12670,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12670,MAP,[1042]What has possessed you to go through with this?!＠048803#04,
+12670,MAP,[1042]What has possessed you to go through with this?!＠048803#04,[1042]Как тебе в голову пришло сотворить подобное?!＠048803#04
 12670,MAP,"[0002]I have considered every angle. I have wavered and
 suffered, and now my resolve is firm. Now confess...
-Had I told you, would you have kept my secret?＠048804#03",
+Had I told you, would you have kept my secret?＠048804#03","[0002]После долгих страданий, горечи, размышлений.
+Посвяти я тебя в это всё, ты бы сохранила мой секрет?＠048804#03"
 12670,MAP,"[1042]Absolutely not! I would have moved against you
-without a moment's hesitation!＠048805#02",
+without a moment's hesitation!＠048805#02","[1042]Ни за что, разумеется! Я бы обязательно остановила тебя!＠048805#02"
 12670,MAP,"[0002]As I thought. That is precisely why I did not tell you.
-Now get out of my way.＠048806#03",
+Now get out of my way.＠048806#03",[0002]Поэтому я и молчала. И теперь... не стой у меня на пути.＠048806#03
 12671,MAP,"[0099]I wish you were someone whose heart could be
 swayed by my words and deeds.＠034488#03",
 12671,MAP,"[0099]If it were so, I would have done anything to make
