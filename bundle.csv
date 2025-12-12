@@ -450,7 +450,7 @@ Proceed?","Удаленные данные будет невозможно во�
 0,MSGDATA,Replenish,Восполнить
 0,MSGDATA,Use,Использовать
 0,MSGDATA,Discard,Выбросить
-0,MSGDATA,Equip,Надеть
+0,MSGDATA,Equip,Взять
 0,MSGDATA,Unequip,Убрать
 0,MSGDATA,Trade,Обмен
 0,MSGDATA,Charge,Напасть
@@ -552,8 +552,8 @@ Every decision counts!","Павшие юниты погибают.
 0,MSGDATA,Back,Назад
 0,MSGDATA,Today's Special,Блюдо дня
 0,MSGDATA,"Retreat to the battle-selection screen?
-(Experience will not be retained.)","Вернуться в меню выбора битв?
-(Полученный опыт будет утерян.)"
+(Experience will not be retained.)","Вернуться в меню выбора битвы?
+(Полученный опыт будет утерян)."
 0,MSGDATA,Bait Details,Описание приманки
 0,MSGDATA,Bait,Приманка
 0,MSGDATA,$NONE,$NONE
@@ -851,8 +851,8 @@ $%s1."
 0,MSGDATA,Received $%d1 G,Получено $%d1 З
 0,MSGDATA,There was no MVP,Не было СЦИ
 0,MSGDATA,"Thanks to the efforts of $%s1, all of your
-allies' motivation increased!","$%s1 старается на славу, и мотивация Ваших
-союзников возростает!"
+allies' motivation increased!","$%s1 $EK00постарался$EL00постаралась$EM00 на славу: мотивация
+всех ваших союзников возросла!"
 0,MSGDATA,$%s1's motivation is maxed out!,$%s1: мотивация достигла максимума!
 0,MSGDATA,Is $%s1 correct?,Ваше имя $%s1. Подтвердить?
 0,MSGDATA,Enter your name.,Введите ваше имя.
@@ -3110,7 +3110,7 @@ high HP.","Сверхъестественные существа с больши
 0,MSGDATA,Initiate auto-battle.,Активировать автобитву.
 0,MSGDATA,Adjust game options.,Изменить параметры игры.
 0,MSGDATA,Save current game progress.,Сохранить игру.
-0,MSGDATA,End your turn. The enemy will move next.,Завершить Ваш ход. Начнётся ход врага.
+0,MSGDATA,End your turn. The enemy will move next.,Завершить ваш ход. Начнётся ход врага.
 0,MSGDATA,Use Sothis's power to turn back time.,Использовать силу Сотис и обратить время вспять.
 0,MSGDATA,Save your progress and suspend the game.,Сохранить игру и выйти.
 0,MSGDATA,Retreat from battle.,Отступить.
@@ -3629,7 +3629,7 @@ experience gained in battle.","Отчет об опыте, полученном 
 0,MSGDATA,Initiate auto-battle.,Активировать автобитву.
 0,MSGDATA,Adjust game options.,Изменить параметры игры.
 0,MSGDATA,Save your progress.,Сохранить игру.
-0,MSGDATA,End your turn. The enemy will move next.,Завершить Ваш ход. Начнётся ход врага.
+0,MSGDATA,End your turn. The enemy will move next.,Завершить ваш ход. Начнётся ход врага.
 0,MSGDATA,Use Divine Pulse to turn back time.,Отмотать время Божественным импульсом.
 0,MSGDATA,Save your progress and suspend the game.,Сохранить игру и выйти.
 0,MSGDATA,Retreat to before the battle began (retain Exp) or to the battle-selection screen (lose Exp).,Вернуться к началу битвы (сохр. ОО) или к меню выбора битв (теряя ОО).
@@ -13748,7 +13748,7 @@ $C1some magic.$R","Этот могучий воин владеет топора�
 0,MSGDATA,Levin Sword,Меч грома
 0,MSGDATA,Bolt Axe,Топор молний
 0,MSGDATA,Magic Bow,Магический лук
-0,MSGDATA,Javelin,Джавелин
+0,MSGDATA,Javelin,Дротик
 0,MSGDATA,Short Spear,Короткий гарпун
 0,MSGDATA,Spear,Гарпун
 0,MSGDATA,Hand Axe,Ручной топор
@@ -13860,7 +13860,7 @@ $C1some magic.$R","Этот могучий воин владеет топора�
 0,MSGDATA,Levin Sword+,Меч грома +
 0,MSGDATA,Bolt Axe+,Топор молнии +
 0,MSGDATA,Magic Bow+,Магический лук +
-0,MSGDATA,Javelin+,Джавелин +
+0,MSGDATA,Javelin+,Дротик+
 0,MSGDATA,Short Spear+,Короткий гарпун +
 0,MSGDATA,Spear+,Гарпун+
 0,MSGDATA,Hand Axe+,Ручной топор +
@@ -14237,8 +14237,8 @@ but effective.","Стандартный меч из железа, простой
 attack twice when initiating combat.","Владелец этого клинка полон решимости
 и атакует дважды, если начал бой первым."
 0,MSGDATA,"Deadly sharp, this sword boasts a high
-critical-hit rate.","Смертельно острый меч, обладающий высоким 
-шансом критического удара."
+critical-hit rate.","Смертоносный меч, обладающий 
+высоким шансом критического удара."
 0,MSGDATA,This simple sword is perfect for training purposes.,"Простой меч, идеально подходит
 для тренировок."
 0,MSGDATA,"A standard lance made of iron—simple
@@ -14251,8 +14251,8 @@ but effective.","Стандартное копьё из железа, прост
 attack twice when initiating combat.","Владелец этого копья полон решимости
 и атакует дважды, если начал бой первым."
 0,MSGDATA,"Deadly sharp, this lance boasts a high
-critical-hit rate.","Смертельно острое копьё, обладающее высоким 
-шансом критического удара."
+critical-hit rate.","Смертоносное копьё, обладающее 
+высоким шансом критического удара."
 0,MSGDATA,This simple lance is perfect for training purposes.,"Простое копьё, идеально подходит
 для тренировок."
 0,MSGDATA,"A standard axe made of iron—simple
@@ -14265,8 +14265,8 @@ but effective.","Стандартный топор из железа, прост
 attack twice when initiating combat.","Владелец этого топора полон решимости
 и атакует дважды, если начал бой первым."
 0,MSGDATA,"Deadly sharp, this axe boasts a high
-critical-hit rate.","Смертельно острый топор, обладающий высоким 
-шансом критического удара."
+critical-hit rate.","Смертоносный топор, обладающий 
+высоким шансом критического удара."
 0,MSGDATA,This simple axe is perfect for training purposes.,"Простой топор, идеально подходит
 для тренировок."
 0,MSGDATA,"A standard bow made of iron—simple
@@ -14324,8 +14324,8 @@ at enemies for deep impact.","Обладатель этого грубого т�
 Cannot make follow-up attacks at 1 space away.","Лук для коротких дистанций.
 Не наносит повторных атак в упор."
 0,MSGDATA,"Sharp enough to pierce even the thickest plate,
-this sword is effective against armored units.","Достаточно острый, чтобы пронзить плотный доспех, 
-этот меч эффективен против бронированых воинов."
+this sword is effective against armored units.","Тяжёлый меч, способный пробить сплошной
+доспех."
 0,MSGDATA,"A sword designed to exploit the weaknesses of
 armored and cavalry units.","Меч, который использует в бою слабые стороны
 бронированных воинов и кавалерии."
@@ -14624,8 +14624,8 @@ Magic weapon.","Усиленный топор молнии.
 magical potential.","Усиленный магический лук, обладающий повышенным
 чародейным потенциалом."
 0,MSGDATA,"This reinforced javelin has significant stopping
-power when thrust or thrown at enemies.","Этот усиленный джавелин демонстрирует свою 
-удивительную останавливающую силу при атаке врага."
+power when thrust or thrown at enemies.","Усиленный дротик с внушительной дистанцией 
+поражения."
 0,MSGDATA,"A reinforced short spear used for close combat
 and ranged attacks.","Усиленный короткий гарпун, используемый для 
 близкого и дальнего боя."
@@ -145895,7 +145895,7 @@ depending on the Knights in their formation.","Способности юнито
 gambit that you can employ.","Кроме того, у каждой группы рыцарей есть свой
 гамбит, который можно использовать."
 12558,SUPPORT,"Since this is a practice battle, units who are defeated
-will not be permanently lost.","Поскольку это учебный бой, побежденные юниты
+will not be permanently lost.","Поскольку это учебная битва, побеждённые юниты
 не будут потеряны безвозвратно."
 12559,SUPPORT,"Move a unit up to the treasure box, and you will
 be able to open it.","Переместите юнит к сундуку с сокровищами,
@@ -145977,7 +145977,7 @@ fighting each other!","Быстрее уничтожьте врагов до т�
 12564,SUPPORT,You defeated more enemies than the other classes!,"Вы уничтожили больше врагов, чем другие
 классы!"
 12564,SUPPORT,"Since this is a practice battle, units who are defeated
-will not be permanently lost.","Поскольку это учебный бой, побежденные юниты
+will not be permanently lost.","Поскольку это учебная битва, побеждённые юниты
 не будут потеряны безвозвратно."
 12564,SUPPORT,"After successes on the battlefield, morale for the Black Eagle
 House has increased, and all members of their house now have
