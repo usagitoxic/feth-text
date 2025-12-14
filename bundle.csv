@@ -67210,113 +67210,112 @@ for just this occasion.","Я очень надеюсь, что вы пойдёт
 случаю, мне удалось стырить несколько кусков довольно зрелого
 сыра из столовой."
 11374,SUPPORT,"Your work with the students was remarkable.
-I can see Jeralt trained you well.","Ваша работа со студентами была впечатляющей.
-Видно, что Джеральт хорошо вас подготовил."
+I can see Jeralt trained you well.","Твоя работа со студентами была впечатляющей.
+Видно, что Джеральт хорошо тебя подготовил."
 11374,SUPPORT,"I do hope you were able to use the occasion to bond
-with the students.","Надеюсь, что вы воспользуетесь возможностью
-сблизиться со своими студентами."
-11374,SUPPORT,I did.,Разумеется.
-11374,SUPPORT,Not really.,Не очень хочется.
+with the students.","Надеюсь, ты $EK00воспользовался$EL00воспользовалась$EM00 этой возможностью,
+чтобы укрепить дружеские отношения 
+со своими подопечными?"
+11374,SUPPORT,I did.,$EK00Воспользовался$EL00Воспользовалась$EM00.
+11374,SUPPORT,Not really.,Пока нет.
 11374,SUPPORT,"I am so happy to hear it. Nothing would please me
 more than if you used this coming year to grow
-closer still.","Очень рада слышать. Меня очень сильно порадует,
-если вы сблизитесь с ними за этот год."
+closer still.","Отрадно слышать. Буду очень признательна, 
+если ты сблизишься с ними за этот год."
 11374,SUPPORT,"Oh? Well, you have only just met them, so I suppose
-that should come as no surprise.","Ох. Но вы ведь только познакомились с ними. 
-Думаю, это не удивительно."
+that should come as no surprise.","Вот как. Но вы ведь только познакомились, так что,
+думаю, это неудивительно."
 11374,SUPPORT,"Of course, the mock battle was mere practice.
 The real fight is the Battle of the Eagle and Lion,
-which will take place during the Wyvern Moon.","Конечно, учебный бой лишь разминка. Настоящая
-битва состоится во время Луны Виверны — битва
-между Орлом и Львом."
+which will take place during the Wyvern Moon.","Конечно, прошедшая учебная битва — лишь
+разминка. Настоящее испытание состоится
+в луну Виверны — Битва Орла и Льва."
 11374,SUPPORT,"You are expected to properly train your students
 so as not to humiliate the academy during the
-long-held tradition that is the coming battle.","Ожидаем, что вы должным образом обучите своих 
-студентов, дабы не опорочить честь академии во время
-этой старой традиционной битвы."
+long-held tradition that is the coming battle.","От вас ожидается, что вы должным образом
+обучите студентов, чтобы они смогли достойно 
+сражаться в этой традиционной битве."
 11374,SUPPORT,"As for today, I have called you here to tell you
-of your mission for the month ahead.","Возвращаясь к настоящему... Я позвала вас,
-чтобы дать задание на следующий месяц."
+of your mission for the month ahead.","Итак. О насущном: я вызвала тебя, чтобы
+дать задание на следующую луну."
 11374,SUPPORT,"Your class is to dispose of some bandits causing
-trouble nearby.","Ваш класс должен избавиться от бандитов,
-которые устраивают беспорядки неподалёку
-отсюда."
+trouble nearby.",Твой класс должен усмирить бандитов.
 11374,SUPPORT,My mission?,Задание?
-11374,SUPPORT,Bandits?,Бандиты?
+11374,SUPPORT,Bandits?,Усмирить бандитов?
 11374,SUPPORT,"Those affiliated with Garreg Mach Monastery
 have a moral obligation to help those in need,
-regardless of social standing.","Приближенные к монастырю Гаррег Мах должны
-морально поддерживать всех нуждающихся
-вне зависимости от социального положения."
+regardless of social standing.","При монастыре Гаррег Мах у всех есть 
+моральная обязанность служить доброму 
+делу, вне зависимости от происхождения."
 11374,SUPPORT,"Students are no exception. Each month, before the
 newly birthed moon departs, each house of students
-must complete their assigned mission.","Студенты — не исключение. Каждый дом должен
-завершить задание к концу месяца, до новолуния."
+must complete their assigned mission.","Разумеется, студенты — не исключение. Вместо
+церковной службы каждую луну им даются задания."
 11374,SUPPORT,"You shall work to complete the task at hand
 alongside your students and report back to the
-archbishop before the deadline. Understood?","Вы вместе со студентами обязаны выполнить свою
-работу и доложить об этом архиепископу к концу
-срока. Всё ясно?"
+archbishop before the deadline. Understood?","Вы вместе со студентами обязаны выполнить
+порученную работу и доложить об этом 
+архиепископу к концу назначенного срока."
 11374,SUPPORT,"I will soon provide you with the necessary details for
 your first mission. If I told you now, I expect you
-would only forget, and I despise repeating myself.","Скоро я сообщу вам детали первого задания. Не вижу
-смысла говорить всё сейчас, иначе вы что-то забудете.
-А я не люблю повторять по сто раз."
+would only forget, and I despise repeating myself.","Что до задания по усмирению бандитов, позже
+я сообщу вам подробности. Не вижу смысла
+говорить всё сейчас, иначе вы что-то забудете."
 11374,SUPPORT,"I can sense something special within your heart...
-I have high hopes for you.","Я чувствую нечто особое в вашем сердце...
-Рассчитываю на вас."
+I have high hopes for you.","Я чувствую нечто особое в твоём сердце...
+Рассчитываю на тебя."
 11374,SUPPORT,"Bandits, they say...","Бандиты, значит..."
 11374,SUPPORT,?!,?!
 11374,SUPPORT,"Do you recall when we first met? You shall not
-fall so shamelessly again, correct?","Мы же разговаривали, помнишь? Не нужно опять
-разыгрывать эту сцену, ладно?"
+fall so shamelessly again, correct?","Помнишь нашу первую встречу? Давай в этот 
+раз без подобного позорного поражения, хорошо?"
 11374,SUPPORT,...,...
 11374,SUPPORT,"Have you no words for me? Do not tell me that
-you are shocked to hear from me!","Сказать нечего? Или хочешь сказать, мой голос
-повергает в шок?"
+you are shocked to hear from me!","Чего стоишь, рот разинув?.. неужели я тебя
+удивила?"
 11374,SUPPORT,"You ought to know that I am always with you now. 
-To hear my voice should not come as a shock.","Знай, что я всегда с тобой. А мой голос
-не должен тебя пугать."
-11374,SUPPORT,Right.,Верно.
+To hear my voice should not come as a shock.","Знай: я всегда с тобой. Не удивляйся тому,
+что меня слышишь."
+11374,SUPPORT,Right.,Хорошо.
 11374,SUPPORT,I don't understand...,Не понимаю...
 11374,SUPPORT,Whatever shall I do with you?,Да что же мне с тобой делать-то?
-11374,SUPPORT,I am alive within the confines of your heart.,Я живу в твоем сердце.
+11374,SUPPORT,I am alive within the confines of your heart.,Я живу в твоём сердце.
 11374,SUPPORT,"I am unknown to all but you. But through your eyes
 and ears, I see and hear.","Только ты об этом знаешь, и никто другой.
 Я вижу твоими глазами и слышу твоими ушами."
 11374,SUPPORT,"Just listen to your heart, as you are doing now,
-and we may speak like this.","Прислушивайся к своему сердцу, прямо как сейчас.
-Тогда мы вновь сможем поговорить."
-11374,SUPPORT,That is all that I know.,"Это всё, что я знаю."
+and we may speak like this.","Просто прислушайся к своему сердцу — и мы
+сможем поговорить."
+11374,SUPPORT,That is all that I know.,"Ну, а больше я и сама ничего не знаю."
 11374,SUPPORT,...,...
 11374,SUPPORT,"What is this nonsense?! All I was told was
-to kill as many noble pipsqueaks as possible!","Ну что за чушь?! Мне просто сказали перебить
-столько этих мелких знатнюков, сколько смогу!"
+to kill as many noble pipsqueaks as possible!","Чёрт! Перебить пару знатных молокососов,
+значит, а?!"
 11374,SUPPORT,"No one said anything about the Knights of
-damned Seiros being on our trail!","Никто не предупреждал, что солдатики грёбанной
-Сейрос будут мешаться!"
+damned Seiros being on our trail!","И ни один выродок не сказал, что нам на
+хвост сядут Рыцари Сейрос!"
 11374,SUPPORT,"You have proven yourself worthless. Distracted by
-something so trivial.","Ты был ужасно бесполезным.
-Отвлёкся на такую банальность."
+something so trivial.","Ты сам всё испортил. Попался на банальный
+отвлекающий манёвр."
 11374,SUPPORT,"I had hoped you would achieve your goal despite
 the setback. But now a child of the knights'
-former captain is in play. How interesting.","Пусть ты и облажался, надеюсь, закончишь начатое.
-Хотя теперь в игру вступил ребёнок бывшего
-капитана рыцарей. Очень интересно."
-11374,SUPPORT,Hey! This isn't what I agreed to!,Эй! Я на это не подписывался!
+former captain is in play. How interesting.","Хотя ещё оставалась надежда, что цель будет 
+достигнута, но... теперь в деле отпрыск бывшего 
+капитана рыцарей. Как занятно."
+11374,SUPPORT,Hey! This isn't what I agreed to!,Эй! Ты вообще слушаешь?!
 11374,SUPPORT,"Hiring a mercenary as a professor. What was that
-woman thinking...","Из наёмника сделали учителя.
-И о чём только думает эта женщина..."
-11374,SUPPORT,Are you listening to me?! How do we finish this?!,Ты меня вообще слушаешь?! Что с этим делать-то?
+woman thinking...","И всё-таки, сделать из наёмника учителя...
+О чём только думает эта женщина? Что..."
+11374,SUPPORT,Are you listening to me?! How do we finish this?!,Сюда смотри! Как мы порешаем...
 11374,SUPPORT,You die.,Ты умрёшь.
 11374,SUPPORT,Wh— What?!,Ч-что?!
 11374,SUPPORT,"Underestimating the knights was an amateur
 mistake. One you will pay for. The road to eternal
-torment awaits you all.","Только дилетант будет недооценивать рыцарей.
-И за это поплатишься ты. И каждого из вас ждут
-вечные муки. "
-11374,SUPPORT,Now I must locate your replacements...,Теперь мне нужно найти тебе замену...
-11374,SUPPORT,Wait! Get back here! Damn you!,А ну стой! Вернись! Чтоб тебя!
+torment awaits you all.","Церковь уже не пощадит тебя. Так что ты и вся
+твоя братия отправитесь в ад."
+11374,SUPPORT,Now I must locate your replacements...,"И лучше всего будет отправить с вами
+побольше попутчиков."
+11374,SUPPORT,Wait! Get back here! Damn you!,"Стой! А ну, стой! Чтоб тебя!"
 11375,SUPPORT,"As you have already been notified, your mission is to
 subdue some bandits.","Как вы уже знаете, вам поручено усмирить
 бандитов."
@@ -146273,87 +146272,89 @@ smiling on me!＠033988#00","[0004]Я не ожидал встретить на�
 12659,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0004]Coming up with brilliant schemes, I can handle.
 No problem. But I'm not much for fighting.
-Go easy on me!＠034052#01","[0004]Придумывать блестящие планы — это по мне,
-без проблем. А вот в бою я не очень.
-Полегче со мной!＠034052#01"
+Go easy on me!＠034052#01","[0004]Продумывать тактику боя — это по мне, а вот
+в бою я безнадёжен. Будьте со мной помягче, 
+учитель!＠034052#01"
 12660,MAP,[0000]...＠#00,[0000]...＠#00
 12660,MAP,"[0004]You know that was a joke, right? Jeez, not so much
-as a smile...＠034053#04","[0004]Ты же знаешь, что это была шутка, правда?
-Ну хоть улыбнись немного...＠034053#04"
+as a smile...＠034053#04","[0004]Я даже не знаю, как реагировать на ваш серьёзный
+вид... вы же понимаете, что это была шутка?＠034053#04"
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0003]You're a tough opponent, but I refuse to yield.
-Do not fool yourself into believing I will hold back!＠034054#02","[0003]Вы сильный противник, но я отказываюсь уступить.
-Не обманывайте себя, думая, что я буду сдерживаться!＠034054#02"
+Do not fool yourself into believing I will hold back!＠034054#02","[0003]Вы сильный противник, но я отказываюсь сдаваться.
+Не ждите пощады!＠034054#02"
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0002]There can be no victory unless I defeat you.
-So be it!＠034055#02","[0002]Пока я не одержу над тобой верх, победы
-не видать. Пусть так и будет!＠034055#02"
+So be it!＠034055#02","[0002]Нам никак не победить, пока я не одержу
+над нами верх. К бою!＠034055#02"
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0004]Look at that, a real-life princess! I'll have to be
-careful not to scar that little face of yours.＠034056#01","[0004]Смотрите-ка, настоящая принцесса!
-Надо постараться не изуродовать это
-миленькое личико.＠034056#01"
+careful not to scar that little face of yours.＠034056#01","[0004]Наследная принцесса собственной персоной.
+Надо постараться не оцарапать твоё личико.＠034056#01"
 12660,MAP,"[0002]Careful, Claude. I'll win no matter what, but you're
-only making things harder for yourself.＠034057#01","[0002]Осторожнее, Клод. Я всё равно выиграю,
-ты только усложняешь себе задачу.＠034057#01"
+only making things harder for yourself.＠034057#01","[0002]Твоя безалаберность меня очень обяжет. 
+Я собираюсь победить, и мне бы хотелось 
+не прилагать лишних усилий.＠034057#01"
 12660,MAP,"[0004]Losing hasn't even crossed your mind, has it?
-Ooh, this'll be a bit of a shock, then.＠034058#00","[0004]Ты даже и не подумала о поражении?
-Ох, тогда это будет небольшим потрясением.＠034058#00"
+Ooh, this'll be a bit of a shock, then.＠034058#00","[0004]Ты даже не подумала о возможности поражения?
+В таком случае, мне даже хочется отнестись к делу 
+серьёзно...＠034058#00"
 12660,MAP,"[0002]To shock was your intention to begin with,
-was it not?＠034059#03","[0002]Разве быть шокированным это не ваше
-намерение?＠034059#03"
+was it not?＠034059#03","[0002]Разве ты не собирался так поступить
+с самого начала?＠034059#03"
 12660,MAP,"[0002]Dimitri... It's time! We can finally settle the
-question of who's stronger.＠034060#00","[0002]Дмитрий... Пора! Наконец-то мы сможем
-выяснить, кто сильнее.＠034060#00"
+question of who's stronger.＠034060#00","[0002]Дмитрий... пора. Здесь мы и сможем выяснить, 
+кто лучше.＠034060#00"
 12660,MAP,"[0003]Very well. I accept your challenge. With you as
-my opponent, I won't hold anything back.＠034061#02","[0003]Очень хорошо. Я принимаю твой вызов.
-Я вылажусь на полную сражаясь с тобой.＠034061#02"
-12660,MAP,[0002]I would expect no less!＠034062#02,[0002]Другого я и не ожидала!＠034062#02
+my opponent, I won't hold anything back.＠034061#02","[0003]Хорошо, я принимаю вызов. Я не стану сдерживаться, 
+даже если мой противник — это ты.＠034061#02"
+12660,MAP,[0002]I would expect no less!＠034062#02,[0002]Другого я и не ожидаю!＠034062#02
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0004]Psst, Your Princeliness. You've got a thing for
-Edelgard, right? Come on, fess up. You'll feel better.＠034063#01","[0004]Псс, Ваша Светлость. Ты ведь неравнодушен
-к Эдельгард, да? Признайся, станет легче.＠034063#01"
+Edelgard, right? Come on, fess up. You'll feel better.＠034063#01","[0004]Ответь-ка мне, принц. Ты ведь на самом деле 
+неравнодушен к Эдельгард, да?＠034063#01"
 12660,MAP,"[0003]Claude, please. This is no time for idle banter.
-Your defenses are wide open.＠034064#00","[0003]Клод, прошу тебя. Сейчас не время для пустых
-разговоров. Ты сейчас открыт для атаки.＠034064#00"
+Your defenses are wide open.＠034064#00","[0003]Сейчас не время для пустых разговоров, Клод.
+Ты открыт для атаки.＠034064#00"
 12660,MAP,"[0004]That didn't get to him, huh? What a shame. I'll find
-a better way to ruffle him up next time.＠034065#03","[0004]Это его не задело, да? Жаль. В следующий раз
-придумаю другой способ вывести его из себя.＠034065#03"
+a better way to ruffle him up next time.＠034065#03","[0004]Что, тебя это никак не смутило? А я-то думал
+сбить тебя с толку — жаль, жаль.＠034065#03"
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0004]Look at that, a real-life princess! I'll have to be
-careful not to scar that little face of yours.＠034056#01","[0004]Смотрите-ка, настоящая принцесса!
-Надо постараться не изуродовать это
-миленькое личико.＠034056#01"
+careful not to scar that little face of yours.＠034056#01","[0004]Наследная принцесса собственной персоной.
+Надо постараться не оцарапать твоё личико.＠034056#01"
 12660,MAP,"[0002]Careful, Claude. I'll win no matter what, but you're
-only making things harder for yourself.＠034057#01","[0002]Осторожнее, Клод. Я всё равно выиграю,
-ты только усложняешь себе задачу.＠034057#01"
+only making things harder for yourself.＠034057#01","[0002]Твоя безалаберность меня очень обяжет. 
+Я собираюсь победить, и мне бы хотелось 
+не прилагать лишних усилий.＠034057#01"
 12660,MAP,"[0004]Losing hasn't even crossed your mind, has it?
-Ooh, this'll be a bit of a shock, then.＠034058#00","[0004]Ты даже и не подумала о поражении?
-Ох, тогда это будет небольшим потрясением.＠034058#00"
+Ooh, this'll be a bit of a shock, then.＠034058#00","[0004]Ты даже не подумала о возможности поражения?
+В таком случае, мне даже хочется отнестись к делу 
+серьёзно...＠034058#00"
 12660,MAP,"[0002]To shock was your intention to begin with,
-was it not?＠034059#03","[0002]Разве быть шокированным это не ваше
-намерение?＠034059#03"
+was it not?＠034059#03","[0002]Разве ты не собирался так поступить
+с самого начала?＠034059#03"
 12660,MAP,"[0002]Dimitri... It's time! We can finally settle the
-question of who's stronger.＠034060#00","[0002]Дмитрий... Пора! Наконец-то мы сможем
-выяснить, кто сильнее.＠034060#00"
+question of who's stronger.＠034060#00","[0002]Дмитрий... пора. Здесь мы и сможем выяснить, 
+кто лучше.＠034060#00"
 12660,MAP,"[0003]Very well. I accept your challenge. With you as
-my opponent, I won't hold anything back.＠034061#02","[0003]Очень хорошо. Я принимаю твой вызов.
-Я вылажусь на полную сражаясь с тобой.＠034061#02"
-12660,MAP,[0002]I would expect no less!＠034062#02,[0002]Другого я и не ожидала!＠034062#02
+my opponent, I won't hold anything back.＠034061#02","[0003]Хорошо, я принимаю вызов. Я не стану сдерживаться, 
+даже если мой противник — это ты.＠034061#02"
+12660,MAP,[0002]I would expect no less!＠034062#02,[0002]Другого я и не ожидаю!＠034062#02
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12660,MAP,"[0004]Psst, Your Princeliness. You've got a thing for
-Edelgard, right? Come on, fess up. You'll feel better.＠034063#01","[0004]Псс, Ваша Светлость. Ты ведь неравнодушен
-к Эдельгард, да? Признайся, станет легче.＠034063#01"
+Edelgard, right? Come on, fess up. You'll feel better.＠034063#01","[0004]Ответь-ка мне, принц. Ты ведь на самом деле 
+неравнодушен к Эдельгард, да?＠034063#01"
 12660,MAP,"[0003]Claude, please. This is no time for idle banter.
-Your defenses are wide open.＠034064#00","[0003]Клод, прошу тебя. Сейчас не время для пустых
-разговоров. Ты сейчас открыт для атаки.＠034064#00"
+Your defenses are wide open.＠034064#00","[0003]Сейчас не время для пустых разговоров, Клод.
+Ты открыт для атаки.＠034064#00"
 12660,MAP,"[0004]That didn't get to him, huh? What a shame. I'll find
-a better way to ruffle him up next time.＠034065#03","[0004]Это его не задело, да? Жаль. В следующий раз
-придумаю другой способ вывести его из себя.＠034065#03"
+a better way to ruffle him up next time.＠034065#03","[0004]Что, тебя это никак не смутило? А я-то думал
+сбить тебя с толку — жаль, жаль.＠034065#03"
 12660,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12661,MAP,"[0043]Y-you're... It can't be! The mercenary from before?
 So what, now you're pals with the knights?＠034117#04","[0043]Вы… Не может быть! Тот самый наёмник?!
