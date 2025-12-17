@@ -146742,85 +146742,105 @@ without a moment's hesitation!＠048805#02","[1042]Ни за что, разум�
 12670,MAP,"[0002]As I thought. That is precisely why I did not tell you.
 Now get out of my way.＠048806#03",[0002]Поэтому я и молчала. И теперь... не стой у меня на пути.＠048806#03
 12671,MAP,"[0099]I wish you were someone whose heart could be
-swayed by my words and deeds.＠034488#03",
+swayed by my words and deeds.＠034488#03","[0099]Хотела бы я, чтобы вы были человеком, которого
+могли бы переубедить мои слова и дела.＠034488#03"
 12671,MAP,"[0099]If it were so, I would have done anything to make
-you my ally...＠034489#03",
+you my ally...＠034489#03","[0099]Будь оно так, я бы что угодно сделала, чтобы
+вы стали моим союзником...＠034489#03"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12671,MAP,[0003]You're late. I... We are all tired of waiting.＠034490#00,
+12671,MAP,[0003]You're late. I... We are all tired of waiting.＠034490#00,[0003]Ты опоздала. Я... мы все устали ждать.＠034490#00
 12671,MAP,"[0003]Now, let's separate that sick head from your neck,
-shall we?＠034491#02",
-12671,MAP,[0099]Heh. You never were one for patience.＠034492#03,
+shall we?＠034491#02",[0003]Итак... давай отделим твою голову от шеи.＠034491#02
+12671,MAP,[0099]Heh. You never were one for patience.＠034492#03,[0099]Ох... всё бы тебе только головы.＠034492#03
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0004]Here she is—Her Majesty—looking pleased as a dog
 with a stick. What exactly happened to make you
-this way?＠034493#00",
+this way?＠034493#00","[0004]Вот и Её Императорское Величество — в прекрасном
+расположениии духа. Объясни мне, как ты до такого 
+докатилась?＠034493#00"
 12671,MAP,"[0099]I'm simply seeing through a promise I made to
-myself a long time ago.＠034494#00",
+myself a long time ago.＠034494#00","[0099]Я просто претворяю в жизнь то, что давно
+уже для себя решила.＠034494#00"
 12671,MAP,"[0004]Isn't this much force excessive? Thanks to you,
-my own long-held ambitions are nearly destroyed.＠034495#02",
+my own long-held ambitions are nearly destroyed.＠034495#02","[0004]Даже если так, не слишком ли агрессивный метод?
+Благодаря тебе мои собственные тайные амбиции 
+вот-вот пойдут прахом.＠034495#02"
 12671,MAP,"[0099]If you don't want them to be destroyed completely,
-I suggest you turn tail and flee.＠034496#02",
+I suggest you turn tail and flee.＠034496#02","[0099]Если не хочешь, чтобы они окончательно обратились
+в прах, поджимай хвост и беги!＠034496#02"
 12671,MAP,"[0099]Think very carefully about whether you wish to raise
 your sword against the Empire...or if you will offer it
-to us in fealty.＠034497#00",
+to us in fealty.＠034497#00","[0099]Подумайте, положа руку на сердце, стоит ли
+обращать клинок против Империи.＠034497#00"
 12671,MAP,"[0099]And after you've thought it through, if you still wish
 to fight, I won't stop you. I will simply use the full
-extent of my power...and crush you.＠034498#02",
+extent of my power...and crush you.＠034498#02","[0099]И если решите сражаться, я никого не стану 
+переубеждать. Я остановлю вас... силой!＠034498#02"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0099]You will come to regret raising your blade against
-the emperor of the Adrestian Empire!＠034499#02",
+the emperor of the Adrestian Empire!＠034499#02","[0099]Вы поймёте, что зря подняли клинок на
+Императора Адрастеи!＠034499#02"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12671,MAP,[0005]Lady Edelgard held you in such high esteem.＠034500#00,
+12671,MAP,[0005]Lady Edelgard held you in such high esteem.＠034500#00,"[0005]А ведь вы пользовались таким большим уважением
+у леди Эдельгард.＠034500#00"
 12671,MAP,"[0005]In the end, however, it seems you are nothing more 
-than a slave to your goddess.＠034501#02",
+than a slave to your goddess.＠034501#02","[0005]Но на деле... вы оказались всего лишь очередным
+прихлебателем Богини.＠034501#02"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0005]Such a shame. There are people in the Empire you
-truly care about, too, aren't there?＠034502#00",
-12671,MAP,[0005]I wonder what will become of them.＠034503#01,
+truly care about, too, aren't there?＠034502#00","[0005]Мне действительно жаль. Ведь и в Империи есть
+дорогие вам люди, не правда ли?＠034502#00"
+12671,MAP,[0005]I wonder what will become of them.＠034503#01,"[0005]Интересно, что с ними станет. Ха-ха-ха...＠034503#01"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0005]What you fail to appreciate is that we have, at our
-backs, a force you cannot hope to defeat.＠034504#00",
+backs, a force you cannot hope to defeat.＠034504#00","[0005]Вам неясно, что за нами стоят силы, против
+которых у вас нет ни единого шанса.＠034504#00"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0042]This battlefield is too chaotic...for us to kill each
-other upon...＠034505#00",
+other upon...＠034505#00","[0042]Слишком много суеты на этом поле брани...
+чтобы мы могли друг друга убить...＠034505#00"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0042]This fight is but a sideshow...to the ravaging of the
-sacred place that is Garreg Mach...＠034506#00",
+sacred place that is Garreg Mach...＠034506#00","[0042]Эта битва вторична... по сравнению с разорением
+святого места под названием Гаррег Мах.＠034506#00"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12671,MAP,[0008]Huh. This guy seems real familiar...＠034507#00,
-12671,MAP,[0046]Y-you dastard! Aren't you... No...＠034508#04,
-12671,MAP,"[0008]Eh, that doesn't matter right now. Let's go!＠034509#02",
+12671,MAP,[0008]Huh. This guy seems real familiar...＠034507#00,[0008]Я как будто бы тебя где-то видел...＠034507#00
+12671,MAP,[0046]Y-you dastard! Aren't you... No...＠034508#04,[0046]Неужели ты... Нет...＠034508#04
+12671,MAP,"[0008]Eh, that doesn't matter right now. Let's go!＠034509#02","[0008]Ну и ладно. К бою, захватчик!＠034509#02"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0046]I have no choice but to distinguish myself
-in this fight!＠034510#02",
+in this fight!＠034510#02",[0046]Я обязан показать себя в этой битве!＠034510#02
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0081]My life was changed forever by Her Majesty...
-Now, I lay it on the line. For the Empire!＠034511#02",
+Now, I lay it on the line. For the Empire!＠034511#02","[0081]Её Величество изменила мою жизнь... Вперёд!
+Во славу Империи!＠034511#02"
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12671,MAP,"[0099]So, House Nuvelle has chosen the path that will lead
-to its ultimate demise. How pitiable.＠048807#00",
+to its ultimate demise. How pitiable.＠048807#00","[0099]Итак, ты выбрала дорогу, на которой оборвётся
+путь имперского дома Нувэль.＠048807#00"
 12671,MAP,"[1042]As you say, I have forfeited my claim on being
-a noble of the Empire.＠048808#03",
+a noble of the Empire.＠048808#03",[1042]Будь по-вашему. Я утратила подданство Империи.＠048808#03
 12671,MAP,"[1042]That is why you must permit me to challenge you in
-combat, that I may establish a new House Nuvelle.＠048809#00",
+combat, that I may establish a new House Nuvelle.＠048809#00","[1042]Именно поэтому разве мне не позволено сражаться
+за основание дома Нувэль заново?＠048809#00"
 12671,MAP,"[0099]As you wish. Let's see if your resolve is a match for
-my own.＠048810#00",
+my own.＠048810#00",[0099]Хорошо. Я принимаю твою решимость!＠048810#00
 12672,MAP,"[0085]No! I'm not the one you want!
 Gah! I guess I've got no choice.＠034562#04",
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
