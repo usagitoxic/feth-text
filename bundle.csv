@@ -146842,111 +146842,136 @@ combat, that I may establish a new House Nuvelle.＠048809#00","[1042]Именн
 12671,MAP,"[0099]As you wish. Let's see if your resolve is a match for
 my own.＠048810#00",[0099]Хорошо. Я принимаю твою решимость!＠048810#00
 12672,MAP,"[0085]No! I'm not the one you want!
-Gah! I guess I've got no choice.＠034562#04",
+Gah! I guess I've got no choice.＠034562#04","[0085]В-вам не я нужен! Чёрт!
+Похоже, у меня не осталось выбора!..＠034562#04"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12672,MAP,"[0084]Ah, you should yield me a tidy profit!＠034563#00",
+12672,MAP,"[0084]Ah, you should yield me a tidy profit!＠034563#00","[0084]Ага... я смогу выгодно навариться, если поймаю
+и продам вас.＠034563#00"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0006]Ah, Professor. You have not changed a bit. I am so
-glad to fight alongside you again.＠034564#01",
+glad to fight alongside you again.＠034564#01","[0006]Вы ничуть не изменились, учитель. Я счастлив
+вновь сражаться рука об руку с вами.＠034564#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0007]So what have you been doing these last five years?
-Sleeping?! Why, I must say I'm a bit envious.＠034565#00",
+Sleeping?! Why, I must say I'm a bit envious.＠034565#00","[0007]А всё-таки, чем вы занимались эти пять лет?.. Спали?
+Завидую вам.＠034565#00"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12672,MAP,"[0008]I'm so glad I get to see you again, Professor!＠034566#01",
+12672,MAP,"[0008]I'm so glad I get to see you again, Professor!＠034566#01","[0008]Учитель, я так рад снова вас увидеть! Правда, не 
+понимаю, а чего мы все здесь сегодня собрались?＠034566#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12672,MAP,"[0008]I'm so glad I get to see you again, Professor! ＠034567#01",
+12672,MAP,"[0008]I'm so glad I get to see you again, Professor! ＠034567#01","[0008]Учитель, я так рад снова вас увидеть!＠034567#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0009]Took all my will to come out here today. But seeing
-you again, Professor? That's worth a little torture!＠034568#01",
+you again, Professor? That's worth a little torture!＠034568#01","[0009]Мне понадобилась вся сила воли, чтобы выйти из
+дома — это была сущая пытка... но увидела вас, 
+учитель, и всё как рукой сняло!＠034568#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0010]Do you remember our promise from five years ago,
-Professor? Today's the day.＠034569#01",
+Professor? Today's the day.＠034569#01","[0010]Учитель, вы помните обещание, которое мы дали
+пять лет назад? Сегодня оно исполнилось.＠034569#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0011]I went back to Brigid once...but I had to be returning
-to Fódlan.＠034570#01",
+to Fódlan.＠034570#01","[0011]Я один раз уехала обратно в Бригид. Но снова
+возвращаюсь в Фодлан.＠034570#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0015]Where have you been the last five years? I was 
-worried about you, and then I was just sad. ＠034571#01",
+worried about you, and then I was just sad. ＠034571#01","[0015]Ну и где вы пропадали пять лет? Я о вас
+волновался, знаете ли.＠034571#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0015]Professor! Has it really been five years? You're as
-pretty as ever, and that's the only thing that matters.＠034572#01",
+pretty as ever, and that's the only thing that matters.＠034572#01","[0015]Ого, учитель, пять лет уж не виделись! А вы всё
+такая же красавица, как и всегда — это главное!＠034572#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12672,MAP,[0013]Fancy meeting you here. A welcome surprise.＠034573#01,
+12672,MAP,[0013]Fancy meeting you here. A welcome surprise.＠034573#01,[0013]Не ожидал вас здесь встретить. Но... оно и к лучшему.＠034573#01
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12672,MAP,[0014]We promised five years ago we'd meet here and now!＠034574#01,
+12672,MAP,[0014]We promised five years ago we'd meet here and now!＠034574#01,"[0014]Мы дали обещание встретиться пять лет спустя.
+И вот мы здесь!＠034574#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0017]Long time no see, Professor! I always knew in my
-heart that we'd meet again!＠034575#01",
+heart that we'd meet again!＠034575#01","[0017]Учитель, давно не виделись! Хе-хе... я всё это
+время верила, что мы снова встретимся!＠034575#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0016]Getting to see you and everyone else again makes
-having to leave my family feel less difficult.＠034576#01",
+having to leave my family feel less difficult.＠034576#01","[0016]Я снова встретилась с вами, учитель, и со всеми
+остальными. Значит, я не зря поспешно покинула 
+дом.＠034576#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0018]I'm glad we could meet again, Professor. It'll be nice
-to fight alongside each other. Just like old times.＠034577#01",
+to fight alongside each other. Just like old times.＠034577#01","[0018]Я рада нашей встрече, учитель. Давайте вновь
+сразимся бок о бок, как в былые времена!＠034577#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0020]Is that really you, Professor? It's been so long!
-I thought I'd never see you again!＠034578#01",
+I thought I'd never see you again!＠034578#01","[0020]О-о, учитель, это правда вы! Давно не виделись!
+Я уж думал, и не встретимся больше!＠034578#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0021]Professor, it's been too long! I do want to chat, but
-first let's handle these criminals.＠034579#01",
+first let's handle these criminals.＠034579#01","[0021]Учитель, мы снова встретились!.. Ах, но сперва
+давайте разберёмся с противником!＠034579#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0019]We've much to discuss. But first, let us dispense with
-the riffraff. It is a noble's duty, after all!＠034580#00",
+the riffraff. It is a noble's duty, after all!＠034580#00","[0019]Мне бы хотелось расспросить вас о многом, 
+но сейчас важнее разобраться с разбойниками. 
+Ведь это — долг аристократа.＠034580#00"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0022]Ugh. The instant we arrive, we're neck deep in
-battle. We should've arrived late.＠034581#03",
+battle. We should've arrived late.＠034581#03","[0022]Не успели прибыть на место, как тут же
+оказались втянуты в бой... надо было 
+опоздать.＠034581#03"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12672,MAP,[0023]P-Professor? Is it really you?＠034582#01,
+12672,MAP,[0023]P-Professor? Is it really you?＠034582#01,[0023]Учитель... это правда вы?＠034582#01
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0024]Professor! Boy am I glad to see you. How did we end
-up in this situation?＠034583#01",
+up in this situation?＠034583#01","[0024]Учитель! Я так рада вас видеть — правда, как мы
+вообще ввязались во всё это?＠034583#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,"[0025]You've been alive all this time?! Where have you
-been hiding?! Never mind—talk later!＠034584#01",
+been hiding?! Never mind—talk later!＠034584#01","[0025]Учитель, если вы всё это время были живы,
+надо было раньше дать об этом знать! Ай, 
+неважно. Потом спокойно поговорим.＠034584#01"
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
