@@ -147084,70 +147084,96 @@ standing for his beliefs...and he paid it gladly.＠048832#00","[0014]Я не о
 to smack some sense into you.＠048834#02","[1040]Какие ещё убеждения, дурачина? Я остановлю тебя,
 даже если придётся действовать силой!＠048834#02"
 12675,MAP,"[0019]It's been a while, Professor. If this were anywhere
-but a battlefield, I would offer you tea.＠034748#01",
+but a battlefield, I would offer you tea.＠034748#01","[0019]Давно не виделись, учитель. Не будь мы на поле
+брани, я бы угостил вас чаем.＠034748#01"
 12675,MAP,"[0019]I've no choice but to follow the Empire, if I wish
-to live. I hope you will not think ill of me.＠034749#02",
+to live. I hope you will not think ill of me.＠034749#02","[0019]У моего дома нет иного способа выжить, 
+кроме как примкнуть к Империи. Не надо
+думать о нас дурно.＠034749#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0006]Edelgard has always been obsessed with you. I am a
-little envious, to be frank.＠034750#03",
+little envious, to be frank.＠034750#03","[0006]Эдельгард всегда чрезмерно пеклась о вас. Честно
+говоря... я сильно вам завидую, учитель.＠034750#03"
 12675,MAP,"[0006]I will just have to impress her with my skills on
-the battlefield!＠034751#02",
+the battlefield!＠034751#02","[0006]Так пусть теперь я буду хвалиться ей, что превратил
+вас в ржавчину на своём копье!＠034751#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0081]To repay Her Majesty's favor...
-I will not let you pass!＠034752#02",
+I will not let you pass!＠034752#02","[0081]Чтобы воздать добром Её Величеству,
+я ни за что не дам вам пройти!＠034752#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0083]The declining Alliance will be finished if I kill you.
-The Empire will herald the new age!＠034753#01",
+The Empire will herald the new age!＠034753#01","[0083]Если я тебя убью, придёт конец и так упадочному 
+Альянсу! Настанет эпоха Империи!＠034753#01"
 12675,MAP,"[0004]Only if you manage to kill me. Hm? What's that to
-the north?＠034754#00",
+the north?＠034754#00","[0004]Если убьёшь. К тому же... о, что это там, 
+на севере?＠034754#00"
 12675,MAP,"[0004]Looks like the home of another opportunistic
-noble is burning...＠034755#01",
-12675,MAP,[0083]That's...that's my castle! NO!＠034756#04,
+noble is burning...＠034755#01","[0004]По-моему, там горит дом какого-то благородного
+оппортуниста...＠034755#01"
+12675,MAP,[0083]That's...that's my castle! NO!＠034756#04,[0083]Дым... в той стороне... Э-это же мой особня-я-як!＠034756#04
 12675,MAP,"[0004]That's the declining Alliance at work, right there.
 Seems like you were facing the wrong way,
-Weathervane!＠034757#02",
+Weathervane!＠034757#02","[0004]Это находятся в движении войска «упадочного» Альянса.
+Под конец ты выбрал не то направление, Флюгер!＠034757#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0004]Aren't you gonna stand aside, Lorenz?
-Unless we win, the Alliance can't survive.＠034758#00",
+Unless we win, the Alliance can't survive.＠034758#00","[0004]Ты не отступишь, Лоренц? Если мы не победим,
+Альянсу не выстоять.＠034758#00"
 12675,MAP,"[0019]Even if that's so, to allow you past without a fight
-would be pure cowardice, I'm afraid.＠034759#02",
-12675,MAP,[0004]You are one stubborn guy.＠034760#03,
+would be pure cowardice, I'm afraid.＠034759#02","[0019]Даже если это так, я ни за что не позволю себе
+такое малодушие, как сдаваться без боя!＠034759#02"
+12675,MAP,[0004]You are one stubborn guy.＠034760#03,"[0004]Как аристократу и положено? 
+Никакой в тебе гибкости...＠034760#03"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0010]Oh, Ferdie. You opposed Edie for so long... I had
-real hopes for you, you know?＠034761#00",
+real hopes for you, you know?＠034761#00","[0010]Ох, Ферди. Ты всегда так соперничал с Эди, но вот...＠034761#00"
 12675,MAP,"[0010]Now you're following her. Is that your duty as a
-noble? Follow your master when they say to heel?＠034762#03",
+noble? Follow your master when they say to heel?＠034762#03","[0010]В итоге ты — её последователь. Это и есть
+долг аристократа?＠034762#03"
 12675,MAP,"[0006]I will not try to explain my duty or hers. You would
-not understand.＠034763#03",
-12675,MAP,"[0006]I wish you could. Anyway, no time for idle chitchat!＠034764#02",
+not understand.＠034763#03","[0006]Тебе не понять, какую ответственность несём
+мы с Эдельгард.＠034763#03"
+12675,MAP,"[0006]I wish you could. Anyway, no time for idle chitchat!＠034764#02","[0006]Я бы искренне хотел, чтобы ты поняла...
+Но больше нет смысла в разговорах!＠034764#02"
 12675,MAP,"[0006]After this battle, I will be known far and wide as the
-legendary Ferdinand of Adrestia!＠034765#02",
+legendary Ferdinand of Adrestia!＠034765#02","[0006]После этой битвы разнесётся весть о Фердинанде
+из Адрастеи!＠034765#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0083]As they say, if you can't beat them, join them.
-I'm not in for a beating, am I?＠034766#02",
+I'm not in for a beating, am I?＠034766#02","[0083]Если кого-то нельзя победить, лучше 
+к ним переметнуться... иначе долгую 
+жизнь не прожить, верно?＠034766#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0019]To oppose the Empire at a time like this would be
-entirely too reckless.＠034767#02",
+entirely too reckless.＠034767#02","[0019]Оказывать сопротивление Империи в такое
+время — это чистой воды безрассудство!＠034767#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0006]Here we are, after all these years, forced to fight
-one another. What a tragic conclusion to our story.＠048813#04",
+one another. What a tragic conclusion to our story.＠048813#04","[0006]Вновь встретиться в таких обстоятельствах —
+всё-таки судьба жестока к нам.＠048813#04"
 12675,MAP,"[1042]It seems inevitable, but I am sorry that this is where
-our chosen paths have led us.＠048814#00",
-12675,MAP,[1042]We all do what we must...＠048815#00,
+our chosen paths have led us.＠048814#00","[1042]Если вы вспомните, как мы шли по жизни, 
+то нет ничего удивительного, что наши пути 
+пересеклись именно подобным образом.＠048814#00"
+12675,MAP,[1042]We all do what we must...＠048815#00,"[1042]Отныне нам ничего не остаётся,
+кроме как делать то, что до́лжно, 
+вы согласны?＠048815#00"
 12675,MAP,"[0006]Indeed...and I must put an end to your journey.
-I am sorry, Constance.＠048816#00",
+I am sorry, Constance.＠048816#00","[0006]Согласен. Я вынужден прервать твой путь.
+Пора... к бою!＠048816#00"
 12676,MAP,[0003]Are you trying to stop me too?＠034836#00,
 12676,MAP,[0003]Then I'll just have to kill you!＠034837#02,
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
