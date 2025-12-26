@@ -142802,12 +142802,12 @@ First, I want you to take this.＠034692#00","[0051]Вы... Нет, любезн
 Сперва я хочу, чтобы вы это взяли.＠034692#00"
 12470,MAP,"[0051]It's nothing important, but it may prove useful.＠034693#00","[0051]Ничего особенного, но может пригодиться.＠034693#00"
 12470,MAP,"[0051]So, you're finally here, supreme leader.
-And something extra has tagged along.＠034694#01","[0051]Итак, вы наконец здесь, верховный лидер.
-И что-то ещё прицепилось по пути.＠034694#01"
-12470,MAP,"[0004]Sorry, Judith. Looks like I let that rat get away.＠034695#01","[0004]Прости, Джудит. Кажется, я упустил эту крысу.＠034695#01"
+And something extra has tagged along.＠034694#01","[0051]Явился наконец, генералиссимус. Ещё и хвост 
+за собой привёл.＠034694#01"
+12470,MAP,"[0004]Sorry, Judith. Looks like I let that rat get away.＠034695#01","[0004]Виноват, Джудит. Эта крыса проскочила мимо меня.＠034695#01"
 12470,MAP,"[0051]Hey, don't worry. And here, you should have this.
-Perhaps it will come in handy.＠034696#00","[0051]Эй, не волнуйся. И вот, возьми это.
-Возможно, пригодится.＠034696#00"
+Perhaps it will come in handy.＠034696#00","[0051]Не переживай. Возьми-ка это для начала.
+Может, пригодится.＠034696#00"
 12470,MAP,"[0050]To meet you in a place like this... No, that won't do.
 I'll leave the talking until after the battle.＠034697#01","[0050]Встретить вас в таком месте... Нет, так не пойдёт.
 Разговоры оставим на потом, после битвы.＠034697#01"
@@ -146975,18 +146975,22 @@ been hiding?! Never mind—talk later!＠034584#01","[0025]Учитель, ес�
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12672,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12673,MAP,[0008]You must be Randolph... My uncle.＠034643#00,
+12673,MAP,[0008]You must be Randolph... My uncle.＠034643#00,"[0008]Ты — Рэндольф? Так значит, ты мой дядя...＠034643#00"
 12673,MAP,"[0046]Caspar?! Yes, indeed... So, I see you have chosen to
-oppose the Empire.＠034644#04",
+oppose the Empire.＠034644#04","[0046]Каспар?! Вот как... ты выбрал путь 
+противостояния Империи.＠034644#04"
 12673,MAP,"[0046]If so, be warned that I won't hesitate. I'll strike
-you down, even if we're of the same house!＠034645#02",
-12673,MAP,[0008]You took the words right outta my mouth! Graaagh!＠034646#02,
+you down, even if we're of the same house!＠034645#02","[0046]Раз так, я не буду колебаться! Я устраню тебя,
+даже если мы из одного дома!＠034645#02"
+12673,MAP,[0008]You took the words right outta my mouth! Graaagh!＠034646#02,[0008]Как с языка снял! Гра-аа!＠034646#02
 12673,MAP,"[0046]A one-eyed demon... So, it's you. You're the one
-who's been going around killing the Imperial troops!＠034647#00",
-12673,MAP,[0003]What is it to you?＠034648#00,
-12673,MAP,"[0046]You bastard! Life is worthless to you, isn't it?!＠034649#02",
-12673,MAP,"[0003]Ha! You took the words from my mouth, general!＠034650#01",
-12673,MAP,[0046]For my house! For justice! I will not be defeated!＠034651#02,
+who's been going around killing the Imperial troops!＠034647#00","[0046]У тебя один глаз... так это ты... ты убивал 
+солдат и офицеров Империи!＠034647#00"
+12673,MAP,[0003]What is it to you?＠034648#00,[0003]И что с того?＠034648#00
+12673,MAP,"[0046]You bastard! Life is worthless to you, isn't it?!＠034649#02",[0046]Ты!.. Человеческая жизнь для тебя ничего не стоит?!＠034649#02
+12673,MAP,"[0003]Ha! You took the words from my mouth, general!＠034650#01",[0003]Ха-ха-ха-ха! Это впору мне говорить... генерал.＠034650#01
+12673,MAP,[0046]For my house! For justice! I will not be defeated!＠034651#02,"[0046]За великое дело. За мою семью...
+Я ни за что не буду сражён!＠034651#02"
 12673,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12673,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12673,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -146995,130 +146999,181 @@ who's been going around killing the Imperial troops!＠034647#00",
 12673,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12673,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,"[0003]The man praised as a lion is degraded to a mere
-traitor's underling.＠034683#01",
+traitor's underling.＠034683#01","[0003]Ха, человек, которого прославляли как льва,
+опустился до того, что стал приспешником 
+мятежника.＠034683#01"
 12674,MAP,"[0082]A traitor's underling? That's upsetting,
 Your Highness. I am and always have been
-a knight of House Rowe.＠034684#00",
+a knight of House Rowe.＠034684#00","[0082]Мне жаль слышать, что вы считаете меня
+приспешником мятежника, Ваше Высочество.
+Я всегда был и остаюсь рыцарем дома Роу.＠034684#00"
 12674,MAP,"[0003]How dare you? You are nothing but a lowly beast
 scavenging for scraps. You have forgotten the
-dignity of knighthood.＠034685#02",
+dignity of knighthood.＠034685#02","[0003]Не смеши меня... что может сказать в своё
+оправдание жалкое животное — падальщик, 
+забывший о гордости рыцаря?＠034685#02"
 12674,MAP,"[0082]I may be lowly, but this beast is devoted to
-his master.＠034686#02",
+his master.＠034686#02","[0082]Даже жалкое животное верно служит
+своему господину.＠034686#02"
 12674,MAP,"[0003]Ha! Then I had better kill the pet and deliver its
-head to that master...＠034687#02",
+head to that master...＠034687#02","[0003]Вот как... тогда мне стоит забить это животное
+и отнести его голову хозяину.＠034687#02"
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12674,MAP,[0014]Forgive me...＠034688#03,
-12674,MAP,"[0014]But as Lonato's son, I have a duty!＠034689#02",
+12674,MAP,[0014]Forgive me...＠034688#03,[0014]Простите.＠034688#03
+12674,MAP,"[0014]But as Lonato's son, I have a duty!＠034689#02","[0014]Но я... сын лорда Лонато, и я исполняю свой долг!＠034689#02"
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12674,MAP,"[0014]I don't want to fight you, Professor...＠034690#03",
-12674,MAP,[0014]But this is how it has to be. There's no turning back.＠034691#03,
+12674,MAP,"[0014]I don't want to fight you, Professor...＠034690#03","[0014]Учитель... будь выбор за мной, я бы не хотел
+с вами сражаться.＠034690#03"
+12674,MAP,[0014]But this is how it has to be. There's no turning back.＠034691#03,[0014]Но так сложилась судьба. Нет пути назад.＠034691#03
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12674,MAP,[0082]Does a whelp like you really expect to kill me?＠035560#01,
+12674,MAP,[0082]Does a whelp like you really expect to kill me?＠035560#01,"[0082]Ха-ха-ха! Юнец вроде тебя в самом деле думает
+меня убить?＠035560#01"
 12674,MAP,"[0082]I am Gwendal, the Gray Lion, a knight by the hand
-of Count Rowe! Do your worst!＠035561#02",
+of Count Rowe! Do your worst!＠035561#02","[0082]Я Серый Лев Гвендаль, рыцарь графа Роу! 
+Готовься к бою!＠035561#02"
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,"[0051]You... No, let's leave the pleasantries for later.
-First, I want you to take this.＠034692#00",
-12674,MAP,"[0051]It's nothing important, but it may prove useful.＠034693#00",
+First, I want you to take this.＠034692#00","[0051]Ох, это же вы... нет, раскланиваться будем потом.
+Для начала возьмите-ка это.＠034692#00"
+12674,MAP,"[0051]It's nothing important, but it may prove useful.＠034693#00","[0051]Это сущая мелочь, но может, на что-то сгодится.＠034693#00"
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,"[0050]To meet you in a place like this... No, that won't do.
-I'll leave the talking until after the battle.＠034697#01",
-12674,MAP,[0050]Here's a small souvenir for you. Put it to good use.＠034698#00,
+I'll leave the talking until after the battle.＠034697#01","[0050]Ох, встретить вас в таком месте!.. Нет, так не
+годится — отложим разговоры до конца битвы.＠034697#01"
+12674,MAP,[0050]Here's a small souvenir for you. Put it to good use.＠034698#00,"[0050]Примите этот небольшой подарок. Пожалуйста,
+пустите его в дело.＠034698#00"
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,"[0051]So, you're finally here, supreme leader. And
-something extra has tagged along.＠034694#01",
-12674,MAP,"[0004]Sorry, Judith. That rat got away.＠034695#01",
+something extra has tagged along.＠034694#01","[0051]Явился наконец, генералиссимус. Ещё и хвост 
+за собой привёл.＠034694#01"
+12674,MAP,"[0004]Sorry, Judith. That rat got away.＠034695#01","[0004]Виноват, Джудит. Эта крыса проскочила мимо меня.＠034695#01"
 12674,MAP,"[0051]Hey, don't worry. And here, you should have this.
-Perhaps it will come in handy.＠034696#00",
+Perhaps it will come in handy.＠034696#00","[0051]Не переживай. Возьми-ка это для начала.
+Может, пригодится.＠034696#00"
 12674,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12674,MAP,"[0082]So. You've chosen to turn your blade against the
-count. Heh. Never thought I'd see the day, mongrel.＠048827#00",
+count. Heh. Never thought I'd see the day, mongrel.＠048827#00","[0082]Ты забыл о своей верности графу и обернул
+против него клинок. Ха-ха, достойным же 
+человеком ты стал, мальчик.＠048827#00"
 12674,MAP,"[1040]And yet you are seeing it, aren't you? Say what you
-will. I know your true feelings for me.＠048828#00",
+will. I know your true feelings for me.＠048828#00","[1040]Вы всегда так злословили, но тем не менее,
+добросовестно заботились обо мне.＠048828#00"
 12674,MAP,"[1040]Sure, you watched my back by order of the count.
 But you cared too. You were the only one who
-treated me as an equal.＠048829#00",
+treated me as an equal.＠048829#00","[1040]Пусть и по приказу графа, но вы — единственный,
+кто относился ко мне как к человеку.＠048829#00"
 12674,MAP,"[0082]That is all in the past. This is no time for misplaced
-sentimentality. I must do what I came here to do.＠048830#00",
+sentimentality. I must do what I came here to do.＠048830#00","[0082]Былое быльём поросло. На войне нет места чувствам... 
+Существует лишь исполнение приказов!＠048830#00"
 12674,MAP,"[1040]Do you truly intend to forfeit your life for House
-Rowe? There's still time to change your mind.＠048831#04",
+Rowe? There's still time to change your mind.＠048831#04","[1040]Ты правда собираешься погибнуть вместе с домом
+Роу? Подумай ещё раз, пока есть время.＠048831#04"
 12674,MAP,"[0014]I finally understand Lonato. He knew the price of
-standing for his beliefs...and he paid it gladly.＠048832#00",
-12674,MAP,[0014]I will do the same!＠048833#02,
+standing for his beliefs...and he paid it gladly.＠048832#00","[0014]Я не отступлю. Я верю, что лорд Лонато поступил
+бы именно так.＠048832#00"
+12674,MAP,[0014]I will do the same!＠048833#02,"[0014]Даже если больше у меня нет будущего... я не хочу
+предавать свои убеждения!＠048833#02"
 12674,MAP,"[1040]I like you—don't be an idiot. Or maybe I'll just have
-to smack some sense into you.＠048834#02",
+to smack some sense into you.＠048834#02","[1040]Какие ещё убеждения, дурачина? Я остановлю тебя,
+даже если придётся действовать силой!＠048834#02"
 12675,MAP,"[0019]It's been a while, Professor. If this were anywhere
-but a battlefield, I would offer you tea.＠034748#01",
+but a battlefield, I would offer you tea.＠034748#01","[0019]Давно не виделись, учитель. Не будь мы на поле
+брани, я бы угостил вас чаем.＠034748#01"
 12675,MAP,"[0019]I've no choice but to follow the Empire, if I wish
-to live. I hope you will not think ill of me.＠034749#02",
+to live. I hope you will not think ill of me.＠034749#02","[0019]У моего дома нет иного способа выжить, 
+кроме как примкнуть к Империи. Не надо
+думать о нас дурно.＠034749#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0006]Edelgard has always been obsessed with you. I am a
-little envious, to be frank.＠034750#03",
+little envious, to be frank.＠034750#03","[0006]Эдельгард всегда чрезмерно пеклась о вас. Честно
+говоря... я сильно вам завидую, учитель.＠034750#03"
 12675,MAP,"[0006]I will just have to impress her with my skills on
-the battlefield!＠034751#02",
+the battlefield!＠034751#02","[0006]Так пусть теперь я буду хвалиться ей, что превратил
+вас в ржавчину на своём копье!＠034751#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0081]To repay Her Majesty's favor...
-I will not let you pass!＠034752#02",
+I will not let you pass!＠034752#02","[0081]Чтобы воздать добром Её Величеству,
+я ни за что не дам вам пройти!＠034752#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0083]The declining Alliance will be finished if I kill you.
-The Empire will herald the new age!＠034753#01",
+The Empire will herald the new age!＠034753#01","[0083]Если я тебя убью, придёт конец и так упадочному 
+Альянсу! Настанет эпоха Империи!＠034753#01"
 12675,MAP,"[0004]Only if you manage to kill me. Hm? What's that to
-the north?＠034754#00",
+the north?＠034754#00","[0004]Если убьёшь. К тому же... о, что это там, 
+на севере?＠034754#00"
 12675,MAP,"[0004]Looks like the home of another opportunistic
-noble is burning...＠034755#01",
-12675,MAP,[0083]That's...that's my castle! NO!＠034756#04,
+noble is burning...＠034755#01","[0004]По-моему, там горит дом какого-то благородного
+оппортуниста...＠034755#01"
+12675,MAP,[0083]That's...that's my castle! NO!＠034756#04,[0083]Дым... в той стороне... Э-это же мой особня-я-як!＠034756#04
 12675,MAP,"[0004]That's the declining Alliance at work, right there.
 Seems like you were facing the wrong way,
-Weathervane!＠034757#02",
+Weathervane!＠034757#02","[0004]Это находятся в движении войска «упадочного» Альянса.
+Под конец ты выбрал не то направление, Флюгер!＠034757#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0004]Aren't you gonna stand aside, Lorenz?
-Unless we win, the Alliance can't survive.＠034758#00",
+Unless we win, the Alliance can't survive.＠034758#00","[0004]Ты не отступишь, Лоренц? Если мы не победим,
+Альянсу не выстоять.＠034758#00"
 12675,MAP,"[0019]Even if that's so, to allow you past without a fight
-would be pure cowardice, I'm afraid.＠034759#02",
-12675,MAP,[0004]You are one stubborn guy.＠034760#03,
+would be pure cowardice, I'm afraid.＠034759#02","[0019]Даже если это так, я ни за что не позволю себе
+такое малодушие, как сдаваться без боя!＠034759#02"
+12675,MAP,[0004]You are one stubborn guy.＠034760#03,"[0004]Как аристократу и положено? 
+Никакой в тебе гибкости...＠034760#03"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0010]Oh, Ferdie. You opposed Edie for so long... I had
-real hopes for you, you know?＠034761#00",
+real hopes for you, you know?＠034761#00","[0010]Ох, Ферди. Ты всегда так соперничал с Эди, но вот...＠034761#00"
 12675,MAP,"[0010]Now you're following her. Is that your duty as a
-noble? Follow your master when they say to heel?＠034762#03",
+noble? Follow your master when they say to heel?＠034762#03","[0010]В итоге ты — её последователь. Это и есть
+долг аристократа?＠034762#03"
 12675,MAP,"[0006]I will not try to explain my duty or hers. You would
-not understand.＠034763#03",
-12675,MAP,"[0006]I wish you could. Anyway, no time for idle chitchat!＠034764#02",
+not understand.＠034763#03","[0006]Тебе не понять, какую ответственность несём
+мы с Эдельгард.＠034763#03"
+12675,MAP,"[0006]I wish you could. Anyway, no time for idle chitchat!＠034764#02","[0006]Я бы искренне хотел, чтобы ты поняла...
+Но больше нет смысла в разговорах!＠034764#02"
 12675,MAP,"[0006]After this battle, I will be known far and wide as the
-legendary Ferdinand of Adrestia!＠034765#02",
+legendary Ferdinand of Adrestia!＠034765#02","[0006]После этой битвы разнесётся весть о Фердинанде
+из Адрастеи!＠034765#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0083]As they say, if you can't beat them, join them.
-I'm not in for a beating, am I?＠034766#02",
+I'm not in for a beating, am I?＠034766#02","[0083]Если кого-то нельзя победить, лучше 
+к ним переметнуться... иначе долгую 
+жизнь не прожить, верно?＠034766#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0019]To oppose the Empire at a time like this would be
-entirely too reckless.＠034767#02",
+entirely too reckless.＠034767#02","[0019]Оказывать сопротивление Империи в такое
+время — это чистой воды безрассудство!＠034767#02"
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12675,MAP,"[0006]Here we are, after all these years, forced to fight
-one another. What a tragic conclusion to our story.＠048813#04",
+one another. What a tragic conclusion to our story.＠048813#04","[0006]Вновь встретиться в таких обстоятельствах —
+всё-таки судьба жестока к нам.＠048813#04"
 12675,MAP,"[1042]It seems inevitable, but I am sorry that this is where
-our chosen paths have led us.＠048814#00",
-12675,MAP,[1042]We all do what we must...＠048815#00,
+our chosen paths have led us.＠048814#00","[1042]Если вы вспомните, как мы шли по жизни, 
+то нет ничего удивительного, что наши пути 
+пересеклись именно подобным образом.＠048814#00"
+12675,MAP,[1042]We all do what we must...＠048815#00,"[1042]Отныне нам ничего не остаётся,
+кроме как делать то, что до́лжно, 
+вы согласны?＠048815#00"
 12675,MAP,"[0006]Indeed...and I must put an end to your journey.
-I am sorry, Constance.＠048816#00",
+I am sorry, Constance.＠048816#00","[0006]Согласен. Я вынужден прервать твой путь.
+Пора... к бою!＠048816#00"
 12676,MAP,[0003]Are you trying to stop me too?＠034836#00,
 12676,MAP,[0003]Then I'll just have to kill you!＠034837#02,
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -148113,7 +148168,7 @@ of you...＠034944#00","[0041]Ого, что за очаровательные �
 12694,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12694,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12694,MAP,"[0082]Does a whelp like you really expect to
-kill me?＠035560#01","[0082]Ха-ха-ха! Юнец вроде тебя думает
+kill me?＠035560#01","[0082]Ха-ха-ха! Юнец вроде тебя в самом деле думает
 меня убить?＠035560#01"
 12694,MAP,"[0082]I am Gwendal, the Gray Lion, a knight by the hand
 of Count Rowe! Do your worst!＠035561#00","[0082]Я Серый Лев Гвендаль, рыцарь графа Роу! 
@@ -148202,7 +148257,7 @@ about old times. Let's get this over with.＠048802#00","[1043]Ну, чего в
 12694,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12694,MAP,"[0082]So. You've chosen to turn your blade against the
 count. Heh. Never thought I'd see the day, mongrel.＠048827#00","[0082]Ты забыл о своей верности графу и обернул
-против него клинок. Ха-ха, каким же достойным 
+против него клинок. Ха-ха, достойным же 
 человеком ты стал, мальчик.＠048827#00"
 12694,MAP,"[1040]And yet you are seeing it, aren't you? Say what you
 will. I know your true feelings for me.＠048828#00","[1040]Вы всегда так злословили, но тем не менее,
@@ -148212,8 +148267,8 @@ But you cared too. You were the only one who
 treated me as an equal.＠048829#00","[1040]Пусть и по приказу графа, но вы — единственный,
 кто относился ко мне как к человеку.＠048829#00"
 12694,MAP,"[0082]That is all in the past. This is no time for misplaced
-sentimentality. I must do what I came here to do.＠048830#00","[0082]Былое быльём поросло. На войне нет места
-чувствам... тут существует лишь исполнение приказов!＠048830#00"
+sentimentality. I must do what I came here to do.＠048830#00","[0082]Былое быльём поросло. На войне нет места чувствам... 
+Существует лишь исполнение приказов!＠048830#00"
 12695,MAP,"[0036]I once walked this world as Seiros, the warrior...
 and defeated the Fell King Nemesis.＠035644#00","[0036]Когда-то я покончила с падшим королём
 Немезисом на этой земле в облике воина — Сейрос.＠035644#00"
