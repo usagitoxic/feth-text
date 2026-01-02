@@ -148589,56 +148589,69 @@ no choice.＠035812#00",
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,"[0052]Your sword is fit to cleave a mountain in two.
-Care to try it out against the undefeated Nader?＠035824#00",
+Care to try it out against the undefeated Nader?＠035824#00","[0052]Твоим мечом можно разрубить гору надвое —
+не желаешь попробовать его в деле против
+меня, Надира?＠035824#00"
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,"[0002]They call you undefeated... Oh, but you've already
-suffered one defeat, have you not?＠035825#00",
-12699,MAP,"[0002]And on this day, victory will again be ours!＠035826#00",
+suffered one defeat, have you not?＠035825#00","[0002]Тебя называют непобеждённым генералом...
+Но ведь ты уже потерпел одно поражение, не так ли.＠035825#00"
+12699,MAP,"[0002]And on this day, victory will again be ours!＠035826#00",[0002]И сейчас победа снова будет за нами!＠035826#00
 12699,MAP,"[0052]""The Once Defeated"" isn't quite as exciting, is it?
 I'll just have to claim this victory here to wipe away
-the shame of defeat!＠035827#00",
+the shame of defeat!＠035827#00","[0052]«Единожды побеждённый» уже не так хорошо звучит. 
+Но победой здесь я сотру своё поражение!＠035827#00"
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,"[0052]I must commend you for your courage, seeing as how
-you dare to stand against me!＠035828#00",
+you dare to stand against me!＠035828#00","[0052]Ха-ха, отдам должное вашей отваге, раз осмелились
+бросить мне вызов!＠035828#00"
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12699,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12700,MAP,[0215]I smell those detestable 10 Elites... Who are you?＠035854#00,
+12700,MAP,[0215]I smell those detestable 10 Elites... Who are you?＠035854#00,[0215]Вонь проклятых «десяти Героев»... Ты кто?＠035854#00
 12700,MAP,"[0004]I'm the grandson of the grandson of the grandson of
-the elite Riegan. Now tell me who you are!＠035855#00",
+the elite Riegan. Now tell me who you are!＠035855#00","[0004]Я внук внука внука героя Ригана.
+А ты-то сам кто?＠035855#00"
 12700,MAP,"[0215]I am your family's enemy. If you carry the blood of
-the 10 Elites, you cannot be permitted to live.＠035856#00",
+the 10 Elites, you cannot be permitted to live.＠035856#00","[0215]Я ваш враг. Если в тебе течёт кровь «десяти Героев»,
+нельзя сохранять тебе жизнь.＠035856#00"
 12700,MAP,"[0004]What do you mean by that? And what's that Crest
-on your forehead?＠035857#00",
+on your forehead?＠035857#00",[0004]В смысле «враг»? И что это за Герб у тебя на лбу?＠035857#00
 12700,MAP,"[0215]No more talk. If you wish to survive, you must
-destroy me!＠035858#00",
+destroy me!＠035858#00","[0215]Разговор окончен. Сокруши меня, если хочешь жить!＠035858#00"
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12700,MAP,"[0215]Hmmm... Those who stand before me... How long
-has it been? Hundreds of years? Thousands?＠035859#00",
+has it been? Hundreds of years? Thousands?＠035859#00","[0215]О-о... сколько сотен... нет, тысяч лет я не видел
+моих собратьев?＠035859#00"
 12700,MAP,"[0215]You have the stink of Sothis upon you... Let us find
-out whether you share her power.＠035860#00",
+out whether you share her power.＠035860#00","[0215]В тебе сильно́ присутствие Сотис, не так ли...
+Покажи мне, насколько могущественна эта сила.＠035860#00"
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12700,MAP,[0215]Are these your companions?＠035861#00,
+12700,MAP,[0215]Are these your companions?＠035861#00,[0215]Эти люди с тобой?＠035861#00
 12700,MAP,"[0026]They are indeed. I should tell you that Seiros is in
-a precarious state right now.＠035862#00",
+a precarious state right now.＠035862#00","[0026]Верно. Сейчас мы сражаемся на одной стороне.
+Сейрос находится под угрозой.＠035862#00"
 12700,MAP,"[0215]I will not assist you. I have lived apart from the
 world of man, which disgusts me so. This war
-disgusts me also.＠035863#00",
-12700,MAP,[0026]I thought you might say as much. That is regrettable.＠035864#00,
+disgusts me also.＠035863#00","[0215]Помощи не жди. Я удалился от мира людей,
+разочаровавшись в них. Теперь уже сама
+мысль о войне мне отвратительна.＠035863#00"
+12700,MAP,[0026]I thought you might say as much. That is regrettable.＠035864#00,"[0026]Я ожидал, что ты так и ответишь. Очень жаль...
+но ничего не поделать.＠035864#00"
 12700,MAP,"[0215]Ah, that face takes me back in time... You have not
-changed one bit, Ceth—＠035865#00",
-12700,MAP,"[0027]I ask that you keep quiet, Uncle!＠035866#02",
-12700,MAP,"[0215]Why the rush, Ceth—＠035867#00",
-12700,MAP,"[0027]Shh! Please keep quiet, Uncle!＠035868#02",
+changed one bit, Ceth—＠035865#00","[0215]О-о, знакомое личико. Ты ничуть не изменилась, Кете...＠035865#00"
+12700,MAP,"[0027]I ask that you keep quiet, Uncle!＠035866#02","[0027]Тс-с! Дядюшка, тише, пожалуйста!＠035866#02"
+12700,MAP,"[0215]Why the rush, Ceth—＠035867#00","[0215]Отчего ты нервничаешь, Кетеле...＠035867#00"
+12700,MAP,"[0027]Shh! Please keep quiet, Uncle!＠035868#02","[0027]Тс-с! Да тише же, дядюшка, пожалуйста!＠035868#02"
 12700,MAP,"[0215]You have had your fun. If you are going to flee,
-now is your chance.＠035869#00",
+now is your chance.＠035869#00",[0215]Напрасно вы явились сюда. Вам самое время бежать.＠035869#00
 12700,MAP,"[0215]If you are not going to flee... I shall take your life
-as payment!＠035870#00",
+as payment!＠035870#00",[0215]Если не убежите... то поплатитесь за это жизнью!＠035870#00
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12700,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12701,MAP,[0202]Graaaargh!＠035901#00,[0202]Грррааа! Аа! Аа!＠035901#00
@@ -148690,39 +148703,55 @@ are dead and buried!＠035951#00","[0137]Пока вы все не сгинет�
 12702,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12703,MAP,"[0050]So, it's you! From the Officers Academy.
 Thank you for taking such good care
-of my son.＠035972#04",
+of my son.＠035972#04","[0050]Ох, вы из академии!.. Благодарю вас за
+заботу о моём сыне.＠035972#04"
 12703,MAP,"[0050]It pains me to trouble you, but I humbly request
 your assistance in helping to secure the villagers'
-safe escape!＠035973#00",
+safe escape!＠035973#00","[0050]Мне неудобно доставлять вам беспокойство,
+но прошу вас оказать помощь в содействии тому, 
+чтобы жители деревни благополучно спаслись!＠035973#00"
 12703,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12703,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12703,MAP,[0013]Pathetic. Struggling to defeat some ragtag bandits.＠035974#00,
+12703,MAP,[0013]Pathetic. Struggling to defeat some ragtag bandits.＠035974#00,"[0013]Тебя вовсю одолевают какие-то бандиты.
+Пф, позорище.＠035974#00"
 12703,MAP,"[0050]Felix... You may know this already, but no
-matter how many you kill, more always appear.＠035975#00",
+matter how many you kill, more always appear.＠035975#00","[0050]Феликс... ты уже должен знать, что сколько
+ни дави бандитов, их всё больше и больше.＠035975#00"
 12703,MAP,"[0050]Anywhere in the Kingdom these days you can see
 the same kind of scenes. His Majesty, the late king,
-would despair to see it.＠035976#00",
+would despair to see it.＠035976#00","[0050]Подобное творится во всём Королевстве.
+Его Величество, покойный король, горько бы
+сожалел об этом.＠035976#00"
 12703,MAP,"[0013]A dead man doesn't despair. Besides, let's focus on
-the living.＠035977#00",
+the living.＠035977#00","[0013]Ох... Мёртвые не сожалеют. Сейчас давай поможем
+живым жителям деревни.＠035977#00"
 12703,MAP,"[0050]Oh, Prince Dimitri is here to help! I am humbled,
-Your Highness, and so sorry to trouble you.＠035978#00",
+Your Highness, and so sorry to trouble you.＠035978#00","[0050]Ваше Высочество, вы прибыли нам на помощь!
+Прощу прощения за беспокойство.＠035978#00"
 12703,MAP,"[0003]No, it is fine. As a man of royal birth, this is the
-obvious course.＠035979#00",
+obvious course.＠035979#00","[0003]Не извиняйся. Это моя обязанность как особы
+королевской крови.＠035979#00"
 12703,MAP,"[0003]However, it does not exactly seem like they are
-remnants of Miklan's faction.＠035980#00",
-12703,MAP,"[0050]Indeed. Nothing but common bandits, and yet...＠035981#00",
-12703,MAP,[0050]Ruffians like that have recently surged in number.＠035982#00,
+remnants of Miklan's faction.＠035980#00","[0003]Но не похоже, чтобы мы имели дело с остатками
+банды Миклана.＠035980#00"
+12703,MAP,"[0050]Indeed. Nothing but common bandits, and yet...＠035981#00","[0050]Да. Это всего лишь обычные бандиты, но...＠035981#00"
+12703,MAP,[0050]Ruffians like that have recently surged in number.＠035982#00,"[0050]В последнее время число подобных разбойников
+значительно увеличилось.＠035982#00"
 12703,MAP,"[0003]I am aware. For now, let us focus on saving
-the villagers.＠035983#00",
+the villagers.＠035983#00","[0003]Мне это известно. Давай пока что сосредоточимся
+на помощи жителям деревни.＠035983#00"
 12703,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12703,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12704,MAP,[0014]Lonato's blood is on your hands...＠036008#02,
+12704,MAP,[0014]Lonato's blood is on your hands...＠036008#02,[0014]Если бы не вы... Лорд Лонато был бы до сих пор жив!..＠036008#02
 12704,MAP,"[0470]Were you Lord Lonato's page or something?
-Indeed, he was a devout believer.＠036009#00",
+Indeed, he was a devout believer.＠036009#00","[0470]Ты что, паж лорда Лонато? Да, он был
+по-настоящему набожным верующим...＠036009#00"
 12704,MAP,"[0470]All we did was provide Lord Lonato salvation
-from his misery!＠036010#00",
-12704,MAP,[0014]Salvation?! You used him and threw him away!＠036011#02,
-12704,MAP,[0470]Apostates will suffer the punishment of the goddess!＠036012#00,
+from his misery!＠036010#00","[0470]Мы лишь даровали спасение лорду Лонато,
+когда он был охвачен отчаянием!＠036010#00"
+12704,MAP,[0014]Salvation?! You used him and threw him away!＠036011#02,"[0014]Спасение?.. Да вы всего лишь использовали
+лорда Лонато!＠036011#02"
+12704,MAP,[0470]Apostates will suffer the punishment of the goddess!＠036012#00,[0470]Пусть отступников... судит Богиня!＠036012#00
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
