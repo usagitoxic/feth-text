@@ -146447,7 +146447,7 @@ on me?＠034199#03","[0016]Ох-ох, как страшно. Пожалуйст�
 12663,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12663,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12663,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12664,MAP,"[0045]Why have you come, you Crest-bearing fool?＠034229#02","[0045]Чего припёрся, «девочка» с Гербом?＠034229#02"
+12664,MAP,"[0045]Why have you come, you Crest-bearing fool?＠034229#02","[0045]Чего припёрся, «дамочка» с Гербом?＠034229#02"
 12664,MAP,"[0015]I'm here for the Lance of Ruin, Miklan. Hand it over.
 I don't want to humiliate you, but I will.＠034230#00","[0015]Я пришёл за Копьём Раскола. Представь только, как 
 мне «приятно» убирать за тем, что ты наворотил.＠034230#00"
@@ -148756,20 +148756,25 @@ from his misery!＠036010#00","[0470]Мы лишь даровали спасен
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,"[0473]Hey, I know that face. You're the boss's little
-bro, right?＠036035#00",
+bro, right?＠036035#00","[0473]Лицо твоё... неужели ты — младший брат 
+нашего главаря?!＠036035#00"
 12705,MAP,"[0015]I'm sorry to say it, but yeah, I'm his brother. And he's
-led you into a bad spot.＠036036#00",
+led you into a bad spot.＠036036#00","[0015]Мой брат втянул вас в неприятности. И вам,
+похоже, пришлось несладко.＠036036#00"
 12705,MAP,"[0015]Anyway, your boss is dead. So this is your chance to 
-disband this little thief gang of yours.＠036037#00",
+disband this little thief gang of yours.＠036037#00","[0015]Ну... раз ваш глава мёртв, почему бы вам
+не распустить поскорее свою банду?＠036037#00"
 12705,MAP,"[0473]Quiet, fool! You think I have any other choice but
-to be a thief?＠036038#00",
+to be a thief?＠036038#00","[0473]Зубы мне не заговаривай, «дамочка»! В бандиты
+идут не от хорошей жизни!＠036038#00"
 12705,MAP,"[0015]Well, it's probably on me for making such a
-stupid request.＠036039#00",
+stupid request.＠036039#00","[0015]Ох, ну да... Извиняйте за дурацкое предложение.＠036039#00"
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,"[0473]Gah... I'm not sticking round here to get slaughtered
-by a bunch of stuck up jerks like you!＠036040#00",
+by a bunch of stuck up jerks like you!＠036040#00","[0473]Не... я не собираюсь подыхать из-за таких
+заносчивых наглецов, как вы!＠036040#00"
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
