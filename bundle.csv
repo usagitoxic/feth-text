@@ -146447,7 +146447,7 @@ on me?＠034199#03","[0016]Ох-ох, как страшно. Пожалуйст�
 12663,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12663,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12663,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12664,MAP,"[0045]Why have you come, you Crest-bearing fool?＠034229#02","[0045]Чего припёрся, «девочка» с Гербом?＠034229#02"
+12664,MAP,"[0045]Why have you come, you Crest-bearing fool?＠034229#02","[0045]Чего припёрся, «дамочка» с Гербом?＠034229#02"
 12664,MAP,"[0015]I'm here for the Lance of Ruin, Miklan. Hand it over.
 I don't want to humiliate you, but I will.＠034230#00","[0015]Я пришёл за Копьём Раскола. Представь только, как 
 мне «приятно» убирать за тем, что ты наворотил.＠034230#00"
@@ -147779,26 +147779,29 @@ truth now, Shamir...＠035126#00",
 12686,MAP,[0011]I am...the will of the emperor!＠035127#02,
 12686,MAP,"[0033]In that case, I won't hold back.＠035128#02",
 12687,MAP,"[0026]I will inherit the pride of Nabatea. Rest in peace
-by Sothis's side!＠035230#03",
+by Sothis's side!＠035230#03","[0026]Я унаследую гордость Набатеи. Покойно возвращайся
+к Сотис!＠035230#03"
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,"[0027]Rhea... How tragic. But there is no time to waste.
-She must be stopped!＠035231#03",
+She must be stopped!＠035231#03","[0027]Бедная леди Рея. Но времени нет — нужно 
+остановить её!＠035231#03"
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,"[0034]This is me, paying ya back. No matter what, I'll stop 
-Lady Rhea!＠035232#03",
+Lady Rhea!＠035232#03","[0034]Вот она — моя благодарность. Что бы ни случилось,
+я остановлю леди Рею!＠035232#03"
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,"[0032]Lady Rhea... With my sword, I will put an end to
-your suffering.＠035233#03",
+your suffering.＠035233#03",[0032]Леди Рея... я избавлю вас от страданий своим мечом.＠035233#03
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12687,MAP,[0214]Graaaaargh!＠035234#00,
+12687,MAP,[0214]Graaaaargh!＠035234#00,[0214]Грааааа!＠035234#00
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12687,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -148756,20 +148759,25 @@ from his misery!＠036010#00","[0470]Мы лишь даровали спасен
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12704,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,"[0473]Hey, I know that face. You're the boss's little
-bro, right?＠036035#00",
+bro, right?＠036035#00","[0473]Лицо твоё... неужели ты — младший брат 
+нашего главаря?!＠036035#00"
 12705,MAP,"[0015]I'm sorry to say it, but yeah, I'm his brother. And he's
-led you into a bad spot.＠036036#00",
+led you into a bad spot.＠036036#00","[0015]Мой брат втянул вас в неприятности. И вам,
+похоже, пришлось несладко.＠036036#00"
 12705,MAP,"[0015]Anyway, your boss is dead. So this is your chance to 
-disband this little thief gang of yours.＠036037#00",
+disband this little thief gang of yours.＠036037#00","[0015]Ну... раз ваш глава мёртв, почему бы вам
+не распустить поскорее свою банду?＠036037#00"
 12705,MAP,"[0473]Quiet, fool! You think I have any other choice but
-to be a thief?＠036038#00",
+to be a thief?＠036038#00","[0473]Зубы мне не заговаривай, «дамочка»! В бандиты
+идут не от хорошей жизни!＠036038#00"
 12705,MAP,"[0015]Well, it's probably on me for making such a
-stupid request.＠036039#00",
+stupid request.＠036039#00","[0015]Ох, ну да... Извиняйте за дурацкое предложение.＠036039#00"
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,"[0473]Gah... I'm not sticking round here to get slaughtered
-by a bunch of stuck up jerks like you!＠036040#00",
+by a bunch of stuck up jerks like you!＠036040#00","[0473]Не... я не собираюсь подыхать из-за таких
+заносчивых наглецов, как вы!＠036040#00"
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
