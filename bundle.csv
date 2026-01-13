@@ -148548,46 +148548,56 @@ all apart. Haven't you had enough?!＠035739#03","[0014]Вам мало?! Вы �
 12697,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12697,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12697,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12698,MAP,"[0005]First Gronder Field, and now here.＠035800#00",
-12698,MAP,[0005]You certainly have a talent for getting in our way.＠035801#00,
+12698,MAP,"[0005]First Gronder Field, and now here.＠035800#00","[0005]Сперва на поле Грондер, теперь здесь.＠035800#00"
+12698,MAP,[0005]You certainly have a talent for getting in our way.＠035801#00,[0005]Ну и ну... у вас талант — мешать нам.＠035801#00
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12698,MAP,"[0028]In the end, I may not have gleaned your secret.＠035802#00",
+12698,MAP,"[0028]In the end, I may not have gleaned your secret.＠035802#00","[0028]В конечном итоге я так и не смог раскрыть завесу
+ваших тайн.＠035802#00"
 12698,MAP,"[0028]Yet, even if I die, someone will follow my work, and
-another after that. Such is the way of scholarship.＠035803#00",
+another after that. Such is the way of scholarship.＠035803#00","[0028]Но... такова природа науки. Даже если я умру, 
+мой труд продолжат и следующие исследователи,
+и те, кто придёт после них...＠035803#00"
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12698,MAP,"[0029]Oh dear, Professor. Fate can be so cruel.＠035804#00",
+12698,MAP,"[0029]Oh dear, Professor. Fate can be so cruel.＠035804#00","[0029]Ох-ох, коллега. Как же судьба жестока.＠035804#00"
 12698,MAP,"[0029]Spilling the blood of your students with your own
-hands... How can you carry on after that?＠035805#00",
+hands... How can you carry on after that?＠035805#00","[0029]Вы убивали собственных студентов своими руками?
+Как продолжать сражаться после такого?＠035805#00"
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,"[0029]You've grown into a fine, handsome man, Dimitri.
-Bit of a shame you've also become a violent beast.＠035806#00",
-12698,MAP,[0029]Men like you make the Silver Maiden cry.＠035807#00,
-12698,MAP,"[0003]Oh? I suppose it is a shame, Professor Manuela.＠035808#00",
+Bit of a shame you've also become a violent beast.＠035806#00","[0029]Ох, в какого же ты красавца вырос. Даже... немного жаль.＠035806#00"
+12698,MAP,[0029]Men like you make the Silver Maiden cry.＠035807#00,"[0029]Я не люблю грубых мужчин. 
+Вот и Серебряная Дева плачет.＠035807#00"
+12698,MAP,"[0003]Oh? I suppose it is a shame, Professor Manuela.＠035808#00","[0003]Понимаю. Очень жаль, учитель Мануэла.＠035808#00"
 12698,MAP,"[0003]Perhaps I should have appeared before you holding
 a bouquet of flowers, rather than the weapon that
-will end your life.＠035809#00",
+will end your life.＠035809#00","[0003]Возможно, следовало показаться перед вами
+с букетом цветов вместо оружия, которым я
+оборву вашу жизнь.＠035809#00"
 12698,MAP,"[0005]Arianrhod is a crucial asset to the Empire. You will
-not pry it from our grasp.＠035810#00",
+not pry it from our grasp.＠035810#00","[0005]Арианрод — важная позиция для Империи.
+Вам не отнять её у нас.＠035810#00"
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,"[0010]Manuela? It's not like you to show up anywhere
-sober. What's the occasion?＠035121#00",
+sober. What's the occasion?＠035121#00","[0010]Прима Мануэла? Вы собираетесь наставлять
+младшую коллегу, которая сбилась с пути?＠035121#00"
 12698,MAP,"[0029]I thought maybe we could talk. I could help you see
-the error of your ways. ＠035122#00",
+the error of your ways. ＠035122#00","[0029]Как знать — возможно, это я сбилась с пути. Так что...＠035122#00"
 12698,MAP,"[0029]Or we could just try to kill each other over what
-we believe in. You ready to do this? ＠035123#00",
-12698,MAP,[0010]No... But let's get to it.＠035124#00,
+we believe in. You ready to do this? ＠035123#00","[0029]Сразимся за то, во что каждая верит?＠035123#00"
+12698,MAP,[0010]No... But let's get to it.＠035124#00,"[0010]Да. Приступим, примадонна.＠035124#00"
 12698,MAP,"[0028]For the sake of Edelgard, I shall take the liberty
-of helping.＠035811#00",
+of helping.＠035811#00",[0028]Придётся немного потрудиться и ради Эдельгард.＠035811#00
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,"[0029]I hate to have to kill someone I know...but I have
-no choice.＠035812#00",
+no choice.＠035812#00","[0029]Мне невыносимо убивать тех, кого я знаю...
+Но нельзя жаловаться — и без того тошно.＠035812#00"
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12698,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
