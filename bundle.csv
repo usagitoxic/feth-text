@@ -148796,38 +148796,44 @@ by a bunch of stuck up jerks like you!＠036040#00","[0473]Не... я не со�
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12705,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,"[0008]The Infamous Death Knight! Champion of the
-Empire! Taking you down is gonna be satisfying.＠036068#00",
-12706,MAP,[0042]Heh. Simpleton...＠036069#00,
+Empire! Taking you down is gonna be satisfying.＠036068#00","[0008]Знаменитый и могучий Рыцарь Смерти из Империи!
+Победив тебя, я точно стану сильнее!＠036068#00"
+12706,MAP,[0042]Heh. Simpleton...＠036069#00,[0042]Ха. Простак...＠036069#00
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,"[0016]You try to hide yourself with that mask and helmet...
-But I know who you really are.＠036070#00",
-12706,MAP,[0042]I...have nothing to say to you...＠036071#00,
+But I know who you really are.＠036070#00",[0016]Даже под шлемом и за маской я... узнаю тебя.＠036070#00
+12706,MAP,[0042]I...have nothing to say to you...＠036071#00,[0042]Мне... не о чем с тобой говорить.＠036071#00
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,"[0042]Fate is unkind. There will be no resolution today...
-Flee, and I will not give chase.＠036072#00",
+Flee, and I will not give chase.＠036072#00","[0042]Как скверно обернулась судьба. Сегодня ничего
+не решится. Ступай себе.＠036072#00"
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,"[0042]I told you that if you fled, I would not chase you.
-But it seems you wish to die...＠036073#00",
+But it seems you wish to die...＠036073#00","[0042]Я говорил, что не буду преследовать отступающих.
+Но вы, видно, хотите умереть...＠036073#00"
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12706,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12707,MAP,"[0154]I have no wish to enact violence on you, Annette.
-Listen to me and do as I say.＠036108#00",
+Listen to me and do as I say.＠036108#00","[0154]Я не желаю причинять тебе вред. Просто
+послушайся меня, Аннетт.＠036108#00"
 12707,MAP,"[0017]I will not listen! I can't and I won't! There is
-somewhere I must return to!＠036109#02",
+somewhere I must return to!＠036109#02",[0017]Не буду! Я обязана вернуться!＠036109#02
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12707,MAP,"[0030]My brother, I beg you...the Relic!＠036110#02",
+12707,MAP,"[0030]My brother, I beg you...the Relic!＠036110#02","[0030]Брат мой, умоляю тебя... Реликвию!＠036110#02"
 12707,MAP,"[0154]I do not wish to repeat myself! If you want it that
-badly, slay me and claim it for your own!＠036111#00",
+badly, slay me and claim it for your own!＠036111#00","[0154]Надоел! Если она так тебе нужна, убей меня
+и забери её силой!＠036111#00"
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12707,MAP,"[0154]I have my own reason for not giving up. And the less
-I speak of it, the better...＠036112#00",
+I speak of it, the better...＠036112#00","[0154]Я также стою на своём не без причины. И чем меньше
+я о ней говорю, тем лучше.＠036112#00"
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12707,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -148863,17 +148869,18 @@ I speak of it, the better...＠036112#00",
 12709,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12709,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12709,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12710,MAP,"[0486]Hyaah! Go on, boys! Riot to your hearts' content!＠036177#00",
+12710,MAP,"[0486]Hyaah! Go on, boys! Riot to your hearts' content!＠036177#00",[0486]Вперёд! Разносим всё вокруг!＠036177#00
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,"[0488]Hahaha! If we cause enough chaos, we can do
-whatever we want!＠036178#00",
+whatever we want!＠036178#00","[0488]Ха-ха-ха-ха! Поднимем бунт — сможем творить
+всё, что душе угодно!＠036178#00"
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,"[0489]What do you want?! You'd better not stand in
-our way!＠036179#00",
+our way!＠036179#00",[0489]Чё надо?! Не мешайтесь!＠036179#00
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12710,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
