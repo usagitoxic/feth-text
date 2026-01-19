@@ -147498,49 +147498,62 @@ or whatever, I could hardly believe it.＠048801#04","[1043]Так это ты, 
 about old times. Let's get this over with.＠048802#00","[1043]Ну, чего вспоминать былое. Драться давай.＠048802#00"
 12680,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12680,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12681,MAP,"[0004]It's over, lapdog. Your military rule is at its end.＠035004#00",
+12681,MAP,"[0004]It's over, lapdog. Your military rule is at its end.＠035004#00","[0004]Тебе больше некуда отступать, правая рука Императора.
+Я перехожу дорогу вашей военной гегемонии.＠035004#00"
 12681,MAP,"[0005]For every step you take along that path, our thorns
-will cut into your heels.＠035005#00",
+will cut into your heels.＠035005#00","[0005]Я не намерен уступать эту дорогу, но рассыплю по ней
+шипы на тот случай, если вы по ней пойдёте.＠035005#00"
 12681,MAP,"[0004]Ooh, that sounds painful. I'll have to wear thicker
-soles for the march.＠035006#01",
+soles for the march.＠035006#01","[0004]Это будет больно. Придётся надеть обувь с подошвами
+поплотнее перед походом.＠035006#01"
 12681,MAP,"[0005]If your boots are too heavy, you won't be able to lift
-your feet. But enough prattle.＠035007#02",
-12681,MAP,[0005]I should have disposed of you a long time ago.＠035008#03,
-12681,MAP,[0005]I will rectify that failure here!＠035009#02,
+your feet. But enough prattle.＠035007#02","[0005]Надеюсь, не настолько плотными, что вы споткнётесь.
+Но довольно болтовни.＠035007#02"
+12681,MAP,[0005]I should have disposed of you a long time ago.＠035008#03,"[0005]Вы... я так и знал, что от вас-то и нужно было
+сразу избавиться.＠035008#03"
+12681,MAP,[0005]I will rectify that failure here!＠035009#02,"[0005]Это самое большое пятно на моей биографии...
+Позвольте хотя бы здесь его стереть!＠035009#02"
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12681,MAP,[0042]I've been waiting for you...＠035010#00,
+12681,MAP,[0042]I've been waiting for you...＠035010#00,[0042]Я ждал тебя.＠035010#00
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,"[0005]Running into you in the capital like this—I have to
-say, it's almost sentimental.＠035011#00",
-12681,MAP,[0006]Hubert. She must leave.＠035012#02,
-12681,MAP,[0005]You really think you can make her?＠035013#02,
-12681,MAP,[0006]It does not matter what I think. Those are my orders.＠035014#02,
-12681,MAP,[0016]I came here to get you. Let's return together...Emile.＠035015#03,
-12681,MAP,[0042]Leave... The place of your death is not here...＠035016#00,
+say, it's almost sentimental.＠035011#00","[0005]Удивительное чувство — вот так вот перехватить
+тебя в столице.＠035011#00"
+12681,MAP,[0006]Hubert. She must leave.＠035012#02,"[0006]Хьюберт. Прости, но ей пора на выход.＠035012#02"
+12681,MAP,[0005]You really think you can make her?＠035013#02,[0005]А ты сможешь её убедить?＠035013#02
+12681,MAP,[0006]It does not matter what I think. Those are my orders.＠035014#02,"[0006]Неважно, что я могу или нет. Я покажу тебе, что на 
+попытку сделать это я брошу даже свою жизнь.＠035014#02"
+12681,MAP,[0016]I came here to get you. Let's return together...Emile.＠035015#03,"[0016]Наконец-то я смогла приехать, чтобы забрать тебя.
+Давай вместе вернёмся домой... Эмиль.＠035015#03"
+12681,MAP,[0042]Leave... The place of your death is not here...＠035016#00,[0042]Не беспокойся. Ты не должна здесь умирать.＠035016#00
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,"[0005]It's almost a shame to kill you. Not even death will
-make you consequential.＠035017#01",
+make you consequential.＠035017#01","[0005]Ха-ха-ха... как жаль, что ваша смерть никак
+не изменит ход битвы.＠035017#01"
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12681,MAP,[0042]I have no need of you...＠035018#00,
+12681,MAP,[0042]I have no need of you...＠035018#00,[0042]Ты мне без надобности.＠035018#00
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12681,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12682,MAP,"[0054]Nothing bites so hard as a cornered rat, eh?＠035047#00",
+12682,MAP,"[0054]Nothing bites so hard as a cornered rat, eh?＠035047#00","[0054]Никто не кусается сильнее отчаявшейся крысы, да?＠035047#00"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12682,MAP,"[0003]You're OK... Can you still fight, Claude?＠035048#01",
+12682,MAP,"[0003]You're OK... Can you still fight, Claude?＠035048#01","[0003]Ты цел? Ещё можешь сражаться, Клод?＠035048#01"
 12682,MAP,"[0004]You barely snatch me from the jaws of death, and
 now you're recruiting me! You sure know how to
-inspire loyalty, Your Majesty.＠035049#01",
+inspire loyalty, Your Majesty.＠035049#01","[0004]Ха-ха, ты хочешь, чтобы я сражался после того,
+как едва избежал смерти? А король-то не щадит 
+своих подданных.＠035049#01"
 12682,MAP,"[0004]Sadly, I'm not free to move here, for many reasons.
-You'll have to repel the Empire without me...＠035050#02",
+You'll have to repel the Empire without me...＠035050#02","[0004]Но я не могу передвигаться по ряду причин.
+Я рассчитываю на то, что вы дадите отпор Империи.＠035050#02"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,"[0004]Professor, if you had chosen me instead of Dimitri...＠035051#03",
 12682,MAP,"[0004]No. I shouldn't dwell on it. I'm grateful you came.
