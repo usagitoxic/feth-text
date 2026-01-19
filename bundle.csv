@@ -143147,8 +143147,8 @@ To our victory!＠034835#02","[0004]Мы сделали это, учитель. 
 old Claude.＠035450#02","[0024]Я не буду сдерживаться. Я не могу подвести моего
 дорогого Клода.＠035450#02"
 12472,MAP,"[0018]We all choose our paths and I've chosen mine. I fight
-for my lord, to the death!＠034865#02","[0018]Мы все выбираем свой путь, и я выбрала свой.
-Я буду сражаться за своего лидера до самой смерти!＠034865#02"
+for my lord, to the death!＠034865#02","[0018]Что бы ни случилось, я буду сражаться за веру
+в своего господина!＠034865#02"
 12475,MAP,"[0426]General, reinforcements have arrived from
 the capital.＠034868#00","[0426]Генерал, из столицы прибыло подкрепление.＠034868#00"
 12475,MAP,"[0426]They clashed with Alliance forces in the outskirts
@@ -144406,10 +144406,10 @@ Everyone, this is our last push. Our goal is
 within reach!＠035557#01","[0002]До объединения Фодлана осталось совсем 
 немного... Поднажмём же, друзья!＠035557#01"
 12490,MAP,[0041]Gah! So this is as far as I could get...＠034929#03,[0041]Ух... Вот и мой предел?..＠034929#03
-12490,MAP,[0013]Want to die? Step forward. I'll take you all.＠034867#02,"[0013]Хочешь умереть — выходи вперёд. 
+12490,MAP,[0013]Want to die? Step forward. I'll take you all.＠034867#02,"[0013]Хотите умереть — выходите вперёд. 
 Я вас всех перережу.＠034867#02"
 12490,MAP,"[0018]We all choose our paths and I've chosen mine. I fight
-for my lord, to the death!＠034865#02","[0018]Неважно, что впереди, я буду сражаться за веру
+for my lord, to the death!＠034865#02","[0018]Что бы ни случилось, я буду сражаться за веру
 в своего господина!＠034865#02"
 12490,MAP,"[0082]You little ones fight decently. But can you deflect
 my lance?＠034676#02","[0082]Вы, детишки, неплохо сражаетесь. Но уйдёте
@@ -147174,192 +147174,231 @@ our chosen paths have led us.＠048814#00","[1042]Если вы вспомнит
 12675,MAP,"[0006]Indeed...and I must put an end to your journey.
 I am sorry, Constance.＠048816#00","[0006]Согласен. Я вынужден прервать твой путь.
 Пора... к бою!＠048816#00"
-12676,MAP,[0003]Are you trying to stop me too?＠034836#00,
-12676,MAP,[0003]Then I'll just have to kill you!＠034837#02,
+12676,MAP,[0003]Are you trying to stop me too?＠034836#00,[0003]Вот как. Вы тоже пытаетесь мне помешать?＠034836#00
+12676,MAP,[0003]Then I'll just have to kill you!＠034837#02,[0003]Тогда... придётся вас убить!＠034837#02
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0004]So, you're actually alive, Teach! It's a shame you
-aren't on our side.＠034838#01",
+aren't on our side.＠034838#01","[0004]Учитель, так вы и правда живы! Жаль, что вы
+не на нашей стороне.＠034838#01"
 12676,MAP,"[0004]Anyway, isn't the Empire your enemy?
-Us fighting seems like a waste...＠034839#03",
+Us fighting seems like a waste...＠034839#03","[0004]К тому же, разве ваш противник — не Империя?
+Но, думаю, в такой резне иначе никак.＠034839#03"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0002]I knew when next we met one of our paths would
-have to come to an end.＠034840#03",
-12676,MAP,"[0002]Your journey ends here, Professor. Forever...＠034841#02",
+have to come to an end.＠034840#03","[0002]Я знала, что когда наши дороги пересекутся в
+следующий раз, одна из них прервётся.＠034840#03"
+12676,MAP,"[0002]Your journey ends here, Professor. Forever...＠034841#02","[0002]Ваш путь окончится здесь, учитель. Навечно...＠034841#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0004]Calm down, Dimitri! What does it achieve,
-us killing each other here?＠034842#02",
+us killing each other here?＠034842#02","[0004]Дмитрий, успокойся! Чего мы добьёмся,
+если сейчас поубиваем друг друга?!＠034842#02"
 12676,MAP,"[0003]Move, Claude. I have no time to exchange words
-with you.＠034843#02",
+with you.＠034843#02","[0003]Пошёл вон, Клод... мне некогда с тобой говорить.＠034843#02"
 12676,MAP,"[0004]It doesn't matter what I'm saying, does it? You aren't
-even listening. But I'm not gonna budge.＠034844#02",
+even listening. But I'm not gonna budge.＠034844#02","[0004]Что бы я ни говорил, до тебя не дойдёт, верно?
+Но... и я не могу отступить.＠034844#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0004]Calm down, Dimitri! What does it achieve,
-us killing each other here?＠034842#02",
+us killing each other here?＠034842#02","[0004]Дмитрий, успокойся! Чего мы добьёмся,
+если сейчас поубиваем друг друга?!＠034842#02"
 12676,MAP,"[0003]Move, Claude. I have no time to exchange words
-with you.＠034843#02",
+with you.＠034843#02","[0003]Пошёл вон, Клод... мне некогда с тобой говорить.＠034843#02"
 12676,MAP,"[0004]It doesn't matter what I'm saying, does it? You aren't
-even listening. But I'm not gonna budge.＠034844#02",
+even listening. But I'm not gonna budge.＠034844#02","[0004]Что бы я ни говорил, до тебя не дойдёт, верно?
+Но... и я не могу отступить.＠034844#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0004]We haven't seen each other since Garreg Mach.
-You've grown lovelier than ever, Edelgard.＠035452#01",
+You've grown lovelier than ever, Edelgard.＠035452#01","[0004]Мы не виделись с битвы при Гаррег Махе?
+Ты стала красавицей, Эдельгард.＠035452#01"
 12676,MAP,"[0002]You're not so unfortunate yourself. And you have
-the aid of the professor. Frankly, I'm jealous.＠034845#00",
+the aid of the professor. Frankly, I'm jealous.＠034845#00","[0002]А у тебя появился характер. Тебе помогает учитель...
+Честно говоря, я завидую.＠034845#00"
 12676,MAP,"[0002]Now's the chance for you and the professor
-to leave.＠034846#02",
+to leave.＠034846#02","[0002]Здесь вместе с учителем вы можете и сойти
+со сцены!＠034846#02"
 12676,MAP,"[0004]I'm afraid I must decline. Even if we left, we'd just
-have to come right back.＠034847#02",
+have to come right back.＠034847#02","[0004]Ха-ха, я откажусь от этого. Даже если мы сойдём,
+мы не перестанем взбираться обратно наверх!＠034847#02"
 12676,MAP,"[0003]Stab your chest, break your neck, smash your head...
-I will allow you to choose your own death.＠034848#00",
+I will allow you to choose your own death.＠034848#00","[0003]Пробить тебе грудь, сломать шею, размозжить голову?..
+Я позволю тебе выбрать, как умереть.＠034848#00"
 12676,MAP,"[0002]I'm not interested in methods of dying. All that
-matters is when death takes place, not how.＠034849#03",
-12676,MAP,[0002]And I have no intention of dying today.＠034850#02,
+matters is when death takes place, not how.＠034849#03","[0002]Как я умру, меня не интересует. Важнее — когда...＠034849#03"
+12676,MAP,[0002]And I have no intention of dying today.＠034850#02,[0002]А сегодня я ничуть не собираюсь умирать!＠034850#02
 12676,MAP,"[0003]I'm sure all of the people you've slaughtered so far
-thought the same!＠034851#02",
+thought the same!＠034851#02","[0003]Уверен, все те люди, с которыми ты расправилась, 
+думали так же!＠034851#02"
 12676,MAP,"[0002]I will destroy both the Kingdom and the Alliance.
-Now, with one fell swoop!＠034852#02",
+Now, with one fell swoop!＠034852#02","[0002]Я разом расправлюсь что с Королевством,
+что с Альянсом!＠034852#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0004]So sad that our reunion should take place on
-the battlefield.＠035460#03",
+the battlefield.＠035460#03","[0004]Ха-ха, до слёз обидно, что встреча выпускников
+произошла на поле боя.＠035460#03"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,[0003]You're not worth it. Get out of my sight.＠034853#00,
+12676,MAP,[0003]You're not worth it. Get out of my sight.＠034853#00,[0003]Ты не стоишь усилий. Прочь.＠034853#00
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0011]For Adrestia and for Brigid... I will be defeating
-all of you!＠034854#02",
+all of you!＠034854#02","[0011]Согласно пакту Адрастеи и Бригида я обязательно
+одолею вас!＠034854#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,[0009]Professor? Is that you?＠034855#04,
+12676,MAP,[0009]Professor? Is that you?＠034855#04,"[0009]К-кто идёт?! У... учитель, это вы!＠034855#04"
 12676,MAP,"[0009]You're with the enemy. That means I...I'll have to
-kill you.＠034856#02",
+kill you.＠034856#02","[0009]Но... вы же противник?! Значит, мы будем
+друг друга убивать?!＠034856#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,[0009]Stay back! Stay back or I'll shoot!＠034857#07,"[0009]Отступите! Отступите, или я стреляю!＠034857#07"
+12676,MAP,[0009]Stay back! Stay back or I'll shoot!＠034857#07,"[0009]Не подходите-е! Приблизитесь... приблизитесь,
+и я нападу!＠034857#07"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0005]You're interfering with the plan. Looks like I'll just
-have to get rid of you.＠034858#00",
+have to get rid of you.＠034858#00","[0005]Вы мешаете нашей стратегии... похоже, придётся
+вас устранить.＠034858#00"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0024]You didn't forget about me, did you? Maybe you
-should just let me go.＠035462#01",
+should just let me go.＠035462#01","[0024]Вы же меня не забыли? Может, просто отпустите?＠035462#01"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0025]I can't hold back just because I know you. Sorry,
-but that's war.＠034859#02",
+but that's war.＠034859#02","[0025]Я не пощажу даже знакомых мне. Такое уж
+это место.＠034859#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0020]Wow, it's sure been a while! You're a tough
-opponent, Professor!＠034860#03",
+opponent, Professor!＠034860#03","[0020]О-о, давно не виделись! Вы сильный противник,
+учитель!＠034860#03"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0020]There's no way you're gonna beat me! You're better
-off turning tail and running away!＠034861#03",
+off turning tail and running away!＠034861#03","[0020]Вам меня не победить. Как по мне,
+вам надо убегать!＠034861#03"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,[0021]I am helping Claude build the future of Fódlan.＠035401#02,[0021]Я помогаю Клоду построить будущее Фодлана.＠035401#02
+12676,MAP,[0021]I am helping Claude build the future of Fódlan.＠035401#02,"[0021]Я решил строить будущее Фодлана вместе
+с Клодом и нашими!＠035401#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,[0022]Don't expect me to go easy on you. Because I won't.＠034862#02,
+12676,MAP,[0022]Don't expect me to go easy on you. Because I won't.＠034862#02,"[0022]Я не буду сдерживаться, хоть и знаю вас.
+В этой битве я обязана победить.＠034862#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,"[0012]In the name of His Highness, you die here.＠034863#02",
+12676,MAP,"[0012]In the name of His Highness, you die here.＠034863#02",[0012]Вы умрёте здесь во имя Его Высочества.＠034863#02
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0015]Huh. I guess this is fate. Sorry, but I need you to 
-please give up quietly, OK?＠034864#02",
+please give up quietly, OK?＠034864#02","[0015]Ну... видно, такова судьба. Извините... просто
+спокойно сдавайтесь, ладно? ＠034864#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0018]We all choose our paths and I've chosen mine. I fight
-for my lord, to the death!＠034865#02",
+for my lord, to the death!＠034865#02","[0018]Что бы ни случилось, я буду сражаться
+за веру в своего господина!＠034865#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,"[0016]Oh! I haven't seen you in so long! It's such a shame
-we have to meet like this...＠034866#03",
+we have to meet like this...＠034866#03","[0016]Ну и ну, давно не виделись. Жаль, что мы встретились
+именно в таких обстоятельствах...＠034866#03"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12676,MAP,[0013]Want to die? Step forward. I'll take you all.＠034867#02,
+12676,MAP,[0013]Want to die? Step forward. I'll take you all.＠034867#02,"[0013]Хотите умереть — выходите вперёд. 
+Я вас всех перережу.＠034867#02"
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12676,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,"[0042]You're stronger now. Whether I kill you or you kill
-me, I'm looking forward to this!＠034894#00",
+me, I'm looking forward to this!＠034894#00","[0042]Ты теперь сильнее. Убью я тебя или погибну сам — 
+всё удовольствие!＠034894#00"
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,"[0004]Hey, how long's it been? Five years? Who'd have
-thought you'd end up an Imperial general...＠034895#01",
-12679,MAP,"[0042]So, you wish to die.＠034896#00",
-12679,MAP,"[0004]Heh. As antisocial and unhinged as ever, I see.＠034897#03",
+thought you'd end up an Imperial general...＠034895#01","[0004]О, пять лет не виделись? Кто бы мог подумать,
+что ты станешь имперским генералом.＠034895#01"
+12679,MAP,"[0042]So, you wish to die.＠034896#00",[0042]Смерти ищешь?＠034896#00
+12679,MAP,"[0004]Heh. As antisocial and unhinged as ever, I see.＠034897#03",[0004]Да ну... ты всё такой же недружелюбный и опасный.＠034897#03
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,"[0026]You will not escape, Death Knight. Today you will
-be unmasked!＠034898#02",
-12679,MAP,[0042]My true identity has no value.＠034899#00,
-12679,MAP,"[0026]I will be the judge of that, once I've seen your face.＠034900#02",
+be unmasked!＠034898#02","[0026]Тебе не сбежать, Рыцарь Смерти! Сегодня мы
+раскроем твоё истинное лицо!＠034898#02"
+12679,MAP,[0042]My true identity has no value.＠034899#00,[0042]Моё истинное лицо не имеет ценности.＠034899#00
+12679,MAP,"[0026]I will be the judge of that, once I've seen your face.＠034900#02","[0026]Имеет или нет — это мне решать, как только я увижу,
+кто находится под маской!＠034900#02"
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12679,MAP,"[0027]So it's you, Death Knight! Remember me?!＠034901#02",
-12679,MAP,[0042]You again. Here to lose more blood?＠034902#00,
-12679,MAP,[0027]Never! You will not lay a hand on me ever again!＠034903#02,
+12679,MAP,"[0027]So it's you, Death Knight! Remember me?!＠034901#02",[0027]Рыцарь Смерти! Ты помнишь меня?!＠034901#02
+12679,MAP,[0042]You again. Here to lose more blood?＠034902#00,[0042]Ты... Хочешь потерять ещё крови?＠034902#00
+12679,MAP,[0027]Never! You will not lay a hand on me ever again!＠034903#02,[0027]Нет! Больше я тебе подобного не позволю сделать!＠034903#02
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12679,MAP,[0042]You. Leave.＠034904#00,
-12679,MAP,[0016]No! I won't! I...I refuse to run from you anymore!＠034905#02,
+12679,MAP,[0042]You. Leave.＠034904#00,[0042]Женщина... уходи.＠034904#00
+12679,MAP,[0016]No! I won't! I...I refuse to run from you anymore!＠034905#02,"[0016]Нет-нет, не уйду. Я... больше не буду от тебя убегать.＠034905#02"
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,"[0008]It's way over my head, and I don't really get what's
-going on between you and Edelgard.＠034906#03",
+going on between you and Edelgard.＠034906#03","[0008]Я дурак, так что мне не понять, что там у вас
+с Эдельгард, но...＠034906#03"
 12679,MAP,"[0008]I thought for sure you two would come to an
-understanding, but I guess I was wrong.＠034907#03",
+understanding, but I guess I was wrong.＠034907#03","[0008]Я надеялся, что вы-то обязательно друг друга
+поймёте. Но, видимо, не случилось.＠034907#03"
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,"[0007]Ever since returning to the Empire, I knew this day 
-would arrive. I just hoped it might take a bit longer.＠034908#00",
-12679,MAP,[0007]Ugh...＠034909#03,
+would arrive. I just hoped it might take a bit longer.＠034908#00","[0007]С тех пор, как я вернулся в Империю, я знал,
+что этот день настанет.＠034908#00"
+12679,MAP,[0007]Ugh...＠034909#03,[0007]Эх... хлопотно это.＠034909#03
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12679,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",
+12679,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",[0008]Линхарт! Мы теперь с тобой по разные стороны баррикад.＠034910#01
 12679,MAP,"[0007]Certainly seems that way. I could almost weep over
-how things turned out.＠034911#01",
+how things turned out.＠034911#01","[0007]Да, похоже на то. Обидно до слёз.＠034911#01"
 12679,MAP,"[0007]Do you realize, Caspar, that this is the first time
-we've ever fought?＠034912#00",
+we've ever fought?＠034912#00","[0007]А знаешь что, Каспар? Мы в первый раз дерёмся
+друг с другом.＠034912#00"
 12679,MAP,"[0008]Yeah, I think you're right. The first and probably
-the last!＠034913#04",
-12679,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",
+the last!＠034913#04","[0008]Ну да, так и есть. В первый... и последний раз?＠034913#04"
+12679,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",[0008]Линхарт! Мы теперь с тобой по разные стороны баррикад.＠034910#01
 12679,MAP,"[0007]Certainly seems that way. I could almost weep over
-how things turned out.＠034911#01",
+how things turned out.＠034911#01","[0007]Да, похоже на то. Обидно до слёз.＠034911#01"
 12679,MAP,"[0007]Do you realize, Caspar, that this is the first time
-we've ever fought?＠034912#00",
+we've ever fought?＠034912#00","[0007]А знаешь что, Каспар? Мы в первый раз дерёмся
+друг с другом.＠034912#00"
 12679,MAP,"[0008]Yeah, I think you're right. The first and probably
-the last!＠034913#04",
-12679,MAP,[0008]Did you have to kill a lot of your friends to get here?＠034914#02,
-12679,MAP,[0008]Cause I'm gonna give this fight everything I've got!＠034915#02,
+the last!＠034913#04","[0008]Ну да, так и есть. В первый... и последний раз?＠034913#04"
+12679,MAP,[0008]Did you have to kill a lot of your friends to get here?＠034914#02,"[0008]Сколько знакомых человек вам пришлось убить,
+чтобы добраться сюда?＠034914#02"
+12679,MAP,[0008]Cause I'm gonna give this fight everything I've got!＠034915#02,[0008]Я буду драться со всех сил! Вперёд!＠034915#02
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,"[0007]I'd rather not fight, yet avoiding it is more frustrating
-and fruitless than engaging in the battle itself.＠034916#02",
+and fruitless than engaging in the battle itself.＠034916#02","[0007]Сражаться — это хлопотно, но не сражаться будет
+ещё более хлопотно.＠034916#02"
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12679,MAP,[0042]I have no need of you.＠035018#00,
+12679,MAP,[0042]I have no need of you.＠035018#00,[0042]Вы мне без надобности.＠035018#00
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
