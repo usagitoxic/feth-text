@@ -147555,69 +147555,89 @@ inspire loyalty, Your Majesty.＠035049#01","[0004]Ха-ха, ты хочешь,
 You'll have to repel the Empire without me...＠035050#02","[0004]Но я не могу передвигаться по ряду причин.
 Я рассчитываю на то, что вы дадите отпор Империи.＠035050#02"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12682,MAP,"[0004]Professor, if you had chosen me instead of Dimitri...＠035051#03",
+12682,MAP,"[0004]Professor, if you had chosen me instead of Dimitri...＠035051#03","[0004]Учитель, если бы вы только выбрали меня, а не Дмитрия...＠035051#03"
 12682,MAP,"[0004]No. I shouldn't dwell on it. I'm grateful you came.
-I'm glad to have your strength, if only for today.＠035052#01",
+I'm glad to have your strength, if only for today.＠035052#01","[0004]Нет, не стоит об этом. Я благодарен вам за то, что вы 
+пришли на помощь. Пусть и лишь на сегодня.＠035052#01"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,"[0004]I missed that face! And you're just in time.
-Thanks for that.＠035053#01",
+Thanks for that.＠035053#01","[0004]Ха-ха, знакомые лица. Спасибо, что прибыли.
+＠035053#01"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,"[0024]Professor! It's been too long. I was hoping you'd
-show up.＠035054#01",
+show up.＠035054#01","[0024]Учи-итель! Давно не виделись! 
+Я надеялась, что вы придёте.＠035054#01"
 12682,MAP,"[0024]Seeing you puts a spring in my step! Come on, time
-to give 'em the Hilda treatment!＠035055#01",
+to give 'em the Hilda treatment!＠035055#01","[0024]Вижу вас, и жить сразу стало веселее! 
+Ну, теперь-то Хильда всем покажет.＠035055#01"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12682,MAP,"[0054]Your very presence has foiled our plans, yet again...＠035056#02",
+12682,MAP,"[0054]Your very presence has foiled our plans, yet again...＠035056#02",[0054]Ты... одно твоё существование вновь расстраивает наши планы.＠035056#02
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12682,MAP,"[0054]You would raise a weapon against your uncle?
 You've grown into a savage of a man, just like
-your father.＠035057#02",
+your father.＠035057#02","[0054]Оборачиваешь клинок против своего дяди? 
+Ты вырос похожим на своего отца — такой же дикарь.＠035057#02"
 12682,MAP,"[0003]You are rather calm for one in your position.
-Or did you forget that this is a battlefield?＠035058#00",
+Or did you forget that this is a battlefield?＠035058#00","[0003]Вы больно легкомысленно рассуждаете. 
+Или забыли, что мы на поле битвы?＠035058#00"
 12682,MAP,"[0003]Perhaps this is no time for words, Uncle. There will
-time for that after we have settled things here.＠035059#02",
+time for that after we have settled things here.＠035059#02","[0003]Но сейчас не время для слов, дядя. 
+Обменяемся ими, когда всё будет решено.＠035059#02"
 12682,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0002]Professor... I suppose you think you can defeat me.
-Is that right?＠035092#01",
+Is that right?＠035092#01","[0002]Учитель... вы, похоже, считаете, что непременно 
+сможете победить меня.＠035092#01"
 12683,MAP,"[0002]But I will never give up. Even if my arms and legs
-failed me, I would still find a way to move forward.＠035093#00",
+failed me, I would still find a way to move forward.＠035093#00","[0002]Но я никогда не сдамся. Я буду стремиться вперёд, 
+даже если лишусь рук и ног.＠035093#00"
 12683,MAP,"[0002]I will smash that false goddess and her minion into
 the ground! I will fight to free this world from her
-vile grasp!＠035094#02",
+vile grasp!＠035094#02","[0002]Я сражаюсь с ложной богиней и её последователями, 
+чтобы вернуть мир людям!＠035094#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0002]Professor... I suppose you think you can defeat me.
-Is that right?＠035092#01",
+Is that right?＠035092#01","[0002]Учитель... вы, похоже, считаете, что непременно 
+сможете победить меня.＠035092#01"
 12683,MAP,"[0002]But I will never give up. Even if my arms and legs
-failed me, I would still find a way to move forward.＠035093#00",
+failed me, I would still find a way to move forward.＠035093#00","[0002]Но я никогда не сдамся. Я буду стремиться вперёд, 
+даже если лишусь рук и ног.＠035093#00"
 12683,MAP,"[0002]I will smash that false goddess and her minion into
 the ground! I will fight to free this world from her
-vile grasp!＠035094#02",
+vile grasp!＠035094#02","[0002]Я сражаюсь с ложной богиней и её последователями, 
+чтобы вернуть мир людям!＠035094#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0002]Your ideals, I understand they're not so far removed
-from my own.＠035095#00",
+from my own.＠035095#00","[0002]Твои идеалы... мне кажется, что они схожи с моими.＠035095#00"
 12683,MAP,"[0002]But without sufficient knowledge of this land's
-suffering, I can't entrust Fódlan to you!＠035096#02",
+suffering, I can't entrust Fódlan to you!＠035096#02","[0002]Но я не могу доверить Фодлан тому, кто не ведает
+о боли этой земли!＠035096#02"
 12683,MAP,"[0004]Perhaps. I daresay it's true that I don't fully
-understand the history of Fódlan.＠035097#00",
+understand the history of Fódlan.＠035097#00","[0004]Это так... может быть, я действительно
+не понимаю по-настоящему историю Фодлана.＠035097#00"
 12683,MAP,"[0004]Still, I've seen many things in my life.
-Don't worry. I'll finish the job for you.＠035098#02",
-12683,MAP,[0026]Edelgard! Return Rhea! Release your grip on Fódlan!＠035099#02,
+Don't worry. I'll finish the job for you.＠035098#02","[0004]Но вместе с этим я тоже достаточно повидал.
+Не волнуйся... я доведу твоё дело до конца!＠035098#02"
+12683,MAP,[0026]Edelgard! Return Rhea! Release your grip on Fódlan!＠035099#02,[0026]Эдельгард! Верни нам Рею... Фодлан!＠035099#02
 12683,MAP,"[0002]If you strike me down, they will return. I cannot
-permit what you desire.＠035100#00",
+permit what you desire.＠035100#00","[0002]Если вы со мной покончите, они непременно
+вернутся. Но я этого не позволю.＠035100#00"
 12683,MAP,"[0002]You are a child of the goddess. You must not be
-allowed power over the people!＠035101#02",
+allowed power over the people!＠035101#02","[0002]Вы — тоже потомки Богини... и вам нельзя
+давать власть над людьми!＠035101#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12683,MAP,[0027]Edelgard! Please! Release Rhea... Release Fódlan!＠035102#02,
+12683,MAP,[0027]Edelgard! Please! Release Rhea... Release Fódlan!＠035102#02,"[0027]Эдельгард! Прошу, верни нам леди Рею... Фодлан!＠035102#02"
 12683,MAP,"[0002]If you strike me down, they will return. I cannot
-permit what you desire.＠035100#00",
+permit what you desire.＠035100#00","[0002]Если вы со мной покончите, они непременно
+вернутся. Но я этого не позволю.＠035100#00"
 12683,MAP,"[0002]You are a child of the goddess. You must not be
-allowed power over the people!＠035101#02",
+allowed power over the people!＠035101#02","[0002]Вы — тоже потомки Богини... и вам нельзя
+давать власть над людьми!＠035101#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0002]This has nothing to do with where you were born.
 That we are fighting now is only a result of the
@@ -147669,12 +147689,13 @@ It's a shame we don't have time to catch up.＠035117#03",
 12683,MAP,[0012]My only wish is for Edelgard's head.＠035120#02,
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0010]Manuela? It's not like you to show up anywhere 
-sober. What's the occasion?＠035121#00",
+sober. What's the occasion?＠035121#00","[0010]Прима Мануэла? Вы собираетесь наставлять
+младшую коллегу, которая сбилась с пути?＠035121#00"
 12683,MAP,"[0029]I thought maybe we could talk. I could help you see
-the error of your ways. ＠035122#03",
+the error of your ways. ＠035122#03","[0029]Как знать — возможно, это я сбилась с пути. Так что...＠035122#03"
 12683,MAP,"[0029]Or we could just try to kill each other over what
-we believe in. You ready to do this? ＠035123#00",
-12683,MAP,[0010]No... But let's get to it.＠035124#03,
+we believe in. You ready to do this? ＠035123#00","[0029]Сразимся за то, во что каждая верит?＠035123#00"
+12683,MAP,[0010]No... But let's get to it.＠035124#03,"[0010]Да. Приступим, примадонна.＠035124#03"
 12683,MAP,"[0033]I cannot bring myself to kill you... You're a princess
 of Brigid. A hostage of the Empire.＠035125#03",
 12683,MAP,"[0011]That was the truth in the past, but it is a different
@@ -147818,12 +147839,13 @@ It's a shame we don't have time to catch up.＠035117#03",
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0010]Manuela? It's not like you to show up anywhere
-sober. What's the occasion?＠035121#00",
+sober. What's the occasion?＠035121#00","[0010]Прима Мануэла? Вы собираетесь наставлять
+младшую коллегу, которая сбилась с пути?＠035121#00"
 12686,MAP,"[0029]I thought maybe we could talk. I could help you see
-the error of your ways. ＠035122#03",
+the error of your ways. ＠035122#03","[0029]Как знать — возможно, это я сбилась с пути. Так что...＠035122#03"
 12686,MAP,"[0029]Or we could just try to kill each other over what
-we believe in. You ready to do this? ＠035123#00",
-12686,MAP,[0010]No... But let's get to it.＠035124#03,
+we believe in. You ready to do this? ＠035123#00","[0029]Сразимся за то, во что каждая верит?＠035123#00"
+12686,MAP,[0010]No... But let's get to it.＠035124#03,"[0010]Да. Приступим, примадонна.＠035124#03"
 12686,MAP,"[0033]I cannot bring myself to kill you... You're a princess
 of Brigid. A hostage of the Empire.＠035125#03",
 12686,MAP,"[0011]That was the truth in the past, but it is a different
