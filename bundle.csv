@@ -146480,7 +146480,7 @@ to life.＠034234#03",[0015]Что это?.. Как будто я вижу ко�
 12665,MAP,[0042]I don't take orders from you...＠034268#00,[0042]Не ты отдаёшь мне приказы.＠034268#00
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12665,MAP,[0042]I have no need of you...＠035018#00,[0042]Вы мне без надобности.＠035018#00
+12665,MAP,[0042]I have no need of you...＠035018#00,[0042]Ты мне без надобности.＠035018#00
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12665,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -147398,7 +147398,7 @@ and fruitless than engaging in the battle itself.＠034916#02","[0007]Сража
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12679,MAP,[0042]I have no need of you.＠035018#00,[0042]Вы мне без надобности.＠035018#00
+12679,MAP,[0042]I have no need of you.＠035018#00,[0042]Ты мне без надобности.＠035018#00
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12679,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -147641,52 +147641,63 @@ allowed power over the people!＠035101#02","[0002]Вы — тоже потом�
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0002]This has nothing to do with where you were born.
 That we are fighting now is only a result of the
-choices you've made.＠035103#00",
+choices you've made.＠035103#00","[0002]Неважно, откуда вы родом. То, что мы сражаемся
+подобным образом — это итог ваших выборов.＠035103#00"
 12683,MAP,"[0002]So I'm going to give that the response it deserves.
-I will crush you with everything I have!＠035104#02",
+I will crush you with everything I have!＠035104#02","[0002]Так что и я дам достойный отпор изо всех сил
+и сокрушу вас!＠035104#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0002]Lysithea. You and I are so alike. We could have
-walked the same path.＠035105#03",
-12683,MAP,[0022]We're alike? You don't mean to tell me... It can't be!＠035106#04,
+walked the same path.＠035105#03","[0002]Лиситея... мы так с тобой похожи — мы могли бы
+идти одной дорогой.＠035105#03"
+12683,MAP,[0022]We're alike? You don't mean to tell me... It can't be!＠035106#04,[0022]Мы похожи? О чём ты... неужели?!＠035106#04
 12683,MAP,"[0002]Yet now, we are at a crossroads. There's no turning
 back. Must we fight each other for the things we
-believe in?＠035107#02",
+believe in?＠035107#02","[0002]Но наши пути уже разошлись. И сейчас мы
+сразимся за то, во что верим?＠035107#02"
 12683,MAP,"[0022]That's exactly what's going to happen. And I will
-defeat you, Edelgard!＠035108#02",
+defeat you, Edelgard!＠035108#02","[0022]Да, сразимся. Я... одолею тебя!＠035108#02"
 12683,MAP,"[0002]So you're another of the goddess's vanguard.
 You don't have even a shred of self-awareness,
-do you?＠035109#00",
+do you?＠035109#00","[0002]И ещё кто-то из авангарда Богини... не похоже,
+чтобы у вас было самосознание.＠035109#00"
 12683,MAP,"[0002]Come at me, so that I may put you out of
-your misery!＠035110#02",
+your misery!＠035110#02",[0002]Нападайте — я избавлю вас от страданий!＠035110#02
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0011]Professor... I have been thinking. About why I came
-to Fódlan. To the Empire.＠035111#00",
+to Fódlan. To the Empire.＠035111#00","[0011]Учитель... я думаю. Я приехала в Фодлан, в Империю...＠035111#00"
 12683,MAP,"[0011]I am here to be protecting Edelgard...and to be
-stopping you.＠035112#02",
+stopping you.＠035112#02",[0011]Чтобы защитить леди Эдельгард и остановить вас!＠035112#02
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0010]If it's our destiny to kill each other, then I cannot—
-will not—respect the goddess.＠035113#03",
+will not—respect the goddess.＠035113#03","[0010]Если нам суждено убить друг друга, то как я и думала,
+Богиня ни на что не способна.＠035113#03"
 12683,MAP,"[0010]My only request is that if you win, you'll at least
-have the decency to kill me quickly.＠035114#03",
+have the decency to kill me quickly.＠035114#03","[0010]Если вы победите... пожалуйста, позвольте
+мне умереть без мучений, хорошо?＠035114#03"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0011]I can't be letting you pass. I will defend, and I will
-be killing all of you.＠035115#02",
+be killing all of you.＠035115#02","[0011]Я больше не убегу. Я буду защищать, я одолею вас...＠035115#02"
 12683,MAP,"[0011]We must be...must clear the way forward.
-For every person!＠035116#02",
+For every person!＠035116#02","[0011]Мы расчистим эту дорогу ради нашего будущего,
+будущего всех!＠035116#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0010]Oh, that face brings back some memories.
-It's a shame we don't have time to catch up.＠035117#03",
+It's a shame we don't have time to catch up.＠035117#03","[0010]Знакомые лица. Жаль, что мы не можем мирно
+поболтать.＠035117#03"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12683,MAP,[0012]I cannot vanquish her alone.＠035118#03,
-12683,MAP,"[0012]So I will join you in this battle. But if I fall, leave me.＠035119#00",
-12683,MAP,[0012]My only wish is for Edelgard's head.＠035120#02,
+12683,MAP,[0012]I cannot vanquish her alone.＠035118#03,[0012]Я не могу одолеть её сам.＠035118#03
+12683,MAP,"[0012]So I will join you in this battle. But if I fall, leave me.＠035119#00","[0012]Поэтому сейчас я помогу вам. Но если я умру, 
+бросьте меня.＠035119#00"
+12683,MAP,[0012]My only wish is for Edelgard's head.＠035120#02,"[0012]Если я сумею снять голову с Эдельгард... мне больше
+ничего не нужно!＠035120#02"
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,"[0010]Manuela? It's not like you to show up anywhere 
 sober. What's the occasion?＠035121#00","[0010]Прима Мануэла? Вы собираетесь наставлять
@@ -147697,144 +147708,181 @@ the error of your ways. ＠035122#03","[0029]Как знать — возмож�
 we believe in. You ready to do this? ＠035123#00","[0029]Сразимся за то, во что каждая верит?＠035123#00"
 12683,MAP,[0010]No... But let's get to it.＠035124#03,"[0010]Да. Приступим, примадонна.＠035124#03"
 12683,MAP,"[0033]I cannot bring myself to kill you... You're a princess
-of Brigid. A hostage of the Empire.＠035125#03",
+of Brigid. A hostage of the Empire.＠035125#03","[0033]Мне невыносимо убивать тебя. Ты ведь заложница
+Империи, принцесса Бригида?＠035125#03"
 12683,MAP,"[0011]That was the truth in the past, but it is a different
-truth now, Shamir...＠035126#00",
-12683,MAP,[0011]I am...the will of the emperor!＠035127#02,
-12683,MAP,"[0033]In that case, I won't hold back.＠035128#02",
-12683,MAP,[1042]What use are words? We are both set on our path.＠048811#00,
+truth now, Shamir...＠035126#00","[0011]Раньше это было правдой. А сейчас это не так, Шамир.＠035126#00"
+12683,MAP,[0011]I am...the will of the emperor!＠035127#02,[0011]Я — воплощение воли Её Величества!＠035127#02
+12683,MAP,"[0033]In that case, I won't hold back.＠035128#02","[0033]Ясно — вот, значит, где тебе место. Тогда мне
+не нужно сдерживаться.＠035128#02"
+12683,MAP,[1042]What use are words? We are both set on our path.＠048811#00,[1042]Мы так далеко зашли... больше нет смысла в полемике!＠048811#00
 12683,MAP,"[0002]How predictable. But so be it. I will now show you
-my true power!＠048812#00",
+my true power!＠048812#00",[0002]Как это на тебя похоже. Я тоже не буду щадить сил!＠048812#00
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12683,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,"[0042]You're stronger now. Whether I kill you or you kill
-me, I'm looking forward to this!＠034894#00",
+me, I'm looking forward to this!＠034894#00","[0042]Ты теперь сильнее. Убью я тебя или погибну сам — 
+всё удовольствие!＠034894#00"
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12684,MAP,[0042]You dare stand between me and my pleasure?＠035147#00,
-12684,MAP,"[0003]Yes. I dare stand against you, Death Knight.＠035148#02",
-12684,MAP,[0042]Death is all that remains...＠035149#00,
+12684,MAP,[0042]You dare stand between me and my pleasure?＠035147#00,[0042]Ты смеешь мешать моему удовольствию?＠035147#00
+12684,MAP,"[0003]Yes. I dare stand against you, Death Knight.＠035148#02","[0003]Я прошу тебя быть моим противником, Рыцарь Смерти.＠035148#02"
+12684,MAP,[0042]Death is all that remains...＠035149#00,"[0042]Тебя не убить, пока мы не встретимся в бою!＠035149#00"
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,"[0026]You will not escape, Death Knight. Today you will
-be unmasked!＠034898#02",
-12684,MAP,[0042]My true identity has no value...＠034899#00,
-12684,MAP,"[0026]I will be the judge of that, once I've seen your face.＠034900#02",
+be unmasked!＠034898#02","[0026]Тебе не сбежать, Рыцарь Смерти! Сегодня мы
+раскроем твоё истинное лицо!＠034898#02"
+12684,MAP,[0042]My true identity has no value...＠034899#00,[0042]Моё истинное лицо не имеет ценности.＠034899#00
+12684,MAP,"[0026]I will be the judge of that, once I've seen your face.＠034900#02","[0026]Имеет или нет — это мне решать, как только я увижу,
+кто находится под маской!＠034900#02"
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12684,MAP,"[0027]So it's you, Death Knight! Remember me?!＠034901#02",
-12684,MAP,[0042]You again. Here to lose more blood?＠034902#00,
-12684,MAP,[0027]Never! You will not lay a hand on me ever again!＠034903#02,
+12684,MAP,"[0027]So it's you, Death Knight! Remember me?!＠034901#02",[0027]Рыцарь Смерти! Ты помнишь меня?!＠034901#02
+12684,MAP,[0042]You again. Here to lose more blood?＠034902#00,[0042]Ты... Хочешь потерять ещё крови?＠034902#00
+12684,MAP,[0027]Never! You will not lay a hand on me ever again!＠034903#02,[0027]Нет! Больше я тебе подобного не позволю сделать!＠034903#02
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12684,MAP,[0016]I came here to get you. Let's return together...Emile.＠035015#03,
-12684,MAP,[0042]Leave. The place of your death is not here...＠035016#00,
+12684,MAP,[0016]I came here to get you. Let's return together...Emile.＠035015#03,"[0016]Наконец-то я смогла приехать, чтобы забрать тебя.
+Давай вместе вернёмся домой... Эмиль.＠035015#03"
+12684,MAP,[0042]Leave. The place of your death is not here...＠035016#00,[0042]Не беспокойся. Ты не должна здесь умирать.＠035016#00
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,"[0008]It's way over my head, and I don't really get what's
-going on between you and Edelgard.＠034906#03",
+going on between you and Edelgard.＠034906#03","[0008]Я дурак, так что мне не понять, что там у вас
+с Эдельгард, но...＠034906#03"
 12684,MAP,"[0008]I thought for sure you two would come to an
-understanding, but I guess I was wrong.＠034907#03",
+understanding, but I guess I was wrong.＠034907#03","[0008]Я надеялся, что вы-то обязательно друг друга
+поймёте. Но, видимо, не случилось.＠034907#03"
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,"[0007]Ever since returning to the Empire, I knew this day 
-would arrive. I just hoped it might take a bit longer.＠034908#00",
-12684,MAP,[0007]Ugh...＠034909#03,
+would arrive. I just hoped it might take a bit longer.＠034908#00","[0007]С тех пор, как я вернулся в Империю, я знал,
+что этот день настанет.＠034908#00"
+12684,MAP,[0007]Ugh...＠034909#03,[0007]Эх... хлопотно это.＠034909#03
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12684,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",
+12684,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",[0008]Линхарт! Мы теперь с тобой по разные стороны баррикад.＠034910#01
 12684,MAP,"[0007]Certainly seems that way. I could almost weep over
-how things turned out.＠034911#01",
+how things turned out.＠034911#01","[0007]Да, похоже на то. Обидно до слёз.＠034911#01"
 12684,MAP,"[0007]Do you realize, Caspar, that this is the first time
-we've ever fought?＠034912#00",
+we've ever fought?＠034912#00","[0007]А знаешь что, Каспар? Мы в первый раз дерёмся
+друг с другом.＠034912#00"
 12684,MAP,"[0008]Yeah, I think you're right. The first and probably
-the last!＠034913#04",
-12684,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",
+the last!＠034913#04","[0008]Ну да, так и есть. В первый... и последний раз?＠034913#04"
+12684,MAP,"[0008]Looks like we ended up on opposing sides, Linhardt!＠034910#01",[0008]Линхарт! Мы теперь с тобой по разные стороны баррикад.＠034910#01
 12684,MAP,"[0007]Certainly seems that way. I could almost weep over
-how things turned out.＠034911#01",
+how things turned out.＠034911#01","[0007]Да, похоже на то. Обидно до слёз.＠034911#01"
 12684,MAP,"[0007]Do you realize, Caspar, that this is the first time
-we've ever fought?＠034912#00",
+we've ever fought?＠034912#00","[0007]А знаешь что, Каспар? Мы в первый раз дерёмся
+друг с другом.＠034912#00"
 12684,MAP,"[0008]Yeah, I think you're right. The first and probably
-the last!＠034913#04",
-12684,MAP,[0008]Did you have to kill a lot of your friends to get here?＠034914#02,
-12684,MAP,[0008]Cause I'm gonna give this fight everything I've got!＠034915#02,
+the last!＠034913#04","[0008]Ну да, так и есть. В первый... и последний раз?＠034913#04"
+12684,MAP,[0008]Did you have to kill a lot of your friends to get here?＠034914#02,"[0008]Сколько знакомых человек вам пришлось убить,
+чтобы добраться сюда?＠034914#02"
+12684,MAP,[0008]Cause I'm gonna give this fight everything I've got!＠034915#02,[0008]Я буду драться со всех сил! Вперёд!＠034915#02
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,"[0007]I'd rather not fight, yet avoiding it is more frustrating
-and fruitless than engaging in the battle itself.＠034916#02",
+and fruitless than engaging in the battle itself.＠034916#02","[0007]Сражаться — это хлопотно, но не сражаться будет
+ещё более хлопотно.＠034916#02"
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12684,MAP,[0042]I have no need of you...＠035018#00,
+12684,MAP,[0042]I have no need of you...＠035018#00,[0042]Ты мне без надобности.＠035018#00
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12684,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12685,MAP,"[0040]So you have shown yourself, Fell Star. Or, should
-I say...Sothis?＠035175#00",
+I say...Sothis?＠035175#00","[0040]Вот и ты, Несчастливая Звезда... нет, ты — воплощение
+Сотис.＠035175#00"
 12685,MAP,"[0040]I will spill every drop of blood in your body to
-fulfill the longstanding goal of the Agarthans!＠035176#02",
+fulfill the longstanding goal of the Agarthans!＠035176#02","[0040]Я выпущу из тебя всю кровь до последней капли
+ради исполнения заветного замысла Агарти!＠035176#02"
 12685,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12685,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12685,MAP,"[0040]Ha. It is laughable that base animals such as you
-would bare fangs at the likes of us.＠035177#01",
+would bare fangs at the likes of us.＠035177#01","[0040]Хм... как нелепо, что такие жалкие животные,
+как вы, осмелились оскалиться на нас.＠035177#01"
 12685,MAP,"[0004]I may be a base animal, but I have strong allies.
 Do you think you can beat Teach and the Sword
-of the Creator?＠035178#01",
+of the Creator?＠035178#01","[0004]Может, я и жалкий, но у меня сильные союзники.
+Справитесь ли вы с учителем, $EK00владеющим$EL00владеющей$EM00 Мечом Богини?＠035178#01"
 12685,MAP,"[0040]The Sword of the Creator... The blade given to
-Nemesis. Who do you really think is superior?＠035179#00",
+Nemesis. Who do you really think is superior?＠035179#00","[0040]Меч Богини... ниспосланный Немезису. Как думаешь,
+кто кого превосходит — этот человек или 
+Король-Освободитель?＠035179#00"
 12685,MAP,"[0004]There's a big difference between the living and the
 dead. The fate of the future lies in the hands of
-the living!＠035180#02",
+the living!＠035180#02","[0004]Разница между мёртвыми и живыми — как между
+небом и землёй. Лишь живым дано определять 
+будущее!＠035180#02"
 12685,MAP,"[0040]Your eyes, hair, ears, and blood...
-We remember it all.＠035181#04",
+We remember it all.＠035181#04","[0040]Твои глаза, волосы, уши, кровь... 
+Мы всё это помним.＠035181#04"
 12685,MAP,"[0040]We remember how you ruined us. How you stole our
-light and condemned us to eternal darkness!＠035182#02",
-12685,MAP,"[0040]Now, suffer the wrath of the Agarthans!＠035183#02",
+light and condemned us to eternal darkness!＠035182#02","[0040]Мы помним, как вы разрушили нас. Как украли у нас
+свет и заключили в бесконечную тьму!＠035182#02"
+12685,MAP,"[0040]Now, suffer the wrath of the Agarthans!＠035183#02",[0040]Вы будете нести... проклятье Агарти!＠035183#02
 12685,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12685,MAP,"[0040]You're nothing but animals performing tricks in the
 hopes of pleasing the goddess. You will never see
-the sunlight again!＠035184#02",
+the sunlight again!＠035184#02","[0040]Вы — невежественные животные, виляющие хвостами
+перед Богиней! Не думайте, что вам ещё когда-то
+удастся увидеть солнечный свет.＠035184#02"
 12685,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12685,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12685,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0003]Hubert. I would tell you to get out of my way,
-but I highly doubt you would abide.＠035202#00",
+but I highly doubt you would abide.＠035202#00","[0003]Хьюберт. Я бы попросил тебя уйти с дороги,
+но ведь это будет напрасно.＠035202#00"
 12686,MAP,"[0005]Heh. Your silver tongue will do you no good here.
-This is not your path to tread.＠035203#01",
+This is not your path to tread.＠035203#01","[0005]Ха-ха-ха... я рад, что мне ничего не нужно
+объяснять. Эта дорога не для тебя.＠035203#01"
 12686,MAP,"[0003]That is not your decision to make, nor is it mine.
-All I can do is blaze ahead!＠035204#02",
+All I can do is blaze ahead!＠035204#02","[0003]Это решать не тебе и не мне. Сейчас я могу лишь...
+прокладывать свой путь дальше!＠035204#02"
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-12686,MAP,[0005]I should have disposed of you a long time ago.＠035008#03,
-12686,MAP,[0005]I will rectify that failure here!＠035009#02,
+12686,MAP,[0005]I should have disposed of you a long time ago.＠035008#03,"[0005]Вы... я так и знал, что от вас-то и нужно было
+сразу избавиться.＠035008#03"
+12686,MAP,[0005]I will rectify that failure here!＠035009#02,"[0005]Это самое большое пятно на моей биографии...
+Позвольте хотя бы здесь его стереть!＠035009#02"
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0005]Running into you in the capital like this—I have to
-say, it's almost sentimental.＠035011#00",
-12686,MAP,[0006]Hubert. She must leave.＠035012#02,
-12686,MAP,[0005]You really think you can make her?＠035013#02,
-12686,MAP,[0006]It does not matter what I think. Those are my orders.＠035014#02,
+say, it's almost sentimental.＠035011#00","[0005]Удивительное чувство — вот так вот перехватить
+тебя в столице.＠035011#00"
+12686,MAP,[0006]Hubert. She must leave.＠035012#02,"[0006]Хьюберт. Прости, но ей пора на выход.＠035012#02"
+12686,MAP,[0005]You really think you can make her?＠035013#02,[0005]А ты сможешь её убедить?＠035013#02
+12686,MAP,[0006]It does not matter what I think. Those are my orders.＠035014#02,"[0006]Неважно, что я могу или нет. Я покажу тебе, что на 
+попытку сделать это я брошу даже свою жизнь.＠035014#02"
 12686,MAP,"[0005]It's almost a shame to kill you. Not even death will
-make you consequential.＠035017#01",
+make you consequential.＠035017#01","[0005]Ха-ха-ха... как жаль, что ваша смерть никак
+не изменит ход битвы.＠035017#01"
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0011]Professor... I have been thinking. About why I came
-to Fódlan. To the Empire.＠035111#00",
+to Fódlan. To the Empire.＠035111#00","[0011]Учитель... я думаю. Я приехала в Фодлан, в Империю...＠035111#00"
 12686,MAP,"[0011]I am here to be protecting Edelgard...and to be
-stopping you.＠035112#02",
+stopping you.＠035112#02",[0011]Чтобы защитить леди Эдельгард и остановить вас!＠035112#02
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0010]If it's our destiny to kill each other, then I cannot—
-will not—respect the goddess.＠035113#03",
+will not—respect the goddess.＠035113#03","[0010]Если нам суждено убить друг друга, то как я и думала,
+Богиня ни на что не способна.＠035113#03"
 12686,MAP,"[0010]My only request is that if you win, you'll at least
-have the decency to kill me quickly.＠035114#03",
+have the decency to kill me quickly.＠035114#03","[0010]Если вы победите... пожалуйста, позвольте
+мне умереть без мучений, хорошо?＠035114#03"
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0011]For Adrestia and for Brigid... I will be defeating
-all of you!＠034854#02",
+all of you!＠034854#02","[0011]Согласно пакту Адрастеи и Бригида я обязательно
+одолею вас!＠034854#02"
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,"[0010]Oh, that face brings back some memories.
-It's a shame we don't have time to catch up.＠035117#03",
+It's a shame we don't have time to catch up.＠035117#03","[0010]Знакомые лица. Жаль, что мы не можем мирно
+поболтать.＠035117#03"
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 12686,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
@@ -147847,11 +147895,13 @@ the error of your ways. ＠035122#03","[0029]Как знать — возмож�
 we believe in. You ready to do this? ＠035123#00","[0029]Сразимся за то, во что каждая верит?＠035123#00"
 12686,MAP,[0010]No... But let's get to it.＠035124#03,"[0010]Да. Приступим, примадонна.＠035124#03"
 12686,MAP,"[0033]I cannot bring myself to kill you... You're a princess
-of Brigid. A hostage of the Empire.＠035125#03",
+of Brigid. A hostage of the Empire.＠035125#03","[0033]Мне невыносимо убивать тебя. Ты ведь заложница
+Империи, принцесса Бригида?＠035125#03"
 12686,MAP,"[0011]That was the truth in the past, but it is a different
-truth now, Shamir...＠035126#00",
-12686,MAP,[0011]I am...the will of the emperor!＠035127#02,
-12686,MAP,"[0033]In that case, I won't hold back.＠035128#02",
+truth now, Shamir...＠035126#00","[0011]Раньше это было правдой. А сейчас это не так, Шамир.＠035126#00"
+12686,MAP,[0011]I am...the will of the emperor!＠035127#02,[0011]Я — воплощение воли Её Величества!＠035127#02
+12686,MAP,"[0033]In that case, I won't hold back.＠035128#02","[0033]Ясно — вот, значит, где тебе место. Тогда мне
+не нужно сдерживаться.＠035128#02"
 12687,MAP,"[0026]I will inherit the pride of Nabatea. Rest in peace
 by Sothis's side!＠035230#03","[0026]Я унаследую гордость Набатеи. Покойно возвращайся
 к Сотис!＠035230#03"
