@@ -472,14 +472,14 @@ Proceed?","Удаленные данные будет невозможно во�
 0,MSGDATA,Out of Sight,Вне видимости
 0,MSGDATA,Disperse,Рассредоточить
 0,MSGDATA,The enemy swiped $Q$%s1.,Враг украл: $Q$%s1.
-0,MSGDATA,Bookmark,Закладка
-0,MSGDATA,Continue,Продолжить
+0,MSGDATA,Bookmark,Продолжить
+0,MSGDATA,Continue,Загрузить
 0,MSGDATA,New Game,Новая игра
 0,MSGDATA,Copy,Копировать
 0,MSGDATA,Delete,Удалить
 0,MSGDATA,Extras,Дополнительно
 0,MSGDATA,Normal,Нормальный
-0,MSGDATA,Hard,Тяжёлый
+0,MSGDATA,Hard,Сложный
 0,MSGDATA,Maddening,Безумный
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,For beginning and intermediate players.,Для начинающих игроков.
@@ -490,8 +490,8 @@ Proceed?","Удаленные данные будет невозможно во�
 0,MSGDATA,Classic,Классический
 0,MSGDATA,Fallen units rise again after the battle ends.,Павшие юниты оживают после битвы.
 0,MSGDATA,"Fallen units are lost forever.
-Every decision counts!","Павшие юниты погибают.
-Важно каждое действие!"
+Every decision counts!","Павшие юниты погибают навсегда.
+Продумывайте каждое действие!"
 0,MSGDATA,Barracks,Бараки
 0,MSGDATA,Yes,Да
 0,MSGDATA,No,Нет
@@ -816,7 +816,7 @@ and try out Trading.","Примите задание ""$%s1"" и опробуй�
 0,MSGDATA,Owned,Кол-во
 0,MSGDATA,Traveling Merchant,Странствующий торговец
 0,MSGDATA,Anna's Shop,Лавка Анны
-0,MSGDATA,Talk,Говорить
+0,MSGDATA,Talk,Разговор
 0,MSGDATA,Certifications,Сертификации
 0,MSGDATA,Instruct,Инструктаж
 0,MSGDATA,Group Tasks,Групповые задачи
@@ -1112,8 +1112,8 @@ Please try again.","Соединение с NFC-контроллером
 ($%s2 + $%d1)?","Хотите использовать $Q$%s1
 ($%s2 + $%d1)?"
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,Select a difficulty level.,Выбрать уровень сложности.
-0,MSGDATA,Select a mode.,Выбрать режим.
+0,MSGDATA,Select a difficulty level.,Выберите уровень сложности.
+0,MSGDATA,Select a mode.,Выберите игровой режим.
 0,MSGDATA,AUTOSAVE,АВТОСОХРАНЕНИЕ
 0,MSGDATA,NO DATA,НЕТ ДАННЫХ
 0,MSGDATA,COMPLETE,ЗАВЕРШЕНО
@@ -1226,7 +1226,7 @@ month's mission?","Возможно, $%s1 согласится помочь с �
 0,MSGDATA,Area of Focus,Сфера изучения
 0,MSGDATA,Skills,Навыки
 0,MSGDATA,Select skills for solo study.,Выберите способности для самостоятельного изучения.
-0,MSGDATA,Bookmark,Закладка
+0,MSGDATA,Bookmark,Временное
 0,MSGDATA,FILE,ФАЙЛ
 0,MSGDATA,Year,Год
 0,MSGDATA,#,#
@@ -1311,9 +1311,9 @@ The students' progress will now be displayed.",Мероприятия этого
 0,MSGDATA,Deliver the requested resources?,Доставить запрошенные ресурсы?
 0,MSGDATA,ZL: Cancel Auto,ZL: Ручное упр.
 0,MSGDATA,Canceling Auto,Отключение автоупр.
-0,MSGDATA,Delete all of your data?,Удалить все ваши данные?
+0,MSGDATA,Delete all of your data?,Сбросить весь прогресс прохождения?
 0,MSGDATA,This action cannot be undone. OK to proceed?,Это действие будет невозможно отменить. Продолжить? 
-0,MSGDATA,Save data deleted.,Данные удалены.
+0,MSGDATA,Save data deleted.,Ваш прогресс прохождения сброшен.
 0,MSGDATA,Full Menu,Меню
 0,MSGDATA,Advice Box,Ящик обращений
 0,MSGDATA,Update goals?,Обновить цели?
@@ -1684,7 +1684,7 @@ $%s1.","$%s1 не может взять под своё управление $%s
 0,MSGDATA,Japanese,Японский
 0,MSGDATA,English,Английский
 0,MSGDATA,This is already the selected language.,Этот язык уже выбран.
-0,MSGDATA,Change the voiceover language and return to the title screen?,Изменить язык озвучки и вернуться на начальный экран?
+0,MSGDATA,Change the voiceover language and return to the title screen?,Сменить язык озвучки и вернуться на начальный экран?
 0,MSGDATA,Menu,Меню
 0,MSGDATA,"Characters marked with $C1■$R cannot be used as part
 of the protagonist's name. Please enter something else.
@@ -2295,7 +2295,7 @@ There is $%d1 person left to find.","Вы нашли: $%s1!
 0,MSGDATA,Recruit,Завербовать
 0,MSGDATA,Give,Дать
 0,MSGDATA,Units,Юниты
-0,MSGDATA,Suspend,Приостановить
+0,MSGDATA,Suspend,Прервать
 0,MSGDATA,Save,Сохранение
 0,MSGDATA,Load,Загрузить
 0,MSGDATA,Copy Save Data,Скопировать сохранение
@@ -2822,7 +2822,7 @@ There is $%d1 person left to find.","Вы нашли: $%s1!
 0,MSGDATA,Save,Сохранение
 0,MSGDATA,End,Закончить
 0,MSGDATA,Divine Pulse,Божественный Пульс
-0,MSGDATA,Bookmark,Закладка
+0,MSGDATA,Bookmark,Прервать
 0,MSGDATA,Retreat,Отступить
 0,MSGDATA,Guide,Обучение
 0,MSGDATA,Attack,Атака
@@ -2833,7 +2833,7 @@ There is $%d1 person left to find.","Вы нашли: $%s1!
 0,MSGDATA,Items,Предметы
 0,MSGDATA,Trade,Обмен
 0,MSGDATA,Convoy,Склад
-0,MSGDATA,Talk,Говорить
+0,MSGDATA,Talk,Разговор
 0,MSGDATA,Chest,Сундук
 0,MSGDATA,Door,Дверь
 0,MSGDATA,Wait,Ожидание
@@ -3072,13 +3072,12 @@ from enemy attacks.","Уменьшает урон от вражеских
 an enemy unit.","Количество клеток, на которое атакует
 юнит."
 0,MSGDATA,Inflicts bonus damage against certain units.,Наносит доп. урон определённым юнитам.
-0,MSGDATA,Experience gained in battle.,Полученный от битвы опыт.
+0,MSGDATA,Experience gained in battle.,Полученный в битвах опыт.
 0,MSGDATA,"Current/max health. The unit retires from
 battle when current HP drops to 0.","Очки здоровья.
 Когда они достигают 0, юнит отступает."
 0,MSGDATA,"A representation of the unit's overall
-experience gained in battle.","Опыт, полученный юнитом в результате
-битвы."
+experience gained in battle.",Общий уровень юнита.
 0,MSGDATA,Skill for wielding a sword.,Навык владения мечами.
 0,MSGDATA,Skill for wielding a lance.,Навык владения копьями.
 0,MSGDATA,Skill for wielding an axe.,Навык владения топорами.
@@ -3226,8 +3225,7 @@ be taken at Level 30.","Сертификация мастерства, треб�
 or higher.","Этот экзамен доступен при уровне
 профессора C и выше."
 0,MSGDATA,"A representation of the battalion's overall
-experience gained in battle.","Отчет об опыте, полученном отрядом в результате
-битвы."
+experience gained in battle.",Общий уровень отряда.
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -3718,7 +3716,7 @@ experience gained in battle.","Отчет об опыте, полученном 
 0,MSGDATA,Buy or sell items.,"Купля/продажа предметов.
 "
 0,MSGDATA,Hire or dismiss battalions.,Нанять или расформировать отряд.
-0,MSGDATA,Select a save file.,Выбрать сохранение.
+0,MSGDATA,Select a save file.,Выберите сохранение.
 0,MSGDATA,Strengthen or repair weapons.,Усилить и починить оружие.
 0,MSGDATA,The camera will not auto-rotate.,Камера не будет вращаться автоматически.
 0,MSGDATA,The camera will auto-rotate at a slow speed.,Камера будет вращаться медленно.
@@ -3976,8 +3974,8 @@ experience gained in battle.","Отчет об опыте, полученном 
 0,MSGDATA,Select a cultivation method.,Выберите способ удобрения.
 0,MSGDATA,Review items to be harvested.,Показать созревшие плоды.
 0,MSGDATA,Plant and cultivate seeds for harvest.,Посадите и удобрите семена для получения урожая.
-0,MSGDATA,Listen to music from the game.,Прослушать музыку из игры.
-0,MSGDATA,Listen to the songs you've encountered in the game.,"Прослушать музыку, которую вы встречали в игре."
+0,MSGDATA,Listen to music from the game.,Музыкальные композиции из игры.
+0,MSGDATA,Listen to the songs you've encountered in the game.,Музыкальные композиции из игры.
 0,MSGDATA,Replay cutscenes from the game.,Пересмотреть катсцены из игры.
 0,MSGDATA,Replay the cutscenes you've encountered in the game.,"Пересмотреть катсцены, которые вы видели в игре."
 0,MSGDATA,Replay story events from the game.,Пересмотреть сюжетные события из игры.
@@ -3985,7 +3983,7 @@ experience gained in battle.","Отчет об опыте, полученном 
 0,MSGDATA,Replay support conversations.,Пересмотреть беседы.
 0,MSGDATA,Replay the support conversations you've encountered in the game.,"Пересмотреть беседы, которые вы видели в игре."
 0,MSGDATA,Open the manual.,Открыть руководство.
-0,MSGDATA,Delete all save data.,Удалить все сохранения.
+0,MSGDATA,Delete all save data.,Сброс всего прогресса прохождения.
 0,MSGDATA,Review this month's schedule. Press the A Button to review events or skip ahead to certain dates.,"Посмотреть расписание на месяц. Нажмите кнопку А, чтобы просмотреть события."
 0,MSGDATA,Review this month's schedule. Press A to select an activity for today.,"Посмотреть расписание на месяц. Нажмите кнопку А, чтобы выбрать активность на сегодня."
 0,MSGDATA,"Walk around the monastery, interact with people, and complete quests.","Пройдитесь по монастырю, поговорите с людьми и выполните задания."
@@ -4011,8 +4009,8 @@ experience gained in battle.","Отчет об опыте, полученном 
 0,MSGDATA,Skip ahead to certain dates. Actions during the skipped time will be automated.,Перейти к определённой дате. Пропущенные события будут засчитаны автоматически.
 0,MSGDATA,Select a date to skip to.,Выбрать дату для пропуска.
 0,MSGDATA,Skip ahead to this date.,Пропустить до этой даты.
-0,MSGDATA,Switch the voiceover language.,Сменить язык озвучки.
-0,MSGDATA,Select a voiceover language.,Выбрать язык озвучки.
+0,MSGDATA,Switch the voiceover language.,Смена языка озвучки.
+0,MSGDATA,Select a voiceover language.,Выберите язык озвучки.
 0,MSGDATA,Review DLC.,Посмотреть DLC.
 0,MSGDATA,Review the month's schedule.,Посмотреть расписание на месяц.
 0,MSGDATA,Unavailable due to studying abroad.,Недоступно во время учёбы за границей.
@@ -16869,7 +16867,7 @@ chalice. Blocks Ashen Wolves.","Воронка, которая проводит 
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,Sunder,Раскол
-0,MSGDATA,Wrath Strike,Удар Гнева
+0,MSGDATA,Wrath Strike,Удар гнева
 0,MSGDATA,Grounder,Сбить с ног
 0,MSGDATA,Hexblade,Колдовской клинок
 0,MSGDATA,Windsweep,Открытый Ветру
@@ -16878,7 +16876,7 @@ chalice. Blocks Ashen Wolves.","Воронка, которая проводит 
 0,MSGDATA,Bane of Monsters,Гроза Монстров
 0,MSGDATA,Finesse Blade,Изящный Удар
 0,MSGDATA,Soulblade,Клинок Души
-0,MSGDATA,Tempest Lance,Копьё Вихря
+0,MSGDATA,Tempest Lance,Копьё бури
 0,MSGDATA,Shatter Slash,Сотрясающий Удар
 0,MSGDATA,Knightkneeler,Бич рыцарей
 0,MSGDATA,Hit and Run,Бей-и-Беги
@@ -16898,7 +16896,7 @@ chalice. Blocks Ashen Wolves.","Воронка, которая проводит 
 0,MSGDATA,Wild Abandon,Дикий импульс
 0,MSGDATA,Focused Strike,Сосредоточенный удар
 0,MSGDATA,Lightning Axe,Топор молний
-0,MSGDATA,Curved Shot,Кручёный Выстрел
+0,MSGDATA,Curved Shot,Кручёный выстрел
 0,MSGDATA,Deadeye,Меткий выстрел
 0,MSGDATA,Heavy Draw,Мощный залп
 0,MSGDATA,Encloser,Ограда
@@ -25728,8 +25726,8 @@ Will not counterattack.",
 0,MSGDATA,Corridor of the Tempest,Коридор бури
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,Wrath Strike,Удар Гнева
-0,MSGDATA,Wrath Strike,Удар Гнева
+0,MSGDATA,Wrath Strike,Удар гнева
+0,MSGDATA,Wrath Strike,Удар гнева
 0,MSGDATA,The Verge of Death,Грань смерти
 0,MSGDATA,The Verge of Death,Грань смерти
 0,MSGDATA,$NONE,$NONE
@@ -65975,9 +65973,7 @@ abandon this village now.","Пришли за вами. Вот ведь, не б
 теперь ни деревню, ни детей..."
 11357,SUPPORT,"Come on, let's move. Hope you're ready.","Ну, вперёд. Ты $EK00готов$EL00готова$EM00?"
 11358,SUPPORT,Hmm...,Хм-м...
-11358,SUPPORT,"Sothis... Yes, that is it. My name is Sothis.","Сотис... Сотис. Верно, я — Сотис.
-
-Сотис... Да, верно. Меня зовут Сотис."
+11358,SUPPORT,"Sothis... Yes, that is it. My name is Sothis.","Сотис... Сотис. Верно, я — Сотис."
 11358,SUPPORT,"And I am also called...The Beginning.
 But who once called me that?","Ещё меня называют... «Начало».
 Но кто же дал мне такое имя?"
@@ -65985,7 +65981,7 @@ But who once called me that?","Ещё меня называют... «Начал�
 11358,SUPPORT,Sothis?,Сотис?
 11358,SUPPORT,"I was not able to recall my name...
 until just now.","Я не могла вспомнить своё имя...
-до этого момента."
+До этого момента."
 11358,SUPPORT,"And just like that, it came to me. How odd.",И вдруг я его вспомнила. Странно.
 11358,SUPPORT,"That look upon your face... Did you think me
 a child? A mere child who forgot her own name?!","Почему ты на меня так смотришь? Ты что,
@@ -141427,7 +141423,7 @@ happened. And...thank you.","Хорошо, Кирилл. Давай забуде
 12452,SUPPORT,Now stop standing around. We have work to do.,А теперь хватит стоять. У нас много работы.
 12452,SUPPORT,Yeah... OK.,Да... Хорошо.
 12455,MAP,"[0035]Let's take care of those thieves before they overrun
-the village.＠033966#00","[0035]Нужно разобраться с ворами до того, как они
+the village.＠033966#00","[0035]Нужно разобраться с бандитами до того, как они
 войдут в деревню.＠033966#00"
 12455,MAP,"[0035]Take down the enemies in front first. That should
 take the wind out of their sails.＠033967#00","[0035]Сначала разберитесь с теми, кто ближе всего 
@@ -192766,7 +192762,7 @@ a horse?!","Конюшню? Стой, Дорте... конь? Ты хочешь 
 29955,SUBTITLE,Course not.,Естественно.
 29955,SUBTITLE,"Well, then. I guess it's up to me to guide you from now on. Right?","Что ж, в таком случае мне ничего не остаётся, кроме как направлять тебя, не так ли?"
 29955,SUBTITLE,You can call me Sothis...,Ты можешь звать меня Сотис...
-29955,SUBTITLE,"but I'm also known as ""The Beginning.""","но также меня называют """"Начало""""."
+29955,SUBTITLE,"but I'm also known as ""The Beginning.""",но также меня называют «Начало».
 29956,SUBTITLE,You'll die!,Сдохни!
 29956,SUBTITLE,Hey—over here!,Хей! Сюда!
 29957,SUBTITLE,This will be your first time at the monastery.,Это будет ваш первый раз в монастыре.
@@ -193002,7 +192998,7 @@ a horse?!","Конюшню? Стой, Дорте... конь? Ты хочешь 
 29986,SUBTITLE,Course not.,Естественно.
 29986,SUBTITLE,"Well, then. I guess it's up to me to guide you from now on. Right?","Что ж, в таком случае мне ничего не остаётся, кроме как направлять тебя, не так ли?"
 29986,SUBTITLE,You can call me Sothis...,Ты можешь звать меня Сотис...
-29986,SUBTITLE,"but I'm also known as ""The Beginning.""","но также меня называют """"Начало""""."
+29986,SUBTITLE,"but I'm also known as ""The Beginning.""",но также меня называют «Начало»'.
 29987,SUBTITLE,You'll die!,Сдохни!
 29987,SUBTITLE,Hey—over here!,Хей! Сюда!
 29988,SUBTITLE,This will be your first time at the monastery.,Это будет ваш первый раз в монастыре.
@@ -193981,14 +193977,14 @@ anything like that?","Вы хотите еще что-нибудь спроси�
 3,MSGDATA,Unit Commands,Окно команд
 3,MSGDATA,Battle Phases,Фазы боя
 3,MSGDATA,Combat,Битва
-3,MSGDATA,Combat (Bows),Сражение (луки)
-3,MSGDATA,Combat (Magic),Сражение (магия)
+3,MSGDATA,Combat (Bows),Луки
+3,MSGDATA,Combat (Magic),Магия
 3,MSGDATA,Combat Arts,Боевой навык
 3,MSGDATA,Combat Forecast,Боевой прогноз
 3,MSGDATA,Weapon Effectiveness,Эффективность оружия
 3,MSGDATA,Bonus Damage,Дополнительный урон
 3,MSGDATA,Cavalry and Fliers,Кавалерия и лётчики
-3,MSGDATA,Status Effects,Статусные эффекты
+3,MSGDATA,Status Effects,Статусы
 3,MSGDATA,Losing Units,Потеря юнита
 3,MSGDATA,Healing,Лечение
 3,MSGDATA,Swapping Items,Обмен предметами
@@ -193998,7 +193994,7 @@ anything like that?","Вы хотите еще что-нибудь спроси�
 3,MSGDATA,Danger Radius,Радиус опасности 
 3,MSGDATA,Auto-Battle,Автобитва
 3,MSGDATA,Paralogues,Паралоги
-3,MSGDATA,The Power of Crests,Сила Гербов
+3,MSGDATA,The Power of Crests,Сила гербов
 3,MSGDATA,Battle Preparations,Подготовка к битве
 3,MSGDATA,Exploring,Исследование
 3,MSGDATA,Quests,Задания
@@ -194466,7 +194462,7 @@ At the end of each battle, Divine Pulse uses will be recharged.","Нажмите
 3,MSGDATA,Select a unit and then move next to an enemy.,Выберите юнита и направьте его в сторону противника.
 3,MSGDATA,"While your unit is next to an enemy, the command window will open.
 To attack, select the Attack command and choose a weapon.","Когда ваш юнит находится рядом с противником, откроется
-окно команд. Чтобы атаковать, выберите команду ""Атака"",
+окно команд. Чтобы атаковать, выберите команду Атака,
 а затем ваше оружие."
 3,MSGDATA,"Certain terrain will have effects on the unit occupying it. Forests, for
 instance, raise a unit's evasion and defense.","Определённые типы местности оказывают эффект на юнита,
@@ -194486,20 +194482,19 @@ normal. Linked attacks between certain units will also raise might (Mt).","Со�
 3,MSGDATA,"Forests are not the only terrain type you will encounter. Keep an eye out
 for others, such as thickets and heal tiles.","Леса – не единственный тип местности, который вам попадётся.
 Обращайте внимание на другие типы. Например, заросли, или
-зоны восстановления."
+целебные плиты."
 3,MSGDATA,"You can see the effects of terrain by placing your cursor over it. Press the
 X Button on an empty space to toggle terrain information and unit icons.","Можно посмотреть эффект местности, наведя на неё курсор.
 Нажмите кнопку Х для переключения между эффектами
 местности и иконками юнитов."
 3,MSGDATA,"An item icon on an enemy indicates that you will get the item that is
-highlighted green in the unit's Details display when you defeat them.","Иконка предмета на противнике показывает, что после победы над
-ним будет получен предмет, который выделен зелёным в окне
-""Подробности"" этого юнита."
+highlighted green in the unit's Details display when you defeat them.","Данный символ на противнике показывает, что после победы
+над ним будет получен предмет."
 3,MSGDATA,Guarding,Охрана
 3,MSGDATA,Armor Abilities,Способности брони
 3,MSGDATA,Staggering Blows,Ошеломляющие удары
 3,MSGDATA,Armor Breaks,Пробивание брони
-3,MSGDATA,Status Effects,Статусные эффекты
+3,MSGDATA,Status Effects,Статусы
 3,MSGDATA,Monsters and Gambits,Монстры и Боевые Маневры
 3,MSGDATA,"To begin fishing, first select your bait. Wait until you see the silhouette
 of the fish you want to catch, and then press the A Button to hook it.
@@ -194608,8 +194603,8 @@ increases with your professor level.","Достигнув уровня проф�
 • Охрана — защищает от последующих атак.
 • Исцеление — иногда лечит в начале хода."
 3,MSGDATA,"Select the Items option to change your equipped weapon or to use items
-such as the vulnerary, which restores your unit's hit points (HP).","Выберите пункт ""Предметы"", чтобы сменить экипированое оружие
-или использовать предметы (например, ""Снадобье"", которое
+such as the vulnerary, which restores your unit's hit points (HP).","Выберите пункт Предметы, чтобы сменить экипированое оружие
+или использовать предметы (например, Снадобье, которое
 восстанавливает очки здоровья (ОЗ) вашего юнита)."
 3,MSGDATA,"Magic can provide new means of attack and defense to a unit that has
 the skill and is of an appropriate class.","Магия открывает новые способы атаки и защиты для юнита
@@ -194710,22 +194705,21 @@ and your unit will move to the selected tile.","Чтобы переместит�
 нажмите кнопку A."
 3,MSGDATA,"After moving, you will see a list of possible unit commands. To end your
 unit's action, select Wait. To cancel, press the B Button.","После перемещения юнита отобразится список его возможных
-команд. Чтобы закончить ход юнита, выберите ""Ждать"".
+команд. Чтобы закончить ход юнита, выберите Ожидание.
 Для отмены нажмите кнопку В."
 3,MSGDATA,"Once all of your units have taken action, the player phase ends and the
 enemy phase begins. You can end the player phase early by selecting
-End from the battle menu.","Как только все ваши отряды закончат свои действия, фаза игрока
-закончится и начнётся фаза врага. Вы можете завершить фазу игрока
-раньше, выбрав ""Закончить"" из меню боя."
+End from the battle menu.","Как только все ваши юниты закончат свои действия, фаза игрока
+закончится и начнётся фаза врага. Вы можете завершить фазу
+игрока раньше, выбрав Закончить из меню боя."
 3,MSGDATA,"To start combat, first select one of your units using the A Button.
-Then select an enemy within the attack range highlighted in red.","Чтобы начать бой, выберите ваш отряд с помощью кнопки A.
-Затем выберите врага в пределах радиуса атаки, выделенного
-красным."
+Then select an enemy within the attack range highlighted in red.","Чтобы начать битву, сначала выберите одного из своих юнитов
+кнопкой A. Затем выберите врага, находящегося в зоне атаки."
 3,MSGDATA,"Bows can attack from long range, although their hit rate is reduced as
 range increases. They are highly effective against fliers like pegasus
 knights and wyvern riders.","Луки – оружие дальнего боя. Шанс попадания уменьшается по мере
 увеличения дистанции. Они эффективны против воздушных юнитов,
-таких как рыцари на пагесах или всадники виверн."
+таких как рыцари на пегасах или всадники на вивернах."
 3,MSGDATA,$NONE,$NONE
 3,MSGDATA,"Combat arts are powerful techniques that use more weapon durability
 than usual. They do not typically allow for follow-up attacks.","Боевые навыки – мощные техники, которые тратят больше прочности
@@ -194734,17 +194728,17 @@ than usual. They do not typically allow for follow-up attacks.","Боевые н
 3,MSGDATA,"The Combat Forecast will be shown before you commit to an attack.
 If the attack speed (AS) of one unit is greater than the other's by 4
 or more, the faster unit will strike twice. This is indicated by a ""x2""
-next to the attack's might (Mt).","Боевой прогноз отображается перед началом атаки.
-Если скорость атаки одного юнита больше, чем у другого, на 4
-или, он атакует дважды. Это обозначается значком ""x2"" рядом
-с мощью."
+next to the attack's might (Mt).","Боевой прогноз отображается перед началом битвы. Если скорость
+атаки (СА) атакующего юнита превышает скорость другого на 4
+или более, он нанесет удар дважды. Это обозначается символом
+""x2"" рядом с показателем силы атаки (Мощь)."
 3,MSGDATA,"If your weapon or magic is particularly effective against the enemy's type,
-you will inflict triple the weapon or magic's might (Mt) in damage.","Если ваше оружие или магия эффективны против данного типа врага,
-вы нанесете тройной урон этого оружия или своей мощи."
+you will inflict triple the weapon or magic's might (Mt) in damage.","Если ваше оружие или магия эффективны против данного типа
+врага, вы нанесете тройной урон."
 3,MSGDATA,"Some combat arts gain bonus damage against certain types of enemies.
 In these cases, the damage will be double the weapon's might (Mt).","Некоторые боевые навыки имеют прибавку к урону против
-определённых типов врагов. В этом случае атака нанесёт двойной урон
-от силы оружия."
+определённых типов врагов. В этом случае атака нанесёт двойной
+урон от силы оружия (Мощь)."
 3,MSGDATA,"Cavalry and fliers have the Canto ability, which allows them to use their
 remaining movement (Mv) after taking certain actions.","Кавалерия и лётчики обладают мобильностью, которая позволяет
 использовать оставшееся очки передвижения после выполнения 
@@ -194754,32 +194748,33 @@ or poison. Different status effects have different durations.","Некоторо
 эффекты (понижение характеристик или отравление). Разные
 эффекты имеют разную продолжительность."
 3,MSGDATA,"All status effects expire naturally, but you can also recover from them
-earlier by using items like antitoxins or white magic such as Restore.","Все особые эффекты проходят через определённое время, но их
-можно снять быстрее с помощью предметов (например, Антитоксины)
-или белой магии (например, Восстановление)."
+earlier by using items like antitoxins or white magic such as Restore.","Все особые эффекты проходят через определённое время,
+но их можно снять быстрее с помощью предметов (например,
+Антитоксины) или белой магии (например, Восстановление)."
 3,MSGDATA,"In Casual Mode, units whose hit points (HP) are reduced to 0 retreat
-from battle and return afterward. In Classic Mode, they are lost forever.","При снижении очков здоровья до 0 в режиме ""Легкий"" юниты
-покидают поле боя, но могут быть повторно вызваны после
-сражения. В режиме ""Классический"" они будут потеряны навсегда."
+from battle and return afterward. In Classic Mode, they are lost forever.","В упрощённом режиме павшие юниты могут быть повторно призваны
+после битвы. В классическом режиме они умирают навсегда."
 3,MSGDATA,"If $S0's hit points (HP) are reduced to 0 in Classic Mode,
-the game is over. In Casual Mode, it only ends if your army is defeated.","Если очки здоровья главного героя дойдут до 0 в режиме
-""Классический"", игра будет окончена. В режиме ""Лёгкий""
-игра закончится только в случае поражения всей вашей армии."
+the game is over. In Casual Mode, it only ends if your army is defeated.","Игра будет завершена, если очки здоровья (ОЗ) протагониста
+упадут до 0 в классическом режиме. В упрощённом режиме игра
+завершится только в случае поражения всех ваших юнитов."
 3,MSGDATA,"To restore a unit's hit points (HP), use an item like a vulnerary or white
-magic such as Heal.","Чтобы восстановить очки здоровья юнита, используйте Снадобье
-или заклинания белой магии (например Лечение)."
+magic such as Heal.","Для восстановления очков здоровья (ОЗ) юнита можно использовать
+целебные предметы (например, Снадобье) или заклинания белой
+магии (например, Лечение)."
 3,MSGDATA,"Units standing on restorative terrain, like heal tiles and strongholds,
-will restore hit points (HP) at the start of the turn.","Юниты, нахоядщиеся на восстаннавлявающих клетках, таких как
-лечебная местность или цитадели, восстановят очки здоровья 
-в начале хода."
+will restore hit points (HP) at the start of the turn.","Если в начале хода юнит стоит на специальной местности (например,
+целебной плите или в крепости), его очки здоровья (ОЗ)
+восстанавливаются."
 3,MSGDATA,"If you place two of your units adjacent to one another, they will be able
-to use the Trade command to swap items.","Если вы разместите два своих юнита рядом друг с другом, они смогут
-использовать команду ""Обмен"" для обмена предметами."
+to use the Trade command to swap items.","Если вы разместите два своих юнита рядом друг с другом, они
+смогут использовать команду Обмен, чтобы обмениваться
+предметами."
 3,MSGDATA,"A speech bubble by one unit when you select another indicates that the
 units have something to say. Use the Talk command while they are
-adjacent, and the conversation will build support between them.","Значок разговора над одним юнитом при выборе другого означает,
-что им есть что сказать друг другу. Используйте команду ""Говорить"",
-когда они окажутся рядом, и разговор повысит поддержку между ними."
+adjacent, and the conversation will build support between them.","Символ диалога над юнитом указывает на то, что юнитам есть что
+обсудить. Используйте команду Разговор, пока они находятся рядом,
+чтобы укрепить их отношения."
 3,MSGDATA,"Units can build support levels with other specific units. As support
 levels between units increase, so too do the benefits they receive
 by fighting alongside one another.","Юниты получают уровни поддержки с другими юнитами.
@@ -194798,9 +194793,9 @@ range will appear. Press the A Button and the radius will remain visible.","Ко
 Нажмите кнопку A, и радиус останется видимым."
 3,MSGDATA,"Choose the Auto-Battle option in the battle menu to allow your units to
 act independently for one turn. You can cancel this function by pressing
-the ZL Button.","Выберите опцию Авто-бой в боевом меню, чтобы ваши юниты
-действовать самостоятельно на один ход. Вы можете отменить
-эту функцию, нажав кнопку ZL."
+the ZL Button.","Выберите опцию Авто-бой в меню боя, чтобы ваши юниты
+действовали самостоятельно. Вы можете отменить это,
+нажав кнопку ZL."
 3,MSGDATA,"Paralogue battles branch away from the main storyline and focus on the
 side stories of specific units. By completing these battles, you can gain
 unique items and battalions that pertain to these side stories.","Паралоговые битвы ответвляются от основного сюжета на истории
@@ -194816,9 +194811,9 @@ are no combat arts for reason or faith—those skills grant magic instead.","П�
 навыки. При увеличении показателей разума и веры можно
 изучить новые заклинания."
 3,MSGDATA,"Units with Crests have special abilities. Each Crest is unique; move your
-cursor over the Crest in a unit's Details display to learn more.","Юниты с Гербами имеют особые способности. Каждый Герб
-уникален, направьте ваш курсор на Герб в меню юнита
-""Детали"", чтобы узнать больше."
+cursor over the Crest in a unit's Details display to learn more.","Юниты с гербами имеют особые способности. Каждый герб
+уникален. Направьте на него курсор в меню Детали,
+чтобы узнать больше."
 3,MSGDATA,"Choose the Units option to determine whom to send to battle. Press the
 A Button to toggle a unit. Units highlighted in green cannot be excluded.","Выберите ""Юниты"" в круговом меню, чтобы отправить кого-то
 в битву. Нажмите A, чтобы выбрать нужного юнита.
@@ -194855,10 +194850,9 @@ and more. Zoom or change the map view with the ZR Button.","Мини-карта 
 направление к дающим задания и многое другое.
 Для увеличения или смены вида карты используйте кнопку ZR."
 3,MSGDATA,"$S0 can use the Convoy command at any time. Other units
-can trade with the convoy while they are adjacent to $S0.","Главный герой может использовать команду ""Склад"".
-Другие юниты могут взаимодействовать со складом,
-находясь рядом с главным героем.
-"
+can trade with the convoy while they are adjacent to $S0.","Протагонист может использовать команду Склад в любое
+время. Другие юниты получают доступ к обмену предметами
+со складом, находясь рядом с протагонистом."
 3,MSGDATA,"Use the Mount and Dismount commands to switch cavalry and fliers
 between fighting on their mounts and on foot. The unit's type will
 change to infantry or armored while dismounted.","Используйте команды ""Сесть верхом"" и ""Спешиться"" для
@@ -194874,7 +194868,7 @@ restored by 5 each time $S0 chooses Rest on $EK00his$EL00her$EM00 day off.","Э�
 выбираете ""Отдых"" в свой выходной."
 3,MSGDATA,"Use the Inventory menu to assign battalions to your units, granting them
 increased stats like attack (Atk) or hit rate. These stats will grow further
-as a battalion gains experience fighting alongside you.","Выберите пункт ""Инвентарь"", чтобы назначить юнитам отряды,
+as a battalion gains experience fighting alongside you.","Выберите пункт Инвентарь, чтобы назначить юнитам отряды,
 за счёт чего их характеристики (например, атака и точность)
 повысятся. Это же будет происходить при получении отрядами
 опыта."
