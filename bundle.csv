@@ -11108,8 +11108,8 @@ simulate real battlefield conditions.","Учебный бой с рыцарям�
 0,MSGDATA,Eastern Merchant,Восточный купец
 0,MSGDATA,Dark Merchant,Тёмный купец
 0,MSGDATA,Armorer,Бронник
-0,MSGDATA,Gatekeeper,Страж Ворот
-0,MSGDATA,Gatekeeper,Страж Ворот
+0,MSGDATA,Gatekeeper,Стражник
+0,MSGDATA,Gatekeeper,Стражник
 0,MSGDATA,Church Staff,Рабочий церкви
 0,MSGDATA,Empire Noble,Имперская знать
 0,MSGDATA,Empire Commoner,Простолюдин Империи
@@ -11304,7 +11304,7 @@ simulate real battlefield conditions.","Учебный бой с рыцарям�
 0,MSGDATA,Eastern Merchant,Восточный купец
 0,MSGDATA,Dark Merchant,Тёмный купец
 0,MSGDATA,Armory,Оружейная
-0,MSGDATA,Gatekeeper,Страж Ворот
+0,MSGDATA,Gatekeeper,Стражник
 0,MSGDATA,Church Staff,Рабочий церкви
 0,MSGDATA,Blacksmith,Кузнец
 0,MSGDATA,Exchange Student Coordinator,Куратор учеников по обмену
@@ -18815,13 +18815,12 @@ can cast it twice as often.","Позволяет использовать Леч
 at the start of each turn.","Исцеляет 20% от максимальных ОЗ
 в начале каждого хода."
 0,MSGDATA,"If unit takes no action except Wait,
-recovers up to 10% of max HP.","Если юнит ничего не делает,
-восстанавливает до 10% макс. ОЗ."
+recovers up to 10% of max HP.","Если юнит ничего не делает, то
+восстанавливает 10% от макс. ОЗ."
 0,MSGDATA,"Chance to recover up to 10% of
 max HP at the start of each turn.
-Trigger % = Lck stat.","Шанс восстановить до 10% от максимальных 
-ОЗ в начале каждого хода. 
-Триггер % = Удч хар."
+Trigger % = Lck stat.","Шанс восстановить до 10% от макс. ОЗ в
+начале каждого хода. Триггер % = Удч."
 0,MSGDATA,"Adjacent allies recover up to 10% of 
 max HP at the start of each turn.","Союзники рядом восстанавливают до 10%
 от макс. ОЗ. в начале каждого хода."
@@ -19011,9 +19010,9 @@ is at full HP.","Если ОЗ юнита максимальны, даёт
 0,MSGDATA,Grants Atk +5 when unit is not at full HP.,"Даёт Атк +5, если у юнита не полные ОЗ."
 0,MSGDATA,"Unit recovers up to 20% of max HP at the
 start of each turn when adjacent to a
-cavalry or flying ally.","Юнит восстанавливает до 20% от макс ОЗ в
-начале каждого хода, если стоит вплотную
-к всаднику или летающему юниту."
+cavalry or flying ally.","Юнит восстанавливает до 20% от макс. ОЗ в
+начале каждого хода, если стоит рядом с
+всадником или летающим юнитом."
 0,MSGDATA,Use Rally to grant Str +4 to an ally.,"Использует Клич, чтобы дать Сил +4
 союзнику."
 0,MSGDATA,Use Rally to grant Mag +4 to an ally.,"Использует Клич, чтобы дать
@@ -149440,7 +149439,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12761,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12761,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12761,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -149514,7 +149513,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12761,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12761,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12761,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12761,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -149551,8 +149551,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12761,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12761,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -149562,7 +149563,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12761,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12761,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12761,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12761,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12761,SUPPORT,Continue exploring,Продолжить исследование
 12761,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -162884,7 +162886,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12787,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12787,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12787,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -162958,7 +162960,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12787,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12787,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12787,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12787,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -162995,8 +162998,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12787,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12787,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -163006,7 +163010,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12787,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12787,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12787,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12787,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12787,SUPPORT,Continue exploring,Продолжить исследование
 12787,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -170619,7 +170624,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12804,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12804,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12804,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -170693,7 +170698,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12804,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12804,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12804,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12804,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -170730,8 +170736,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12804,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12804,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -170741,7 +170748,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12804,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12804,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12804,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12804,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12804,SUPPORT,Continue exploring,Продолжить исследование
 12804,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -170890,7 +170898,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12805,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12805,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12805,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -170964,7 +170972,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12805,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12805,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12805,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12805,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -171001,8 +171010,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12805,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12805,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -171012,7 +171022,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12805,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12805,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12805,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12805,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12805,SUPPORT,Continue exploring,Продолжить исследование
 12805,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -171161,7 +171172,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12806,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12806,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12806,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -171235,7 +171246,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12806,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12806,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12806,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12806,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -171272,8 +171284,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12806,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12806,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -171283,7 +171296,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12806,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12806,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12806,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12806,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12806,SUPPORT,Continue exploring,Продолжить исследование
 12806,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -171432,7 +171446,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12807,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12807,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12807,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -171506,7 +171520,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12807,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12807,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12807,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12807,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -171543,8 +171558,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12807,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12807,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -171554,7 +171570,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12807,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12807,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12807,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12807,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12807,SUPPORT,Continue exploring,Продолжить исследование
 12807,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -171703,7 +171720,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12808,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12808,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12808,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -171777,7 +171794,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12808,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12808,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12808,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12808,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -171814,8 +171832,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12808,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12808,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -171825,7 +171844,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12808,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12808,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12808,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12808,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12808,SUPPORT,Continue exploring,Продолжить исследование
 12808,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -171974,7 +171994,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12809,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12809,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12809,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -172048,7 +172068,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12809,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12809,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12809,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12809,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -172085,8 +172106,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12809,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12809,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -172096,7 +172118,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12809,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12809,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12809,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12809,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12809,SUPPORT,Continue exploring,Продолжить исследование
 12809,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -172245,7 +172268,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12810,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12810,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12810,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -172319,7 +172342,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12810,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12810,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12810,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12810,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -172356,8 +172380,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12810,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12810,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -172367,7 +172392,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12810,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12810,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12810,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12810,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12810,SUPPORT,Continue exploring,Продолжить исследование
 12810,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -172516,7 +172542,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12811,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12811,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12811,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -172590,7 +172616,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12811,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12811,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12811,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12811,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -172627,8 +172654,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12811,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12811,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -172638,7 +172666,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12811,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12811,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12811,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12811,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12811,SUPPORT,Continue exploring,Продолжить исследование
 12811,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -172787,7 +172816,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12812,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12812,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12812,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -172861,7 +172890,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12812,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12812,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12812,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12812,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -172898,8 +172928,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12812,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12812,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -172909,7 +172940,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12812,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12812,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12812,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12812,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12812,SUPPORT,Continue exploring,Продолжить исследование
 12812,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -173058,7 +173090,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12813,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12813,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12813,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -173132,7 +173164,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12813,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12813,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12813,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12813,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -173169,8 +173202,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12813,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12813,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -173180,7 +173214,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12813,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12813,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12813,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12813,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12813,SUPPORT,Continue exploring,Продолжить исследование
 12813,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -173329,7 +173364,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12814,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12814,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12814,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -173403,7 +173438,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12814,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12814,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12814,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12814,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -173440,8 +173476,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12814,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12814,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -173451,7 +173488,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12814,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12814,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12814,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12814,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12814,SUPPORT,Continue exploring,Продолжить исследование
 12814,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -173600,7 +173638,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12815,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12815,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12815,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -173674,7 +173712,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12815,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12815,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12815,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12815,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -173711,8 +173750,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12815,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12815,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -173722,7 +173762,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12815,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12815,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12815,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12815,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12815,SUPPORT,Continue exploring,Продолжить исследование
 12815,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -173871,7 +173912,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12816,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12816,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12816,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -173945,7 +173986,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12816,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12816,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12816,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12816,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -173982,8 +174024,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12816,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12816,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -173993,7 +174036,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12816,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12816,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12816,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12816,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12816,SUPPORT,Continue exploring,Продолжить исследование
 12816,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -174142,7 +174186,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12817,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12817,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12817,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -174216,7 +174260,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12817,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12817,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12817,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12817,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -174253,8 +174298,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12817,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12817,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -174264,7 +174310,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12817,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12817,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12817,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12817,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12817,SUPPORT,Continue exploring,Продолжить исследование
 12817,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -174413,7 +174460,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12818,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12818,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12818,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -174487,7 +174534,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12818,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12818,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12818,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12818,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -174524,8 +174572,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12818,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12818,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -174535,7 +174584,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12818,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12818,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12818,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12818,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12818,SUPPORT,Continue exploring,Продолжить исследование
 12818,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -174684,7 +174734,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12819,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12819,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12819,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -174758,7 +174808,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12819,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12819,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12819,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12819,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -174795,8 +174846,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12819,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12819,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -174806,7 +174858,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12819,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12819,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12819,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12819,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12819,SUPPORT,Continue exploring,Продолжить исследование
 12819,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -174955,7 +175008,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12820,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12820,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12820,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -175029,7 +175082,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12820,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12820,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12820,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12820,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -175066,8 +175120,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12820,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12820,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -175077,7 +175132,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12820,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12820,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12820,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12820,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12820,SUPPORT,Continue exploring,Продолжить исследование
 12820,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -175228,7 +175284,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12823,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12823,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12823,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -175302,7 +175358,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12823,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12823,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12823,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12823,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -175339,8 +175396,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12823,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12823,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -175350,7 +175408,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12823,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12823,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12823,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12823,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12823,SUPPORT,Continue exploring,Продолжить исследование
 12823,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -175499,7 +175558,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12824,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12824,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12824,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -175573,7 +175632,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12824,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12824,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12824,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12824,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -175610,8 +175670,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12824,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12824,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -175621,7 +175682,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12824,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12824,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12824,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12824,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12824,SUPPORT,Continue exploring,Продолжить исследование
 12824,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -175770,7 +175832,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12825,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12825,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12825,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -175844,7 +175906,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12825,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12825,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12825,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12825,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -175881,8 +175944,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12825,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12825,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -175892,7 +175956,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12825,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12825,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12825,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12825,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12825,SUPPORT,Continue exploring,Продолжить исследование
 12825,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -176041,7 +176106,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12826,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12826,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12826,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -176115,7 +176180,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12826,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12826,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12826,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12826,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -176152,8 +176218,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12826,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12826,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -176163,7 +176230,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12826,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12826,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12826,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12826,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12826,SUPPORT,Continue exploring,Продолжить исследование
 12826,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -176312,7 +176380,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12827,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12827,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12827,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -176386,7 +176454,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12827,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12827,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12827,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12827,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -176423,8 +176492,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12827,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12827,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -176434,7 +176504,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12827,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12827,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12827,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12827,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12827,SUPPORT,Continue exploring,Продолжить исследование
 12827,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -176583,7 +176654,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12828,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12828,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12828,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -176657,7 +176728,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12828,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12828,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12828,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12828,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -176694,8 +176766,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12828,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12828,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -176705,7 +176778,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12828,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12828,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12828,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12828,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12828,SUPPORT,Continue exploring,Продолжить исследование
 12828,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -176854,7 +176928,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12829,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12829,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12829,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -176928,7 +177002,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12829,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12829,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12829,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12829,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -176965,8 +177040,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12829,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12829,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -176976,7 +177052,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12829,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12829,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12829,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12829,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12829,SUPPORT,Continue exploring,Продолжить исследование
 12829,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -177125,7 +177202,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12830,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12830,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12830,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -177199,7 +177276,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12830,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12830,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12830,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12830,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -177236,8 +177314,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12830,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12830,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -177247,7 +177326,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12830,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12830,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12830,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12830,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12830,SUPPORT,Continue exploring,Продолжить исследование
 12830,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -177401,7 +177481,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12836,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12836,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12836,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -177475,7 +177555,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12836,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12836,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12836,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12836,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -177512,8 +177593,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12836,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12836,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -177523,7 +177605,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12836,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12836,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12836,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12836,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12836,SUPPORT,Continue exploring,Продолжить исследование
 12836,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -177672,7 +177755,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12837,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12837,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12837,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -177746,7 +177829,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12837,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12837,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12837,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12837,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -177783,8 +177867,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12837,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12837,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -177794,7 +177879,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12837,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12837,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12837,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12837,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12837,SUPPORT,Continue exploring,Продолжить исследование
 12837,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -177943,7 +178029,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12838,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12838,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12838,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -178017,7 +178103,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12838,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12838,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12838,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12838,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -178054,8 +178141,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12838,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12838,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -178065,7 +178153,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12838,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12838,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12838,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12838,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12838,SUPPORT,Continue exploring,Продолжить исследование
 12838,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -178214,7 +178303,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12839,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12839,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12839,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -178288,7 +178377,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12839,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12839,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12839,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12839,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -178325,8 +178415,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12839,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12839,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -178336,7 +178427,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12839,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12839,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12839,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12839,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12839,SUPPORT,Continue exploring,Продолжить исследование
 12839,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -178485,7 +178577,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12840,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12840,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12840,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -178559,7 +178651,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12840,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12840,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12840,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12840,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -178596,8 +178689,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12840,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12840,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -178607,7 +178701,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12840,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12840,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12840,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12840,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12840,SUPPORT,Continue exploring,Продолжить исследование
 12840,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -179275,7 +179370,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12842,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12842,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12842,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -179349,7 +179444,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12842,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12842,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12842,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12842,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -179386,8 +179482,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12842,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12842,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -179397,7 +179494,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12842,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12842,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12842,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12842,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12842,SUPPORT,Continue exploring,Продолжить исследование
 12842,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -179546,7 +179644,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12843,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12843,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12843,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -179620,7 +179718,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12843,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12843,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12843,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12843,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -179657,8 +179756,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12843,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12843,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -179668,7 +179768,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12843,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12843,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12843,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12843,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12843,SUPPORT,Continue exploring,Продолжить исследование
 12843,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -179817,7 +179918,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12844,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12844,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12844,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -179891,7 +179992,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12844,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12844,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12844,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12844,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -179928,8 +180030,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12844,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12844,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -179939,7 +180042,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12844,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12844,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12844,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12844,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12844,SUPPORT,Continue exploring,Продолжить исследование
 12844,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -180088,7 +180192,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12845,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12845,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12845,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -180162,7 +180266,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12845,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12845,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12845,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12845,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -180199,8 +180304,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12845,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12845,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -180210,7 +180316,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12845,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12845,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12845,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12845,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12845,SUPPORT,Continue exploring,Продолжить исследование
 12845,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -180359,7 +180466,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12846,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12846,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12846,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -180433,7 +180540,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12846,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12846,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12846,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12846,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -180470,8 +180578,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12846,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12846,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -180481,7 +180590,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12846,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12846,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12846,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12846,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12846,SUPPORT,Continue exploring,Продолжить исследование
 12846,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -180630,7 +180740,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12847,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12847,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12847,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -180704,7 +180814,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12847,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12847,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12847,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12847,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -180741,8 +180852,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12847,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12847,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -180752,7 +180864,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12847,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12847,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12847,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12847,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12847,SUPPORT,Continue exploring,Продолжить исследование
 12847,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -180901,7 +181014,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12848,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12848,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12848,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -180975,7 +181088,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12848,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12848,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12848,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12848,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -181012,8 +181126,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12848,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12848,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -181023,7 +181138,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12848,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12848,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12848,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12848,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12848,SUPPORT,Continue exploring,Продолжить исследование
 12848,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -181172,7 +181288,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12849,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12849,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12849,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -181246,7 +181362,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12849,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12849,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12849,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12849,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -181283,8 +181400,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12849,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12849,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -181294,7 +181412,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12849,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12849,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12849,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12849,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12849,SUPPORT,Continue exploring,Продолжить исследование
 12849,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -181443,7 +181562,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12850,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12850,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12850,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -181517,7 +181636,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12850,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12850,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12850,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12850,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -181554,8 +181674,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12850,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12850,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -181565,7 +181686,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12850,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12850,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12850,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12850,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12850,SUPPORT,Continue exploring,Продолжить исследование
 12850,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -181714,7 +181836,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12851,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12851,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12851,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -181788,7 +181910,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12851,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12851,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12851,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12851,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -181825,8 +181948,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12851,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12851,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -181836,7 +181960,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12851,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12851,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12851,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12851,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12851,SUPPORT,Continue exploring,Продолжить исследование
 12851,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -181985,7 +182110,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12852,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12852,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12852,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -182059,7 +182184,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12852,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12852,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12852,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12852,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -182096,8 +182222,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12852,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12852,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -182107,7 +182234,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12852,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12852,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12852,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12852,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12852,SUPPORT,Continue exploring,Продолжить исследование
 12852,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -182256,7 +182384,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12853,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12853,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12853,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -182330,7 +182458,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12853,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12853,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12853,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12853,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -182367,8 +182496,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12853,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12853,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -182378,7 +182508,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12853,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12853,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12853,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12853,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12853,SUPPORT,Continue exploring,Продолжить исследование
 12853,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -182527,7 +182658,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12854,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12854,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12854,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -182601,7 +182732,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12854,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12854,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12854,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12854,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -182638,8 +182770,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12854,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12854,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -182649,7 +182782,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12854,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12854,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12854,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12854,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12854,SUPPORT,Continue exploring,Продолжить исследование
 12854,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -182798,7 +182932,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12855,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12855,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12855,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -182872,7 +183006,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12855,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12855,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12855,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12855,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -182909,8 +183044,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12855,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12855,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -182920,7 +183056,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12855,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12855,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12855,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12855,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12855,SUPPORT,Continue exploring,Продолжить исследование
 12855,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -183069,7 +183206,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12856,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12856,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12856,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -183143,7 +183280,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12856,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12856,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12856,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12856,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -183180,8 +183318,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12856,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12856,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -183191,7 +183330,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12856,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12856,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12856,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12856,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12856,SUPPORT,Continue exploring,Продолжить исследование
 12856,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -183340,7 +183480,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12857,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12857,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12857,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -183414,7 +183554,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12857,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12857,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12857,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12857,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -183451,8 +183592,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12857,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12857,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -183462,7 +183604,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12857,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12857,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12857,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12857,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12857,SUPPORT,Continue exploring,Продолжить исследование
 12857,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -183611,7 +183754,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12858,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12858,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12858,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -183685,7 +183828,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12858,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12858,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12858,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12858,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -183722,8 +183866,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12858,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12858,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -183733,7 +183878,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12858,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12858,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12858,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12858,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12858,SUPPORT,Continue exploring,Продолжить исследование
 12858,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -183882,7 +184028,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12859,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12859,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12859,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -183956,7 +184102,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12859,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12859,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12859,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12859,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -183993,8 +184140,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12859,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12859,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -184004,7 +184152,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12859,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12859,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12859,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12859,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12859,SUPPORT,Continue exploring,Продолжить исследование
 12859,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -184153,7 +184302,7 @@ professor here.","Кхм. Исправляюсь. Меня зовут Дмитр
 Бладуд."
 12860,SUPPORT,"Delightful news. I still have much to learn, but I'm
 confident I could benefit greatly from your guidance.","Я принц Священного Королевства Фаэргус...
-но здесь я всего лишь один из студентов."
+Но здесь я всего лишь один из студентов."
 12860,SUPPORT,"In any case, welcome to the monastery.","Мне ещё предстоит многому научиться — 
 рассчитываю на ваше наставничество, учитель."
 12860,SUPPORT,"Well, well! It must be my lucky day today, being
@@ -184227,7 +184376,8 @@ want to remember it.","Моё имя — Лоренц Герман Глосте�
 12860,SUPPORT,"Are you someone's guest? The dining hall's that way
 if that's what you're looking for.","Вы в гости приехали? Если вы ищете столовую,
 то она вон там."
-12860,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина. Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
+12860,SUPPORT,"No, Raphael. That's Captain Jeralt's kid.","А вот и нет, дурачина.
+Вы же $EK00сын$EL00дочь$EM00 мастера Джеральта, верно?"
 12860,SUPPORT,"Hi, I'm Leonie Pinelli—Captain Jeralt's first and
 greatest apprentice! I'm sure he's told you about me?","Я Леони Пинели. Первая и лучшая ученица мастера
 Джеральта. Интересно, помнит ли он обо мне..."
@@ -184264,8 +184414,9 @@ Leicester Alliance.","В доме Золотых Оленей учатся ст�
 Лестерского Альянса."
 12860,SUPPORT,"Our house leader is heir to the Alliance's
 leadership, House Riegan. We have plenty
-of other prominent nobles as well!","Наш староста — Клод, наследник семьи, правящей Альянсом. 
-Ещё у нас учатся много других наследников знатных семей!"
+of other prominent nobles as well!","Наш староста — Клод, наследник семьи, руководящей
+Альянсом. Ещё у нас учатся много других наследников
+знатных семей!"
 12860,SUPPORT,"I assume you are already aware that you will be
 teaching here at the Officers Academy. Correct?","Полагаю, тебе уже известно о том, что ты будешь
 преподавать в Офицерской академии?"
@@ -184275,7 +184426,8 @@ acquaint yourself with your new home.","Для начала стоит пого�
 домов и в целом ознакомиться с академией."
 12860,SUPPORT,"That is your first task here at the monastery.
 Please let me know if you accept it.",Это твоя первая обязанность в монастыре.
-12860,SUPPORT,"Once you have finished, come and speak with me.","Пожалуйста, как исполнишь её, возвращайся ко мне."
+12860,SUPPORT,"Once you have finished, come and speak with me.","Как исполнишь мою просьбу, пожалуйста, возвращайся
+ко мне."
 12860,SUPPORT,(I suppose I should return to Rhea...),"(Наверное, пора вернуться к Рее...)"
 12860,SUPPORT,Continue exploring,Продолжить исследование
 12860,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
@@ -184863,7 +185015,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12865,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12865,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12865,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12865,SUPPORT,Your first task...,Ваше первое задание...
+12865,SUPPORT,Your first task...,Твоё первое задание...
 12866,SUPPORT,I expect greatness from you...,Я ожидаю от вас благородства...
 12866,SUPPORT,Have you heard?,Вы слышали?
 12866,SUPPORT,"You haven't had time to settle in, have you?","Ещё не успели освоиться, да?"
@@ -186145,7 +186297,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12891,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12891,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12891,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12891,SUPPORT,Your first task...,Ваше первое задание...
+12891,SUPPORT,Your first task...,Твоё первое задание...
 12892,SUPPORT,...,...
 12892,SUPPORT,So reckless...,Так безрассудно...
 12892,SUPPORT,I have a request.,У меня есть просьба.
@@ -187042,7 +187194,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12908,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12908,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12908,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12908,SUPPORT,Your first task...,Ваше первое задание...
+12908,SUPPORT,Your first task...,Твоё первое задание...
 12909,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12909,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12909,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187105,7 +187257,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12909,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12909,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12909,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12909,SUPPORT,Your first task...,Ваше первое задание...
+12909,SUPPORT,Your first task...,Твоё первое задание...
 12910,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12910,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12910,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187168,7 +187320,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12910,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12910,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12910,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12910,SUPPORT,Your first task...,Ваше первое задание...
+12910,SUPPORT,Your first task...,Твоё первое задание...
 12911,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12911,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12911,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187231,7 +187383,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12911,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12911,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12911,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12911,SUPPORT,Your first task...,Ваше первое задание...
+12911,SUPPORT,Your first task...,Твоё первое задание...
 12912,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12912,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12912,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187294,7 +187446,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12912,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12912,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12912,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12912,SUPPORT,Your first task...,Ваше первое задание...
+12912,SUPPORT,Your first task...,Твоё первое задание...
 12913,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12913,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12913,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187357,7 +187509,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12913,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12913,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12913,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12913,SUPPORT,Your first task...,Ваше первое задание...
+12913,SUPPORT,Your first task...,Твоё первое задание...
 12914,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12914,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12914,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187420,7 +187572,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12914,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12914,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12914,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12914,SUPPORT,Your first task...,Ваше первое задание...
+12914,SUPPORT,Your first task...,Твоё первое задание...
 12915,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12915,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12915,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187483,7 +187635,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12915,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12915,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12915,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12915,SUPPORT,Your first task...,Ваше первое задание...
+12915,SUPPORT,Your first task...,Твоё первое задание...
 12916,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12916,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12916,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187546,7 +187698,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12916,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12916,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12916,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12916,SUPPORT,Your first task...,Ваше первое задание...
+12916,SUPPORT,Your first task...,Твоё первое задание...
 12917,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12917,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12917,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187609,7 +187761,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12917,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12917,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12917,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12917,SUPPORT,Your first task...,Ваше первое задание...
+12917,SUPPORT,Your first task...,Твоё первое задание...
 12918,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12918,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12918,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187672,7 +187824,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12918,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12918,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12918,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12918,SUPPORT,Your first task...,Ваше первое задание...
+12918,SUPPORT,Your first task...,Твоё первое задание...
 12919,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12919,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12919,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187735,7 +187887,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12919,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12919,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12919,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12919,SUPPORT,Your first task...,Ваше первое задание...
+12919,SUPPORT,Your first task...,Твоё первое задание...
 12920,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12920,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12920,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187798,7 +187950,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12920,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12920,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12920,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12920,SUPPORT,Your first task...,Ваше первое задание...
+12920,SUPPORT,Your first task...,Твоё первое задание...
 12921,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12921,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12921,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187861,7 +188013,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12921,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12921,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12921,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12921,SUPPORT,Your first task...,Ваше первое задание...
+12921,SUPPORT,Your first task...,Твоё первое задание...
 12922,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12922,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12922,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187924,7 +188076,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12922,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12922,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12922,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12922,SUPPORT,Your first task...,Ваше первое задание...
+12922,SUPPORT,Your first task...,Твоё первое задание...
 12923,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12923,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12923,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -187987,7 +188139,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12923,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12923,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12923,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12923,SUPPORT,Your first task...,Ваше первое задание...
+12923,SUPPORT,Your first task...,Твоё первое задание...
 12924,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12924,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12924,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188050,7 +188202,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12924,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12924,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12924,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12924,SUPPORT,Your first task...,Ваше первое задание...
+12924,SUPPORT,Your first task...,Твоё первое задание...
 12925,SUPPORT,$NONE,$NONE
 12925,SUPPORT,This isn't good...,Вот незадача...
 12925,SUPPORT,I wonder if someone will help.,Вот бы кто-нибудь помог.
@@ -188122,7 +188274,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12927,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12927,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12927,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12927,SUPPORT,Your first task...,Ваше первое задание...
+12927,SUPPORT,Your first task...,Твоё первое задание...
 12928,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12928,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12928,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188185,7 +188337,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12928,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12928,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12928,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12928,SUPPORT,Your first task...,Ваше первое задание...
+12928,SUPPORT,Your first task...,Твоё первое задание...
 12929,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12929,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12929,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188248,7 +188400,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12929,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12929,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12929,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12929,SUPPORT,Your first task...,Ваше первое задание...
+12929,SUPPORT,Your first task...,Твоё первое задание...
 12930,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12930,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12930,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188311,7 +188463,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12930,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12930,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12930,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12930,SUPPORT,Your first task...,Ваше первое задание...
+12930,SUPPORT,Your first task...,Твоё первое задание...
 12931,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12931,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12931,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188374,7 +188526,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12931,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12931,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12931,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12931,SUPPORT,Your first task...,Ваше первое задание...
+12931,SUPPORT,Your first task...,Твоё первое задание...
 12932,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12932,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12932,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188437,7 +188589,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12932,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12932,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12932,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12932,SUPPORT,Your first task...,Ваше первое задание...
+12932,SUPPORT,Your first task...,Твоё первое задание...
 12933,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12933,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12933,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188500,7 +188652,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12933,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12933,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12933,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12933,SUPPORT,Your first task...,Ваше первое задание...
+12933,SUPPORT,Your first task...,Твоё первое задание...
 12934,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12934,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12934,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188563,7 +188715,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12934,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12934,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12934,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12934,SUPPORT,Your first task...,Ваше первое задание...
+12934,SUPPORT,Your first task...,Твоё первое задание...
 12935,SUPPORT,$NONE,$NONE
 12935,SUPPORT,It's gone! GONE!,Всё пропало! Пропало!
 12935,SUPPORT,Tell me when you find it!,"Скажите, когда найдёте!"
@@ -188634,7 +188786,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12940,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12940,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12940,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12940,SUPPORT,Your first task...,Ваше первое задание...
+12940,SUPPORT,Your first task...,Твоё первое задание...
 12941,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12941,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12941,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188697,7 +188849,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12941,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12941,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12941,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12941,SUPPORT,Your first task...,Ваше первое задание...
+12941,SUPPORT,Your first task...,Твоё первое задание...
 12942,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12942,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12942,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188760,7 +188912,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12942,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12942,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12942,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12942,SUPPORT,Your first task...,Ваше первое задание...
+12942,SUPPORT,Your first task...,Твоё первое задание...
 12943,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12943,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12943,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188823,7 +188975,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12943,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12943,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12943,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12943,SUPPORT,Your first task...,Ваше первое задание...
+12943,SUPPORT,Your first task...,Твоё первое задание...
 12944,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12944,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12944,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -188886,7 +189038,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12944,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12944,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12944,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12944,SUPPORT,Your first task...,Ваше первое задание...
+12944,SUPPORT,Your first task...,Твоё первое задание...
 12945,SUPPORT,You can't go past here.,Вам сюда нельзя.
 12945,SUPPORT,Please help.,"Пожалуйста, помогите."
 12945,SUPPORT,Help me...,Помогите...
@@ -188969,7 +189121,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12946,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12946,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12946,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12946,SUPPORT,Your first task...,Ваше первое задание...
+12946,SUPPORT,Your first task...,Твоё первое задание...
 12947,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12947,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12947,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189032,7 +189184,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12947,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12947,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12947,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12947,SUPPORT,Your first task...,Ваше первое задание...
+12947,SUPPORT,Your first task...,Твоё первое задание...
 12948,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12948,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12948,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189095,7 +189247,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12948,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12948,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12948,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12948,SUPPORT,Your first task...,Ваше первое задание...
+12948,SUPPORT,Your first task...,Твоё первое задание...
 12949,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12949,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12949,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189158,7 +189310,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12949,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12949,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12949,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12949,SUPPORT,Your first task...,Ваше первое задание...
+12949,SUPPORT,Your first task...,Твоё первое задание...
 12950,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12950,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12950,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189221,7 +189373,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12950,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12950,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12950,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12950,SUPPORT,Your first task...,Ваше первое задание...
+12950,SUPPORT,Your first task...,Твоё первое задание...
 12951,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12951,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12951,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189284,7 +189436,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12951,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12951,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12951,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12951,SUPPORT,Your first task...,Ваше первое задание...
+12951,SUPPORT,Your first task...,Твоё первое задание...
 12952,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12952,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12952,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189347,7 +189499,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12952,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12952,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12952,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12952,SUPPORT,Your first task...,Ваше первое задание...
+12952,SUPPORT,Your first task...,Твоё первое задание...
 12953,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12953,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12953,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189410,7 +189562,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12953,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12953,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12953,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12953,SUPPORT,Your first task...,Ваше первое задание...
+12953,SUPPORT,Your first task...,Твоё первое задание...
 12954,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12954,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12954,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189473,7 +189625,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12954,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12954,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12954,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12954,SUPPORT,Your first task...,Ваше первое задание...
+12954,SUPPORT,Your first task...,Твоё первое задание...
 12955,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12955,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12955,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189536,7 +189688,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12955,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12955,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12955,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12955,SUPPORT,Your first task...,Ваше первое задание...
+12955,SUPPORT,Your first task...,Твоё первое задание...
 12956,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12956,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12956,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189599,7 +189751,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12956,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12956,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12956,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12956,SUPPORT,Your first task...,Ваше первое задание...
+12956,SUPPORT,Your first task...,Твоё первое задание...
 12957,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12957,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12957,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189662,7 +189814,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12957,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12957,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12957,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12957,SUPPORT,Your first task...,Ваше первое задание...
+12957,SUPPORT,Your first task...,Твоё первое задание...
 12958,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12958,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12958,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189725,7 +189877,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12958,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12958,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12958,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12958,SUPPORT,Your first task...,Ваше первое задание...
+12958,SUPPORT,Your first task...,Твоё первое задание...
 12959,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12959,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12959,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189788,7 +189940,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12959,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12959,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12959,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12959,SUPPORT,Your first task...,Ваше первое задание...
+12959,SUPPORT,Your first task...,Твоё первое задание...
 12960,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12960,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12960,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189851,7 +190003,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12960,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12960,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12960,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12960,SUPPORT,Your first task...,Ваше первое задание...
+12960,SUPPORT,Your first task...,Твоё первое задание...
 12961,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12961,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12961,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189914,7 +190066,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12961,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12961,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12961,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12961,SUPPORT,Your first task...,Ваше первое задание...
+12961,SUPPORT,Your first task...,Твоё первое задание...
 12962,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12962,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12962,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -189977,7 +190129,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12962,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12962,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12962,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12962,SUPPORT,Your first task...,Ваше первое задание...
+12962,SUPPORT,Your first task...,Твоё первое задание...
 12963,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12963,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12963,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -190040,7 +190192,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12963,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12963,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12963,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12963,SUPPORT,Your first task...,Ваше первое задание...
+12963,SUPPORT,Your first task...,Твоё первое задание...
 12964,SUPPORT,This is my laboratory.,Это моя лаборатория.
 12964,SUPPORT,"Oh, here to visit?","О, вы ко мне?"
 12964,SUPPORT,Welcome to the library.,Добро пожаловать в библиотеку.
@@ -190103,7 +190255,7 @@ knights. If you do need my help, let's talk later.","Я занят важным 
 12964,SUPPORT,Ferdinand's smile makes me melt.,Я таю от улыбки Фердинанда.
 12964,SUPPORT,Hubert's so cute. I love broody boys.,Хьюберт такой милый. Люблю задумчивых.
 12964,SUPPORT,The professors' rooms are on the 2nd floor.,Кабинеты преподавателей на втором этаже.
-12964,SUPPORT,Your first task...,Ваше первое задание...
+12964,SUPPORT,Your first task...,Твоё первое задание...
 12965,SUPPORT,You can't go past here.,Вам сюда нельзя.
 12965,SUPPORT,Please help.,"Пожалуйста, помогите."
 12965,SUPPORT,Help me...,Помогите...
@@ -193107,7 +193259,7 @@ Black Eagles?","Надеюсь, вам уже довелось со всеми �
 3,MSGDATA,"Me? Well...some think I'm a bit distant. Arrogant,
 even. But there's little to be done. One day, I must
 rise to become Adrestia's next emperor.","Я? По мне всё и так очевидно. Может, вы сочтёте меня 
-нескромной, но я всё-таки следующий Император."
+высокомерной, но я всё-таки следующий Император."
 3,MSGDATA,"What else... Well, it seems to me that we may have
 similar personalities.","Что ещё? Ну, мне почему-то кажется, что мы с вами
 поладим."
@@ -193164,7 +193316,7 @@ but Dorothea is an exception.","Немногие простолюдины при
 3,MSGDATA,"She's a songstress from a famous opera company in
 the Empire. I'm not entirely sure what brought her
 to the Officers Academy.","Она — певица, гордость знаменитой в столице 
-Империи оперной труппы... не знаю, для чего 
+Империи оперной труппы... Не знаю, для чего 
 она поступила в Офицерскую академию."
 3,MSGDATA,"To the west of Fódlan is an archipelago called Brigid.
 Petra is the granddaughter of their king.","К западу от Фодлана находится архипелаг Бригид.
@@ -193258,9 +193410,9 @@ fancies himself a lady's man.","Он — наследник графа Глос�
 жеманный ловелас."
 3,MSGDATA,"That said, deep down he's really devoted and
 honest... Though I wouldn't mind never hearing
-him talk about his noble obligations ever again.","Но несмотря на это, можно сказать, что
-в глубине души он добропорядочный человек...
-который не замолкает об обязанностях знати."
+him talk about his noble obligations ever again.","Но несмотря на это, можно сказать, что в глубине
+души он добропорядочный человек, который не
+замолкает об обязанностях знати."
 3,MSGDATA,"He comes from a merchant family, but his parents
 died in an accident. Seems like he's had a rough life.","Он из семьи купцов, но его родители погибли в
 результате несчастного случая. Похоже, у него 
@@ -194306,7 +194458,7 @@ weaknesses, and affinity for one another.","Результат группово�
 run out. Press the L Button to do so.","Обычно стоит закончить исследование, когда очки активности
 исчерпаны. Для этого нажмите кнопку L."
 3,MSGDATA,"Access the Items menu to use, store, take, or swap items for your units.
-Items that cannot be carried will be sent to the convoy.","Откройте меню ""Предметы"", чтобы использовать, хранить, брать
+Items that cannot be carried will be sent to the convoy.","Откройте меню Предметы, чтобы использовать, хранить, брать
 или перемещать предметы ваших юнитов. Вещи, которые нельзя брать
 с собой, будут отправлены на склад."
 3,MSGDATA,"Access the Abilities and Combat Arts menus to equip your units with
@@ -194837,11 +194989,11 @@ Your current objectives will be displayed there.","Если вы не увере
 экрана. Там будут отображаться ваши текущие цели."
 3,MSGDATA,"Quests are tasks given to you by people around the monastery.
 Those who can give or are involved with quests will have icons by them.","В монастыре можно брать задания у людей, над которыми
-отображается специальный значок задания."
+отображается специальный символ задания."
 3,MSGDATA,"Consult the Quests menu to see the quests you have accepted. The icons
-beside each quest indicate their status. Icons for essential quests are red.","Откройте меню ""Задания"", чтобы увидеть принятые задания.
-Значки рядом с каждым заданием показывают его статус.
-Значки для обязательных заданий имеют красный
+beside each quest indicate their status. Icons for essential quests are red.","Откройте меню Задания, чтобы увидеть принятые задания.
+Символы рядом с каждым заданием показывают его статус.
+Символы для обязательных заданий имеют красный
 восклицательный знак."
 3,MSGDATA,"The minimap in the upper-right corner of the screen shows your current
 location, the locations of important people, the direction to quest givers,
