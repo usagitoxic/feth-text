@@ -58186,10 +58186,11 @@ what to live for anymore...","Тяжёлые времена... Моя любим
 1,MSGDATA,Why not look for a similar food cart?,Почему бы не поискать похожую палатку?
 1,MSGDATA,"The ladies have been giving me the cold shoulder, of late.
 I believe it is because they are intimidated by my
-noble presence. How can I be more...accessible?","В последнее время дамы холодно ко мне относятся. Я полагаю, потому что их пугает мое
-благородное присутствие. Как мне быть более... доступным?"
-1,MSGDATA,Talk more about their interests. That will ease the tension.,Больше говори об их интересах. Это снизит напряжённость.
-1,MSGDATA,"Do something silly, or tell a joke. Make them laugh.","Сделай что-нибудь глупое, или расскажи анекдот. Пусть посмеются."
+noble presence. How can I be more...accessible?","В последнее время дамы холодно ко мне относятся.
+Я полагаю, это потому что их пугает мое благородное
+происхождение. Как мне быть более... интересным?"
+1,MSGDATA,Talk more about their interests. That will ease the tension.,Больше говори об интересах. Это снизит напряжённость.
+1,MSGDATA,"Do something silly, or tell a joke. Make them laugh.",Сделай что-нибудь глупое. Пусть посмеются.
 1,MSGDATA,"Sounds like it's their problem, not yours.","Похоже, это их проблема, а не твоя."
 1,MSGDATA,"I have always been confident in my exceptional skill, but...
 lately I will admit I have experienced some minor doubts.
@@ -67658,7 +67659,8 @@ a sense of humor, Professor.","Ха-ха-ха! Очаровательная шу
 что у вас есть чувство юмора."
 11381,SUPPORT,I'll tell you all about it...some other time.,Я расскажу вам об этом... В другой раз.
 11382,SUPPORT,"Hey, Teach. On the way back, you seemed transfixed
-by the canyon.","Эй, препод. По дороге обратно, вы, словно замерли в каньоне."
+by the canyon.","Эй, учитель. По дороге обратно, вы, словно замерли
+в каньоне."
 11382,SUPPORT,Did something happen there?,Там что-то случилось?
 11382,SUPPORT,It's nothing.,Ничего.
 11382,SUPPORT,Actually...,Вообще-то...
@@ -71800,8 +71802,8 @@ wonderful things.","Да какое это пиршество, если ты н�
 Laugh all you want.","Это не совсем то, что я сказала, но... Ох, забудьте.
 Смейтесь сколько хотите."
 11437,SUPPORT,"Oh, if you insist! Hahahaha! Hey, Teach. Looks like
-you're having a good time, too.","О, так вы настаиваете? Ха-ха-ха-ха! Эй, препод. Кажется,
-вам тоже весело."
+you're having a good time, too.","О, так вы настаиваете? Ха-ха-ха-ха! Эй, учитель.
+Кажется, вам тоже весело."
 11437,SUPPORT,"Seeing you smile like that means we've got no choice
 but to have a great time tonight. Let's get going!","Видя вашу улыбку, понимаю, что у нас нет другого выбора.
 Мы должны сегодня повеселиться. Ну, вперёд!"
@@ -76232,7 +76234,7 @@ mythology is true?","И про Сейрос с Немезисом... Наско�
 so much still unknown.","Верно. Но к счастью для меня, я отказываюсь умирать
 пока всё это не узнаю."
 11498,SUPPORT,"Hey, Teach... All joking aside. Can we possibly
-survive this battle?","Эй, препод... Шутки в сторону. Мы вообще сможем
+survive this battle?","Эй, учитель... Шутки в сторону. Мы вообще сможем
 пережить эту резню?"
 11498,SUPPORT,We'll find a way.,Мы что-нибудь придумаем.
 11498,SUPPORT,I don't know.,Я не знаю.
@@ -79248,9 +79250,9 @@ Maybe someone will show up after all.","Давайте ещё немного п�
 кто-нибудь и появится."
 11536,SUPPORT,"Hey, Teach... Just waiting around sounds boring,
 so why don't we get in some exercise. You know,
-help with digestion and stuff.","Эй, препод... Просто сидеть и ждать так скучно. Может
-какие-нибудь упражнения поделаем? Типа, это для
-пищеварения полезно..."
+help with digestion and stuff.","Эй, учитель... Просто сидеть и ждать так скучно.
+Может какие-нибудь упражнения поделаем? Типа,
+это для пищеварения полезно..."
 11536,SUPPORT,"You must be in bad shape if you've been sleeping
 for five years. It'll do you good to get your body
 moving again.","Раз вы пять лет спали, значит физическая форма у вас
@@ -91886,8 +91888,8 @@ a future to promise to someone.","Есть такие вещи, которые �
 11707,SUPPORT,We should head back soon.,Нам скоро нужно будет вернуться.
 11707,SUPPORT,It's rude of me to keep you all to myself.,С моей стороны жестоко держать вас всех при себе.
 11707,SUPPORT,"Shall we, Professor?","Стоит ли, профессор?"
-11708,SUPPORT,"Hey, Teach. I see you're as stony-faced as usual.","Эй, препод. Смотрю, лицо у вас всё такое же каменное,
-как и всегда в общем-то."
+11708,SUPPORT,"Hey, Teach. I see you're as stony-faced as usual.","Эй, учитель. Вижу, вы по-прежнему невозмутимы
+как скала."
 11708,SUPPORT,"Hmm. I can't tell if you're feeling resigned or if
 you're just lost in thought. Or maybe you simply
 don't care about anything that's going on.","Хм, не могу даже точно сказать, спокойны Вы или же
@@ -91939,8 +91941,8 @@ to battlefield with your father then.","Понял. В таком случае, 
 от битвы к битве вместе со своим отцом."
 11708,SUPPORT,"You know, for someone who's right around the same
 age as me, you certainly have an unusual amount
-of composure.","Знаете, для человека примерно моего возраста, Вы
-ужасненько хладнокровны."
+of composure.","Знаете, для человека примерно моего возраста
+у вас необыкновенно много самообладания."
 11708,SUPPORT,"I guess it's only natural that you'd be different from
 young nobles who grew up in the lap of luxury.","Мне кажется это нормально. Ведь, в отличие от молодых
 дворян, вы в роскоши не росли."
@@ -92192,7 +92194,7 @@ Maybe that's because the night sky took
 their place for me.","В детстве я не верил в богов. Может,
 это потому, что их место для меня
 заняло ночное небо."
-11711,SUPPORT,"Hey, Teach... Will you talk with me a while?","Эй, препод... Поговорите со мной немного?"
+11711,SUPPORT,"Hey, Teach... Will you talk with me a while?","Эй, учитель... Поговорите со мной немного?"
 11711,SUPPORT,"I bet you've figured this out, but I wasn't born
 in Fódlan.","Наверняка вы уже догадались, но
 родился я не в Фодлане."
@@ -99580,9 +99582,9 @@ in a pinch.","Какая удача. Вы хоть и чудны, но, по к�
 11809,SUPPORT,Sure. Then what were you thinking about?,Ага. Тогда о чем же Вы думали? 
 11809,SUPPORT,Ha! Not as much as you!,Ха! Вас в этом не перегнать!
 11809,SUPPORT,"It's hard to tell what's going on in that skull
-of yours.","Как же трудно понять, что происходит
-в Вашей черепушке."
-11809,SUPPORT,Your expression is always blank. Come on... Smile!,"На Вашем лице нкогда не увидеть эмоций
+of yours.","Сложно понять, что происходит в вашей
+голове."
+11809,SUPPORT,Your expression is always blank. Come on... Smile!,"На вашем лице никогда нет эмоций.
 Ну же... Улыбнитесь!"
 11809,SUPPORT,I was just playing around! Don't get mad.,Я просто пошутила! Сердиться не надо.
 11809,SUPPORT,"By the way, in the next battle, may I focus on
@@ -110020,15 +110022,14 @@ it should—","А, кажется, понимаю... Если объединит
 Isn't it past your bedtime?","Привет. Всё еще учишься? Разве тебе не пора
 спать?"
 11950,SUPPORT,"Claude, I really don't appreciate you interrupting me
-right now.","Клод, ты меня сейчас правда невовремя
+right now.","Клод, мне совершенно не нравится, что ты меня
 перебиваешь."
 11950,SUPPORT,"Ah, but if you don't get your sleep, you're never
 going to grow big and strong!","Но если ты не выспишься, то никогда не
 вырастешь большой и сильной!"
 11950,SUPPORT,"Uh-huh. The last thing I need is you fretting over me
-as though I'm some child.","Ага-ага. Последнее, что мне нужно, это то,
-чтобы ты беспокоился обо мне слово о
-ребёнке."
+as though I'm some child.","Ага-ага. Меньше всего мне нужно, чтобы
+ты опекал меня как ребенка"
 11950,SUPPORT,"I'm only a few years younger than you, you know.
 Hardly worth noting.","Я всего на несколько лет моложе тебя,
 знаешь ли. Едва ли стоит замечать."
@@ -110050,8 +110051,8 @@ get yourself ready for bed. I could read you a story,
 if that helps?","Пойдём, принцесса. Почисти зубки и приготовься
 ко сну. Я могу прочитать тебе сказку, нужно?"
 11950,SUPPORT,"Ugh, the audacity! Whatever it is you think you're
-treating me like, it's unendingly annoying.","Ах, дерзость! Какую тактику обращения со мной
-ты не выбрал, любая меня безмерно раздражает."
+treating me like, it's unendingly annoying.","Ах, дерзость! Какую бы тактику общения ты со
+мной не выбрал, любая меня безмерно раздражает."
 11950,SUPPORT,"If a child and a princess are out, what's left?
 Should I treat you as a noble hero?","Если не как с ребёнком и не как с принцессой,
 то как к кому? Мне относиться к тебе как
