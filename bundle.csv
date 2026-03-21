@@ -947,8 +947,8 @@ fulfilled the necessary requirements.","Этот юнит не выполнил 
 so this class cannot be selected.","Этот юнит не имеет соответствующей сертификации
 для выбора этого класса."
 0,MSGDATA,"Received $%d1 G from the Church of Seiros as
-funding for this month's activities.","Получено $%d1 З от церкви Сейрос
-в качестве ежемесячного финансирования."
+funding for this month's activities.","Получено денежное довольствие от Церкви Сейрос
+на мероприятия этой луны в размере: $%d1 З."
 0,MSGDATA,Black Eagle House,Дом Чёрных Орлов
 0,MSGDATA,Blue Lion House,Дом Синих Львов
 0,MSGDATA,Golden Deer House,Дом Золотых Оленей
