@@ -962,7 +962,7 @@ funding for this month's activities.","Получено денежное дов�
 0,MSGDATA,Replenish,Восполнить
 0,MSGDATA,"You can't talk to anyone because
 you don't have enough Activity Points. ","Вы не можете ни с кем поговорить, так как
-у Вас недостаточно очков активности. "
+у вас недостаточно очков активности."
 0,MSGDATA,Gender,Пол
 0,MSGDATA,Age,Возраст
 0,MSGDATA,Height,Рост
@@ -11345,7 +11345,7 @@ simulate real battlefield conditions.","Учебная битва с рыцар�
 0,MSGDATA,Balthus,Бальтазар
 0,MSGDATA,Constance,Констанция
 0,MSGDATA,Hapi,Хапи
-0,MSGDATA,Aelfric,Элфрик
+0,MSGDATA,Aelfric,Альфард
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -18463,19 +18463,19 @@ using gambits.","Навык для командования отрядами
 0,MSGDATA,Agarthan Technology,Агартанская технология
 0,MSGDATA,Blade Breaker,Крушитель клинков
 0,MSGDATA,Lucky Seven,Счастливая семёрка
-0,MSGDATA,Transmute,Преобразовать
+0,MSGDATA,Transmute,Преобразование
 0,MSGDATA,TBD,TBD
 0,MSGDATA,Honorable Spirit,Благородный дух
 0,MSGDATA,King of Grappling,Король драк
 0,MSGDATA,Circadian Beat,Циркадный ритм
 0,MSGDATA,Monstrous Appeal,Привлечение чудищ
 0,MSGDATA,Business Prosperity,Экономическое процветание
-0,MSGDATA,Umbral Leech,
-0,MSGDATA,Manifest Phantom,
-0,MSGDATA,Enhanced Fortitude,
+0,MSGDATA,Umbral Leech,Красная энергия
+0,MSGDATA,Manifest Phantom,Призраки любви
+0,MSGDATA,Enhanced Fortitude,Боль одиночества
 0,MSGDATA,TBD,TBD
-0,MSGDATA,Duelist's Blow,
-0,MSGDATA,Uncanny Blow,
+0,MSGDATA,Duelist's Blow,Удар потока
+0,MSGDATA,Uncanny Blow,Зоркий удар
 0,MSGDATA,TBD,TBD
 0,MSGDATA,TBD,TBD
 0,MSGDATA,TBD,TBD
@@ -19081,22 +19081,29 @@ during combat.","Стоящие вплотную враги наносят на 
 for 1 turn after combat.","Если юнит наносит врагу урон, после битвы 
 враг получает Сил/Защ -6 на 1 ход. "
 0,MSGDATA,"Each turn, grants +5 to one of the following
-stats: Str, Mag, Spd, Def, Res, Hit, or Avo.",
+stats: Str, Mag, Spd, Def, Res, Hit, or Avo.","Каждый ход даёт прибавку +5 к одному из:
+Сила, Маг, Скор, Защ, Сопр, Точн, или Укл."
 0,MSGDATA,"If unit is hit with a magic attack during enemy
 phase, grants +3 to all stats until next player
-phase ends.",
+phase ends.","Если юнита атакуют магией в течение фазы
+врага, даёт +3 ко всем параметрам до конца
+следующей фазы игрока."
 0,MSGDATA,TBD,TBD
 0,MSGDATA,"If unit is not near an ally, grants Atk +3 when
-in combat with a foe one space away.",
+in combat with a foe one space away.","Если юнит не находится рядом с союзником,
+даёт Атк +3 в бою с врагом на расстоянии
+в одну клетку от юнита."
 0,MSGDATA,Grants Str/Def +6 when HP is ≤ 50%.,Даёт Сил/Защ +6 когда ОЗ ≤ 50%.
 0,MSGDATA,"Grants Str/Mag +3 when indoors
 and Def/Res +3 when outdoors.","Даёт Сил/Маг +3 в помещении
 и Защ/Сопр +3 на улице."
 0,MSGDATA,"Makes all attacks effective against monsters
-and makes it easier for monsters to target unit.",
+and makes it easier for monsters to target unit.","Все атаки эффективны против чудищ; чудища
+с большей вероятностью будут нападать на
+юнита."
 0,MSGDATA,Grants Lck +5. ,Даёт Удч +5.
-0,MSGDATA,Unit absorbs HP from phantoms.,
-0,MSGDATA,Unit births phantoms.,
+0,MSGDATA,Unit absorbs HP from phantoms.,Юнит поглощает ОЗ фантомов.
+0,MSGDATA,Unit births phantoms.,Юнит призывает фантомов.
 0,MSGDATA,"Halves all damage taken, negates some abilities
 and combat arts, and prevents unit from
 being moved.","Уменьшает вполовину весь получаемый урон, 
@@ -19821,7 +19828,7 @@ within a range based on Mag.","Перемещает союзника на цел
 0,MSGDATA,Sandstorm,Песчаная буря
 0,MSGDATA,Cyclone,Циклон
 0,MSGDATA,Wilted Flower,Увядший цветок
-0,MSGDATA,Umbral Surge,
+0,MSGDATA,Umbral Surge,Красный импульс
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -20134,7 +20141,9 @@ Centered on a point within range.","Игнорирует УКА врага. Ис
 Centered on a point within range.","Ошеломляет при попадании. Игнорирует УКА врага.
 Концентрируется на точке в определённой области."
 0,MSGDATA,"Full-body attack that deals damage = up to
-25% of foes' HP. Moves this unit and all foes.",
+25% of foes' HP. Moves this unit and all foes.","Атака всем телом, наносящая повреждения
+до 25% от макс. ОЗ врагов. Перемещает юнита
+и всех противников."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -20441,7 +20450,7 @@ Centered on a point within range.","Ошеломляет при попадани
 0,MSGDATA,Undecided,Undecided
 0,MSGDATA,Barrier,Барьер
 0,MSGDATA,Barrier,Барьер
-0,MSGDATA,Essence Barrier,
+0,MSGDATA,Essence Barrier,Барьер сущности
 0,MSGDATA,Undecided,Undecided
 0,MSGDATA,Undecided,Undecided
 0,MSGDATA,Undecided,Undecided
@@ -20641,10 +20650,10 @@ Remove it to inflict an armor break.","Пока цел, $C1Барьер$R сни
 0,MSGDATA,Seiros Archers,Лучники Сейрос
 0,MSGDATA,Essar Research Group,Группа исследователей Эссара
 0,MSGDATA,Holst's Chosen,Чемпионы Холста
-0,MSGDATA,Dahlman Guard,
-0,MSGDATA,Dahlman Magic Co.,
-0,MSGDATA,Dahlman Armored Group,
-0,MSGDATA,Dahlman PMC,
+0,MSGDATA,Dahlman Guard,Гвардия Дальман
+0,MSGDATA,Dahlman Magic Co.,Маги Дальман
+0,MSGDATA,Dahlman Armored Group,Тяжёлая пехота Дальман
+0,MSGDATA,Dahlman PMC,Наёмники Дальман
 0,MSGDATA,Spare,Пощадить
 0,MSGDATA,Spare,Пощадить
 0,MSGDATA,Spare,Пощадить
@@ -20657,11 +20666,11 @@ Remove it to inflict an armor break.","Пока цел, $C1Барьер$R сни
 0,MSGDATA,Iron King's Thieves,Воры железного короля
 0,MSGDATA,Gaspard Militia,Ополченцы Гаспара
 0,MSGDATA,Gaspard Knights,Рыцари Гаспара
-0,MSGDATA,West Church Corps,Войска Западной церкви
-0,MSGDATA,West Church Mercenaries,Наёмники Западной церкви
-0,MSGDATA,West Church Sages,Мудрецы западной церкви
-0,MSGDATA,West Church Pegasus Co.,Пегасы Западной церкви
-0,MSGDATA,West Church Knights,Рыцари Западной церкви
+0,MSGDATA,West Church Corps,Войска Западной Церкви
+0,MSGDATA,West Church Mercenaries,Наёмники Западной Церкви
+0,MSGDATA,West Church Sages,Мудрецы Западной Церкви
+0,MSGDATA,West Church Pegasus Co.,Пегасы Западной Церкви
+0,MSGDATA,West Church Knights,Рыцари Западной Церкви
 0,MSGDATA,Mysterious Infantry,Таинственная пехота
 0,MSGDATA,Mysterious Magic Corps,Таинственные маги
 0,MSGDATA,Mysterious Magic Users,Таинственные чародеи
@@ -20714,10 +20723,10 @@ Remove it to inflict an armor break.","Пока цел, $C1Барьер$R сни
 0,MSGDATA,Pirate Marksmen,Стрелки пиратов
 0,MSGDATA,West Church Archers,Лучники Западной церкви
 0,MSGDATA,Flame Emperor Co.,Отряд Пламенного императора
-0,MSGDATA,Mockingbird's Thieves,
-0,MSGDATA,Leicester Dicers Corps,
-0,MSGDATA,Nuvelle Fliers Corps,
-0,MSGDATA,Timotheos Magi Corps,
+0,MSGDATA,Mockingbird's Thieves,Отряд ‭«Волчьи клыки»
+0,MSGDATA,Leicester Dicers Corps,Лестерские рыцари
+0,MSGDATA,Nuvelle Fliers Corps,Воздушные маги Нувэль
+0,MSGDATA,Timotheos Magi Corps,Маги Тимофей
 0,MSGDATA,Thief Pegasus Corps,Пегасы воров
 0,MSGDATA,Pirate Pegasus Corps,Пегасы пиратов
 0,MSGDATA,Bandit Pegasus Corps,Пегасы бандитов
@@ -20961,12 +20970,15 @@ investigating Fódlan's many mysteries.","Загадочная организа�
 the Leicester region's greatest general.","Элитные воины тренированные лично Холстом,
 величайшим генералом Лестера."
 0,MSGDATA,"An elite battalion that serves Aelfric, comprised
-of proficient magic users.",
+of proficient magic users.","Элитный отряд, состоящий из опытных магов, 
+служащих Альфарду."
 0,MSGDATA,"A battalion of magic users under Aelfric's direct
-control, handpicked from the underworld.",
+control, handpicked from the underworld.","Отряд магов, отобранных из подземелья лично
+Альфардом и находящихся под его командованием."
 0,MSGDATA,"An elite battalion comprised of armored knights
-loyal to Aelfric.",
-0,MSGDATA,A private army Aelfric raised using his own funds.,
+loyal to Aelfric.","Элитный отряд, состоящий из рыцарей в доспехах,
+давших клятву верности Альфарду."
+0,MSGDATA,A private army Aelfric raised using his own funds.,"Личное войско, собранное за счёт Альфарда."
 0,MSGDATA,-,-
 0,MSGDATA,-,-
 0,MSGDATA,-,-
@@ -21073,13 +21085,17 @@ with the power of ancient technology.","Восставшие из мёртвых
 who have sworn fealty to the Flame Emperor.","Таинственный отряд тяжёлой пехоты, состоящий
 из вассалов Пламенного Императора."
 0,MSGDATA,"A battalion of rogues handpicked by Yuri for
-their exemplary talent.",
+their exemplary talent.","Отряд, отобранный Юрием из самых 
+искусных разбойников."
 0,MSGDATA,"A battalion of brawny gamblers from the
-Leicester region.",
+Leicester region.","Отряд жаждущих себя показать бродяг
+из Лестерского региона."
 0,MSGDATA,"Magic-wielding pegasus riders once employed
-by House Nuvelle before its fall.",
+by House Nuvelle before its fall.","Перспективный отряд магов на пегасах,
+бывший на службе дома Нувэль."
 0,MSGDATA,"Especially gifted magic users whose lives share
-some similarities with Hapi's.",
+some similarities with Hapi's.","Одарённые маги, чей жизненный путь чем-то
+похож на жизнь Хапи."
 0,MSGDATA,A battalion of pegasus-riding thieves.,Отряд воров на пегасах.
 0,MSGDATA,A battalion of pegasus-riding pirates.,Отряд пиратов на пегасах.
 0,MSGDATA,A battalion of pegasus-riding bandits.,Отряд бандитов на пегасах.
@@ -25313,13 +25329,13 @@ falls in battle.","$C1$S0$R, $C1Клод$R, $C1Юрий$R, $C1Констанци
 0,MSGDATA,Lucky Seven,Счастливая семёрка
 0,MSGDATA,Lucky Seven,Счастливая семёрка
 0,MSGDATA,Lucky Seven,Счастливая семёрка
-0,MSGDATA,Transmute,Преобразовать
-0,MSGDATA,Chalice's Protection,
-0,MSGDATA,Chalice's Preservation,
+0,MSGDATA,Transmute,Преобразование
+0,MSGDATA,Chalice's Protection,Защита Чаши
+0,MSGDATA,Chalice's Preservation,Оберег Чаши
 0,MSGDATA,Absolute Defense,Абсолютная защита
 0,MSGDATA,Battleground Café,Кафе на передовой
-0,MSGDATA,Blood Sacrifice,
-0,MSGDATA,Stirrings of Reason,
+0,MSGDATA,Blood Sacrifice,Жертва на крови
+0,MSGDATA,Stirrings of Reason,Смятение разума
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25414,18 +25430,21 @@ and speed increased.","Сила, магия, ловкость и
 0,MSGDATA,Speed increased.,Скорость увеличена.
 0,MSGDATA,Defense increased.,Защита увеличена.
 0,MSGDATA,Resistance increased.,Сопротивление увеличено.
-0,MSGDATA,Hit rate increased.,
-0,MSGDATA,Avoidance increased.,
+0,MSGDATA,Hit rate increased.,Точность повышена.
+0,MSGDATA,Avoidance increased.,Уклонение повышено.
 0,MSGDATA,Magic increased.,Магия увеличена.
-0,MSGDATA,Defense increased due to the Rite of Rising.,
-0,MSGDATA,Resistance increased due to the Rite of Rising.,
+0,MSGDATA,Defense increased due to the Rite of Rising.,Защита повышена после Обряда Вознесения.
+0,MSGDATA,Resistance increased due to the Rite of Rising.,Сопротивление повышено после Обряда Вознесения.
 0,MSGDATA,Defense increased.,Защита увеличена.
-0,MSGDATA,Strength reinforced.,
+0,MSGDATA,Strength reinforced.,Сила укреплена.
 0,MSGDATA,"Loses HP each turn until the Rite of Rising
-is stopped.",
+is stopped.","Потеря ОЗ каждый ход до остановки Обряда
+Вознесения."
 0,MSGDATA,"Umbral Surge has awakened a twinge of
 humanity deep within. Crit Avo reduced.
-Will not counterattack.",
+Will not counterattack.","Красный импульс пробудил в юните
+толику человечности. Укл от крит. урона
+уменьшено. Нет контратаки."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25557,7 +25576,7 @@ Will not counterattack.",
 0,MSGDATA,A Peculiar Trend,Своеобразная тенденция
 0,MSGDATA,A Peculiar Trend,Своеобразная тенденция
 0,MSGDATA,A Peculiar Trend,Своеобразная тенденция
-0,MSGDATA,Roster Retrieval,
+0,MSGDATA,Roster Retrieval,Возврат личных дел
 0,MSGDATA,Thieves at the Throat,
 0,MSGDATA,Banned Books,
 0,MSGDATA,Flowers for Her,
@@ -61079,11 +61098,17 @@ and you'll be rewarded.","Противники в дополнительных �
 1,MSGDATA,"You have heard tell of the secret roster, yes? It contains
 sensitive information about everyone that isn't available
 elsewhere. Alas, this precious document was stolen!
-You must recover it as soon as possible!",
+You must recover it as soon as possible!","Вы знаете о том, что были украдены секретные
+личные дела учеников? Если такая вещь будет
+обнародована, быть беде. Вы не считаете, что
+следует немедленно их вернуть?"
 1,MSGDATA,"A detailed roster of the Officers Academy has been stolen!
 Track down the thieves and recover the roster. It may
 provide extra information about those who haven't yet
-joined your house.",
+joined your house.","Из монастыря были украдены подробные личные дела 
+учеников. Отправляйтесь на задание и усмирите воров.
+Если вы вернёте личные дела, то сможете узнать больше
+об учениках, которые ещё не находятся в вашем классе."
 1,MSGDATA,Accepted Quest Character Message 126,Accepted Quest Character Message 126
 1,MSGDATA,Assistance needed to recover stolen personal information!,
 1,MSGDATA,カレンダーメッセージ１２５,カレンダーメッセージ１２５
@@ -62994,11 +63019,16 @@ and you'll be rewarded.",
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"What a relief! You know, you may find this useful as a
 resource in your work as an instructor. You'll prevent it
-from going missing again, I trust?",
+from going missing again, I trust?","От сердца отлегло... Эти личные дела могут пригодиться
+вам в преподавательской деятельности. Позаботьтесь
+о том, чтобы они оставались при вас, хорошо?"
 1,MSGDATA,"A detailed roster of the Officers Academy has been stolen!
 Track down the thieves and recover the roster. It may
 provide extra information about those who haven't yet
-joined your house.",
+joined your house.","Из монастыря были украдены подробные личные дела 
+учеников. Отправляйтесь на задание и усмирите воров.
+Если вы вернёте личные дела, то сможете узнать больше
+об учениках, которые ещё не находятся в вашем классе."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
