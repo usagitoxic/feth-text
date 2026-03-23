@@ -24359,14 +24359,14 @@ better for steady, reliable business opportunities, though.","Торговать
 лучше для стабильных взаимовыгодных возможностей."
 0,MSGDATA,"The only physicians willing to work underground are ones
 who charge exorbitant amounts for their services. For the
-sake of the sick and dying, how do I correct this?","Единственные лекари, готовые работать под землёй,
-берут немыслимые деньги за свои услуги. Как это
-изменить ради больных и умирающих?"
+sake of the sick and dying, how do I correct this?","Под землёй нет хороших лекарей. Вернее, есть,
+но они берут немыслимые деньги за свои услуги — 
+к ним никто не пойдёт. Как это исправить?"
 0,MSGDATA,"I may have the best of intentions, but I'm still a criminal.
 If the world I'm fighting for has guys like me in it, it's not
-a better one. When can I start over with a clean slate?","У меня чистые намерения, но я всё равно преступник. 
-Если в мире, за который я сражаюсь, будут такие как 
-я, это не лучший мир. Когда я могу начать заново?"
+a better one. When can I start over with a clean slate?","Зло есть зло. Я считаю, что миру не на пользу, если
+в нём преуспевают такие преступники, как я. 
+Настанет ли день, когда я порву с этим злом?"
 0,MSGDATA,"All my problems boil down to not having enough gold.
 It's gotten so bad that even when I actually get my hands
 on some, I don't know what to do with it.","Все мои проблемы сводятся к тому, что мне не хватает
@@ -24384,9 +24384,9 @@ firmament to my will. The clouds will obey my commands!","Я могу сказа
 своей воле небесный свод. Облака будут мне повиноваться!"
 0,MSGDATA,"I excel in any confrontation that involves magic, of course,
 but what should happen if my foe is resistant—or, dare I
-say it, immune? I am afraid I would be quite powerless!","Мне подвластна любая конфронтация, где играет роль
-магия, но что случится, если противник укреплён —
-или хуже, иммунен к магии? Я же останусь беспомощной!"
+say it, immune? I am afraid I would be quite powerless!","Я прекрасно владею магией, но рискую оказаться
+бессильной против противников, на которых магия
+не действует. Мне следует разработать план действий."
 0,MSGDATA,"So I write my problems here, and you fix them for me?
 Yeah, right. This is just a setup for some hokey self-help
 nonsense, isn't it?","Что мне тут писать? Про проблемы? А их кто-то
@@ -24548,12 +24548,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,You don't have to force yourself to be social.,Тебе не нужно принуждать себя к общению.
 0,MSGDATA,"Worrying is a waste of time, and time is money!","Волноваться — это трата времени, а время — деньги!"
 0,MSGDATA,Steady work is profitable work in the long term.,Стабильная работа — это прибыль на долгий срок.
-0,MSGDATA,Ask the church for help.,Попроси церковь о помощи.
-0,MSGDATA,It will happen. Have faith.,Всё будет. Верь.
+0,MSGDATA,Ask the church for help.,Обратись к Церкви за помощью.
+0,MSGDATA,It will happen. Have faith.,Теперь уже ты не должен отступать от своих убеждений.
 0,MSGDATA,"Next time you've got gold, I'll help you decide.",В следующий раз я помогу тебе избавиться от денег.
 0,MSGDATA,It's possible to fight without killing.,"Возможно вести бой, не убивая."
 0,MSGDATA,"That may actually be too much, even for you.","Даже для тебя это, наверное, слишком."
-0,MSGDATA,Leave that to an expert in physical weapons.,
+0,MSGDATA,Leave that to an expert in physical weapons.,Положись на мастеров в обращении с обычным оружием.
 0,MSGDATA,You could at least write me a good joke.,Можешь рассказать анекдот.
 0,MSGDATA,Everything changes—even the things that seem not to.,"Всё меняется — даже то, что казалось бы, не меняется."
 0,MSGDATA,$NONE,$NONE
@@ -24709,12 +24709,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,"I can take your place next time, if you like.","Я могу занять твоё место в следующий раз, если хочешь."
 0,MSGDATA,Try to think about things not related to money.,"Попробуй думать о вещах, не связанных с деньгами."
 0,MSGDATA,First-class merchants don't care about a source of profits.,Первоклассных торговцев не волнует источник прибыли.
-0,MSGDATA,There has to be a way to get physicians from the surface.,
-0,MSGDATA,It's possible that opportunity may never come.,
+0,MSGDATA,There has to be a way to get physicians from the surface.,"Может, стоит попытаться привести лекарей с поверхности."
+0,MSGDATA,It's possible that opportunity may never come.,"Наверное, это несбыточное желание."
 0,MSGDATA,One of the merchants is peddling a get-rich-quick scheme.,
 0,MSGDATA,This is war. It's kill or be killed.,"Это война. Убей, или будь убитым."
 0,MSGDATA,"Go on, then. Reach up and pull one down with your hand.",
-0,MSGDATA,Sounds like you still have training to do.,
+0,MSGDATA,Sounds like you still have training to do.,Тебе нужно тренироваться.
 0,MSGDATA,You can write whatever you want.,"Можешь писать, что угодно."
 0,MSGDATA,There are changes worth wishing for too.,
 0,MSGDATA,$NONE,$NONE
@@ -24870,12 +24870,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,There's no need to be worried about participating.,Не стоит беспокоиться об участии.
 0,MSGDATA,Don't worry—you haven't been misunderstood.,Не переживай — все всё правильно поняли.
 0,MSGDATA,It's a waste of time to anticipate trouble.,Ожидать неприятности — пустая трата времени.
-0,MSGDATA,Lower their prices by force.,
-0,MSGDATA,How about right now?,
+0,MSGDATA,Lower their prices by force.,Силой заставь лекарей снизить цены.
+0,MSGDATA,How about right now?,Порви с ним прямо сейчас.
 0,MSGDATA,Work harder and you'll earn more.,
 0,MSGDATA,I suppose you could retreat instead.,
 0,MSGDATA,"When I see you sleeping on one, I'll believe it.",
-0,MSGDATA,Take them on with your bare hands.,
+0,MSGDATA,Take them on with your bare hands.,Кулаки — лучшее оружие.
 0,MSGDATA,Pretty much.,Скорее всего.
 0,MSGDATA,We must all change to live and grow.,
 0,MSGDATA,$NONE,$NONE
@@ -34783,7 +34783,17 @@ Edelgard, as Ferdinand and Constance were quick to
 marry and merge their adjoining territories. The couple's
 diverse talents helped them overcome countless obstacles
 together, in pursuit of a restored land and a new social
-order for the Empire.",
+order for the Empire.","Тогда же, когда Фердинанд унаследовал титул герцога 
+Эгир, Констанции было дозволено восстановить виконтство 
+Нувэль на бывших землях Хрюм. Совсем скоро было 
+объявлено о браке Фердинанда и Констанции — и два
+их владения дали начало обновлённому герцогству Эгир. 
+Всё случилось так, как Эдельгард и предполагала — и эта 
+пара приступила к преобразованиям на своей территории, 
+как знатные люди из одного поколения. Говорили, что будучи 
+первопроходами в реформе классовой системы, рука об руку 
+они преодолели множество трудностей — порой при помощи 
+диковинной магии."
 0,MSGDATA,"After officially becoming the new Duke Aegir, Ferdinand
 found that he had a new neighbor in Constance, whose
 revived noble house was granted the old Hrym territory
