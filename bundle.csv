@@ -962,7 +962,7 @@ funding for this month's activities.","Получено денежное дов�
 0,MSGDATA,Replenish,Восполнить
 0,MSGDATA,"You can't talk to anyone because
 you don't have enough Activity Points. ","Вы не можете ни с кем поговорить, так как
-у Вас недостаточно очков активности. "
+у вас недостаточно очков активности."
 0,MSGDATA,Gender,Пол
 0,MSGDATA,Age,Возраст
 0,MSGDATA,Height,Рост
@@ -11345,7 +11345,7 @@ simulate real battlefield conditions.","Учебная битва с рыцар�
 0,MSGDATA,Balthus,Бальтазар
 0,MSGDATA,Constance,Констанция
 0,MSGDATA,Hapi,Хапи
-0,MSGDATA,Aelfric,Элфрик
+0,MSGDATA,Aelfric,Альфард
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -18463,19 +18463,19 @@ using gambits.","Навык для командования отрядами
 0,MSGDATA,Agarthan Technology,Агартанская технология
 0,MSGDATA,Blade Breaker,Крушитель клинков
 0,MSGDATA,Lucky Seven,Счастливая семёрка
-0,MSGDATA,Transmute,Преобразовать
+0,MSGDATA,Transmute,Преобразование
 0,MSGDATA,TBD,TBD
 0,MSGDATA,Honorable Spirit,Благородный дух
 0,MSGDATA,King of Grappling,Король драк
 0,MSGDATA,Circadian Beat,Циркадный ритм
 0,MSGDATA,Monstrous Appeal,Привлечение чудищ
 0,MSGDATA,Business Prosperity,Экономическое процветание
-0,MSGDATA,Umbral Leech,
-0,MSGDATA,Manifest Phantom,
-0,MSGDATA,Enhanced Fortitude,
+0,MSGDATA,Umbral Leech,Красная энергия
+0,MSGDATA,Manifest Phantom,Призраки любви
+0,MSGDATA,Enhanced Fortitude,Боль одиночества
 0,MSGDATA,TBD,TBD
-0,MSGDATA,Duelist's Blow,
-0,MSGDATA,Uncanny Blow,
+0,MSGDATA,Duelist's Blow,Удар потока
+0,MSGDATA,Uncanny Blow,Зоркий удар
 0,MSGDATA,TBD,TBD
 0,MSGDATA,TBD,TBD
 0,MSGDATA,TBD,TBD
@@ -19081,22 +19081,29 @@ during combat.","Стоящие вплотную враги наносят на 
 for 1 turn after combat.","Если юнит наносит врагу урон, после битвы 
 враг получает Сил/Защ -6 на 1 ход. "
 0,MSGDATA,"Each turn, grants +5 to one of the following
-stats: Str, Mag, Spd, Def, Res, Hit, or Avo.",
+stats: Str, Mag, Spd, Def, Res, Hit, or Avo.","Каждый ход даёт прибавку +5 к одному из:
+Сила, Маг, Скор, Защ, Сопр, Точн, или Укл."
 0,MSGDATA,"If unit is hit with a magic attack during enemy
 phase, grants +3 to all stats until next player
-phase ends.",
+phase ends.","Если юнита атакуют магией в течение фазы
+врага, даёт +3 ко всем параметрам до конца
+следующей фазы игрока."
 0,MSGDATA,TBD,TBD
 0,MSGDATA,"If unit is not near an ally, grants Atk +3 when
-in combat with a foe one space away.",
+in combat with a foe one space away.","Если юнит не находится рядом с союзником,
+даёт Атк +3 в бою с врагом на расстоянии
+в одну клетку от юнита."
 0,MSGDATA,Grants Str/Def +6 when HP is ≤ 50%.,Даёт Сил/Защ +6 когда ОЗ ≤ 50%.
 0,MSGDATA,"Grants Str/Mag +3 when indoors
 and Def/Res +3 when outdoors.","Даёт Сил/Маг +3 в помещении
 и Защ/Сопр +3 на улице."
 0,MSGDATA,"Makes all attacks effective against monsters
-and makes it easier for monsters to target unit.",
+and makes it easier for monsters to target unit.","Все атаки эффективны против чудищ; чудища
+с большей вероятностью будут нападать на
+юнита."
 0,MSGDATA,Grants Lck +5. ,Даёт Удч +5.
-0,MSGDATA,Unit absorbs HP from phantoms.,
-0,MSGDATA,Unit births phantoms.,
+0,MSGDATA,Unit absorbs HP from phantoms.,Юнит поглощает ОЗ фантомов.
+0,MSGDATA,Unit births phantoms.,Юнит призывает фантомов.
 0,MSGDATA,"Halves all damage taken, negates some abilities
 and combat arts, and prevents unit from
 being moved.","Уменьшает вполовину весь получаемый урон, 
@@ -19821,7 +19828,7 @@ within a range based on Mag.","Перемещает союзника на цел
 0,MSGDATA,Sandstorm,Песчаная буря
 0,MSGDATA,Cyclone,Циклон
 0,MSGDATA,Wilted Flower,Увядший цветок
-0,MSGDATA,Umbral Surge,
+0,MSGDATA,Umbral Surge,Красный импульс
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -20134,7 +20141,9 @@ Centered on a point within range.","Игнорирует УКА врага. Ис
 Centered on a point within range.","Ошеломляет при попадании. Игнорирует УКА врага.
 Концентрируется на точке в определённой области."
 0,MSGDATA,"Full-body attack that deals damage = up to
-25% of foes' HP. Moves this unit and all foes.",
+25% of foes' HP. Moves this unit and all foes.","Атака всем телом, наносящая повреждения
+до 25% от макс. ОЗ врагов. Перемещает юнита
+и всех противников."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -20441,7 +20450,7 @@ Centered on a point within range.","Ошеломляет при попадани
 0,MSGDATA,Undecided,Undecided
 0,MSGDATA,Barrier,Барьер
 0,MSGDATA,Barrier,Барьер
-0,MSGDATA,Essence Barrier,
+0,MSGDATA,Essence Barrier,Барьер сущности
 0,MSGDATA,Undecided,Undecided
 0,MSGDATA,Undecided,Undecided
 0,MSGDATA,Undecided,Undecided
@@ -20641,10 +20650,10 @@ Remove it to inflict an armor break.","Пока цел, $C1Барьер$R сни
 0,MSGDATA,Seiros Archers,Лучники Сейрос
 0,MSGDATA,Essar Research Group,Группа исследователей Эссара
 0,MSGDATA,Holst's Chosen,Чемпионы Холста
-0,MSGDATA,Dahlman Guard,
-0,MSGDATA,Dahlman Magic Co.,
-0,MSGDATA,Dahlman Armored Group,
-0,MSGDATA,Dahlman PMC,
+0,MSGDATA,Dahlman Guard,Гвардия Дальман
+0,MSGDATA,Dahlman Magic Co.,Маги Дальман
+0,MSGDATA,Dahlman Armored Group,Тяжёлая пехота Дальман
+0,MSGDATA,Dahlman PMC,Наёмники Дальман
 0,MSGDATA,Spare,Пощадить
 0,MSGDATA,Spare,Пощадить
 0,MSGDATA,Spare,Пощадить
@@ -20657,11 +20666,11 @@ Remove it to inflict an armor break.","Пока цел, $C1Барьер$R сни
 0,MSGDATA,Iron King's Thieves,Воры железного короля
 0,MSGDATA,Gaspard Militia,Ополченцы Гаспара
 0,MSGDATA,Gaspard Knights,Рыцари Гаспара
-0,MSGDATA,West Church Corps,Войска Западной церкви
-0,MSGDATA,West Church Mercenaries,Наёмники Западной церкви
-0,MSGDATA,West Church Sages,Мудрецы западной церкви
-0,MSGDATA,West Church Pegasus Co.,Пегасы Западной церкви
-0,MSGDATA,West Church Knights,Рыцари Западной церкви
+0,MSGDATA,West Church Corps,Войска Западной Церкви
+0,MSGDATA,West Church Mercenaries,Наёмники Западной Церкви
+0,MSGDATA,West Church Sages,Мудрецы Западной Церкви
+0,MSGDATA,West Church Pegasus Co.,Пегасы Западной Церкви
+0,MSGDATA,West Church Knights,Рыцари Западной Церкви
 0,MSGDATA,Mysterious Infantry,Таинственная пехота
 0,MSGDATA,Mysterious Magic Corps,Таинственные маги
 0,MSGDATA,Mysterious Magic Users,Таинственные чародеи
@@ -20714,10 +20723,10 @@ Remove it to inflict an armor break.","Пока цел, $C1Барьер$R сни
 0,MSGDATA,Pirate Marksmen,Стрелки пиратов
 0,MSGDATA,West Church Archers,Лучники Западной церкви
 0,MSGDATA,Flame Emperor Co.,Отряд Пламенного императора
-0,MSGDATA,Mockingbird's Thieves,
-0,MSGDATA,Leicester Dicers Corps,
-0,MSGDATA,Nuvelle Fliers Corps,
-0,MSGDATA,Timotheos Magi Corps,
+0,MSGDATA,Mockingbird's Thieves,Отряд ‭«Волчьи клыки»
+0,MSGDATA,Leicester Dicers Corps,Лестерские рыцари
+0,MSGDATA,Nuvelle Fliers Corps,Воздушные маги Нувэль
+0,MSGDATA,Timotheos Magi Corps,Маги Тимофей
 0,MSGDATA,Thief Pegasus Corps,Пегасы воров
 0,MSGDATA,Pirate Pegasus Corps,Пегасы пиратов
 0,MSGDATA,Bandit Pegasus Corps,Пегасы бандитов
@@ -20961,12 +20970,15 @@ investigating Fódlan's many mysteries.","Загадочная организа�
 the Leicester region's greatest general.","Элитные воины тренированные лично Холстом,
 величайшим генералом Лестера."
 0,MSGDATA,"An elite battalion that serves Aelfric, comprised
-of proficient magic users.",
+of proficient magic users.","Элитный отряд, состоящий из опытных магов, 
+служащих Альфарду."
 0,MSGDATA,"A battalion of magic users under Aelfric's direct
-control, handpicked from the underworld.",
+control, handpicked from the underworld.","Отряд магов, отобранных из подземелья лично
+Альфардом и находящихся под его командованием."
 0,MSGDATA,"An elite battalion comprised of armored knights
-loyal to Aelfric.",
-0,MSGDATA,A private army Aelfric raised using his own funds.,
+loyal to Aelfric.","Элитный отряд, состоящий из рыцарей в доспехах,
+давших клятву верности Альфарду."
+0,MSGDATA,A private army Aelfric raised using his own funds.,"Личное войско, собранное за счёт Альфарда."
 0,MSGDATA,-,-
 0,MSGDATA,-,-
 0,MSGDATA,-,-
@@ -21073,13 +21085,17 @@ with the power of ancient technology.","Восставшие из мёртвых
 who have sworn fealty to the Flame Emperor.","Таинственный отряд тяжёлой пехоты, состоящий
 из вассалов Пламенного Императора."
 0,MSGDATA,"A battalion of rogues handpicked by Yuri for
-their exemplary talent.",
+their exemplary talent.","Отряд, отобранный Юрием из самых 
+искусных разбойников."
 0,MSGDATA,"A battalion of brawny gamblers from the
-Leicester region.",
+Leicester region.","Отряд жаждущих себя показать бродяг
+из Лестерского региона."
 0,MSGDATA,"Magic-wielding pegasus riders once employed
-by House Nuvelle before its fall.",
+by House Nuvelle before its fall.","Перспективный отряд магов на пегасах,
+бывший на службе дома Нувэль."
 0,MSGDATA,"Especially gifted magic users whose lives share
-some similarities with Hapi's.",
+some similarities with Hapi's.","Одарённые маги, чей жизненный путь чем-то
+похож на жизнь Хапи."
 0,MSGDATA,A battalion of pegasus-riding thieves.,Отряд воров на пегасах.
 0,MSGDATA,A battalion of pegasus-riding pirates.,Отряд пиратов на пегасах.
 0,MSGDATA,A battalion of pegasus-riding bandits.,Отряд бандитов на пегасах.
@@ -24343,14 +24359,14 @@ better for steady, reliable business opportunities, though.","Торговать
 лучше для стабильных взаимовыгодных возможностей."
 0,MSGDATA,"The only physicians willing to work underground are ones
 who charge exorbitant amounts for their services. For the
-sake of the sick and dying, how do I correct this?","Единственные лекари, готовые работать под землёй,
-берут немыслимые деньги за свои услуги. Как это
-изменить ради больных и умирающих?"
+sake of the sick and dying, how do I correct this?","Под землёй нет хороших лекарей. Вернее, есть,
+но они берут немыслимые деньги за свои услуги — 
+к ним никто не пойдёт. Как это исправить?"
 0,MSGDATA,"I may have the best of intentions, but I'm still a criminal.
 If the world I'm fighting for has guys like me in it, it's not
-a better one. When can I start over with a clean slate?","У меня чистые намерения, но я всё равно преступник. 
-Если в мире, за который я сражаюсь, будут такие как 
-я, это не лучший мир. Когда я могу начать заново?"
+a better one. When can I start over with a clean slate?","Зло есть зло. Я считаю, что миру не на пользу, если
+в нём преуспевают такие преступники, как я. 
+Настанет ли день, когда я порву с этим злом?"
 0,MSGDATA,"All my problems boil down to not having enough gold.
 It's gotten so bad that even when I actually get my hands
 on some, I don't know what to do with it.","Все мои проблемы сводятся к тому, что мне не хватает
@@ -24368,9 +24384,9 @@ firmament to my will. The clouds will obey my commands!","Я могу сказа
 своей воле небесный свод. Облака будут мне повиноваться!"
 0,MSGDATA,"I excel in any confrontation that involves magic, of course,
 but what should happen if my foe is resistant—or, dare I
-say it, immune? I am afraid I would be quite powerless!","Мне подвластна любая конфронтация, где играет роль
-магия, но что случится, если противник укреплён —
-или хуже, иммунен к магии? Я же останусь беспомощной!"
+say it, immune? I am afraid I would be quite powerless!","Я прекрасно владею магией, но рискую оказаться
+бессильной против противников, на которых магия
+не действует. Мне следует разработать план действий."
 0,MSGDATA,"So I write my problems here, and you fix them for me?
 Yeah, right. This is just a setup for some hokey self-help
 nonsense, isn't it?","Что мне тут писать? Про проблемы? А их кто-то
@@ -24532,12 +24548,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,You don't have to force yourself to be social.,Тебе не нужно принуждать себя к общению.
 0,MSGDATA,"Worrying is a waste of time, and time is money!","Волноваться — это трата времени, а время — деньги!"
 0,MSGDATA,Steady work is profitable work in the long term.,Стабильная работа — это прибыль на долгий срок.
-0,MSGDATA,Ask the church for help.,Попроси церковь о помощи.
-0,MSGDATA,It will happen. Have faith.,Всё будет. Верь.
+0,MSGDATA,Ask the church for help.,Обратись к Церкви за помощью.
+0,MSGDATA,It will happen. Have faith.,Теперь уже ты не должен отступать от своих убеждений.
 0,MSGDATA,"Next time you've got gold, I'll help you decide.",В следующий раз я помогу тебе избавиться от денег.
 0,MSGDATA,It's possible to fight without killing.,"Возможно вести бой, не убивая."
 0,MSGDATA,"That may actually be too much, even for you.","Даже для тебя это, наверное, слишком."
-0,MSGDATA,Leave that to an expert in physical weapons.,
+0,MSGDATA,Leave that to an expert in physical weapons.,Положись на мастеров в обращении с обычным оружием.
 0,MSGDATA,You could at least write me a good joke.,Можешь рассказать анекдот.
 0,MSGDATA,Everything changes—even the things that seem not to.,"Всё меняется — даже то, что казалось бы, не меняется."
 0,MSGDATA,$NONE,$NONE
@@ -24693,12 +24709,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,"I can take your place next time, if you like.","Я могу занять твоё место в следующий раз, если хочешь."
 0,MSGDATA,Try to think about things not related to money.,"Попробуй думать о вещах, не связанных с деньгами."
 0,MSGDATA,First-class merchants don't care about a source of profits.,Первоклассных торговцев не волнует источник прибыли.
-0,MSGDATA,There has to be a way to get physicians from the surface.,
-0,MSGDATA,It's possible that opportunity may never come.,
+0,MSGDATA,There has to be a way to get physicians from the surface.,"Может, стоит попытаться привести лекарей с поверхности."
+0,MSGDATA,It's possible that opportunity may never come.,"Наверное, это несбыточное желание."
 0,MSGDATA,One of the merchants is peddling a get-rich-quick scheme.,
 0,MSGDATA,This is war. It's kill or be killed.,"Это война. Убей, или будь убитым."
 0,MSGDATA,"Go on, then. Reach up and pull one down with your hand.",
-0,MSGDATA,Sounds like you still have training to do.,
+0,MSGDATA,Sounds like you still have training to do.,Тебе нужно тренироваться.
 0,MSGDATA,You can write whatever you want.,"Можешь писать, что угодно."
 0,MSGDATA,There are changes worth wishing for too.,
 0,MSGDATA,$NONE,$NONE
@@ -24854,12 +24870,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,There's no need to be worried about participating.,Не стоит беспокоиться об участии.
 0,MSGDATA,Don't worry—you haven't been misunderstood.,Не переживай — все всё правильно поняли.
 0,MSGDATA,It's a waste of time to anticipate trouble.,Ожидать неприятности — пустая трата времени.
-0,MSGDATA,Lower their prices by force.,
-0,MSGDATA,How about right now?,
+0,MSGDATA,Lower their prices by force.,Силой заставь лекарей снизить цены.
+0,MSGDATA,How about right now?,Порви с ним прямо сейчас.
 0,MSGDATA,Work harder and you'll earn more.,
 0,MSGDATA,I suppose you could retreat instead.,
 0,MSGDATA,"When I see you sleeping on one, I'll believe it.",
-0,MSGDATA,Take them on with your bare hands.,
+0,MSGDATA,Take them on with your bare hands.,Кулаки — лучшее оружие.
 0,MSGDATA,Pretty much.,Скорее всего.
 0,MSGDATA,We must all change to live and grow.,
 0,MSGDATA,$NONE,$NONE
@@ -25313,13 +25329,13 @@ falls in battle.","$C1$S0$R, $C1Клод$R, $C1Юрий$R, $C1Констанци
 0,MSGDATA,Lucky Seven,Счастливая семёрка
 0,MSGDATA,Lucky Seven,Счастливая семёрка
 0,MSGDATA,Lucky Seven,Счастливая семёрка
-0,MSGDATA,Transmute,Преобразовать
-0,MSGDATA,Chalice's Protection,
-0,MSGDATA,Chalice's Preservation,
+0,MSGDATA,Transmute,Преобразование
+0,MSGDATA,Chalice's Protection,Защита Чаши
+0,MSGDATA,Chalice's Preservation,Оберег Чаши
 0,MSGDATA,Absolute Defense,Абсолютная защита
 0,MSGDATA,Battleground Café,Кафе на передовой
-0,MSGDATA,Blood Sacrifice,
-0,MSGDATA,Stirrings of Reason,
+0,MSGDATA,Blood Sacrifice,Жертва на крови
+0,MSGDATA,Stirrings of Reason,Смятение разума
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25414,18 +25430,21 @@ and speed increased.","Сила, магия, ловкость и
 0,MSGDATA,Speed increased.,Скорость увеличена.
 0,MSGDATA,Defense increased.,Защита увеличена.
 0,MSGDATA,Resistance increased.,Сопротивление увеличено.
-0,MSGDATA,Hit rate increased.,
-0,MSGDATA,Avoidance increased.,
+0,MSGDATA,Hit rate increased.,Точность повышена.
+0,MSGDATA,Avoidance increased.,Уклонение повышено.
 0,MSGDATA,Magic increased.,Магия увеличена.
-0,MSGDATA,Defense increased due to the Rite of Rising.,
-0,MSGDATA,Resistance increased due to the Rite of Rising.,
+0,MSGDATA,Defense increased due to the Rite of Rising.,Защита повышена после Обряда Вознесения.
+0,MSGDATA,Resistance increased due to the Rite of Rising.,Сопротивление повышено после Обряда Вознесения.
 0,MSGDATA,Defense increased.,Защита увеличена.
-0,MSGDATA,Strength reinforced.,
+0,MSGDATA,Strength reinforced.,Сила укреплена.
 0,MSGDATA,"Loses HP each turn until the Rite of Rising
-is stopped.",
+is stopped.","Потеря ОЗ каждый ход до остановки Обряда
+Вознесения."
 0,MSGDATA,"Umbral Surge has awakened a twinge of
 humanity deep within. Crit Avo reduced.
-Will not counterattack.",
+Will not counterattack.","Красный импульс пробудил в юните
+толику человечности. Укл от крит. урона
+уменьшено. Нет контратаки."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25557,15 +25576,15 @@ Will not counterattack.",
 0,MSGDATA,A Peculiar Trend,Своеобразная тенденция
 0,MSGDATA,A Peculiar Trend,Своеобразная тенденция
 0,MSGDATA,A Peculiar Trend,Своеобразная тенденция
-0,MSGDATA,Roster Retrieval,
-0,MSGDATA,Thieves at the Throat,
-0,MSGDATA,Banned Books,
-0,MSGDATA,Flowers for Her,
+0,MSGDATA,Roster Retrieval,Возврат личных дел
+0,MSGDATA,Thieves at the Throat,Воры в Глотке
+0,MSGDATA,Banned Books,Запрещённые книги
+0,MSGDATA,Flowers for Her,Цветы на могилу
 0,MSGDATA,Esteemed Company,Почтенная компания
-0,MSGDATA,Divining Destinies,
-0,MSGDATA,Learning to Teach,
-0,MSGDATA,Divining Destinies,
-0,MSGDATA,Learning to Teach,
+0,MSGDATA,Divining Destinies,Ворожея
+0,MSGDATA,Learning to Teach,Бывший учитель
+0,MSGDATA,Divining Destinies,Ворожея
+0,MSGDATA,Learning to Teach,Бывший учитель
 0,MSGDATA,iron_untranslated,iron_untranslated
 0,MSGDATA,iron_untranslated,iron_untranslated
 0,MSGDATA,iron_untranslated,iron_untranslated
@@ -25678,15 +25697,15 @@ Will not counterattack.",
 0,MSGDATA,Placeholder 82,Placeholder 82
 0,MSGDATA,Placeholder 83,Placeholder 83
 0,MSGDATA,Placeholder 84,Placeholder 84
-0,MSGDATA,Ashen Wolves Classroom,
-0,MSGDATA,Women's Quarters,
-0,MSGDATA,Men's Quarters,
+0,MSGDATA,Ashen Wolves Classroom,Класс Пепельных Волков
+0,MSGDATA,Women's Quarters,Женские покои
+0,MSGDATA,Men's Quarters,Мужские покои
 0,MSGDATA,Scrap Heap,Свалка
-0,MSGDATA,Wayseer's Room,
+0,MSGDATA,Wayseer's Room,Комната ворожеи
 0,MSGDATA,Pagan Altar,Языческий алтарь
-0,MSGDATA,Burrow Street,
-0,MSGDATA,Shadow Library,
-0,MSGDATA,Wilting Rose Inn,
+0,MSGDATA,Burrow Street,«Берлога»
+0,MSGDATA,Shadow Library,Теневая библиотека
+0,MSGDATA,Wilting Rose Inn,Трактир «Увядшая роза»
 0,MSGDATA,Placeholder 94,Placeholder 94
 0,MSGDATA,Placeholder 95,Placeholder 95
 0,MSGDATA,Placeholder 96,Placeholder 96
@@ -25737,10 +25756,10 @@ Will not counterattack.",
 0,MSGDATA,Indomitable Will,Неукротимая воля
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,The Shackled Wolves,
-0,MSGDATA,The Shackled Wolves,
-0,MSGDATA,At What Cost?,
-0,MSGDATA,At What Cost?,
+0,MSGDATA,The Shackled Wolves,Волки на цепи
+0,MSGDATA,The Shackled Wolves,Волки на цепи
+0,MSGDATA,At What Cost?,Какой ценой?
+0,MSGDATA,At What Cost?,Какой ценой?
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25866,9 +25885,9 @@ Will not counterattack.",
 0,MSGDATA,Courage and Tragedy,Отвага и трагедия
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,Steam Baths Respite,Передышка в паровой бане
-0,MSGDATA,Legend of the Chalice,Легенда о граале
+0,MSGDATA,Legend of the Chalice,Предание о Чаше
 0,MSGDATA,The Forgotten,Забытые
-0,MSGDATA,Woven by Fate,
+0,MSGDATA,Woven by Fate,Сплетённые судьбой
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25912,7 +25931,7 @@ Will not counterattack.",
 0,MSGDATA,Loathing,Ненависть
 0,MSGDATA,Reunion: Azure Moon,Воссоединение: Луна Моря
 0,MSGDATA,Reunion: Silver Snow,Воссоединение: Серебряный снег
-0,MSGDATA,Reunion: Verdant Wind,
+0,MSGDATA,Reunion: Verdant Wind,Воссоединение: Зелёный Ветер
 0,MSGDATA,Rematch,Реванш
 0,MSGDATA,Javelins of Light,Копья света
 0,MSGDATA,Death of the Flame Emperor,Смерть Пламенного Императора
@@ -34764,7 +34783,17 @@ Edelgard, as Ferdinand and Constance were quick to
 marry and merge their adjoining territories. The couple's
 diverse talents helped them overcome countless obstacles
 together, in pursuit of a restored land and a new social
-order for the Empire.",
+order for the Empire.","Тогда же, когда Фердинанд унаследовал титул герцога 
+Эгир, Констанции было дозволено восстановить виконтство 
+Нувэль на бывших землях Хрюм. Совсем скоро было 
+объявлено о браке Фердинанда и Констанции — и два
+их владения дали начало обновлённому герцогству Эгир. 
+Всё случилось так, как Эдельгард и предполагала — и эта 
+пара приступила к преобразованиям на своей территории, 
+как знатные люди из одного поколения. Говорили, что будучи 
+первопроходцами в реформе классовой системы, рука об руку 
+они преодолели множество трудностей — порой при помощи 
+диковинной магии."
 0,MSGDATA,"After officially becoming the new Duke Aegir, Ferdinand
 found that he had a new neighbor in Constance, whose
 revived noble house was granted the old Hrym territory
@@ -34775,7 +34804,16 @@ together, in pursuit of a restored land. They had many
 children, including one who became well-known in her
 own right for the advancements she brought to her
 mother's research. For generations thereafter, House
-Nuvelle stood at the forefront of magical progress.",
+Nuvelle stood at the forefront of magical progress.","Тогда же, когда Фердинанд вернул себе титул герцога 
+Эгир, Констанции было дозволено восстановить виконтство 
+Нувэль на бывших землях Хрюм. Совсем скоро было 
+объявлено о браке Фердинанда и Констанции — и два
+их владения дали начало обновлённому герцогству Эгир.
+Рука об руку они принялись реформировать свои земли.
+Понемногу, после преодоления множества трудностей, 
+им удалось возродить их. У них родилось много детей, 
+$EK00одна$EL00один$EM00 из которых $EK00продолжила$EL00продолжил$EM00 исследования Констанции
+и $EK00основала$EL00основал$EM00 дом Нувэль, прославившись как великий маг."
 0,MSGDATA,"After the war, Constance and Mercedes traveled together
 to the school of sorcery in Fhirdiad. There, they immersed
 themselves in magical research and, with the help of their
@@ -34925,11 +34963,11 @@ lives happily as husband and wife.",
 0,MSGDATA,Bloodstained Demon,Окровавленный Демон
 0,MSGDATA,Traveling Merchant,Странствующий торговец
 0,MSGDATA,Underground Lord,Подземный лорд
-0,MSGDATA,King of Grappling,
-0,MSGDATA,Scion of Nuvelle,
-0,MSGDATA,Sorcery Incarnate,
-0,MSGDATA,Beast Master,
-0,MSGDATA,Freed Spirit,
+0,MSGDATA,King of Grappling,Король борьбы
+0,MSGDATA,Scion of Nuvelle,Потомок Нувэль
+0,MSGDATA,Sorcery Incarnate,Воплощение колдовства
+0,MSGDATA,Beast Master,Повелитель зверей
+0,MSGDATA,Freed Spirit,Освобождённый дух
 0,MSGDATA,iron_untranslated,iron_untranslated
 0,MSGDATA,iron_untranslated,iron_untranslated
 0,MSGDATA,iron_untranslated,iron_untranslated
@@ -35104,21 +35142,21 @@ lives happily as husband and wife.",
 0,MSGDATA,A Passion to Protect,Желание Защищать
 0,MSGDATA,Flying Toward Foes,Летя Навстречу Врагам
 0,MSGDATA,Harrier on High,Лунь в Высоте
-0,MSGDATA,Swordsman Savior,
-0,MSGDATA,The Way of the Sword,
-0,MSGDATA,Faith in Fists,
-0,MSGDATA,Armor Ardor,
-0,MSGDATA,Mage Taking Flight,
-0,MSGDATA,The Elegant Blade,
-0,MSGDATA,Equine Allies,
-0,MSGDATA,Armed to the Teeth,
+0,MSGDATA,Swordsman Savior,Мечник-спаситель
+0,MSGDATA,The Way of the Sword,Путь меча
+0,MSGDATA,Faith in Fists,Вера в кулаки
+0,MSGDATA,Armor Ardor,Пылкость доспеха
+0,MSGDATA,Mage Taking Flight,Маг в полёте
+0,MSGDATA,The Elegant Blade,Элегантный клинок
+0,MSGDATA,Equine Allies,Кони-союзники
+0,MSGDATA,Armed to the Teeth,Вооружены до зубов
 0,MSGDATA,On the Value of Swords,О Ценности Мечей
 0,MSGDATA,Journey to the Great Knight,Путь к Великому Рыцарю
 0,MSGDATA,In Remembrance of Origins,В Память об Истоках
-0,MSGDATA,Clear Sight,
-0,MSGDATA,Killer Combo,
-0,MSGDATA,To Restore My House,
-0,MSGDATA,Soaring and Swinging,
+0,MSGDATA,Clear Sight,Ясная цель
+0,MSGDATA,Killer Combo,Убийственное комбо
+0,MSGDATA,To Restore My House,Восстановить свой дом
+0,MSGDATA,Soaring and Swinging,Качаясь в полёте
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -36175,28 +36213,28 @@ exploration has increased!","Число $C1очков активности$R д�
 0,MSGDATA,The Assault,Штурм
 0,MSGDATA,Underground Arena,Подземная арена
 0,MSGDATA,The Cardinal,Кардинал
-0,MSGDATA,Jeralt's Past,Прошлое Джеральта
-0,MSGDATA,Legend of the Chalice,Легенда о граале
+0,MSGDATA,Jeralt's Past,Прошлое капитана рыцарей
+0,MSGDATA,Legend of the Chalice,Предание о Чаше
 0,MSGDATA,Into the Deep,В пучину
 0,MSGDATA,Underneath Garreg Mach,Под Гаррег Махом
-0,MSGDATA,The Bound Chalice,
-0,MSGDATA,Guardians at the Gates,
+0,MSGDATA,The Bound Chalice,Запечатанная Чаша
+0,MSGDATA,Guardians at the Gates,Прибывающая стража
 0,MSGDATA,The Mysterious Letter,Таинственное письмо
-0,MSGDATA,Summons,
-0,MSGDATA,The Passion of the Wolves,
-0,MSGDATA,Rhea's Inkling,
-0,MSGDATA,The Enemy's Aim (Ashen Wolves),
-0,MSGDATA,A Little Date,
-0,MSGDATA,Arrival,
-0,MSGDATA,Face Off,
-0,MSGDATA,After the Betrayal,
-0,MSGDATA,"Truth, Unfolding",
-0,MSGDATA,Disintegrating Plans,
+0,MSGDATA,Summons,Повестка
+0,MSGDATA,The Passion of the Wolves,Надежда Пепельных Волков
+0,MSGDATA,Rhea's Inkling,Догадка Реи
+0,MSGDATA,The Enemy's Aim (Ashen Wolves),Под прицелом врага (Пепельные Волки)
+0,MSGDATA,A Little Date,Назначенное свидание
+0,MSGDATA,Arrival,Прибытие
+0,MSGDATA,Face Off,Противостояние
+0,MSGDATA,After the Betrayal,После предательства
+0,MSGDATA,"Truth, Unfolding",Сказанная правда
+0,MSGDATA,Disintegrating Plans,Разрушенные планы
 0,MSGDATA,Mother,Мама
-0,MSGDATA,Limerence,
-0,MSGDATA,Fusion,
-0,MSGDATA,Parting Ways,
-0,MSGDATA,The Graduation,
+0,MSGDATA,Limerence,Неугасающие чувства
+0,MSGDATA,Fusion,Слияние
+0,MSGDATA,Parting Ways,Расставание
+0,MSGDATA,The Graduation,Выпускной
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -36428,7 +36466,7 @@ the life of a business entrepreneur.","Начать семинар по навы
 0,MSGDATA,Name,Имя
 0,MSGDATA,How Many,Сколько
 0,MSGDATA,Sacred Items Set,Набор священных предметов
-0,MSGDATA,Cindered Shadows Reward,
+0,MSGDATA,Cindered Shadows Reward,Награда «Пепельные Тени»
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -36436,15 +36474,15 @@ the life of a business entrepreneur.","Начать семинар по навы
 0,MSGDATA,Accessory,Аксессуары
 0,MSGDATA,Without Glasses,Без очков
 0,MSGDATA,With Glasses,С очками
-0,MSGDATA,To Abyss,
-0,MSGDATA,To Monastery,
+0,MSGDATA,To Abyss,В Бездну
+0,MSGDATA,To Monastery,В монастырь
 0,MSGDATA,House Loungewear (Younger),Спортивная форма Дома (юн.)
 0,MSGDATA,House Loungewear (Older),Спортивная форма Дома (взросл.)
 0,MSGDATA,The Goddess Tower,Башня Богини
 0,MSGDATA,Servants Attire,Костюм прислуги
 0,MSGDATA,Servants Attire (Younger),Костюм прислуги (юн.)
 0,MSGDATA,Servants Attire (Older),Костюм прислуги (взросл.)
-0,MSGDATA,Cindered Shadows,
+0,MSGDATA,Cindered Shadows,Пепельные Тени
 0,MSGDATA,Twice the rewards!,Двойные награды!
 0,MSGDATA,Secret Shop,Тайная лавка
 0,MSGDATA,Side Story,Побочная история
@@ -36483,11 +36521,11 @@ mounted units.","Внешность юнита в бою будет соотве
 appearance of their current class.","Внешность юнита в бою будет соответствовать
 их текущему классу."
 0,MSGDATA,Additional Quests,Дополнительные задания
-0,MSGDATA,Dancer Ensemble,
-0,MSGDATA,Sothis Regalia,
-0,MSGDATA,Tricky Merchant,
-0,MSGDATA,Offer Item,
-0,MSGDATA,Offer Renown,
+0,MSGDATA,Dancer Ensemble,Наряд танцора
+0,MSGDATA,Sothis Regalia,Облачение Сотис
+0,MSGDATA,Tricky Merchant,Хитрый торговец
+0,MSGDATA,Offer Item,Возложить предметы
+0,MSGDATA,Offer Renown,Предложить репутацию
 0,MSGDATA,Strengthen Bond,
 0,MSGDATA,Connect Fates,
 0,MSGDATA,Influencer,Просветитель
@@ -36527,13 +36565,13 @@ to a wealth of forbidden knowledge.",
 0,MSGDATA,Main Story,Основная
 0,MSGDATA,Side Story,Побочная
 0,MSGDATA,Abyss,Бездна
-0,MSGDATA,Offer Item,
+0,MSGDATA,Offer Item,Возложить предметы
 0,MSGDATA,Available Items,Доступные предметы
-0,MSGDATA,Offer Renown,
+0,MSGDATA,Offer Renown,Предложить репутацию
 0,MSGDATA,Wayseer,Предсказательница
 0,MSGDATA,Mysterious Teacher,Таинственный учитель
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,Select Character,
+0,MSGDATA,Select Character,Выбрать персонажа
 0,MSGDATA,Pair to Strengthen Bonds,
 0,MSGDATA,This Pair's Support Level,
 0,MSGDATA,Pairs Intertwined by Destiny,
@@ -36542,9 +36580,9 @@ to a wealth of forbidden knowledge.",
 0,MSGDATA,Spend renown to entwine the destinies of the selected pair.,
 0,MSGDATA,Spend $%d1 renown to deepen this pair's bond.,
 0,MSGDATA,Spend $%d1 renown to entwine or sever destinies.,
-0,MSGDATA,Overall Rating,
-0,MSGDATA,Ratings,
-0,MSGDATA,Comments,
+0,MSGDATA,Overall Rating,Общий рейтинг
+0,MSGDATA,Ratings,Рейтинг
+0,MSGDATA,Comments,Комментарии
 0,MSGDATA,Clear Chapter 2 of the side story.,Пройдите Главу 2 в побочной истории.
 0,MSGDATA,Clear Chapter 4 of the side story.,Пройдите Главу 4 в побочной истории.
 0,MSGDATA,Clear Chapter 5 of the side story.,Пройдите Главу 5 в побочной истории.
@@ -36555,7 +36593,7 @@ to a wealth of forbidden knowledge.",
 0,MSGDATA,Battle,Битва
 0,MSGDATA,Details,Подробности
 0,MSGDATA,Unlocked Ep. $%d1,
-0,MSGDATA,Special Cert.,
+0,MSGDATA,Special Cert.,Особый серт.
 0,MSGDATA,"A special certification. These exams can be
 taken at Level 20.",
 0,MSGDATA,Questionable Notices,
@@ -36861,10 +36899,10 @@ acquire weapons and items.",
 are already getting along very well.",
 0,MSGDATA,"New DLC content is available! The protagonist can now wear
 Sothis Regalia.","Доступен новый загружаемый контент!
-Теперь протагонист может носить наряд Сотис."
+Теперь протагонист может носить облачение Сотис."
 0,MSGDATA,"The Sothis Regalia outfit can now be accessed via your Journal
-in your Personal Quarters.","Наряд Сотис теперь доступен через дневник в ваших
-личных покоях."
+in your Personal Quarters.","Наряд «Облачение Сотис» теперь доступен через дневник 
+в ваших личных покоях."
 0,MSGDATA,"$%s1 and $%s2's
 bond cannot be deepened any further.",
 0,MSGDATA,This has already been done.,
@@ -61079,11 +61117,17 @@ and you'll be rewarded.","Противники в дополнительных �
 1,MSGDATA,"You have heard tell of the secret roster, yes? It contains
 sensitive information about everyone that isn't available
 elsewhere. Alas, this precious document was stolen!
-You must recover it as soon as possible!",
+You must recover it as soon as possible!","Вы знаете о том, что были украдены секретные
+личные дела учеников? Если такая вещь будет
+обнародована, быть беде. Вы не считаете, что
+следует немедленно их вернуть?"
 1,MSGDATA,"A detailed roster of the Officers Academy has been stolen!
 Track down the thieves and recover the roster. It may
 provide extra information about those who haven't yet
-joined your house.",
+joined your house.","Из монастыря были украдены подробные личные дела 
+учеников. Отправляйтесь на задание и усмирите воров.
+Если вы вернёте личные дела, то сможете узнать больше
+об учениках, которые ещё не находятся в вашем классе."
 1,MSGDATA,Accepted Quest Character Message 126,Accepted Quest Character Message 126
 1,MSGDATA,Assistance needed to recover stolen personal information!,
 1,MSGDATA,カレンダーメッセージ１２５,カレンダーメッセージ１２５
@@ -62994,11 +63038,16 @@ and you'll be rewarded.",
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"What a relief! You know, you may find this useful as a
 resource in your work as an instructor. You'll prevent it
-from going missing again, I trust?",
+from going missing again, I trust?","От сердца отлегло... Эти личные дела могут пригодиться
+вам в преподавательской деятельности. Позаботьтесь
+о том, чтобы они оставались при вас, хорошо?"
 1,MSGDATA,"A detailed roster of the Officers Academy has been stolen!
 Track down the thieves and recover the roster. It may
 provide extra information about those who haven't yet
-joined your house.",
+joined your house.","Из монастыря были украдены подробные личные дела 
+учеников. Отправляйтесь на задание и усмирите воров.
+Если вы вернёте личные дела, то сможете узнать больше
+об учениках, которые ещё не находятся в вашем классе."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
