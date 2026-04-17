@@ -36526,8 +36526,8 @@ appearance of their current class.","Внешность юнита в бою б�
 0,MSGDATA,Tricky Merchant,Хитрый торговец
 0,MSGDATA,Offer Item,Возложить предметы
 0,MSGDATA,Offer Renown,Предложить репутацию
-0,MSGDATA,Strengthen Bond,
-0,MSGDATA,Connect Fates,
+0,MSGDATA,Strengthen Bond,Усилить связь
+0,MSGDATA,Connect Fates,Соединить судьбы
 0,MSGDATA,Influencer,Просветитель
 0,MSGDATA,Undertakings,
 0,MSGDATA,$NONE,$NONE
@@ -36592,7 +36592,7 @@ to a wealth of forbidden knowledge.",
 0,MSGDATA,There are no pairs whose destinies are entwined.,
 0,MSGDATA,Battle,Битва
 0,MSGDATA,Details,Подробности
-0,MSGDATA,Unlocked Ep. $%d1,
+0,MSGDATA,Unlocked Ep. $%d1,Открыт эпизод $%d1
 0,MSGDATA,Special Cert.,Особый серт.
 0,MSGDATA,"A special certification. These exams can be
 taken at Level 20.",
@@ -36820,27 +36820,32 @@ $%s1 and $%s2?
 If there's already an intertwined pair, it will be overwritten.",
 0,MSGDATA,"Spend $%d1 renown to unbind the destinies of
 $%s1 and $%s2?",
-0,MSGDATA,How many will you offer?,
-0,MSGDATA,Offered $Q$%s1 x $%d1,
-0,MSGDATA,How many do you want?,
-0,MSGDATA,Offer $%d1 renown to the pagan deity?,
+0,MSGDATA,How many will you offer?,Сколько пожертвуете?
+0,MSGDATA,Offered $Q$%s1 x $%d1,Пожертвовано: $Q$%s1 x $%d1
+0,MSGDATA,How many do you want?,Сколько хотите?
+0,MSGDATA,Offer $%d1 renown to the pagan deity?,Пожертвовать $%d1 репутации языческому божеству?
 0,MSGDATA,Received $Q$%s1 x $%d1,Получено $Q$%s1 x $%d1
-0,MSGDATA,You have no items to offer up.,
-0,MSGDATA,Help Abyss flourish?,
+0,MSGDATA,You have no items to offer up.,У вас нет предметов для пожертвования.
+0,MSGDATA,Help Abyss flourish?,Помочь Бездне процветать?
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,"(This doesn't quite feel like the right answer. Better rethink
-this one...)",
-0,MSGDATA,Save cleared side story data?,
+this one...)","(У меня нет уверенности, что это правильный
+ответ. Лучше подумать ещё раз...)"
+0,MSGDATA,Save cleared side story data?,Сохранить данные о прохождении побочной истории?
 0,MSGDATA,"Begin the side story anew? Cleared side story data will not be
-carried over.",
-0,MSGDATA,Finish exploring and continue the story?,
+carried over.","Начать побочную историю заново? Данные из пройденной
+истории не будут перенесены."
+0,MSGDATA,Finish exploring and continue the story?,Закончить исследование и продолжить историю?
 0,MSGDATA,"To scout $%s1, you need the
-following: $%s2",
+following: $%s2","Чтобы привлечь $%s1, вам
+необходимы: $%s2"
 0,MSGDATA,"You have acquired:
 $Q$%s1 ($%d1/$%d2)
-",
+","Вы получили:
+$Q$%s1 ($%d1/$%d2)"
 0,MSGDATA,"You have acquired:
-$Q$%s1",
+$Q$%s1","Вы получили:
+$Q$%s1"
 0,MSGDATA,"Update data has been downloaded. A new outfit has been added
 for the protagonist. A new quest has also been added. If you
 clear the quest, a new character will be available to invite to a
@@ -36865,9 +36870,11 @@ activities, paralogues, and a new area to visit while exploring.","Ваш про
 в основной — новых персонажей, классы, задания,
 активности, побочные главы и новую область."
 0,MSGDATA,"You can now clothe Anna in the Tricky Merchant outfit from
-your Journal.",
+your Journal.","Теперь вы можете одеть Анну в наряд «Хитрый торговец»
+через дневник."
 0,MSGDATA,"You can now clothe Anna in the Tricky Merchant outfit from
-your Journal.",
+your Journal.","Теперь вы можете одеть Анну в наряд «Хитрый торговец»
+через дневник."
 0,MSGDATA,"You can now visit Abyss while exploring the monastery.
 Speak to the shifty merchant, located near your personal
 quarters, in or after Chapter 2 of the main story.",
@@ -36894,7 +36901,8 @@ continue the story?",
 in Abyss.",
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,"You have unlocked Offer Renown. Now you can use renown to
-acquire weapons and items.",
+acquire weapons and items.","Вы открыли функцию «Предложить репутацию». Теперь
+можно обменивать репутацию на оружие и предметы."
 0,MSGDATA,"$%s1 and $%s2
 are already getting along very well.",
 0,MSGDATA,"New DLC content is available! The protagonist can now wear
@@ -36905,8 +36913,8 @@ in your Personal Quarters.","Наряд «Облачение Сотис» теп
 в ваших личных покоях."
 0,MSGDATA,"$%s1 and $%s2's
 bond cannot be deepened any further.",
-0,MSGDATA,This has already been done.,
-0,MSGDATA,More people will now visit the pagan altar.,
+0,MSGDATA,This has already been done.,Это уже было сделано.
+0,MSGDATA,More people will now visit the pagan altar.,Теперь больше людей будут посещать языческий алтарь.
 0,MSGDATA,You can now collect things at the scrap heap.,
 0,MSGDATA,"The Wilting Rose Inn is thriving now, which has unlocked a
 new quest. Check the bulletin board for details.",
@@ -61205,15 +61213,19 @@ in Abyss.",
 1,MSGDATA,"A professor who was dismissed from his position at the
 Officers Academy has made his home here. He could be a
 kind of mentor to you. Talk to him—maybe you can learn
-a thing or two!",
+a thing or two!","На этих улицах обосновался бывший учитель, которого
+по каким-то причинам уволили из Офицерской академии.
+Он мог бы стать вам кем-то вроде наставника.
+Поговорите с ним — может, узнаете что-нибудь новое."
 1,MSGDATA,"Seek out the mysterious teacher in Abyss. Perhaps he can
-offer you insight into the potential growth of your allies.",
+offer you insight into the potential growth of your allies.","Найдите таинственного учителя в Бездне. Он поможет 
+понять, насколько успешно развиваются ваши союзники."
 1,MSGDATA,Accepted Quest Character Message 132,Accepted Quest Character Message 132
 1,MSGDATA,"Former Officers Academy professor offering guidance to
 educators.",
 1,MSGDATA,カレンダーメッセージ１３１,カレンダーメッセージ１３１
 1,MSGDATA,$NONE,$NONE
-1,MSGDATA,Speak to the mysterious teacher in Abyss.,
+1,MSGDATA,Speak to the mysterious teacher in Abyss.,Поговорите с таинственным учителем в Бездне.
 1,MSGDATA,Report to Yuri.,Сообщите Юрию.
 1,MSGDATA,"A famed fortune-teller is visiting Garreg Mach—sort of.
 She's not stepping foot on the surface, see. If you wish to
@@ -61238,7 +61250,7 @@ perhaps that means he's in Abyss...",
 educators.",
 1,MSGDATA,カレンダーメッセージ１３３,カレンダーメッセージ１３３
 1,MSGDATA,$NONE,$NONE
-1,MSGDATA,Speak to the mysterious teacher in Abyss.,
+1,MSGDATA,Speak to the mysterious teacher in Abyss.,Поговорите с таинственным учителем в Бездне.
 1,MSGDATA,Report to the requester.,Сообщите квестодателю.
 1,MSGDATA,Accepted Quest Character Message 135,Accepted Quest Character Message 135
 1,MSGDATA,iron_untranslated,iron_untranslated
@@ -62983,7 +62995,9 @@ If you find it, the girl might open a new shop.","Найдите предмет,
 1,MSGDATA,"Ah, you've collected some trade secrets for me!
 I really, really appreciate it! I'll just take them...
 Hehehe, perfect... What? Nothing! Just talking to myself.
-See you later!",
+See you later!","Ты $EK00собрал$EL00собрала$EM00 всё, что нужно! Спасибо за помощь!
+Теперь, когда у меня есть это... хе-хе. А, не обращай 
+внимание, это я не тебе. Ещё увидимся!"
 1,MSGDATA,"Enemies in auxiliary and quest battles are now in
 possession of $Qvaluable secrets$R of some kind.
 Steal or collect three dropped $Qvaluable secrets$R,
@@ -62997,7 +63011,9 @@ and you'll be rewarded.",
 1,MSGDATA,"Ah, you've collected some trade secrets for me!
 I really, really appreciate it! I'll just take them...
 Hehehe, perfect... What? Nothing! Just talking to myself.
-See you later!",
+See you later!","Ты $EK00собрал$EL00собрала$EM00 всё, что нужно! Спасибо за помощь!
+Теперь, когда у меня есть это... хе-хе. А, не обращай 
+внимание, это я не тебе. Ещё увидимся!"
 1,MSGDATA,"Enemies in auxiliary and quest battles are now in
 possession of $Qvaluable secrets$R of some kind.
 Steal or collect four dropped $Qvaluable secrets$R,
@@ -63011,7 +63027,9 @@ and you'll be rewarded.",
 1,MSGDATA,"Ah, you've collected some trade secrets for me!
 I really, really appreciate it! I'll just take them...
 Hehehe, perfect... What? Nothing! Just talking to myself.
-See you later!",
+See you later!","Ты $EK00собрал$EL00собрала$EM00 всё, что нужно! Спасибо за помощь!
+Теперь, когда у меня есть это... хе-хе. А, не обращай 
+внимание, это я не тебе. Ещё увидимся!"
 1,MSGDATA,"Enemies in auxiliary and quest battles are now in
 possession of $Qvaluable secrets$R of some kind.
 Steal or collect six dropped $Qvaluable secrets$R,
@@ -63025,7 +63043,9 @@ and you'll be rewarded.",
 1,MSGDATA,"Ah, you've collected some trade secrets for me!
 I really, really appreciate it! I'll just take them...
 Hehehe, perfect... What? Nothing! Just talking to myself.
-See you later!",
+See you later!","Ты $EK00собрал$EL00собрала$EM00 всё, что нужно! Спасибо за помощь!
+Теперь, когда у меня есть это... хе-хе. А, не обращай 
+внимание, это я не тебе. Ещё увидимся!"
 1,MSGDATA,"Enemies in auxiliary and quest battles are now in
 possession of $Qvaluable secrets$R of some kind.
 Steal or collect seven dropped $Qvaluable secrets$R,
@@ -63117,7 +63137,9 @@ offer insight into getting to know your allies.",
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"How'd it go? Even though he lost his job, he was widely
 recognized for his skill and knowledge. I'd say you can
-trust his analysis.",
+trust his analysis.","Ну как он вам? Приятный человек, правда? Хоть его
+и уволили, но за ним сохранилась репутация человека,
+который разбирается в своём деле. Ему можно доверять."
 1,MSGDATA,"Seek out the mysterious teacher in Abyss. Perhaps he can
 offer you insight into the potential growth of your allies.",
 1,MSGDATA,$NONE,$NONE
