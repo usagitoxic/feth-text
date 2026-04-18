@@ -6623,7 +6623,7 @@ It seems it can be made by cooking.","Рецепт жаркого из утки 
 1139 - 1159
 
 Resting in the warm embrace of cherished memories.
-(The grave is freshly tended, and flowers have been offered.)","Ситри Эйснер
+(The grave is freshly tended, and flowers have been offered.)","Ситри Айснер
 1139 - 1159
 
 Покоится в тёплых объятиях дорогих воспоминаний.
@@ -6633,10 +6633,10 @@ Resting in the warm embrace of cherished memories.
 
 Jeralt Eisner
     ?? - 1180
-Resting in the warm embrace of cherished memories.","Ситри Эйснер
+Resting in the warm embrace of cherished memories.","Ситри Айснер
 1139 - 1159
 
-Джеральт Эйснер
+Джеральт Айснер
     ?? - 1180
 Покоятся в тёплых объятиях дорогих воспоминаний."
 0,MSGDATA,"Much time has passed since the Imperial calendar was adopted.
@@ -11180,7 +11180,7 @@ simulate real battlefield conditions.","Учебная битва с рыцар�
 0,MSGDATA,Gremory,Гремори
 0,MSGDATA,Former Knight of Seiros,Бывший рыцарь Сейрос
 0,MSGDATA,Sauna Boss,Босс сауны
-0,MSGDATA,Wayseer,Предсказательница
+0,MSGDATA,Wayseer,Ворожея
 0,MSGDATA,Abysskeeper,Страж Бездны
 0,MSGDATA,Elderly Man,Пожилой человек
 0,MSGDATA,Mysterious Woman,Таинственная женщина
@@ -21332,9 +21332,8 @@ living under Garreg Mach Monastery.","Люди с разными предыст�
 0,MSGDATA,Spare 71,Spare 71
 0,MSGDATA,Spare 72,Spare 72
 0,MSGDATA,"A Crest long lost to history. Occasionally stops
-enemy counterattacks when using a weapon.","Герб, утерянный в глубинах истории. Иногда
-предотвращает ответную атаку врага
-при использовании оружия."
+enemy counterattacks when using a weapon.","Давно утраченный Герб. Иногда предотвращает
+контратаки в ответ на атаки оружием."
 0,MSGDATA,"Legend has it that Saint Macuil bore this Crest.
 A symbol of magic and mastery of the wind.
 Occasionally raises Mt during magic attacks.","По легенде, святой Макуил носил этот герб.
@@ -21355,8 +21354,8 @@ Mt when using a weapon.","Герб, унаследованный от Фраль
 10 Героев. Иногда повышает Мощь при
 атаках оружием."
 0,MSGDATA,"A Crest long lost to history. Occasionally does
-not consume a use during magic attacks.","Герб, давно потерянная для истории. Иногда
-сохраняет использования атакующей магии."
+not consume a use during magic attacks.","Давно утраченный Герб. Иногда позволяет не
+расходовать атакующую магию."
 0,MSGDATA,"Legend has it that Saint Cethleann bore this
 Crest. A symbol of kindness and mastery of light.
 Sometimes raises Mt when using recovery magic.","Святая Кетеленн носила этот Герб, символ
@@ -21389,7 +21388,7 @@ lets combat arts prevent enemy counterattacks.","Легенда гласит, ч
 позволяет блокировать контратаку врага."
 0,MSGDATA,"A Crest long lost to history. Occasionally
 prevents enemy counterattacks when
-using a weapon.","Давно забытая Герб. Иногда позволяет не получать 
+using a weapon.","Давно утраченный Герб. Иногда предотвращает
 контратаки в ответ на атаки оружием."
 0,MSGDATA,"House Gautier's Crest, inherited from Gautier of
 the 10 Elites. Frequently raises Mt when using
@@ -21412,8 +21411,8 @@ combat arts.","Герб дома Харон, унаследованная от �
 10 Героев. Часто повышает Мощь при
 использовании боевых навыков."
 0,MSGDATA,"A Crest long lost to history. Occasionally does
-not consume a use for recovery magic.","Давно забытая Герб. Иногда позволяет не тратить
-использования лечебной магии."
+not consume a use for recovery magic.","Давно утраченный Герб. Иногда позволяет не
+расходовать лечебную магию."
 0,MSGDATA,"A Crest inherited from Riegan of the 10 Elites.
 Sometimes restores HP equal to 30% of damage
 dealt when using combat arts.","Герб, унаследованная от Ригана из 10 Героев. 
@@ -21421,7 +21420,7 @@ dealt when using combat arts.","Герб, унаследованная от Ри
 ОЗ в количестве 30% от нанесенного урона."
 0,MSGDATA,"A Crest long lost to history. Sometimes restores
 HP equal to 30% of damage dealt when using
-Combat Arts.","Давно забытая Герб. Иногда при использовании
+Combat Arts.","Давно утраченный Герб. Иногда при использовании
 боевых навыков восстанавливает ОЗ в количестве
 30% от нанесённого урона."
 0,MSGDATA,"A Crest inherited from Lamine of the 10 Elites.
@@ -26443,7 +26442,10 @@ Graduates from the school and enrolls at the Officers Academy at Garreg Mach.",
 0,MSGDATA,"Born in the hidden village of Timotheos.
 Upon leaving the village, is abducted and subjected to magical experimentation.
 After being freed, finds refuge in a church in Faerghus.
-Discovered by the Knights of Seiros and imprisoned in Abyss.",
+Discovered by the Knights of Seiros and imprisoned in Abyss.","Родилась в местечке Тимофей.
+Была похищена на выходе из деревни и подвергнута магическим экспериментам.
+Жила при церкви в Фаэргусе после освобождения.
+Была обнаружена Рыцарями Сейрос и заключена в Бездну."
 0,MSGDATA,"Adopted as a foster child by House Hrym of the Empire.
 Becomes a teacher at the Officers Academy on recommendation of House Hrym.","Усыновлен Домом Хрим в Империи.
 Становится преподавателем Офицерской академии по рекомендации Дома Хрим."
@@ -26871,7 +26873,8 @@ Remembers the promise made five years ago and returns to Garreg Mach.",
 0,MSGDATA,"Devotes herself to magical research as a citizen of Abyss.
 Remembers the promise made five years ago and returns to Garreg Mach.",
 0,MSGDATA,"Grumbles about being bored as a citizen of Abyss.
-Remembers the promise made five years ago and returns to Garreg Mach.",
+Remembers the promise made five years ago and returns to Garreg Mach.","Жалуется, что ей скучно жить в Бездне.
+Сдерживает данное пять лет назад обещание и поднимается на поверхность."
 0,MSGDATA,iron_untranslated,iron_untranslated
 0,MSGDATA,"Gets caught up in the battle at Garreg Mach and leaves the monastery.
 Returns to Garreg Mach Monastery and joins the anti-Imperial forces.","Попадает в плен во время битвы при Гаррег Махе и покидает монастырь.
@@ -27331,7 +27334,8 @@ Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Отд�
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,"While living in Abyss, cooperates with the Imperial army at Garreg Mach.
-Joins with the Black Eagle Strike Force at Garreg Mach.",
+Joins with the Black Eagle Strike Force at Garreg Mach.","Сотрудничает с армией Империи, продолжая жить под Гаррег Махом.
+Присоединяется к Ударным силам Чёрного Орла в Гаррег Махе."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
 Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
 Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
@@ -27339,7 +27343,8 @@ Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Ста�
 Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
 Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
 0,MSGDATA,"While living in Abyss, cooperates with the Imperial army at Garreg Mach.
-Joins with the Black Eagle Strike Force.",
+Joins with the Black Eagle Strike Force.","Сотрудничает с армией Империи, продолжая жить в Бездне.
+Присоединяется к вновь собранным Ударным силам Чёрного Орла."
 0,MSGDATA,"Obtains the rank of general within the Imperial Army.
 Transfers to Garreg Mach Monastery with the reformed Black Eagle Strike Force.","Получает звание генерала Имперской армии.
 Переезжает в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
@@ -27823,7 +27828,7 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 • (Особых нет)"
 0,MSGDATA,"• Collecting pretty stones
 • Sky gazing","• Собирать красивые камни
-• Наблюдать за небом"
+• Смотреть на небо"
 0,MSGDATA,"• Sword training
 • Looking after cats","• Тренировка с мечом
 • Уход за кошками"
@@ -27917,7 +27922,7 @@ refreshing beverages","Пение, танцы, приготовление пищ
 0,MSGDATA,"Magic, showy spells, success, House Nuvelle
 (Magic, helpful spells, selflessness, modesty, black tea)","Магия, эффектные заклинания, успех, дом Нувэль
 (Магия, полезные заклинания, самоотверженность, скромность, чёрный чай)"
-0,MSGDATA,"Freedom, music, humorous anecdotes","Свобода, музыка, забавные истории"
+0,MSGDATA,"Freedom, music, humorous anecdotes","Свобода, песни, смешные истории"
 0,MSGDATA,"Sweets, cats, Mercedes","Сладости, кошки, Мерседес"
 0,MSGDATA,"Viable business ventures, money, good deals","Удачные вложения, деньги, выгодные сделки"
 0,MSGDATA,$NONE,$NONE
@@ -27993,8 +27998,8 @@ Duke Goneril","Охотники за наградами, проигрыш в с�
 (Cute things, her own perceived faults)","Солнечный свет, насекомые, вульгарность, признание поражения
 (Милые вещи, её собственные воспринимаемые недостатки)"
 0,MSGDATA,"Monsters, Demonic Beasts, conforming to expectations,
-stifling sighs, knights, preachy people","Монстры, чудища-демоны, подчинение ожиданиям,
-давящие вздохи, рыцари, наставники"
+stifling sighs, knights, preachy people","Надежды, чудища-демоны, монстры, подавлять вздохи,
+рыцари, проповеди"
 0,MSGDATA,"Nobles, busybodies, alcohol, his father","Знать, занятые люди, алкоголь, его отец"
 0,MSGDATA,"Contract breaches, swindlers, forgeries","Нарушения контрактов, мошенники, фальсификации"
 0,MSGDATA,Infuse with magic,Магия
@@ -34424,7 +34429,13 @@ underworld beneath Garreg Mach. There is one incident
 that is a matter of historical record, however. Some years
 later, remnants of those who slither in the dark emerged to
 threaten Fódlan once again. They were defeated by a
-mysterious woman leading a horde of beasts.",
+mysterious woman leading a horde of beasts.","После войны Хапи исчезла из виду. Говорили, что она
+вернулась на родину; или что жила в уединении под
+Гаррег Махом, но правды никто не знал. В будущем
+сохранились записи о том, что когда остатки Крадущихся
+во Тьме замыслили жестокое преступление, они были
+разгромлены одной женщиной, ведущей за собой чудищ,
+но неизвестно, была ли это Хапи."
 0,MSGDATA,"Where exactly Hapi went after the war is unknown. Some
 say she returned to her hometown to live a quiet life,
 while others speculate she assumed a new identity in the
@@ -34432,14 +34443,26 @@ underworld beneath Garreg Mach. There is one incident
 that is a matter of historical record, however. Some years
 later, when those who slither in the dark emerged to
 threaten Fódlan once again, they were defeated by a
-mysterious woman leading a horde of beasts.",
+mysterious woman leading a horde of beasts.","После войны Хапи исчезла из виду. Говорили, что она
+вернулась на родину; или что жила в уединении под
+Гаррег Махом, но правды никто не знал. В будущем
+сохранились записи о том, что когда Крадущиеся 
+во Тьме Фодлана совершили жестокое преступление, 
+они были разгромлены одной женщиной, ведущей 
+за собой чудищ, но неизвестно, была ли это Хапи."
 0,MSGDATA,"Though Hapi's exact whereabouts after the war for Fódlan
 are not known, it is widely speculated that she returned to
 her hometown to live a quiet life. One strange occurrence
 is a matter of historical record, however. When the Empire
 began its struggle against those who slither in the dark in
 earnest, Imperial forces were sometimes aided by a
-mysterious woman leading a horde of beasts.",
+mysterious woman leading a horde of beasts.","После войны Хапи исчезла из виду. Говорили, что она
+вернулась на родину, но никто не знал, где именно
+она находилась. Сохранились записи о том, что когда
+началось противостояние между имперской армией
+и Крадущимися во Тьме, войскам Империи неоднократно
+приходила на помощь женщина, ведущая за собой чудищ,
+но неизвестно, была ли это Хапи."
 0,MSGDATA,"As the new leader of the United Kingdom of Fódlan,
 $S0 worked tirelessly to reform and rebuild
 in the aftermath of a devastating war. Constantly at his
@@ -34873,7 +34896,8 @@ Mach. She was unable to make the promised meeting.",
 $%s1, $%d1.","Гибель в $%s2
 $%s1, $%d1."
 0,MSGDATA,"Disappeared completely after the battle of Garreg Mach.
-She was unable to make the promised meeting.",
+She was unable to make the promised meeting.","Исчезла неизвестно куда после битвы при Гаррег Махе.
+Она не вернулась в назначенный день."
 0,MSGDATA,"Fell in $%s2
 $%s1, $%d1.","Гибель в $%s2
 $%s1, $%d1."
@@ -36531,10 +36555,10 @@ appearance of their current class.","Внешность юнита в бою б�
 0,MSGDATA,Influencer,Просветитель
 0,MSGDATA,Undertakings,
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,Inspire Worship,
-0,MSGDATA,Encourage Recycling,
-0,MSGDATA,Reduce Inn Prices,
-0,MSGDATA,Summon the Wayseer,
+0,MSGDATA,Inspire Worship,Вдохновить поклонение
+0,MSGDATA,Encourage Recycling,Вдохновить на переработку мусора
+0,MSGDATA,Reduce Inn Prices,Снизить цены в гостинице
+0,MSGDATA,Summon the Wayseer,Пригласить ворожею
 0,MSGDATA,Organize the Shadow Library,
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -36568,7 +36592,7 @@ to a wealth of forbidden knowledge.",
 0,MSGDATA,Offer Item,Возложить предметы
 0,MSGDATA,Available Items,Доступные предметы
 0,MSGDATA,Offer Renown,Предложить репутацию
-0,MSGDATA,Wayseer,Предсказательница
+0,MSGDATA,Wayseer,Ворожея
 0,MSGDATA,Mysterious Teacher,Таинственный учитель
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,Select Character,Выбрать персонажа
@@ -36595,15 +36619,18 @@ to a wealth of forbidden knowledge.",
 0,MSGDATA,Unlocked Ep. $%d1,Открыт эпизод $%d1
 0,MSGDATA,Special Cert.,Особый серт.
 0,MSGDATA,"A special certification. These exams can be
-taken at Level 20.",
-0,MSGDATA,Questionable Notices,
-0,MSGDATA,Weapons available to receive at the altar.,
-0,MSGDATA,Items available to receive at the altar.,
+taken at Level 20.","Особый сертификат. Эти экзамены можно
+сдавать на 20-м уровне."
+0,MSGDATA,Questionable Notices,Сомнительные заметки
+0,MSGDATA,Weapons available to receive at the altar.,Доступное на алтаре оружие.
+0,MSGDATA,Items available to receive at the altar.,Доступные на алтаре предметы.
 0,MSGDATA,Weapons,Оружие
 0,MSGDATA,Items,Предметы
-0,MSGDATA,Complete Chapter 1 of the side story to unlock this exam.,
+0,MSGDATA,Complete Chapter 1 of the side story to unlock this exam.,"Пройдите первую главу побочной истории, чтобы открыть
+этот экзамен."
 0,MSGDATA,"This exam will be unlocked once you complete
-Chapter 1 of the side story.",
+Chapter 1 of the side story.","Этот экзамен будет доступен после прохождения
+первой главы побочной истории."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -36756,7 +36783,7 @@ enough room for them.","Невозможно отправить все пред�
 0,MSGDATA,"Unable to send the selected items to the convoy as there
 is not enough room for them.","Невозможно отправить выбранные предметы на склад,
 так как для них недостаточно места."
-0,MSGDATA,Finish exploring and proceed to battle?,
+0,MSGDATA,Finish exploring and proceed to battle?,Закончить исследование и перейти к бою?
 0,MSGDATA,"Update data has been downloaded.
 -The number of save-file slots has increased.
 -It is now possible to go into battle with the same appearance
@@ -36800,7 +36827,7 @@ wear, or evening wear from your Journal.","Теперь вы можете пер
 0,MSGDATA,They seem to be getting hot.,"Кажется, им становится жарко."
 0,MSGDATA,$%s1 is feeling a bit dizzy from the heat.,У $%s1 немного кружится голова от жары.
 0,MSGDATA,They're feeling a bit dizzy from the heat.,У них немного кружится голова от жары.
-0,MSGDATA,You haven't unlocked the wayseer yet.,
+0,MSGDATA,You haven't unlocked the wayseer yet.,Вы ещё не разблокировали ворожею.
 0,MSGDATA,"The bond between $%s1 and
 $%s2 has deepened.",
 0,MSGDATA,"The destinies of $%s1 and
@@ -36891,12 +36918,12 @@ certification exams for special classes, in the main story.","Вы можете 
 DLC Supplies in the main story.",
 0,MSGDATA,"Quests have been added to the main story. Some quests will
 unlock new activities upon completion.",
-0,MSGDATA,The mysterious teacher isn't unlocked yet.,
+0,MSGDATA,The mysterious teacher isn't unlocked yet.,Вы ещё не разблокировали таинственного учителя.
 0,MSGDATA,"You have gathered all of the information. Finish exploring and
 proceed to battle?",
 0,MSGDATA,"You have gathered all of the information. Finish exploring and
 continue the story?",
-0,MSGDATA,This is out of stock.,
+0,MSGDATA,This is out of stock.,Этого нет.
 0,MSGDATA,"The requester doesn't seem to be on the surface. Try searching
 in Abyss.",
 0,MSGDATA,$NONE,$NONE
@@ -36937,20 +36964,25 @@ acquired only from within Abyss.","У вас есть союзники, кото
 сдать, но имейте в виду, что эти экзамены требуют Зачётку
 Бездны, которую можно приобрести только в Бездне."
 0,MSGDATA,"This unit is unable to take the exam because they have not
-acquired the certification for the Thief class.",
+acquired the certification for the Thief class.","Этот юнит не может сдать экзамен, потому что у него
+нет сертификата класса Вор."
 0,MSGDATA,"The requester doesn't seem to be in Abyss. Try returning to the
-monastery and searching there.",
-0,MSGDATA,The requester seems to be in Abyss. Try searching there.,
-0,MSGDATA,Quests have been added to the main story.,
+monastery and searching there.","Похоже, человек с этой просьбой не в Бездне. Попробуйте
+вернуться в монастырь и поискать там."
+0,MSGDATA,The requester seems to be in Abyss. Try searching there.,"Похоже, человек с этой просьбой находится в Бездне.
+Попробуйте поискать там."
+0,MSGDATA,Quests have been added to the main story.,В основную историю были добавлены квесты.
 0,MSGDATA,"They've already been refreshed in the sauna this month, so they
 can't visit again.","Этот юнит уже посещал сауну в этом месяце, и не
 может 
 посетить её повторно."
-0,MSGDATA,You have acquired the secret roster.,
+0,MSGDATA,You have acquired the secret roster.,Вы получили секретные личные дела состава.
 0,MSGDATA,"Now that you have the secret roster, hints will be displayed for
-lost items.",
+lost items.","Теперь, когда у вас есть личные дела состава, для потерянных
+предметов будут отображаться подсказки."
 0,MSGDATA,"When you speak to a character, you can check the secret roster
-by pressing the X Button when the command is displayed.",
+by pressing the X Button when the command is displayed.","Во время диалога с персонажем можно проверить его или её
+личное дело, нажав кнопку Х, когда она отображается."
 0,MSGDATA,You can now use your intuition once during a tea party.,
 0,MSGDATA,Special certification exams are now unlocked for the main story.,
 0,MSGDATA,$NONE,$NONE
@@ -61173,11 +61205,11 @@ you wouldn't normally be able to find.",
 1,MSGDATA,Report to the requester.,Сообщите квестодателю.
 1,MSGDATA,"Could you bring me some flowers to lay at her grave site?
 I think it would mean the world to her knowing you were
-the one that picked the flowers...","Вы не могли бы собрать цветы для её могилы? Уверен,
+the one that picked the flowers...","Вы не могли бы собрать цветы ей на могилу? Уверен,
 она была бы счастлива, что это сделали именно вы..."
 1,MSGDATA,"Go to the greenhouse and pick some flowers to lay on
-Sitri's grave. Surely she had a favorite flower.","Идите в теплицу и соберите цветы для могилы
-Ситри. Наверняка у неё был любимый цветок."
+Sitri's grave. Surely she had a favorite flower.","Идите в оранжерею и соберите цветы, чтобы возложить
+их на могилу. Какие бы цветы собрать?.."
 1,MSGDATA,Accepted Quest Character Message 129,Accepted Quest Character Message 129
 1,MSGDATA,Requesting flowers for a sentimental tribute.,Требуются цветы для почтения памяти.
 1,MSGDATA,カレンダーメッセージ１２８,カレンダーメッセージ１２８
@@ -61200,15 +61232,19 @@ expend activity points.","Пригласите Рею на чай. Учтите,
 1,MSGDATA,Report to Rhea.,Сообщите Рее.
 1,MSGDATA,"A fortune-teller recently set up shop in Abyss. If that
 sounds like something you'd be interested in, why not
-drop by?",
+drop by?","В Бездне появилась ворожея. Если вам такое интересно,
+почему бы вам её не найти? Говорят, она очень точно
+предсказывает будущее."
 1,MSGDATA,"Seek out the wayseer said to be in Abyss. Perhaps she can
-offer insight into getting to know your allies.",
+offer insight into getting to know your allies.","Поговорите с ворожеей в Бездне. Она сможет помочь вам
+узнать больше об отношениях среди ваших союзников."
 1,MSGDATA,Accepted Quest Character Message 131,Accepted Quest Character Message 131
 1,MSGDATA,"Attention! A renowned fortune-teller is opening up shop
-in Abyss.",
+in Abyss.","Внимание! Известная ворожея открывает салон
+в Бездне."
 1,MSGDATA,カレンダーメッセージ１３０,カレンダーメッセージ１３０
 1,MSGDATA,$NONE,$NONE
-1,MSGDATA,Speak to the wayseer in Abyss.,
+1,MSGDATA,Speak to the wayseer in Abyss.,Поговорите с ворожеей в Бездне.
 1,MSGDATA,Report to Hapi.,Сообщите Хапи.
 1,MSGDATA,"A professor who was dismissed from his position at the
 Officers Academy has made his home here. He could be a
@@ -61222,32 +61258,42 @@ offer you insight into the potential growth of your allies.","Найдите т�
 понять, насколько успешно развиваются ваши союзники."
 1,MSGDATA,Accepted Quest Character Message 132,Accepted Quest Character Message 132
 1,MSGDATA,"Former Officers Academy professor offering guidance to
-educators.",
+educators.","Бывший преподаватель Офицерской академии готов
+оказать содействие коллегам."
 1,MSGDATA,カレンダーメッセージ１３１,カレンダーメッセージ１３１
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,Speak to the mysterious teacher in Abyss.,Поговорите с таинственным учителем в Бездне.
 1,MSGDATA,Report to Yuri.,Сообщите Юрию.
 1,MSGDATA,"A famed fortune-teller is visiting Garreg Mach—sort of.
 She's not stepping foot on the surface, see. If you wish to
-hear her wisdom, you'll have to find her, wherever she is.",
+hear her wisdom, you'll have to find her, wherever she is.","В Гаррег Мах прибыла известная ворожея. Но я слышала,
+что она не принимает «на поверхности». Мне интересно, 
+где же она. А вам?"
 1,MSGDATA,"Find the wayseer. If she's not sharing her talents on the
-surface, perhaps she's somewhere in Abyss...",
+surface, perhaps she's somewhere in Abyss...","Найдите ворожею. Если она не показывает свой дар
+на поверхности, то возможно, она где-то в Бездне..."
 1,MSGDATA,Accepted Quest Character Message 133,Accepted Quest Character Message 133
 1,MSGDATA,"Attention! A renowned fortune-teller is opening up shop
-at Garreg Mach.",
+at Garreg Mach.","Внимание! Известная ворожея открывает салон
+в Гаррег Махе."
 1,MSGDATA,カレンダーメッセージ１３２,カレンダーメッセージ１３２
 1,MSGDATA,$NONE,$NONE
-1,MSGDATA,Speak to the wayseer in Abyss.,
+1,MSGDATA,Speak to the wayseer in Abyss.,Поговорите с ворожеей в Бездне.
 1,MSGDATA,Report to the requester.,Сообщите квестодателю.
 1,MSGDATA,"A former professor of the Officers Academy has taken up
 residence underground. He was a bit eccentric but had a
 knack for sizing people up. You might learn something if
-you sought him out.",
+you sought him out.","Я слышал, что мой знакомый, бывший преподаватель
+Офицерской академии, поселился «под землёй». 
+Он по характеру вредный, но в людях не ошибался.
+Где бы мне его найти, чтобы поговорить?"
 1,MSGDATA,"Find the mysterious teacher. If he appeared underground,
-perhaps that means he's in Abyss...",
+perhaps that means he's in Abyss...","Найдите таинственного учителя. Если он под землёй,
+то это наверняка значит, что он в Бездне."
 1,MSGDATA,Accepted Quest Character Message 134,Accepted Quest Character Message 134
 1,MSGDATA,"Former Officers Academy professor offering guidance to
-educators.",
+educators.","Бывший преподаватель Офицерской академии готов
+оказать содействие коллегам."
 1,MSGDATA,カレンダーメッセージ１３３,カレンダーメッセージ１３３
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,Speak to the mysterious teacher in Abyss.,Поговорите с таинственным учителем в Бездне.
@@ -63102,9 +63148,11 @@ you wouldn't normally be able to find.",
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Thank you so much. This was her favorite flower, you
 know. Having these to place at her grave site... It brings
-some closure.",
+some closure.","Спасибо большое. Ах... при жизни это были её любимые
+цветы. Теперь мне не о чем сожалеть."
 1,MSGDATA,"Go to the greenhouse and pick some flowers to lay on
-Sitri's grave. Surely she had a favorite flower.",
+Sitri's grave. Surely she had a favorite flower.","Идите в оранжерею и соберите цветы, чтобы возложить
+их на могилу. Какие бы цветы собрать?.."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -63126,9 +63174,12 @@ expend activity points.","Пригласите Рею на чай. Учтите,
 1,MSGDATA,"So you talked to the wayseer, huh? That kinda thing's not
 really for me. If she told me something good, I'd get my
 hopes up, and if she told me something bad, I'd get upset.
-But I'm glad you got something out of it.",
+But I'm glad you got something out of it.","Нагадали вам что-то? Хапи такое неинтересно, наверное.
+Не хочу лишний раз надеяться на хорошее — да и если
+предсказывают что-то плохое, это тоже бесит, правда?"
 1,MSGDATA,"Seek out the wayseer said to be in Abyss. Perhaps she can
-offer insight into getting to know your allies.",
+offer insight into getting to know your allies.","Поговорите с ворожеей в Бездне. Она сможет помочь вам
+узнать больше об отношениях среди ваших союзников."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -63141,7 +63192,8 @@ trust his analysis.","Ну как он вам? Приятный человек, 
 и уволили, но за ним сохранилась репутация человека,
 который разбирается в своём деле. Ему можно доверять."
 1,MSGDATA,"Seek out the mysterious teacher in Abyss. Perhaps he can
-offer you insight into the potential growth of your allies.",
+offer you insight into the potential growth of your allies.","Найдите таинственного учителя в Бездне. Он поможет 
+понять, насколько успешно развиваются ваши союзники."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -63151,9 +63203,12 @@ offer you insight into the potential growth of your allies.",
 1,MSGDATA,"Abyss, huh? An entire community beneath our feet.
 Who could have guessed. Well, I'd love to have my
 fortune told, but first I have to find my way down
-there somehow...",
+there somehow...","Бездна под монастырём?.. Вот, значит, как.
+Я бы хотела, чтобы мне погадали, но надо
+сначала как-то туда попасть..."
 1,MSGDATA,"Find the wayseer. If she's not sharing her talents on the
-surface, perhaps she's somewhere in Abyss...",
+surface, perhaps she's somewhere in Abyss...","Найдите ворожею. Если она не показывает свой дар
+на поверхности, то возможно, она где-то в Бездне..."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -63162,9 +63217,12 @@ surface, perhaps she's somewhere in Abyss...",
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Abyss, huh? An entire community beneath our feet.
 I had no idea. Well, I'm glad he's doing all right.
-Maybe, after the war, I'll go down and visit him...",
+Maybe, after the war, I'll go down and visit him...","Бездна под монастырём? Подумать только. Я рад,
+что он в добром здравии. Надо бы навестить его,
+как война закончится."
 1,MSGDATA,"Find the mysterious teacher. If he appeared underground,
-perhaps that means he's in Abyss...",
+perhaps that means he's in Abyss...","Найдите таинственного учителя. Если он под землёй,
+то это наверняка значит, что он в Бездне."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -194245,7 +194303,7 @@ anything like that?","Вы хотите еще что-нибудь спроси�
 3,MSGDATA,Map,Карта
 3,MSGDATA,Minimap,Мини-карта
 3,MSGDATA,Spirits of the Fallen,Духи павших
-3,MSGDATA,Wayseer,Предсказательница
+3,MSGDATA,Wayseer,Ворожея
 3,MSGDATA,Mysterious Teacher,Таинственный учитель
 3,MSGDATA,Need a Guide?,Нужна помощь?
 3,MSGDATA,Linked Attacks,Совместные атаки
@@ -195182,8 +195240,8 @@ additional uses for it as you make use of the influencer's services.","У язы
 3,MSGDATA,"In exchange for your renown, the influencer will gather more people to
 Abyss for you. This will unlock new activities, quests, and more.","В обмен на известность, просветитель соберет для вас больше людей в Бездне. Это разблокирует новые занятия, квесты и многое другое."
 3,MSGDATA,"Give some of your renown to the wayseer, and she can tell you about the
-bonds between your allies.","Дайте немного своей славы провидице, и она расскажет вам о
-связях между вашими союзниками."
+bonds between your allies.","Дайте немного своей славы ворожее, и она расскажет вам 
+о связях между вашими союзниками."
 3,MSGDATA,"• Strengthen Bond
 Analyze the prospective relationship between the selected pair, and boost
 their support points. Does not work on pairs who are already very close.","• Усилить связь
