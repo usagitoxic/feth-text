@@ -24368,19 +24368,20 @@ a better one. When can I start over with a clean slate?","Зло есть зло
 Настанет ли день, когда я порву с этим злом?"
 0,MSGDATA,"All my problems boil down to not having enough gold.
 It's gotten so bad that even when I actually get my hands
-on some, I don't know what to do with it.","Все мои проблемы сводятся к тому, что мне не хватает
-золота. Всё настолько плохо, что когда деньги попадают
-мне в руки, я не знаю, что с ними делать."
+on some, I don't know what to do with it.","Все мои проблемы можно решить деньгами. То есть,
+отсутствие денег — моя главная проблема. Или
+проблема в том, что когда они у меня заводятся,
+я их тут же все трачу?.."
 0,MSGDATA,"Killing enemy soldiers is one thing—they signed up for it.
 But what about some farmer's kid coming at me with a
-scythe or a pitchfork? Do I gotta kill him too?","Убивать солдат врага — это одно, они сами на это
-подписались. А если сын фермера пойдёт на меня
-с вилами или косой? Его тоже убить?"
+scythe or a pitchfork? Do I gotta kill him too?","Если твой противник — солдат, то это нормально, но 
+на войне же не бывает всё так просто. А если на меня
+из хаты выскочит мальчишка с вилами?.. И его убить?"
 0,MSGDATA,"I could say I have no concerns, but of course I would be
 lying. My ambitions are endless! Soon I shall bind the very
-firmament to my will. The clouds will obey my commands!","Я могу сказать, что у меня нет волнений, но это, конечно,
-будет ложью. Мои амбиции безграничны! Скоро я подчиню
-своей воле небесный свод. Облака будут мне повиноваться!"
+firmament to my will. The clouds will obey my commands!","Волноваться совершенно не о чем!.. хотелось бы 
+мне так сказать, но на самом деле есть о чём. 
+Могу ли я заставить облака двигаться по моей воле?"
 0,MSGDATA,"I excel in any confrontation that involves magic, of course,
 but what should happen if my foe is resistant—or, dare I
 say it, immune? I am afraid I would be quite powerless!","Я прекрасно владею магией, но рискую оказаться
@@ -24392,8 +24393,10 @@ nonsense, isn't it?","Что мне тут писать? Про проблемы
 исправит? Только не надо мне тут про то, что
 станет легче, если я переведу дух и выговорюсь."
 0,MSGDATA,"With so much changing all the time, I wish something,
-anything, would just stay the same. Don't you?","Всё постоянно меняется, и я хочу, чтобы 
-хоть что-то не менялось. А вы?"
+anything, would just stay the same. Don't you?","Как бы сказать... столько всего так быстро меняется, 
+будто так и надо, и тем дороже становится то, что 
+не меняется, правда? А вы не хотите, чтобы ничего 
+не менялось?"
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -24549,9 +24552,9 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,Steady work is profitable work in the long term.,Стабильная работа — это прибыль на долгий срок.
 0,MSGDATA,Ask the church for help.,Обратись к Церкви за помощью.
 0,MSGDATA,It will happen. Have faith.,Теперь уже ты не должен отступать от своих убеждений.
-0,MSGDATA,"Next time you've got gold, I'll help you decide.",В следующий раз я помогу тебе избавиться от денег.
-0,MSGDATA,It's possible to fight without killing.,"Возможно вести бой, не убивая."
-0,MSGDATA,"That may actually be too much, even for you.","Даже для тебя это, наверное, слишком."
+0,MSGDATA,"Next time you've got gold, I'll help you decide.","Когда у тебя заведутся деньги, дай их мне на хранение."
+0,MSGDATA,It's possible to fight without killing.,"При должной сноровке возможно вести бой, не убивая."
+0,MSGDATA,"That may actually be too much, even for you.","Это также невозможно, как приставить к ним лестницу."
 0,MSGDATA,Leave that to an expert in physical weapons.,Положись на мастеров в обращении с обычным оружием.
 0,MSGDATA,You could at least write me a good joke.,Можешь рассказать анекдот.
 0,MSGDATA,Everything changes—even the things that seem not to.,"Всё меняется — даже то, что казалось бы, не меняется."
@@ -24710,12 +24713,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,First-class merchants don't care about a source of profits.,Первоклассных торговцев не волнует источник прибыли.
 0,MSGDATA,There has to be a way to get physicians from the surface.,"Может, стоит попытаться привести лекарей с поверхности."
 0,MSGDATA,It's possible that opportunity may never come.,"Наверное, это несбыточное желание."
-0,MSGDATA,One of the merchants is peddling a get-rich-quick scheme.,
-0,MSGDATA,This is war. It's kill or be killed.,"Это война. Убей, или будь убитым."
-0,MSGDATA,"Go on, then. Reach up and pull one down with your hand.",
+0,MSGDATA,One of the merchants is peddling a get-rich-quick scheme.,Один торговец как раз предлагает схему быстрого обогащения.
+0,MSGDATA,This is war. It's kill or be killed.,"Либо убьёшь ты, либо убьют тебя."
+0,MSGDATA,"Go on, then. Reach up and pull one down with your hand.",Ты как будто собираешься двигать их руками.
 0,MSGDATA,Sounds like you still have training to do.,Тебе нужно тренироваться.
 0,MSGDATA,You can write whatever you want.,"Можешь писать, что угодно."
-0,MSGDATA,There are changes worth wishing for too.,
+0,MSGDATA,There are changes worth wishing for too.,"Можно дорожить и тем, что изменилось."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -24871,12 +24874,12 @@ anything, would just stay the same. Don't you?","Всё постоянно ме�
 0,MSGDATA,It's a waste of time to anticipate trouble.,Ожидать неприятности — пустая трата времени.
 0,MSGDATA,Lower their prices by force.,Силой заставь лекарей снизить цены.
 0,MSGDATA,How about right now?,Порви с ним прямо сейчас.
-0,MSGDATA,Work harder and you'll earn more.,
-0,MSGDATA,I suppose you could retreat instead.,
-0,MSGDATA,"When I see you sleeping on one, I'll believe it.",
+0,MSGDATA,Work harder and you'll earn more.,Работай усерднее.
+0,MSGDATA,I suppose you could retreat instead.,Можешь дезертировать.
+0,MSGDATA,"When I see you sleeping on one, I'll believe it.","Может, попробуешь на них полежать?"
 0,MSGDATA,Take them on with your bare hands.,Кулаки — лучшее оружие.
-0,MSGDATA,Pretty much.,Скорее всего.
-0,MSGDATA,We must all change to live and grow.,
+0,MSGDATA,Pretty much.,"Но тебе правда станет легче, если выговоришься..."
+0,MSGDATA,We must all change to live and grow.,"Невозможно выжить, не меняясь."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -24925,7 +24928,7 @@ Raises flying skills.","Совместная работа по обеспече�
 0,MSGDATA,"Defeat the enemy commander, or 12 turns pass.",Победить командира или продержаться 12 ходов.
 0,MSGDATA,"Defeat the Death Knight, or rout all other enemies.",Победить Рыцаря Смерти или всех остальных врагов.
 0,MSGDATA,Find the chalice.,Найдите чашу.
-0,MSGDATA,Get all of your units to the target destination.,
+0,MSGDATA,Get all of your units to the target destination.,Доведите всех юнитов до нужной клетки.
 0,MSGDATA,"Rout the enemy, or 10 turns pass.",Победить врагов или продержаться 10 ходов.
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -25169,8 +25172,8 @@ falls in battle.","$C1$S0$R, $C1Клод$R, $C1Юрий$R, $C1Констанци
 0,MSGDATA,$C1$S0$R or one of the $C1Ashen Wolves$R falls in battle.,"$C1$S0$R или один из $C1Пепельных Волков$R
 пали в битве."
 0,MSGDATA,"$C1$S0$R, $C1Edelgard$R, or $C1Anna$R falls in battle.","$C1$S0$R, $C1Эдельгард$R или $C1Анна$R пали в битве."
-0,MSGDATA,"All of your units are defeated, or $C1Aelfric$R falls in battle.",
-0,MSGDATA,"$C1$S0$R, $C1Aelfric$R, or one of the $C1Ashen Wolves$R falls in battle.","$C1$S0$R, $C1Элфрик$R, или один из $C1Пепельных Волков$R
+0,MSGDATA,"All of your units are defeated, or $C1Aelfric$R falls in battle.","Все юниты повержены, или $C1Альфард$R повержен."
+0,MSGDATA,"$C1$S0$R, $C1Aelfric$R, or one of the $C1Ashen Wolves$R falls in battle.","$C1$S0$R, $C1Альфард$R, или один из $C1Пепельных Волков$R
 пали в битве."
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
@@ -26430,21 +26433,31 @@ Noticed by Archbishop Rhea and begins working at the monastery.","Появляе
 0,MSGDATA,"Born to a prostitute in western Fódlan.
 Discovered and adopted by Count Rowe.
 Enrolls at the Officers Academy at Garreg Mach but is expelled due to a scandal.
-Becomes a resident of Abyss.",
+Becomes a resident of Abyss.","Рождён в трущобах западного Фодлана у проститутки.
+Замечен и усыновлён графом Роу.
+Поступил в Офицерскую академию, но был отчислен из-за того, что
+устроил беспорядки.
+Становится жителем Бездны."
 0,MSGDATA,"Born the eldest son of a lord in Leicester territory.
 Enrolls at, and graduates from, the Officers Academy at Garreg Mach.
 Relinquishes his position as the heir of House Albrecht to his younger brother.
-To evade bounty hunters, becomes a resident of Abyss.",
+To evade bounty hunters, becomes a resident of Abyss.","Рождён первенцем лорда на территории Альянса.
+Поступает и заканчивает Офицерскую академию при Гаррег Махе.
+Становится главой дома Адальбрехт; немедленно отказывается от этого в пользу младшего брата.
+Селится в Бездне, чтобы скрыться от охотников за головами."
 0,MSGDATA,"Born the eldest daughter of Count Nuvelle.
 Loses her family, title, and lands in the Dagda and Brigid War.
 Relocates to Fhirdiad, where she enrolls at the school of sorcery.
-Graduates from the school and enrolls at the Officers Academy at Garreg Mach.",
+Graduates from the school and enrolls at the Officers Academy at Garreg Mach.","Рождена первенцем виконта Нувэль.
+Теряет всю семью, титул и владения в войне Дагды и Бригида.
+Одна переезжает в Фирдиад, где поступает в школу магии.
+Выпускается из школы и поступает в Офицерскую академию при Гаррег Махе."
 0,MSGDATA,"Born in the hidden village of Timotheos.
 Upon leaving the village, is abducted and subjected to magical experimentation.
 After being freed, finds refuge in a church in Faerghus.
 Discovered by the Knights of Seiros and imprisoned in Abyss.","Родилась в местечке Тимофей.
 Была похищена на выходе из деревни и подвергнута магическим экспериментам.
-Жила при церкви в Фаэргусе после освобождения.
+Живёт при церкви в Фаэргусе после освобождения.
 Была обнаружена Рыцарями Сейрос и заключена в Бездну."
 0,MSGDATA,"Adopted as a foster child by House Hrym of the Empire.
 Becomes a teacher at the Officers Academy on recommendation of House Hrym.","Усыновлен Домом Хрим в Империи.
@@ -26867,11 +26880,14 @@ Returns to Garreg Mach Monastery and joins the anti-Imperial forces.","Ищет 
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,"Travels to various regions in an effort to protect the residents of Abyss.
-Remembers the promise made five years ago and returns to Garreg Mach.",
+Remembers the promise made five years ago and returns to Garreg Mach.","Путешествует по разным регионам в поисках защиты для жителей Бездны.
+Сдерживает данное пять лет назад обещание и возвращается в Гаррег Мах."
 0,MSGDATA,"Travels as a roving mercenary, fighting in various conflicts.
-Remembers the promise made five years ago and returns to Garreg Mach.",
+Remembers the promise made five years ago and returns to Garreg Mach.","Принимает участие в сражениях по всему континенту, будучи странствующим наёмником.
+Сдерживает данное пять лет назад обещание и возвращается в Гаррег Мах."
 0,MSGDATA,"Devotes herself to magical research as a citizen of Abyss.
-Remembers the promise made five years ago and returns to Garreg Mach.",
+Remembers the promise made five years ago and returns to Garreg Mach.","Живёт в Бездне, усердно занимается магическими исследованиями.
+Сдерживает данное пять лет назад обещание и возвращается в Гаррег Мах."
 0,MSGDATA,"Grumbles about being bored as a citizen of Abyss.
 Remembers the promise made five years ago and returns to Garreg Mach.","Жалуется, что ей скучно жить в Бездне.
 Сдерживает данное пять лет назад обещание и поднимается на поверхность."
@@ -27197,17 +27213,17 @@ Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Его 
 Становится генералом Имперской армии.
 Его направляют в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
-Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом имперской армии.
+Переназначен в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
-Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом имперской армии.
+Переназначен в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
-Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом имперской армии.
+Переназначена в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"Continues to cooperate with the Imperial army.
 Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Продолжает сотрудничать с Имперской армией.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Переназначена в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"Becomes involved with the Imperial army as a visiting general from Brigid.
 Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Вступает в ряды Имперской армии как приглашённый генерал из Бригид.
 Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
@@ -27224,8 +27240,8 @@ Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Сбе�
 Становится генералом Имперской армии.
 Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
-Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом имперской армии.
+Переназначен в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"Absconds from House Gautier.
 Becomes involved in the Imperial army as a general.
 Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Сбегает из Дома Готье.
@@ -27337,11 +27353,11 @@ Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Отд�
 Joins with the Black Eagle Strike Force at Garreg Mach.","Сотрудничает с армией Империи, продолжая жить под Гаррег Махом.
 Присоединяется к Ударным силам Чёрного Орла в Гаррег Махе."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
-Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом имперской армии.
+Переназначен в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"Becomes involved in the Imperial army as a general.
-Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом Имперской армии.
-Направляется в Гаррег Мах, когда сформированы Ударные силы Чёрного Орла."
+Reassigned to Garreg Mach when the Black Eagle Strike Force is formed.","Становится генералом имперской армии.
+Переназначена в Гаррег Мах после формирования Ударных сил Чёрного Орла."
 0,MSGDATA,"While living in Abyss, cooperates with the Imperial army at Garreg Mach.
 Joins with the Black Eagle Strike Force.","Сотрудничает с армией Империи, продолжая жить в Бездне.
 Присоединяется к вновь собранным Ударным силам Чёрного Орла."
@@ -27513,10 +27529,10 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,Former student of the Officers Academy,
+0,MSGDATA,Former student of the Officers Academy,Бывший ученик Офицерской академии
 0,MSGDATA,"Former heir to House Albrecht, a minor Alliance house","Бывший наследник дома Адальбрехт,
 малого дома Альянса."
-0,MSGDATA,Heir to the former House Nuvelle,Бывший наследник дома Нувэль
+0,MSGDATA,Heir to the former House Nuvelle,Бывшая наследница дома Нувэль
 0,MSGDATA,Girl from a forgotten village,Девушка из забытой деревни
 0,MSGDATA,Professor at the Officers Academy,Преподаватель Офицерской академии
 0,MSGDATA,Mysterious Merchant,Загадочный торговец
@@ -27818,7 +27834,7 @@ After the battle, becomes an ally.","Дом Корделия заявляет о
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,"• Providing for his mother
-• Cooking","• Заботиться о матери
+• Cooking","• Денежная помощь матери
 • Готовка"
 0,MSGDATA,"• Brawling
 • Adventure","• Драки
@@ -27917,7 +27933,7 @@ refreshing beverages","Пение, танцы, приготовление пищ
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
 0,MSGDATA,$NONE,$NONE
-0,MSGDATA,"Sweets, banquets, board games, family","Сладости, пиршества, настольные игры, семья"
+0,MSGDATA,"Sweets, banquets, board games, family","Сладкое, банкеты, настольные игры, семья"
 0,MSGDATA,"Gold, fighting, women, gambling, grit, bravado","Золото, сражения, женщины, азартные игры, мужество, бравада"
 0,MSGDATA,"Magic, showy spells, success, House Nuvelle
 (Magic, helpful spells, selflessness, modesty, black tea)","Магия, эффектные заклинания, успех, дом Нувэль
@@ -32711,7 +32727,16 @@ overcome all obstacles. When not busy governing their
 territory, the couple lifted one another's spirits by baking
 delicious sweets for each other. The tradition was so
 heartwarming that it became popular for husbands and
-wives in that region to do the same for generations.",
+wives in that region to do the same for generations.","После войны Эш был посвящён в рыцари и назначен 
+новым главой дома Гаспар, оставшегося без наследников. 
+Так как многие не признавали молодого и неопытного 
+лорда, на Эша обрушивались одни испытания за другими. 
+Но как бы тяжело ни приходилось, Эш не терял присутствия 
+духа. Он был способен на это благодаря беззаветной
+поддержке своей супруги Мерседес, помогающей ему вести 
+дела. А среди супружеских пар в будущем сохранилась
+традиция дарить друг другу сладости подобно тому,
+как Мерседес пекла сладости мужу, чтобы его подбодрить."
 0,MSGDATA,"After the war, Ashe was formally knighted and appointed
 the new head of House Gaspard, which had no successors.
 He married Annette, and the couple's combined tenacity,
@@ -34394,7 +34419,14 @@ illicit markets. Not coincidentally, wherever Yuri's
 underground businesses thrived, so too did orphanages
 and almshouses. For the awe and respect his generosity
 earned him among the downtrodden, Yuri came to be
-known as the ""Underground Lord.""",
+known as the ""Underground Lord.""","Когда улеглась послевоенная смута, Юрий будто исчез,
+скрывшись среди преступников. Много десятилетий
+спустя его организация настолько разрослась, что
+стала оказывать влияние на экономику; но говорят,
+что большая часть его личных средств шла на 
+поддержку сиротских приютов и работных домов.
+Люди, испытывая перед ним благоговейный трепет,
+прозвали его «Владыка сумерек»."
 0,MSGDATA,"Balthus disappeared shortly after the war, but rumors
 of his exploits swirled for a long time thereafter. Some
 say he returned to Kupala, where he became a protector
@@ -34474,7 +34506,17 @@ couple stepped back from the public eye and vanished
 from official record. Curiously, informal notes and letters
 from friends suggest that the pair was extraordinarily
 long-lived and that their youth was untouched by the
-passage of time.",
+passage of time.","После войны $S0, став во главе Фодлана, приступил к 
+реформам. В этом его поддерживал Юрий — его спутник 
+жизни и правая рука. Возрождая континент, в первую 
+очередь они уделили внимание защите бедных и тому, 
+чтобы дать им возможность получить образование и 
+работу. Говорят, что инициатива направить политику 
+на улучшение жизни народа исходила от Юрия. А когда 
+они оба убедились, что Фодлан процветает, отошли 
+от дел, исчезнув неизвестно куда. Их соратники писали, 
+что даже годы спустя и король-объединитель, и его 
+спутник оставались очень молоды на вид."
 0,MSGDATA,"As the new Archbishop of the Church of Seiros,
 $S0 worked tirelessly with the Kingdom
 to reform and rebuild in the aftermath of a devastating
@@ -34486,7 +34528,18 @@ prosperous future for Fódlan, the couple stepped back
 from the public eye and vanished from official record.
 Curiously, informal notes and letters from friends suggest
 that the pair was extraordinarily long-lived and that
-their youth was untouched by the passage of time.",
+their youth was untouched by the passage of time.","После войны $S0, став новым архиепископом Церкви
+Сейрос, восстанавливал континент, работая вместе 
+с Королевством. В этом его поддерживал Юрий — его 
+спутник жизни и правая рука. Возрождая континент, 
+в первую очередь Церковь уделяла внимание защите 
+бедных и тому, чтобы дать им возможность получить
+образование и работу; говорят, что инициатива этого 
+исходила именно от Юрия. А когда они оба убедились, 
+что Фодлан процветает, отошли от дел, исчезнув 
+неизвестно куда. Их соратники писали, что даже годы 
+спустя и архиепископ, и его спутник оставались очень 
+молоды на вид."
 0,MSGDATA,"No sooner was the modest wedding ceremony between
 $S0 and Yuri over than the battle with those
 who slither in the dark began in earnest. Through the
@@ -34495,7 +34548,16 @@ their constant determination to save every possible life,
 leaving none behind. The battle marks the last mention
 of them in official sources, but stories abound of the
 order they brought to the underworld upon their
-triumphant return.",
+triumphant return.","Едва закончилась их скромная свадьба, как $S0 
+и Юрий снова оказались в бою против Крадущихся 
+во Тьме. Порой ожесточённые сражения вредили 
+народу, но эти двое никогда не жалели сил, чтобы
+сберечь чужие жизни. А когда всё закончилось, 
+они тихо ушли с исторической сцены. Несколько лет
+спустя пошли слухи о том, что один юноша покончил
+с междоусобицей среди бандитов и навёл порядок
+в преступном мире, а бок о бок с ним сражался 
+мечник — но это уже совсем другая история."
 0,MSGDATA,"As the new leader of the United Kingdom of Fódlan,
 $S0 worked tirelessly to reform and rebuild
 in the aftermath of a devastating war. Constantly at her
@@ -34869,7 +34931,17 @@ blessed with many children, and their home was always
 so busy and full of merriment that there was never an
 occasion to sigh. It is said that Hapi took such delight in
 recounting Ashe's stories to their children that it became
-hard to believe she had ever despised knights.",
+hard to believe she had ever despised knights.","После войны Эш был посвящён в рыцари и назначен
+новым главой дома Гаспар, оставшегося без наследников.
+Очень скоро он женился на Хапи. Искренне заботясь
+о жителях своих земель, они прислушивались к интересам
+народа в своём управлении. А когда супругов осчастливило
+появление детей, в доме стало настолько весело
+и шумно, что у них не осталось времени на вздохи.
+И когда Хапи со счастливым лицом пересказывала детям
+рыцарские истории, которые ей когда-то рассказывал Эш,
+в ней нельзя было узнать девочку, которая давным-давно
+так ненавидела рыцарей."
 0,MSGDATA,"After the war, Linhardt abandoned his inherited position
 and instead journeyed with Hapi to the village both she
 and Saint Timotheos were from. The villagers initially
