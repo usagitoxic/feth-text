@@ -34656,7 +34656,7 @@ and diplomatic reforms owe their origins to his advice.","Взойдя на пр
 это вызвало отторжение, но куда бы королева 
 ни направлялась, он повсюду сопровождал её,
 и вопреки ожиданиям, он не подводил королеву
-ни словом ни делом, благодаря чему повсюду
+ни словом, ни делом — благодаря чему повсюду
 стали слышны голоса, благославляющие этот союз.
 Будучи телохранителем королевы, Бальтазар также
 оказывал помощь в государственных делах, особо
@@ -34692,10 +34692,10 @@ historical records but persisted in folk tales. Of the stories
 that spread to every corner of Fódlan and survive to this
 day, the most prominent one features criminals who
 threaten to abduct a traveler's wife. The traveler laughs
-and wishes them the best of luck.","Едва отгремела их пышная свадьба, как $S0
-и Бальтазар снова бросились в бой против Крадущихся
-во Тьме. Полностью отдавшись делу и ведя армию
-Империи в ожесточённые бои, они вновь и вновь
+and wishes them the best of luck.","Едва отгремела их пышная свадьба и кончился банкет, 
+как $S0 и Бальтазар снова бросились в бой против 
+Крадущихся во Тьме. Полностью отдавшись делу и ведя 
+армию Империи в ожесточённые бои, они вновь и вновь
 сокрушали врагов, вызывая благоговейный трепет
 даже у своих союзников. Хотя отследить дальнейшую
 судьбу этой пары по официальным бумагам Империи
@@ -34778,7 +34778,17 @@ the royal couple restored Fódlan together, the people
 came to appreciate her competence and taciturn wit.
 Some years later, when those who slither in the dark
 emerged to threaten Fódlan once again, it is said that
-Hapi's strength was instrumental in dealing with them.",
+Hapi's strength was instrumental in dealing with them.","Взойдя на престол первого короля объединённого
+Фодлана, $S0 тотчас же объявил о скором браке с Хапи. 
+Несмотря на то, что за новой королевой тянулся шлейф 
+слухов о её «сомнительном» происхождении, королевская
+чета не обращала внимание на недоброжелателей,
+занимаясь возрождением Фодлана. Занимаясь делами,
+королева говорила редко, но настолько метко, что
+понемногу не осталось никого, кто не признавал бы
+её авторитет. А когда остатки Крадущихся во Тьме
+задумали страшное преступление, то вместе с мужем она 
+сумела точно рассчитать всё так, чтобы предотвратить его."
 0,MSGDATA,"After becoming the new Archbishop of the Church of
 Seiros, $S0 announced his marriage to Hapi.
 Her disquieting lineage earned her more than her fair
@@ -34787,7 +34797,16 @@ restored Fódlan together, the people came to appreciate
 her competence and taciturn wit. Some years later, when
 those who slither in the dark emerged to threaten Fódlan
 once again, it is said that Hapi's strength was instrumental
-in dealing with them.",
+in dealing with them.","Став архиепископом Церкви Сейрос, $S0 тотчас же 
+объявил о скором браке c Хапи. Несмотря на то, что 
+за ней тянулся шлейф слухов о её «сомнительном» 
+происхождении, они не обращали внимание на 
+недоброжелателей, занимаясь возрождением Фодлана
+и Церкви. На публике Хапи говорила редко, но настолько 
+метко, что понемногу не осталось никого, кто не признавал 
+бы её авторитет. А когда Крадущиеся во Тьме приступили
+к осуществлению страшного преступления, то вместе 
+с мужем она сумела предотвратить худшее развитие событий."
 0,MSGDATA,"Almost immediately after $S0 and Hapi had
 celebrated their marriage in a lively ceremony, the battle
 against those who slither in the dark began in earnest.
@@ -34799,7 +34818,18 @@ descendant produced a chronicle of their lives. According
 to that account, the pair had retired to a secluded village
 at the foot of the Oghma Mountains. There, the author
 writes, they pledged their undying love for each other
-underneath a starry sky.",
+underneath a starry sky.","Едва отгремела их пышная свадьба, как $S0 и Хапи 
+снова бросились в бой против Крадущихся во Тьме. 
+Против ожиданий окружающих, Хапи с готовностью шла
+вместе с мужем на передовую, принимая участие в боях по 
+всему континенту. Сохранились записи о том, что они 
+сражались до тех пор, пока в Фодлане не настал истинный мир. 
+Вскоре после войны они исчезли из виду. Никто не знал, что 
+с ними стало; до тех пор, пока в далёком будущем не объявился 
+человек, назвавший себя их потомком, который позже написал 
+их общую биографию. Согласно ей, они оба поселились 
+в скрытой в лесу деревне у подножия гор Огма — где и
+жили в любви и согласии, любуясь звёздным небом."
 0,MSGDATA,"After the war for Fódlan, Jeritza threw himself fully into
 the struggle against those who slither in the dark. Visage
 masked by the likeness of death itself, he laid waste to his
@@ -34983,7 +35013,19 @@ It is said that these mercenaries lived raucously, laughing
 often, and that not a single sigh of discontent was ever
 heard. Some years later, when those who slither in the
 dark returned to threaten Fódlan once again, these
-mercenaries were instrumental in dealing with them.",
+mercenaries were instrumental in dealing with them.","Бальтазар и Хапи пропали из виду вскоре после войны.
+Некоторое время оставалось неясно, где они, пока не
+поползли слухи об отряде первоклассных наёмников, чьей
+специализацией было истребление магических зверей и чудищ.
+Именно Бальтазар и Хапи стояли во главе этого отряда:
+Бальтазар как капитан, и Хапи — как его заместитель.
+Они путешествовали по всему Фодлану, помогая людям,
+попавшим в беду. Говорят, что в этом отряде всегда
+гремел громкий смех, и от них нельзя было услышать
+ни одного вздоха. Также известно, что позднее, когда 
+остатки Крадущихся во Тьме замыслили страшное 
+преступление, они доблестно показали себя в борьбе 
+против них, но подробных записей об этом не сохранилось."
 0,MSGDATA,"Shortly after the war, Hapi and Balthus disappeared. Their
 absence from the world stage was not lasting, however, as
 before long they emerged as the leaders of an elite band of
@@ -34993,7 +35035,19 @@ It is said that these mercenaries lived raucously, laughing
 often, and that not a single sigh of discontent was ever
 heard. Some time later, when those who slither in the
 dark threatened Fódlan, it is rumored that these
-mercenaries were instrumental in dealing with them.",
+mercenaries were instrumental in dealing with them.","Бальтазар и Хапи пропали из виду вскоре после войны.
+Некоторое время оставалось неясно, где они, пока не
+поползли слухи об отряде первоклассных наёмников, чьей
+специализацией было истребление магических зверей и чудищ.
+Именно Бальтазар и Хапи стояли во главе этого отряда:
+Бальтазар как капитан, и Хапи — как его заместитель.
+Они путешествовали по всему Фодлану, помогая людям,
+попавшим в беду. Говорят, что в этом отряде всегда
+гремел громкий смех, и от них нельзя было услышать
+ни одного вздоха. Также известно, что позднее, когда 
+Крадущиеся во Тьме совершили страшное преступление, 
+они доблестно показали себя, дав врагу отпор, но 
+подробных записей об этом не сохранилось."
 0,MSGDATA,"Perhaps unexpectedly, Balthus accompanied Claude upon
 his return to his homeland of Almyra. While Claude
 assumed the role of a politically active prince, Balthus
