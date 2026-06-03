@@ -7406,7 +7406,7 @@ fighting tournament.","У вас недостаточно очков актив�
 0,MSGDATA,You don't have enough activity points to host a tea party.,"У вас недостаточно очков активности,
 чтобы провести чаепитие."
 0,MSGDATA,$%s1 is not able to make it.,$%s1 не может сделать это.
-0,MSGDATA,$%s1 has accepted your invitation!,$%s принял ваше приглашение!
+0,MSGDATA,$%s1 has accepted your invitation!,$%s1 принял ваше приглашение!
 0,MSGDATA,"$%s1 and $%s2 don't
 have much to say to one another...","У $%s1 и $%s2 не так
 много тем для разговора..."
@@ -52220,7 +52220,8 @@ have guessed.","Вы гораздо более щепетильны, чем я �
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"I apologize for troubling you. I am grateful for
-your support.",Прошу прощения за беспокойство. Я благодарен за вашу поддержку.
+your support.","Извините, что обременяю вас своими бедами, 
+учитель. Я всецело полагаюсь на вас."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Do you really have time for this? I know how
@@ -92153,84 +92154,92 @@ with you...and to dance with you.","Должно быть многие студ�
 I cannot keep you all to myself, after all.","Не хотелось бы мешать вам. В конце концов,
 не могу же я одна вас занимать."
 11703,SUPPORT,"Perfect timing, Professor. If you don't mind,
-I have a favor I'd like to ask of you.","Вы вовремя, Профессор. Если вы не против,
- у меня к вам есть просьба."
-11703,SUPPORT,What's the favor?,Что за просьба?
+I have a favor I'd like to ask of you.","О, учитель, вы как раз кстати. У меня к вам 
+будет небольшая просьба, если вы не против."
+11703,SUPPORT,What's the favor?,Какая просьба?
 11703,SUPPORT,"It's in regard to sword training. Not for myself,
-but... Well...","Это насчет тренировок с мечом. Не для меня, но... Знаете..."
+but... Well...","Ну, мне нужна небольшая помощь с тренировкой
+на мечах... Я не для себя прошу..."
 11703,SUPPORT,"To be honest, I've been teaching swordsmanship
 to the orphans at the monastery for a while now.","Если честно, я не так давно начал давать уроки
 фехтования сиротам из монастыря."
-11703,SUPPORT,How unexpected.,Как неожиданно.
+11703,SUPPORT,How unexpected.,Неожиданно.
 11703,SUPPORT,How did that come to be?,И с чего это началось?
-11703,SUPPORT,"I must agree. Frankly, I'm not great with children.",Согласен. Я не особо лажу с детьми.
+11703,SUPPORT,"I must agree. Frankly, I'm not great with children.","Согласен. По правде говоря, я не силён в общении
+с детьми."
 11703,SUPPORT,"Some of them saw me sparring with the knights
-one day.",Кто-то из них однажды увидел мою тренировку с рыцарями.
+one day.","На днях за моими тренировочными боями с рыцарями
+наблюдали местные мальчишки."
 11703,SUPPORT,"They started pestering me to teach them. They were
-so earnest... I couldn't help but oblige.","Они стали надоедать мне с просьбами обучать их. Они были
- так настойчивы, что мне пришлось согласиться."
+so earnest... I couldn't help but oblige.","И они стали так искренне просить меня научить их 
+сражаться, что я... не смог отказать."
 11703,SUPPORT,"There's much I wish to show them, but due to my
 own studies and training, I'm afraid my time is
-rather limited.","Я многое хотел бы им показать, но так как
- я и сам обучаюсь и тренируюсь, я боюсь, 
-мое время довольно ограничено."
+rather limited.","Я бы многое хотел им показать, но у меня есть
+и свои обязанности..."
 11703,SUPPORT,"Which brings me to my favor. Your swordsmanship
 is unmatched. I hate to ask this of you, but...
-Would you consider lending me a hand?","Что подводит меня к моей просьбе. Ваше владение
-мечом безупречно. Не хотелось бы спрашивать, но...
-Вы можете мне помочь?"
-11703,SUPPORT,You can count on me.,Можешь рассчитывать на меня.
-11703,SUPPORT,You leave me no choice.,Ты не оставил мне выбора.
+Would you consider lending me a hand?","А вы безупречно владеете мечом. Мне неловко
+об этом просить, но вы не могли бы мне помочь?"
+11703,SUPPORT,You can count on me.,Положись на меня.
+11703,SUPPORT,You leave me no choice.,Ты не оставил мне выбора...
 11703,SUPPORT,"Thank you, truly. I am in your debt. And I always
-repay my debts, I'll have you know.","Спасибо, правда. Я у вас в долгу. А я всегда возвращаю
- долги, знайте."
+repay my debts, I'll have you know.","Премного благодарен. Когда-нибудь я обязательно 
+верну вам этот долг."
 11703,SUPPORT,"All of these children lost their families and homes
-to war or illness.",Все эти дети потеряли свои дома и семьи от войны и болезней.
+to war or illness.","Все эти дети потеряли свои дома и родных: 
+кто на войне, кто из-за болезней, а кто-то — 
+по неведомым нам причинам."
 11703,SUPPORT,"This may sound a bit arrogant, but...I feel it's
-my responsibility to help them.","Это может звучать немного высокомерно, но...
-Я чувствую что помочь им это моя ответственность."
+my responsibility to help them.","Возможно, это прозвучит высокомерно, но...
+Я хочу стать их поддержкой и опорой."
 11703,SUPPORT,"I lost my parents without warning too. In that way,
-we're the same.",Я тоже неожиданно потерял семью. В этом мы схожи.
+we're the same.","Мои родители тоже неожиданно погибли — поэтому
+мне эти дети не чужие."
 11703,SUPPORT,"In Duscur, I lost my father, stepmother, and closest
 friends. I didn't have many allies at the castle
-after that.","В Даскаре я потерял отца, мачеху, и близких друзей.
-После этого, в замке у меня осталось не так много союзников."
-11703,SUPPORT,"In truth, I had only Dedue for companionship.","По правде говоря, я мог рассчитывать лишь на Дедью."
+after that.","В Даскаре я потерял отца и мачеху — и после этого
+в замке у меня практически не осталось союзников."
+11703,SUPPORT,"In truth, I had only Dedue for companionship.","Наверное, не будет преувеличением сказать,
+что у меня не было никого, кроме Дедью."
 11703,SUPPORT,Have you no other family?,У тебя нет других родственников?
 11703,SUPPORT,Is there no one else you can trust?,И больше никому ты не можешь доверять?
 11703,SUPPORT,"I'm afraid not. My birth mother fell ill and died
 shortly after I was born. And my uncle...
-suffice to say we don't get along.","Боюсь что нет. Моя родная мать заболела и умерла вскоре после
-родов. А мой дядя... достаточно будет сказать, что 
-мы не очень хорошо ладим."
+suffice to say we don't get along.","Моя родная мать заболела и умерла вскоре после
+родов. А дядя... достаточно будет сказать, что мы 
+не очень хорошо ладим."
 11703,SUPPORT,"I once had people I could confide in. Family, friends,
-instructors, even the royal soldiers.","У меня были люди, на которых я мог положиться, Семья, друзья,
-учителя, даже королевские солдаты."
-11703,SUPPORT,But they were all taken away from me four years ago.,Но все они были отняты у меня четыре года назад.
+instructors, even the royal soldiers.","Когда-то у меня были люди, на которых я мог 
+полностью положиться. Семья, учителя, друзья, 
+королевские солдаты..."
+11703,SUPPORT,But they were all taken away from me four years ago.,Но всех их не стало четыре года тому назад.
 11703,SUPPORT,"Ah, but there were those outside the castle walls
-I was close to. Such as Rodrigue!","О, но есть близкие мне люди вне стен замка.
-Такие как Родриг!"
+I was close to. Such as Rodrigue!","Ах, но, разумеется, вне стен замка такие люди есть.
+Например, Родриг..."
 11703,SUPPORT,Rodrigue?,Родриг?
 11703,SUPPORT,"Heh, pardon my rudeness. I meant Lord Rodrigue.
 He is my father's old companion, and the father
-of Felix.","Хе, простите мою грубость. Я имел ввиду лорда Родрига.
-он старый знакомый моего отца, и отец Феликса."
+of Felix.","Наверное, мне следует называть его лордом 
+Фральдариусом. Он старый друг моего отца —
+и отец Феликса."
 11703,SUPPORT,"On the occasions he would visit the capital,
-he'd take me out hunting or on long horse rides.","В случаях, когда он навещает столицу, он берет меня на оготу
-или на долгие прогулки на лошадях."
+he'd take me out hunting or on long horse rides.","Когда он приезжал в столицу, то каждый раз 
+брал меня на охоту или на долгие конные прогулки."
 11703,SUPPORT,"While Dedue is like a brother to me, Rodrigue is
-more like a second father.","Если Дедью мне как брат, Родриг больше как второй отец."
+more like a second father.","Если Дедью мне как брат, то Родриг — как второй отец."
 11703,SUPPORT,"It might sound ridiculous, but...he's the kind of man
-I hope to become one day.","Это может звучать глупо, но... он такой человек, каким 
-я однажды надеюсь стать."
+I hope to become one day.","Мне не хотелось бы ему слепо подражать... 
+Но думаю, я действительно хочу однажды
+стать таким же человеком, как он."
 11703,SUPPORT,"Someone who helps others... Someone who can reach
-out and save a lost soul.","Тот, кто помогает другим… Кто может протянуть руку
-и спасти заблудшую душу."
+out and save a lost soul.","Человеком, который может стать опорой для других... 
+Человеком, который способен спасти чью-то душу."
 11703,SUPPORT,"Oh... Please accept my apologies for boring you with
-my life story.","Ох… Прошу прощения, что утомил вас своей
-жизненной историей."
+my life story.","Ох... Боюсь, моя жизнь — это не то, о чём
+интересно слушать. Простите."
 11703,SUPPORT,"In any case, don't forget your promise, Professor.
-I'm counting on you.","В любом случае, не забудьте о своем обещании, Профессор.
+I'm counting on you.","Главное, учитель — не забудьте о нашем уговоре.
 Я рассчитываю на вас."
 11704,SUPPORT,"Thank you for your help the other day, Professor.
 Please, allow me to express my gratitude by taking
@@ -97174,93 +97183,89 @@ your mind.","В любом случае... Пойдёмте, пока Вы
 тяжело вывести."
 11768,SUPPORT,"OK. Well, I'm headed inside.",Ладно. Я зайду обратно.
 11769,SUPPORT,"Good evening, Professor. Returning from work,
-I take it?","Добрый вечер, профессор. Возвращаетесь
-с работы, верно?"
+I take it?","Ну и ну, вечер добрый, учитель. Вы не с работы
+ли возвращаетесь?"
 11769,SUPPORT,That's right.,Да.
 11769,SUPPORT,I'm still working.,Я всё ещё работаю.
 11769,SUPPORT,"I commend you for working so late into the evening.
 All of my days at the academy are enriching, thanks
-to you.","Я благодарна, что вы работаете допоздна.
-Благодаря вам, мои дни наполнены смыслом!"
+to you.","Вы молодец, что работаете допоздна. Именно 
+благодаря вам каждый мой день прожит не зря."
 11769,SUPPORT,"My goodness! It's so late in the evening. That must
-be exhausting.","Божечки! Должно быть утомительно работать
-до такого позднего часа."
+be exhausting.","Боже! Вот оно как? Это же очень утомительно,
+работать так поздно..."
 11769,SUPPORT,"Try not to overtax yourself, all right? I'm concerned
 for your health. We wouldn't want you to wear
-yourself out.","Постарайтесь не перенапрягаться. Я волнуюсь
-за ваше здоровье. Не хотелось бы, чтоб вы себя
-слишком измотали."
+yourself out.","Только не перетруждайтесь, хорошо? Так можно
+и надорвать здоровье — мы волнуемся, что вы
+изматываете себя."
 11769,SUPPORT,"The goddess won't smite you if you rely on others
-for help, you know.","Да и Богиня вас не покарает, если просто
-попросите помочь кого-то."
-11769,SUPPORT,Even so...,Даже если так...
+for help, you know.","Если от случая к случаю вы будете полагаться
+на меня или кого-то из нас, то Богиня вас за
+это не накажет."
+11769,SUPPORT,Even so...,Сказать-то легко...
 11769,SUPPORT,"Listen here, Professor. You might not like what I'm
-about to say.","Послушайте, учитель. Вам может не
-понравиться то, что я собираюсь сказать."
+about to say.","Знаете, учитель? Вам может быть неприятно 
+услышать то, что я собираюсь сказать..."
 11769,SUPPORT,"To be perfectly honest, I had my doubts when I first
-met you.","Честно, я не была уверена на счёт вас,
-когда мы впервые встретились."
-11769,SUPPORT,That's surprising.,Ты удивила меня.
+met you.","Честно говоря, когда я впервые вас встретила,
+мне от вас стало немного... не по себе?"
+11769,SUPPORT,That's surprising.,Мне жаль это слышать.
 11769,SUPPORT,Why's that?,Почему?
 11769,SUPPORT,"I don't want you to think less of me for saying this,
-but here we are.","Не хочу, чтобы вы думали обо мне плохо,
-но иначе я не могу."
+but here we are.","Простите меня, я всё-таки перегнула палку."
 11769,SUPPORT,"At first I thought you seemed too young to be a
-professor. It is unusual, you have to admit.","Сначала я решила, что вы слишком молоды
-для профессора. Это необычно, но вы и сами
-понимаете."
+professor. It is unusual, you have to admit.","Не обессудьте: вы ведь и сами
+понимаете, что ещё слишком молоды для 
+того, чтобы быть учителем, так?"
 11769,SUPPORT,"Yet, you seemed very composed and mature, despite
-your age.","Но не смотря на ваш возраст, вы есьма
-сдержанны и зрелы."
+your age.","Но при этом вы ведёте себя настолько ответственно
+и зрело, что я сама уже не могу так думать..."
 11769,SUPPORT,"You're strong-willed, encouraging, and you go to
-great lengths to ensure that everyone is cared for.","У вас крепкая воля, вы вдохновляете.
-Вы делаете всё возможное, чтобы позаботиться
-о каждом."
+great lengths to ensure that everyone is cared for.","У вас есть сила, стать, и искренняя забота о нас."
 11769,SUPPORT,"But it almost feels like you're trying too hard to be
-a perfect role model for your students.","Но складывается ощущение, будто вы слишком
-стараетесь быть идеальным примером
-для подражания своим ученикам."
-11769,SUPPORT,I'm not trying too hard.,Не особо я и стараюсь...
-11769,SUPPORT,It comes with the territory.,Издержки работы.
+a perfect role model for your students.","И именно поэтому мне виднеется, что вы
+берёте на себя слишком много."
+11769,SUPPORT,I'm not trying too hard.,Я не беру на себя лишнего.
+11769,SUPPORT,It comes with the territory.,"Много, мало — просто работа такая."
 11769,SUPPORT,"If that's how you feel, then I can't disagree. But I
 think it's necessary to give yourself a break every
-now and again.","Если вы так считаете, то не могу не согласиться.
-Но я думаю, что время от времени всё-таки
-нужно отдыхать."
+now and again.","Как скажете... но я думаю, что время от времени
+всё-таки нужно отдыхать."
 11769,SUPPORT,"The mind has a tendency to make mistakes when
-you've exhausted yourself.",На уставшую голову легко допускать ошибки.
+you've exhausted yourself.","Если устать, то можно наделать мелких ошибок."
 11769,SUPPORT,"In my case, I still seem to make mistakes even when
-I'm wide awake.","Хотя вот я, кажется, даже в бодром состоянии
-допускаю ошибки."
-11769,SUPPORT,Mistakes?,Какие ошибки?
+I'm wide awake.","Хотя вот я вроде бы не устаю, а всё равно
+то и дело творю глупости?"
+11769,SUPPORT,Mistakes?,Какие глупости?
 11769,SUPPORT,"Oh, you know. I'm always mixing up the dates for
-drills or misplacing things.","Ну, знаете, путаю время тренировок или теряю
-суть вещей."
+drills or misplacing things.","Хм-м... То запутаюсь в расписании занятий,
+то потеряю что-нибудь."
 11769,SUPPORT,"Just the other day, I forgot to put on my uniform and
-headed out to practice wearing only my—","Так, на днях я забыла надеть форму
-и отправилась на тренировку, надев только..."
+headed out to practice wearing only my—","На днях я забыла надеть форму — так и пошла
+на тренировку, в чём была..."
 11769,SUPPORT,"Oh, um. Well, you can imagine how embarrassed
-I was. My mind can be so scattered sometimes.","Ну, а-а... Представьте только, как мне было
-неловко. Иногда я могу быть такой рассеяной."
+I was. My mind can be so scattered sometimes.",Было очень неловко. Я вечно такая рассеяная...
 11769,SUPPORT,"Anyway... Where was I? Ah, that's right. What I'm
 trying to say is that you shouldn't push yourself
-too hard.","Так, о чём это мы... А, точно. Я хочу сказать,
-что вам не нужно слишком себя напрягать."
-11769,SUPPORT,"If you do, you might end up in a pretty bad place.","Если так и продолжится, это для вас может
-плохо кончиться."
+too hard.","Н-но суть не в этом. Я хотела сказать, что не
+надо перетруждаться."
+11769,SUPPORT,"If you do, you might end up in a pretty bad place.","Даже если вы безрассудно погубите своё
+здоровье, вам всё равно не изменить то,
+что уготовано судьбой."
 11769,SUPPORT,"That reminds me! Is there anything I can do to
-assist you, Professor?","И я вот вспомнила! Могу чем-нибудь помочь,
-профессор?"
+assist you, Professor?","Но к сути дела! Вас что-нибудь беспокоит, учитель?"
 11769,SUPPORT,"If it's all right with you, I'd like to help in any way
 I can.","Если вы не возражаете, я бы хотела помочь
-всем, чем только смогу. "
-11769,SUPPORT,"Thanks, I appreciate it.",Спасибо! Я очень ценю это.
-11769,SUPPORT,I'm not sure about that.,Сомневаюсь в этом.
-11769,SUPPORT,"Whatever you need, just say the word.","Просто скажите, что бы вам ни потребовалось!"
+всем, чем только смогу."
+11769,SUPPORT,"Thanks, I appreciate it.",Спасибо.
+11769,SUPPORT,I'm not sure about that.,Ты меня слегка пугаешь...
+11769,SUPPORT,"Whatever you need, just say the word.","Хе-хе, можете положиться на меня в чём угодно."
 11769,SUPPORT,"It'll be fine! I might be clumsy, but I'll get better
-over time.","Всё будет хорошо! Может, я и неуклюжая,
-но я буду исправляться."
-11769,SUPPORT,I look forward to helping you out.,Очень буду ждать возможности помочь вам.
+over time.","Всё будет хорошо. Хоть я и слегка рассеяная, 
+но думаю, что обязательно со всем справлюсь!"
+11769,SUPPORT,I look forward to helping you out.,"Если вам потребуется помощь, 
+обязательно обращайтесь."
 11770,SUPPORT,"You there, youngster. Won't you listen to this old
 man's troubles?","Эй, $EK00юноша$EL00девушка$EM00. Не послушаешь ли ты жалобы
 старика?"
@@ -117748,61 +117753,57 @@ there are none? Hmm...","Её Герб... Возможно, это наслед�
 закономерности там, где их нет? Хм-м..."
 12053,SUPPORT,I am very busy searching for a book.,Я очень занята поисками книги.
 12053,SUPPORT,I will be going now.,Мне пора.
-12054,SUPPORT,Flayn! I have another question for you if you please.,Флэн! Можно я ещё один вопрос задам?
+12054,SUPPORT,Flayn! I have another question for you if you please.,"Флэн, Флэн. Ответь ещё на один вопрос."
 12054,SUPPORT,"Another one, Linhardt? When will you leave me
-in peace?",Ещё один? Когда ты уже оставишь меня в покое?
+in peace?","Ещё на один, Линхарт? Сколько можно?"
 12054,SUPPORT,"A breakthrough has been made concerning your 
-Crest. A Major Crest of Saint Cethleann, correct?","Я сделал прорыв по поводу твоего Герба.
-Это Большой Герб святой Кетеленн, верно?"
-12054,SUPPORT,"Well, yes. I've been trying to keep that quiet.","Ну, да. Только я пыталась оставить это в тайне."
+Crest. A Major Crest of Saint Cethleann, correct?","Ну, я совершил большой прорыв в своём исследовании.
+Твой Герб Кетеленн... он Высший — я прав?"
+12054,SUPPORT,"Well, yes. I've been trying to keep that quiet.","Я так старалась сохранить это в секрете, а ты откуда-то..."
 12054,SUPPORT,"Part of my interest on this topic is that I possess a
-Minor Crest of Cethleann myself.","Часть моего интереса к этой теме связана с тем,
-что я сам ношу Малый герб Сетлин."
-12054,SUPPORT,I am aware.,"Да, я знаю."
+Minor Crest of Cethleann myself.","Тебе это наверняка известно, но ведь мне самому 
+дарован Малый Герб Кетеленн."
+12054,SUPPORT,I am aware.,"Да, известно."
 12054,SUPPORT,"Possessing a Minor Crest is uncommon but not rare
-among the noble families.","Обладать Малым Гербом — явление нечастое,
-но среди знатных семей не редкое."
+among the noble families.","В этом нет ничего удивительного. Обладателей Малых
+Гербов полно, помимо меня."
 12054,SUPPORT,"However, a Major Crest of Cethleann—that is
-beyond rare.","Но высший герб Кетеленн — это
-большая редкость."
+beyond rare.",Но Высший Герб Кетеленн — это огромная редкость.
 12054,SUPPORT,"Oh, is it?","Ой, правда?"
 12054,SUPPORT,"I am quite curious as to why you were born with 
-such a rare Major Crest.","Мне крайне интересно, почему ты родилась с
-настолько редким высшим гербом."
+such a rare Major Crest.","Поэтому мне крайне интересно, почему ты родилась 
+с настолько редким Высшим Гербом."
 12054,SUPPORT,"Given that mine is a Minor Crest of the same type,
-it's possible that you and I are distant relations.","Учитывая, что у меня младший герб того же типа,
-возможно, мы с тобой дальние родственники."
+it's possible that you and I are distant relations.","Особенно меня волнует, в чём связь между нами,
+ведь у меня Малый Герб того же типа. Возможно, 
+мы с тобой — дальние родственники."
 12054,SUPPORT,"You and I, related? I am quite certain that is not
-the case.","Мы? Родственники? Я совершенно уверена, что это не
-так."
+the case.",Мы — и кровные родственники? Но ведь это невозможно?
 12054,SUPPORT,"Oh? Do you have access to a detailed ancestry? 
-That could be a most useful tome.","Да? У тебя есть доступ к подробным сведениям о твоей
-родословной? Это может быть очень полезная книга."
-12054,SUPPORT,"No, I do not, however—","Нет, у меня нет, но..."
+That could be a most useful tome.",С чего бы это? Ты всё знаешь о своей родословной?
+12054,SUPPORT,"No, I do not, however—","Не знаю, но..."
 12054,SUPPORT,"A shame. Oh, to explore one's lineage and investigate
-such possibilities.","Жалко. Эх, исследовать всю свою родословную и такие
-возможности..."
+such possibilities.","Тогда нельзя это отрицать с полной уверенностью.
+Хотя разумеется, шанс того, что это не так, тоже есть."
 12054,SUPPORT,"Alas, the odds of your being a direct descendant of 
-Saint Cethleann are quite low.","Увы и ах, шансы, что ты являешься прямым потомком
-святой Сетлин довольно низкие."
+Saint Cethleann are quite low.","Но вот то, что ты — прямой потомок святой Кетеленн,
+это маловероятно, хоть тебе и дарован её Высший Герб."
 12054,SUPPORT,"The prevailing theory among respectable scholars is 
-that Saint Cethleann died having never married.","Среди уважаемых учёных преобладает теория о том, что
-святая Сетлин умерла, так и не выйдя замуж."
-12054,SUPPORT,"It's true she's unmarried. Er, was unmarried, that is.","Да, она не замужем. Э... Не была замужем, да."
+that Saint Cethleann died having never married.","Она ведь так и умерла, не выйдя замуж... ну,
+так принято считать."
+12054,SUPPORT,"It's true she's unmarried. Er, was unmarried, that is.","Да, она не замужем. То есть... не была замужем."
 12054,SUPPORT,"I hate to disappoint you, but I'm not a descendant
-of Saint Cethleann. Of this I can assure you.","Не хотелось бы тебя разочаровать, но я не потомок
-святой Сетлин. В этом я точно могу тебя заверить."
+of Saint Cethleann. Of this I can assure you.","Очевидно, что я не потомок святой Кетеленн."
 12054,SUPPORT,"While I do not subscribe to your absolute certainty,
-I do agree your relation to her is highly unlikely.","Хотя я не разделяю твоей полной уверенности,
-я согласен, что ваша связь с ней крайне
-маловероятна."
+I do agree your relation to her is highly unlikely.",Угу... Ты совершенно в этом уверена.
 12054,SUPPORT,"Yet there is some connection between yourself and
-Saint Cethleann...","И всё же, какая-то связь между вами есть."
-12054,SUPPORT,What was that you were mumbling to yourself?,Что ты там пробормотал?
+Saint Cethleann...","Но наверняка есть какая-то связь между тобой 
+и святой Кетеленн..."
+12054,SUPPORT,What was that you were mumbling to yourself?,А... Т-ты это к чему?
 12054,SUPPORT,"Nothing. My apologies. Simply thinking aloud. I do
-hope we can continue this discussion sometime.","Ничего. Извини. Просто мысли вслух. Я очень надеюсь,
-что мы сможем обсудить эту тему."
-12054,SUPPORT,He always acts so oddly... It makes me ill at ease.,Он всегда так странно себя ведёт... Мне не по себе.
+hope we can continue this discussion sometime.","А, ни к чему... Что же, я устал от разговоров,
+давай продолжим как-нибудь в другой раз."
+12054,SUPPORT,He always acts so oddly... It makes me ill at ease.,"Ох, да что же с ним не так? Как странно он себя ведёт!"
 12055,SUPPORT,Reading anything interesting?,"М? Ты чем-то занята, Флэн?"
 12055,SUPPORT,"Ah! Good day, Linhardt. At the moment, I'm simply
 browsing history books.","Добрый день, Линхарт. Я просто листаю книги по
@@ -191564,8 +191565,9 @@ the professor.","Петра, наша командная работа требу
 2,MSGDATA,"The Empire and Brigid, working with each other.
 The future has hope...","Империя и Бригид работают вместе. Возможно, у нас есть будущее..."
 2,MSGDATA,"I have sorrow, Lady Edelgard. We did not achieve a
-good result.","Мне жаль, Леди Эдельгард. Мы не достигли хорошего результата."
-2,MSGDATA,"Worry not, Petra. At least we completed our task.","Не беспокойся, Петра. Мы всё равно выполнили нашу задачу."
+good result.","Леди Эдельгард, простите. Хороший результат
+не получился."
+2,MSGDATA,"Worry not, Petra. At least we completed our task.","Ты о чём, Петра? Главное, что дело сделано."
 2,MSGDATA,"You and I are both heirs to an immense burden.
 There is no need to hold back around each other.",Мы с тобой наследники огромного бремени. Не стоит сдерживаться в присутствии друг друга.
 2,MSGDATA,"Yes. We will work with each other and be aiming
