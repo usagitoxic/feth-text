@@ -68359,8 +68359,8 @@ a sense of humor, Professor.","Ха-ха-ха! Очаровательная шу
 что у вас есть чувство юмора."
 11381,SUPPORT,I'll tell you all about it...some other time.,Я расскажу вам об этом... В другой раз.
 11382,SUPPORT,"Hey, Teach. On the way back, you seemed transfixed
-by the canyon.","Эй, учитель. По дороге обратно, вы, словно замерли
-в каньоне."
+by the canyon.","Учитель? По дороге обратно вы всё смотрели 
+на этот каньон как $EK00вкопанный$EL00вкопанная$EM00."
 11382,SUPPORT,Did something happen there?,Там что-то случилось?
 11382,SUPPORT,It's nothing.,Ничего.
 11382,SUPPORT,Actually...,Вообще-то...
@@ -136673,74 +136673,77 @@ help me out by answering my questions about
 wild animals?","Вот уже лучше. Итак, давай начнём с того, что ты мне
 расскажешь про поведение диких животных?"
 12362,SUPPORT,I'll certainly try my best.,Я обязательно постараюсь.
-12363,SUPPORT,"Aw, are you sure?","Ах, вы уверены?"
+12363,SUPPORT,"Aw, are you sure?","Ой, правда? Вы меня так выручите!"
 12363,SUPPORT,"Thank you so much! You're always so kind to me.
-I'll have to repay you sometime.","Спасибо большое! Вы всегда так добры ко мне.
-Обещаю, что отплачу вам тем же."
-12363,SUPPORT,Ahem...,Кхм...
-12363,SUPPORT,Hm?,Хм?
-12363,SUPPORT,"Um, Lysithea? What are you doing there?","Ой, Лисистея? Что ты здесь делаешь?"
+I'll have to repay you sometime.","Спасибо большое! На вас всегда можно положиться!
+Я обязательно когда-нибудь вас отблагодарю за это!"
+12363,SUPPORT,Ahem...,Хм...
+12363,SUPPORT,Hm?,Хм-м?
+12363,SUPPORT,"Um, Lysithea? What are you doing there?","Лиситея? А что ты тут стоишь и смотришь
+в одну точку?"
 12363,SUPPORT,"Don't tell me you were listening just now?
 And judging me getting other people to do
-my work for me?!","Не говори, что подслушивала. Ещё и осуждала меня за
-то, что другие выполняют мою работу."
+my work for me?!","А, неужели за мной смотрела? И думала,
+наверное, что «опять она кого-то просит
+сделать за неё всю работу»?"
 12363,SUPPORT,"I've got better things to do. Although I do wonder
-why everyone is always so eager to help you.","У меня есть дела поважнее. И всё же удивительно, что
-все хотят тебе помочь."
+why everyone is always so eager to help you.","Нет. Я думала, почему все сами охотно
+тебе помогают?"
 12363,SUPPORT,"I only ask for help if they offer! I don't ever
-pressure people.","Если кто-то предлагает помощь, я прошу помочь! Я же
-никого не заставляю."
-12363,SUPPORT,So I've noticed. That's what strikes me as odd.,Я заметила. Это и странно.
+pressure people.","Если кто-то хочет мне помочь, почему бы
+и не попросить о помощи — я же никого
+не заставляю!"
+12363,SUPPORT,So I've noticed. That's what strikes me as odd.,Я заметила. Это мне и кажется странным.
 12363,SUPPORT,"I suppose they're just so taken with me, they want to
-help me out.","Возможно, я их привлекаю, поэтому мне и помогают."
-12363,SUPPORT,I see... That would explain it.,"Вот как... Да, это многое объясняет."
+help me out.","Хм-м, может, все просто настолько очарованы мной,
+что хотят быть мне полезными?"
+12363,SUPPORT,I see... That would explain it.,"Как вариант. Да, наверняка всё так и есть."
 12363,SUPPORT,"Oh dear. I was expecting you to argue, not to agree
-with me right away.","Надо же. Я-то думала, что ты начнёшь спорить, а не
-согласишься."
-12363,SUPPORT,There's no reason to deny what's clearly true.,"Нет смысла отрицать то, что является правдой."
+with me right away.","Ничего себе... Я-то думала, что ты начнёшь спорить,
+а ты тут же согласилась."
+12363,SUPPORT,There's no reason to deny what's clearly true.,"Ну... как ни посмотри, в тебе нет изъянов."
 12363,SUPPORT,"Everything about your outward appearance is
-immaculate and well thought out.","Всё, что касается твоей внешности просто безупречно.
-И хорошо продумано."
+immaculate and well thought out.","Даже твои причёска и одежда идеально выверены:
+не слишком строгие, но и не слишком небрежные."
 12363,SUPPORT,"Even your fingernails are always well kept and
-painted—no doubt your toenails are the same.","У тебя даже ногти хорошо обработаны и накрашены.
-Не сомневаюсь, что и на ногах тоже."
+painted—no doubt your toenails are the same.","Ногти на твоих руках тоже всегда ухожены
+и накрашены. Как и на ногах, верно?"
 12363,SUPPORT,"I can't tell if you're complimenting me or accusing
-me of something.","Я вот понять не могу, ты делаешь мне комплимент или
-в чём-то обвиняешь?"
+me of something.","Это, Лиситея... Это сейчас был комплимент?
+Или упрёк?"
 12363,SUPPORT,"And you smell delightful. Like...candy. Or wait—
-Am I catching a hint of floral?","А ещё ты потрясающе пахнешь. Словно... Конфетка.
-Или нет... Это какой-то цветочный аромат?"
+Am I catching a hint of floral?","А ещё ты приятно пахнешь. Патокой... но ещё
+свежее. Это цветочный аромат?"
 12363,SUPPORT,"I'm so glad you noticed! It's oil extracted from a
-flower that only blooms at night.","Я так рада, что ты заметила! Это масло цветка, который
-расцветает только ночью."
+flower that only blooms at night.","Ой, я так рада, что ты заметила! Это эфирное
+масло из цветов, которые распускаются только
+ночью."
 12363,SUPPORT,"Floral oils, huh? I didn't think they had much use
-outside of homeopathy and house cleaning...","Масло цветка, значит? Не думала, что оно может быть
-полезным не только в гомеопатии или домашней уборке."
+outside of homeopathy and house cleaning...","Эфирное масло? Я не знала, что его используют
+где-то ещё, кроме гаданий и уборки."
 12363,SUPPORT,"I have some right here, actually. Here, I can give you
-a splash!","Вообще-то, у меня есть с собой немного. Вот, держи."
+a splash!","У меня как раз есть с собой немного. Давай я
+нанесу его на тебя."
 12363,SUPPORT,"There we go! I put it on your wrists, so you'll want to
-rub them together.","Вот так. Я нанесла его тебе на запястья. Теперь можешь
-их друг о друга потереть."
+rub them together.","Готово. Я нанесла его тебе на запястья. Обязательно
+потри их друг об друга, чтобы аромат раскрылся."
 12363,SUPPORT,"Body heat is what activates the scent. Your wrists
 and your neck are relatively warm, so they're good
-spots to apply the fragrance.","Аромат активирует наше тепло. Запястья и шея
-относительно тёплые, поэтому аромат лучше всего
-наносить именно на них."
+spots to apply the fragrance.","В основном масла лучше наносить на крупные 
+сосуды или тёплые участки тела."
 12363,SUPPORT,"For a very subtle fragrance, you can also try putting
-it under your clothing.","А для очень тонкого аромата, можно попробовать
-нанести его на одежду."
-12363,SUPPORT,...,...
-12363,SUPPORT,"So, what do you think?","Ну, как тебе?"
-12363,SUPPORT,"Mmm. It's lovely. Now I smell just like you, Hilda.","М-м-м. Очаровательно. Хильда, теперь я пахну как ты."
+it under your clothing.","А если хочешь, чтобы аромат был тоньше, 
+наноси его на бёдра."
+12363,SUPPORT,...,Хи-хи...
+12363,SUPPORT,"So, what do you think?",Ну как... нравится?
+12363,SUPPORT,"Mmm. It's lovely. Now I smell just like you, Hilda.","Хи-хи. Я рада. Теперь я пахну как ты, Хильда."
 12363,SUPPORT,...,...
 12363,SUPPORT,"Somehow this makes me feel a little more...mature.
-Thank you.","Почему-то я чувствую себя немного... врослее.
-Спасибо."
+Thank you.","Я чувствую себя немного взрослее. Спасибо, Хильда."
 12363,SUPPORT,"So, that's it! She just wants to feel more grown-up.
-She's hard to read, that one.","Ах, вот в чём дело! Она просто захотела почувствовать
-себя взрослой. Да, её очень тяжело понять."
-12363,SUPPORT,"That smile, though! Who knew she could be so cute?","Но как же она улыбается! Кто бы мог подумать, что она
-такая милая?"
+She's hard to read, that one.","Так в итоге она просто хотела почувствовать себя
+взрослой? Трудно понять эту девочку."
+12363,SUPPORT,"That smile, though! Who knew she could be so cute?",Но улыбка у неё... очень миленькая.
 12364,SUPPORT,"Ah, found you! Hello, Lysithea.","Нашла! Привет, Лисистея."
 12364,SUPPORT,"Uhh, Hilda? What's that box you're holding...
 It's...making me nervous for some reason.","Эм... Хильда? А что это за коробочка? Почему-то...
@@ -142354,14 +142357,14 @@ from both sides. I leave the rest to you.＠034079#00","[0002]Если буде�
 атаковать с двух сторон. Остальное оставлю вам.＠034079#00"
 12457,MAP,"[0002]Regardless, we must cross the bridge first.＠034080#00","[0002]Тем не менее, сперва нужно пересечь мост.＠034080#00"
 12457,MAP,"[0004]I hear there's a back road to the west. How about we
-split up and attack from there and from the front?＠034081#00","[0004]Слышал, на западе есть обходной путь. Может,
+split up and attack from there and from the front?＠034081#00","[0004]Я слышал, что на западе есть обходной путь. Может,
 разделимся и атакуем оттуда и в лоб?＠034081#00"
 12457,MAP,"[0004]We may be able to corner the enemy by approaching
 from both sides.＠034082#01","[0004]Возможно, у нас получится загнать врага
 в угол, если обойдём его с двух сторон.＠034082#01"
 12457,MAP,"[0004]In any case, we need to cross the bridge first.
-I'll leave the details to you, Teach.＠034083#00","[0004]В любом случае, сначала нам нужно перейти
-мост. препод, детали я оставляю на Вас.＠034083#00"
+I'll leave the details to you, Teach.＠034083#00","[0004]Но сначала нам нужно перейти мост. Как именно
+мы всё сделаем — на ваше усмотрение, учитель.＠034083#00"
 12457,MAP,"[0401]We stole this treasure! It's all ours! There's no way
 we're gonna give it up to some knights!＠034084#02","[0401]Мы украли эти сокровища! Они все наши! Мы
 не отдадим их кучке рыцарей!＠034084#02"
