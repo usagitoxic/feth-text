@@ -151480,23 +151480,23 @@ Many years ago...","Замок Гаспар, значит? Я когда-то о
 12764,SUPPORT,"It was by request of the son of that family...
 Christophe, I think it was.","Это была просьба матери того человека...
 Кристоф, кажется."
-12764,SUPPORT,What? I desired fresh air.,Что? Я заслужил свежего воздуха.
-12764,SUPPORT,That's not like you.,Это на тебя не похоже.
-12764,SUPPORT,The wind feels nice.,Хороший ветерок.
-12764,SUPPORT,True...,Верно...
-12764,SUPPORT,Hmph.,Хмф. 
+12764,SUPPORT,What? I desired fresh air.,Что? Я просто вышел подышать свежим воздухом.
+12764,SUPPORT,That's not like you.,Удивительно.
+12764,SUPPORT,The wind feels nice.,Приятный ветерок.
+12764,SUPPORT,True...,Да.
+12764,SUPPORT,Hmph.,$EK00Скучный$EL00Скучная$EM00 ты.
 12764,SUPPORT,"You have spent quite some time in here,
-engaging in such idle chatter.","Ты провёл здесь немало времени,
-болтая без дела."
+engaging in such idle chatter.","К слову, я несколько раз безрезультатно 
+пыталась поговорить с тобой в этой комнате..."
 12764,SUPPORT,"Do you not know that we have not a moment left
-to waste?","Разве ты не понимаешь, что у нас не осталось
-ни секунды на пустую трату времени?"
-12764,SUPPORT,I had forgotten.,Я забыл.
+to waste?","Ты что, $EK00игнорировал$EL00игнорировала$EM00 меня? Изволь объясниться:
+а я подумаю, прощать тебя или нет."
+12764,SUPPORT,I had forgotten.,Я тебя не $EK00слышал$EL00слышала$EM00.
 12764,SUPPORT,I should have listened more intently.,Мне следовало слушать внимательнее.
 12764,SUPPORT,"Forgotten? I don't believe that is the truth. No, it is
-more likely you were dreaming the whole day away.","Подводит? Не верю, что это так. Может вы
-весь день ворон считали?"
-12764,SUPPORT,You must try harder from now on.,Теперь ты должен стараться усерднее.
+more likely you were dreaming the whole day away.","Не $EK00слышал$EL00слышала$EM00?! Да ты, поди,
+и не $EK00старался$EL00старалась$EM00 слушать!"
+12764,SUPPORT,You must try harder from now on.,Хм. Исправляйся теперь. Ясно?
 12764,SUPPORT,"Greetings, Professor! Nothing to report!",Здравия желаю! Докладывать нечего!
 12764,SUPPORT,"Have you talked with Catherine yet? If the knights
 are the cream of the crop, she's the cream of
@@ -151507,18 +151507,17 @@ of amazing.","О, а эта её реликвия! Говорят, она про
 потрясающая."
 12764,SUPPORT,"Even within the Knights of Seiros, Catherine is
 the strongest. By a large margin from what
-I've gathered.","Даже среди рыцарей Сейрос Катерина самая
-сильная. Судя по всему, с большим отрывом."
+I've gathered.","Леди Катерина. Среди Рыцарей Сейрос она
+считается самой искусной."
 12764,SUPPORT,"Why not seek her out as a sparring partner,
-Professor?","Учитель, почему бы её не рассмотреть как
-партнёра по спаррингу?"
+Professor?","Учитель, почему бы не попросить её
+стать вам партнёром по спаррингу?"
 12764,SUPPORT,"Lord Lonato must know that his efforts are futile...
-yet he can't help but fight.","Лорд Лонато должен знать, что всего его усилия
-тщетны... Но он не может не сражаться."
+yet he can't help but fight.","Лорд Лонато... он понимает, что его усилия тщетны,
+но не успокоится, пока не даст бой."
 12764,SUPPORT,"If I were in that situation, I would do whatever it
-took to ensure victory. You can count on that.","Если бы я был в такой ситуации, я бы сделал всё
-возможное для победы. Вы можете на это
-рассчитывать."
+took to ensure victory. You can count on that.","Я бы перед лицом неизбежной битвы показала,
+что сделаю всё возможное для победы."
 12764,SUPPORT,"Professor, about this month's assignment... Raising
 an army against the church? Really?","Учитель, насчёт задания в этом месяце...
 Кто-то поднимает армию против церкви?
