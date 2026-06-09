@@ -17,7 +17,7 @@
 - Golden Deer - **Золотые Олени**
 - Ashen Wolves - **Пепельные Волки**
 - Resistance Army - **Армия Сопротивления**
-- Rite of Rising - **Обряд Вознесения**
+- Rite of Rising - **Обряд Священной Чаши** (宝杯の儀)
 - Rite of Rebirth - **Обряд Возрождения**
 - Ten Elites - **Десять Героев**
 - Twelve Heroes of Fódlan - **Двенадцать Героев Фодлана**
@@ -491,7 +491,7 @@
 - Valkyrie - **Валькирия**
 - Falcon Knight - **Соколиный рыцарь**
 - Wyvern Lord - **Повелитель виверн**
-- Mortal Savant - Самурай
+- Mortal Savant - **Эпитафия**
 - Great Knight - **Великий рыцарь**
 - Bow Knight - **Рыцарь-лучник**
 - Dark Knight - **Тёмный рыцарь**
