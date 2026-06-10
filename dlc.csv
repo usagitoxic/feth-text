@@ -4334,179 +4334,253 @@ have been several incidents in the area beneath
 Garreg Mach...","Ох, и правда! В соответствии со сказанным
 вами, недавно в подземельях Гаррег Маха..."
 32006,SUPPORT,"Claude... Are you certain that suspicious individual
-you spotted went through...there?",
+you spotted went through...there?","Итак... ты уверен, что та подозрительная фигура
+сбежала именно сюда?"
 32006,SUPPORT,"I will say, that does look a bit like a passageway,
-doesn't it?",
+doesn't it?","Не похоже, чтобы отсюда вёл какой-то потайной
+ход."
 32006,SUPPORT,"Unless I dreamt it up while sleepwalking, there's no
-mistaking what I saw.",
+mistaking what I saw.",Уверен. Или мне с недосыпа показалось.
 32006,SUPPORT,"I never thought I'd say this...but I believe
-Claude's story.",
+Claude's story.",Вероятность этого есть.
 32006,SUPPORT,"In fact, it reminds me of something. I have heard
 tales of countless passages snaking beneath Garreg
-Mach. This is undoubtedly one of them.",
+Mach. This is undoubtedly one of them.","Я слышала, что под Гаррег Махом переплетается
+бессчётное количество подземных ходов."
 32006,SUPPORT,"Perhaps so. In any case, there is no telling where
-it leads.",
+it leads.","Значит, перед нами один из проходов туда?
+Но нельзя сказать, куда он ведёт."
 32006,SUPPORT,"Oh no. Oh, you're right! There's no telling what we
 could find. Terrible danger. Wicked creatures. 
-Unspeakable smells!",
+Unspeakable smells!","Да, кто знает, что там внутри — возможно, что
+и смертельная опасность."
 32006,SUPPORT,"The risk is too high, Your Highnesses! I must
 humbly insist that you wait here, where it's safe...
-and smells nice.",
+and smells nice.","Поэтому я попрошу принцессу и принца
+подождать здесь."
 32006,SUPPORT,"Meanwhile, Teach and I will track down the bandit-
 shaped person. If we don't return, do me a favor and
-call for the knights, will ya?",
+call for the knights, will ya?","А мы с учителем отправимся за этим предполагаемым
+вором. Если не вернёмся, позовёте рыцарей?"
 32006,SUPPORT,"That is quite enough. As though we would allow you
-to make that call on your own.",
+to make that call on your own.","А ну стой. Думаешь, мы позволим тебе творить,
+что вздумается?"
 32006,SUPPORT,"With so little information, it's far too dangerous.
-We'll come along as well. Right, Dimitri?",
+We'll come along as well. Right, Dimitri?","Вдвоём опасно. Так что мы тоже идём.
+Дмитрий, ты не возражаешь?"
 32006,SUPPORT,"Yes, of course. If it was indeed a thief, we must not
-allow them to get away with their crime.",
+allow them to get away with their crime.","Нет, конечно. Я не могу просто так закрыть глаза
+на присутствие возможного вора."
 32006,SUPPORT,"Considering what took place at the Goddess's Rite of
-Rebirth, vigilance is paramount.",
+Rebirth, vigilance is paramount.","В особенности после того, что произошло в прошлую
+луну во время Обряда Возрождения Богини."
 32006,SUPPORT,"Right, well, tag along if you insist. Just don't come
-crying to me if we all meet a terrible fate, deal?",
+crying to me if we all meet a terrible fate, deal?","Понял. Но, если попадём в неприятности —
+никаких жалоб друг на друга, ясно?"
 32006,SUPPORT,"Likewise. Well, no use dallying. Let's be on our way.
-Unless there's someone else we should call for?",
-32006,SUPPORT,The four of us should suffice.,
-32006,SUPPORT,"We should bring more allies, just to be safe.",
-32006,SUPPORT,Perhaps we should alert the knights.,
-32006,SUPPORT,Teach is right. There isn't a moment to lose.,
+Unless there's someone else we should call for?","Солидарна. Значит, идём. Или есть смысл позвать
+с нами кого-то ещё?"
+32006,SUPPORT,The four of us should suffice.,Пойдём вчетвером.
+32006,SUPPORT,"We should bring more allies, just to be safe.","Давайте позовём тех, кто ещё не спит."
+32006,SUPPORT,Perhaps we should alert the knights.,Нам следует заручиться поддержкой рыцарей.
+32006,SUPPORT,Teach is right. There isn't a moment to lose.,Именно. Не стоит терять время.
 32006,SUPPORT,"Yes, a fine idea. Though at this time, I fear few of
-our classmates are still awake.",
+our classmates are still awake.","Да, это хорошая идея. В такое время ещё
+много кто не спит."
 32006,SUPPORT,"Hmm... I fear our thief will have long escaped in the
-time it would take us to summon the knights.",
+time it would take us to summon the knights.","Я бы согласилась... но пока мы будем информировать
+и готовиться, вор уже успеет ускользнуть."
 32006,SUPPORT,"True, and most of them are currently away,
-investigating the Western Church.",
+investigating the Western Church.","К тому же, основные силы рыцарей брошены
+на расследование Западной Церкви."
 32006,SUPPORT,"Whoa there! What's all this, Professor? You and the
 three house leaders creeping around at night?
-Pretty shady, if you ask me.",
+Pretty shady, if you ask me.","Что-что? Учитель... и все старосты, вместе?"
 32006,SUPPORT,"It's certainly a rare and unexpected sighting...
-especially considering the hour.",
+especially considering the hour.","И правда, необычно такое видеть. Особенно
+в такой час — что-то случилось?"
 32006,SUPPORT,"Looks like a whole lot of something is about to
-happen. I'm going back to bed.",
+happen. I'm going back to bed.","Похоже, именно что случилось. Ну, я пошёл
+спать..."
 32006,SUPPORT,"Stop right there, Linhardt. Your bad luck is our good
-fortune—you're coming with us.",
+fortune—you're coming with us.","Не пойдёшь, Линхарт. Вини своё невезение за то,
+что невовремя проходил мимо."
 32006,SUPPORT,"You can stop thinking of ways out of this, Hilda.
-We could use your help too.",
-32006,SUPPORT,"You as well, Ashe. I'll explain everything on the way.",
+We could use your help too.","Хильда, не надо пытаться тайком утечь, ладно?
+Помоги немного."
+32006,SUPPORT,"You as well, Ashe. I'll explain everything on the way.","Да. Эш, и ты тоже. Подробности объясню по дороге."
 32006,SUPPORT,"Happy to help! We don't have anything better to do
-at this hour, so we may as well pitch in.",
+at this hour, so we may as well pitch in.","Да, конечно! Мы как раз не знали, чем можно
+заняться так поздно."
 32006,SUPPORT,"You have our gratitude. Now then, let us be on our
-way. Ready, Professor?",
+way. Ready, Professor?","Простите за беспокойство. Итак, идём всемером.
+Вы не возражаете, учитель?"
 32006,SUPPORT,"The more the merrier, I suppose. Let's just hope
-we're not all marching to our doom...",
+we're not all marching to our doom...","Ох... ну, шумной толпой идти тоже неплохо,
+наверное. Посмотрим, как всё сложится."
 32007,SUPPORT,"Ugh... Yuri, this is brutal. Tell me again why you're
-subjecting me to this devastating boredom...",
+subjecting me to this devastating boredom...","*зевок* Ответь мне, Юрий. Мы на кой тут сидим
+и давим зевоту?"
 32007,SUPPORT,"Enough with the yawning, Balthus. If you're really
-that bored, we could always make a friendly wager...",
+that bored, we could always make a friendly wager...","У тебя это плохо получается. Если у тебя полно 
+свободного времени, можем сыграть партию, но..."
 32007,SUPPORT,"Thanks but no thanks, pal. I'm low on funds as it is.
-Last thing I need is another debt I can't pay.",
-32007,SUPPORT,"Right, B. As if you could say no to that.",
+Last thing I need is another debt I can't pay.","А-а, спасибо, не надо. У меня и так финансы поют 
+романсы. Мне уже надоело, что ты меня обносишь
+до последней нитки."
+32007,SUPPORT,"Right, B. As if you could say no to that.","Ты о чём? Сам-то заставляешь свои
+финансы эти романсы запеть..."
 32007,SUPPORT,"Ahaha! How diverting that you should bicker for
-my amusement!",
+my amusement!","О-хо-хо-хо! Если нечего делать, нужно просто
+заставить ум работать!"
 32007,SUPPORT,"Imagine my overwhelming dread were I stuck here
-without such joyous entertainment.",
+without such joyous entertainment.","Хотя, конечно, если ума нет, то и скуки не избежать!"
 32007,SUPPORT,"Count me out. I'll leave the talking to Yuri-bird
-and Coco.",
-32007,SUPPORT,"Hey, Boss!",
+and Coco.","Не, у Хапи ума нет, пусть думают Юра и Конни..."
+32007,SUPPORT,"Hey, Boss!",Босс!
 32007,SUPPORT,"Back already, huh? Have you detected any
-movement on the surface?",
+movement on the surface?","Что такое? Ты рано вернулся. Что-то произошло
+на поверхности?"
 32007,SUPPORT,"Well, uh, I looked for the cardinals' meeting—just
-like you said...",
+like you said...","Да... я разведывал по твоему указанию, где
+собираются кардиналы..."
 32007,SUPPORT,"Thing is, I was spotted by some weirdos.
-They chased after me and everything.",
+They chased after me and everything.","Как тут такое... Меня срисовали. И теперь за 
+мной гонятся какие-то подозрительные типы."
 32007,SUPPORT,"""Some weirdos,"" you say. So very helpful. They
-weren't knights, were they?",
+weren't knights, were they?",Подозрительные типы?.. Рыцари?
 32007,SUPPORT,"I dunno. There were only a few of 'em, but I bet
-they were armed to the teeth!",
+they were armed to the teeth!","Да не разобрал я... Их человек семь-восемь,
+и по-моему, они вооружены."
 32007,SUPPORT,"With meager numbers like that, I doubt they intend
-to take on Abyss.",
+to take on Abyss.","Судя по количеству людей, захват подземелий
+они не планируют."
 32007,SUPPORT,"They probably took you for some kind of villain.
-They'll lock ya up if they catch ya.",
+They'll lock ya up if they catch ya.","Наверное, они приняли тебя за бандита,
+и погнались, чтобы поймать."
 32007,SUPPORT,"Finally, a little action! Let's find them first and throw
-some punches.",
+some punches.","Ну, окажем им тёплый приём! У меня руки уже
+до боли чешутся подраться!"
 32007,SUPPORT,"Hold, Balthus! 'Tis ignorance itself to rush headfirst
-into trouble.",
+into trouble.","Постой, Бальтазар! Ну почему ты всегда такой
+вспыльчивый..."
 32007,SUPPORT,"You're excited to fight too. You've been waiting for a
-chance to try out your shiny new magic.",
+chance to try out your shiny new magic.","Так ведь и тебе не терпится в бой, Конни? 
+Ты как раз говорила, что хочешь попробовать 
+в деле новое заклинание."
 32007,SUPPORT,"Heh heh, surface laws don't apply down here. That
-gives us the freedom to have some fun with them.",
+gives us the freedom to have some fun with them.","Ну, сюда законы поверхности не распространяются.
+Даже если мы немного развлечёмся, это не будет
+преступлением."
 32007,SUPPORT,"They're probably not knights, but our new friends
-definitely work for the church.",
-32007,SUPPORT,You had best not leave me behind!,
+definitely work for the church.","Главное, что эти люди наверняка связаны
+с Церковью. Пусть они и не рыцари."
+32007,SUPPORT,You had best not leave me behind!,"А, вы куда? Погодите... Подождите меня!
+Я тоже! Я тоже иду!"
 32007,SUPPORT,"Hmm... It seems this place is more than a simple
 passageway. There's clear evidence of human
-habitation.",
+habitation.","Это место... не просто какой-то проход. Я вижу
+много признаков того, что тут живут люди."
 32007,SUPPORT,"People living under Garreg Mach... Oh! My brother
 used to tell me stories like that back in his Academy
-days.",
-32007,SUPPORT,"Ah, so Holst attended the academy as well, then?",
+days.","Подземелья Гаррег Маха... По-моему, мне когда-то
+давно брат о них рассказывал."
+32007,SUPPORT,"Ah, so Holst attended the academy as well, then?","М? О-о, Хольст — тоже выпускник 
+Офицерской академии?"
 32007,SUPPORT,"Of course. Back then, there were tons of rumors
-about what goes on below Garreg Mach.",
+about what goes on below Garreg Mach.","Да. Когда брат учился, про поздемелья
+ходили всякие слухи."
 32007,SUPPORT,"Something about tons of passages and houses beneath
-the town, all inhabited by super-shady people.",
+the town, all inhabited by super-shady people.","Мол, под землёй простирается целый город
+с кучей проходов и районов, где живут люди
+с сомнительным прошлым."
 32007,SUPPORT,"It had a real intimidating name too. Ah, what was it
-again... I think it was called...Abyss?!",
+again... I think it was called...Abyss?!",И название у него... Бездна?
 32007,SUPPORT,"That's two points for the pink-haired gal!
-Welcome to Abyss, strangers.",
-32007,SUPPORT,Identify yourself!,
-32007,SUPPORT,That uniform...,
+Welcome to Abyss, strangers.",Именно! Это Бездна — самое дно Гаррег Маха!
+32007,SUPPORT,Identify yourself!,Кто идёт?!
+32007,SUPPORT,That uniform...,Вы... в униформе? И притом напоминающей нашу.
 32007,SUPPORT,"Welcome, curious students of the Officers Academy!
 What brings such fine, upstanding surface dwellers
-to our humble abode?",
+to our humble abode?","Милости просим, студенты Офицерской 
+академии! С каким делом в такое место 
+пожаловали столь уважаемые господа?"
 32007,SUPPORT,"We're tracking someone who was creeping around
-the monastery.",
+the monastery.","Ну, мы всего лишь преследуем подозрительного
+человека, который шатался по монастырю."
 32007,SUPPORT,"Our business here does not concern you. Do you
-intend to let us pass?",
-32007,SUPPORT,Ahaha! Such indulgence simply cannot be permitted.,
+intend to let us pass?","Вас наши дела не касаются. Не могли бы вы
+пропустить нас?"
+32007,SUPPORT,Ahaha! Such indulgence simply cannot be permitted.,О-хо-хо-хо-хо! Напрасная просьба!
 32007,SUPPORT,"Your words may fool the fool, but I cannot be so
-easily deceived!",
+easily deceived!","Вы можете провести этих хулиганов, но мой
+намётанный взгляд не обмануть!"
 32007,SUPPORT,"I, Constance von Nuvelle, shall divine your true
-intentions.",
+intentions.","Позвольте мне, Констанции фон Нувэль,
+раскрыть ваши истинные намерения!"
 32007,SUPPORT,"You are here by order of the church...which cruelly
-plots to eliminate the inhabitants of Abyss!",
-32007,SUPPORT,You think the church wants to eliminate you?,
-32007,SUPPORT,You think we're here to harm you?,
-32007,SUPPORT,Did she say...Nuvelle?,
+plots to eliminate the inhabitants of Abyss!","Вы прибыли по приказу Церкви, замышляющей
+разогнать жителей Бездны, чтобы найти повод
+для интервенции!"
+32007,SUPPORT,You think the church wants to eliminate you?,Разогнать?..
+32007,SUPPORT,You think we're here to harm you?,Интервенции?..
+32007,SUPPORT,Did she say...Nuvelle?,Нувэль?..
 32007,SUPPORT,"I don't care what the reason for this brawl is.
-A fight's on the menu, and I'm ready to feast.",
-32007,SUPPORT,"Let's get right to it, yeah?",
+A fight's on the menu, and I'm ready to feast.","Да какая разница, если повод для драки
+уже есть?"
+32007,SUPPORT,"Let's get right to it, yeah?",Дерёмся? Не дерёмся?
 32007,SUPPORT,"By the look of them, I'd wager they're experienced
-combatants. I'm not certain this is a wise endeavor.",
+combatants. I'm not certain this is a wise endeavor.","Судя по всему, они умелые бойцы. Бой с ними
+нам невыгоден."
 32007,SUPPORT,"I was thinking the very same thing. Time to make a
-strategic retreat, then?",
+strategic retreat, then?","Да, согласен с тобой. Сегодня пора отступать..."
 32007,SUPPORT,"Turning back already? Oh, but you'll make me so
-sad. Now why would you wanna do that?",
+sad. Now why would you wanna do that?","Не расстраивайте нас — ну кто уходит
+в такие моменты? А?"
 32007,SUPPORT,"Everyone here is starved for amusement. They've
-been waiting for a good fight.",
+been waiting for a good fight.","Здешние ребята жаждут развлечений. Им не
+терпится поиграть в войнушку."
 32007,SUPPORT,"Wow, look at that. A flawless example of a surprise
-attack. These aren't your run-of-the-mill thugs.",
+attack. These aren't your run-of-the-mill thugs.","Хо-хо?.. Нас блестяще взяли в клещи ― как
+и стоило ожидать, это не простые бродяги."
 32007,SUPPORT,"Claude, this isn't the time to be impressed by our
-enemy. We must find a way through at once.",
+enemy. We must find a way through at once.","Эй, Клод. Не время восхищаться. Если мы
+не прорвёмся..."
 32007,SUPPORT,"Wait... Claude, is it? As in the brand-new heir
-of House Riegan?",
+of House Riegan?","Стоп... Клод? Новоявленный наследник дома
+герцога Ригана?"
 32007,SUPPORT,"Who, me? Nah. Wrong guy. Claude's a common
 name in Fódlan. It's just too dashing for new moms
-to pass up.",
+to pass up.","Нет, ты обознался. Клодами в Фодлане много кого
+зовут."
 32007,SUPPORT,"It's even a popular choice for fake names. Just a
-good, solid, all-purpose moniker, you know?",
+good, solid, all-purpose moniker, you know?","Настолько, что некоторые даже выбирают
+это имя как псевдоним."
 32007,SUPPORT,"Right, except there's only one Claude enrolled at the
-academy this year. Looks like that's you.",
-32007,SUPPORT,How do you even know that?,
+academy this year. Looks like that's you.","Так ведь в этом году в Офицерской академии
+только один Клод?"
+32007,SUPPORT,How do you even know that?,"Погоди, а ты откуда такие вещи знаешь?.."
 32007,SUPPORT,"Ha, you just gave yourself away, pal. Looks like my
-luck's finally taking a turn for the good.",
+luck's finally taking a turn for the good.",Ха-ха! Повезло же мне!
 32007,SUPPORT,"All right, so your choices are as follows: line up for
 the beating of a lifetime...or let us lock you up like
-the good boys and girls you undoubtedly are.",
+the good boys and girls you undoubtedly are.","Ну что, ребятки, выбирайте: либо 
+стройтесь в линеечку, чтобы мы вас 
+побили, либо тихонько сдавайтесь!
+"
 32007,SUPPORT,"I have no clue what this guy's going on about, but it
 looks like a fight's in order, and it's pretty much all
-my fault.",
+my fault.","Извините... Не знаю, как так получилось, но
+похоже, из-за меня нам навязали бой."
 32007,SUPPORT,"There's a saying from the east about fighting a flicker
-with a flame. Seems applicable right about now.",
+with a flame. Seems applicable right about now.","Как говорил один отшельник с востока: «Если
+в тебя бросили камень, ответь градом валунов»."
 32007,SUPPORT,"Finally! Let's do this already! Prepare to face the
-Almighty King of Grappling!",
+Almighty King of Grappling!","Ну что, наконец-то решились? Ну, сейчас
+вы познакомитесь с кулаками Лестерского 
+Короля Рукопашной!"
 32007,SUPPORT,"Hm... Why can't I shake the feeling that I know
-that wild man?",
+that wild man?",Хм... я как будто бы его знаю.
 32008,SUPPORT,"Heh, I don't believe it. Little Hilda herself.
 Why didn't you speak up sooner?",
 32008,SUPPORT,"Baltie, this isn't the time to catch up. What would
