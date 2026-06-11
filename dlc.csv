@@ -15391,43 +15391,61 @@ you've chosen the wrong words.",
 32272,SUPPORT,tTemporarymessage,tTemporarymessage
 32273,SUPPORT,tTemporarymessage,tTemporarymessage
 32163,MAP,"[0003]Who are you people, anyhow? It doesn't seem right
-to cross blades without knowing at least that much.＠048526#00",
+to cross blades without knowing at least that much.＠048526#00","[0003]И всё же, кто вы такие? Вступать в бой,
+не зная даже этого — это как-то...＠048526#00"
 32163,MAP,"[1043]Wow, does it hurt to take yourself that seriously?
-Answer the man's question, B.＠048527#00",
-32163,MAP,"[1041]Why me? Eh, fine. We're the Ashen Wolves.＠048528#00",
+Answer the man's question, B.＠048527#00","[1043]У тебя плечи не болят так серьёзно ко всему
+относиться? Но... ладно, ответь человеку,
+Бальти.＠048527#00"
+32163,MAP,"[1041]Why me? Eh, fine. We're the Ashen Wolves.＠048528#00",[1041]А чё я-то? Ну ладно... Мы — Пепельные Волки.＠048528#00
 32163,MAP,"[1041]We're the secret fourth house in Abyss. The surface
 world turned its back on us, and we did the same in
-return. Back for a back, as they say.＠048529#00",
+return. Back for a back, as they say.＠048529#00","[1041]К нам попадают студенты, которых отвергли
+на поверхности. В четвёртый дом, тайно 
+открытый в Бездне!＠048529#00"
 32163,MAP,"[0002]A fourth house? Impossible. Still, we must focus on
-the battle ahead...＠048530#00",
+the battle ahead...＠048530#00","[0002]Четвёртый дом... Нет, сейчас нужно 
+сосредоточиться на битве.＠048530#00"
 32163,MAP,"[0007]Seems like it'll be tough to fight here. It's kind of
-dark. Looks like a great place to nap, though...＠048531#00",
+dark. Looks like a great place to nap, though...＠048531#00","[0007]Это место тёмное и запутанное — неподходящее
+для сражения. Но вот поспать бы тут я прилёг...＠048531#00"
 32163,MAP,"[0014]The locks on those gates look really complicated...
-There must be another way through.＠048532#00",
-32163,MAP,[0004]Nothing's happening... What are we doing wrong?＠048533#03,
+There must be another way through.＠048532#00","[0014]Похоже, те ворота заперты на особо
+хитрый замок. Даже я его не вскрою.
+Может, тут есть какой-то механизм?＠048532#00"
+32163,MAP,[0004]Nothing's happening... What are we doing wrong?＠048533#03,[0004]Ничего не происходит. Мы что-то делаем не так?＠048533#03
 32163,MAP,"[1040]I think the better question is, what aren't you doing
-wrong? Only we can operate that.＠048534#01",
+wrong? Only we can operate that.＠048534#01","[1040]Ха-ха, бесполезно действовать вслепую.
+Этот механизм подвластен только нам.＠048534#01"
 32163,MAP,"[1043]Come to think of it, there's an easier way to handle
-this. *sigh*＠048535#03",
+this. *sigh*＠048535#03","[1043]Если подумать, Хапи и не надо сражаться
+самой? Э-эх...＠048535#03"
 32163,MAP,"[0007]What was that?! It couldn't have been a
-summoning spell...＠048536#04",
-32163,MAP,[1042]Ahahaha! It would behoove you to watch your back!＠048537#01,
-32163,MAP,[0014]Oh no! I knew something didn't feel right!＠048538#04,
-32163,MAP,"[1041]Urgh... You've got guts, I'll give you that much.＠048539#03",
-32163,MAP,[1043]This is...boring. Count me out.＠048540#03,
+summoning spell...＠048536#04","[0007]Что такое?! Нет, ведь перемещение
+чудищ ― это не...＠048536#04"
+32163,MAP,[1042]Ahahaha! It would behoove you to watch your back!＠048537#01,"[1042]О-хо-хо-хо-хо! Вам следовало бы уделять
+внимание тому, что происходит в тылу!＠048537#01"
+32163,MAP,[0014]Oh no! I knew something didn't feel right!＠048538#04,[0014]Нет! Я ведь чувствовал ― что-то не так!..＠048538#04
+32163,MAP,"[1041]Urgh... You've got guts, I'll give you that much.＠048539#03",[1041]А вы отважные ребята. Интересно!＠048539#03
+32163,MAP,[1043]This is...boring. Count me out.＠048540#03,[1043]Надоело... Хапи уходит.＠048540#03
 32163,MAP,"[1042]It's not that I'm defeated so much as that I'm
-temporarily grounded.＠048541#03",
-32163,MAP,[1040]Heh heh. Maybe I got a bit too carried away. Nah...＠048542#03,
+temporarily grounded.＠048541#03","[1042]Похоже, само собой получилось так,
+что я подскользнулась и едва ли
+не упала. Вы меня не одолели!＠048541#03"
+32163,MAP,[1040]Heh heh. Maybe I got a bit too carried away. Nah...＠048542#03,"[1040]Ох, заигрался я... но это было весело!＠048542#03"
 32163,MAP,"[0004]It's safe to say we've won this round, don't you think?
-Uh... ""B,"" was it?＠048543#00",
+Uh... ""B,"" was it?＠048543#00","[0004]Думаю, можно считать, что мы выиграли?
+Это... как тебя там, Бальти?＠048543#00"
 32163,MAP,"[1041]The name's Balthus. I don't lose often, but I can
-at least recognize what it looks like.＠048544#00",
-32163,MAP,[0024]Balthus... Balthus... BALTHUS?!＠048545#00,
+at least recognize what it looks like.＠048544#00","[1041]Бальтазар. Я ещё не настолько опустился,
+чтобы отрицать очевидное.＠048544#00"
+32163,MAP,[0024]Balthus... Balthus... BALTHUS?!＠048545#00,[0024]Бальтазар... Бальтазар... Баль... А-А-АА!＠048545#00
 32163,MAP,"[0024]From House Albrecht?! Baltie, is that you?!
-Whew, haha! You look, uh...old.＠048546#04",
+Whew, haha! You look, uh...old.＠048546#04",[0024]Братец Бальти?! Из дома Адальбрехт?!＠048546#04
 32163,MAP,"[1041]Huh? Do we know each other, pal? Wait a minute...
-That hair. Those eyes. That voice!＠048547#04",
-32163,MAP,[1041]Hilda?! I don't believe it! Holst's little sis?!＠048548#04,
+That hair. Those eyes. That voice!＠048547#04","[1041]Чё? Я тебя знаю? Нет, погоди: эти волосы,
+то, как ты меня назвала...＠048547#04"
+32163,MAP,[1041]Hilda?! I don't believe it! Holst's little sis?!＠048548#04,[1041]Хильда! Младшая сестрёнка Хольста!＠048548#04
 32164,MAP,"[0693]Aah! I knew following those shady kids was a bad
 idea. This place is massive!＠048573#04",
 32164,MAP,"[1041]Heh, they actually fell for it. Let's get this done!＠048574#00",
@@ -15770,53 +15788,74 @@ As if there is such a thing.＠043655#01",
 32174,MAP,[0084]Look sharp!＠043675#03,
 32174,MAP,[0084]It's not so bad.＠043676#03,
 32195,MAP,"[1040]Well, what have we here? Some lost kids stumbling
-around in the dark. Stay awhile, won't you?＠048549#00",
+around in the dark. Stay awhile, won't you?＠048549#00","[1040]Похоже, вас сама судьба привела в Бездну,
+так что останьтесь у нас ненадолго.＠048549#00"
 32195,MAP,"[1040]Shame indeed not to have a bit of fun with each
-other while we've got the chance, you know?＠048550#01",
+other while we've got the chance, you know?＠048550#01","[1040]Раз уж мы встретились таким образом,
+почему бы и не повеселиться?＠048550#01"
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,"[1040]I know you... You're the one Lord Lonato adopted.
-Isn't that right?＠048551#04",
+Isn't that right?＠048551#04","[1040]М-м? А, знаю тебя. Слышал, это тебя усыновил
+лорд Лонато.＠048551#04"
 32195,MAP,"[0014]That's right. Wait... I recognize you too!
-You're Count Rowe's adopted son!＠048552#00",
+You're Count Rowe's adopted son!＠048552#00","[0014]Я тоже... узнал тебя. По-моему, ты —
+приёмный сын графа Роу?＠048552#00"
 32195,MAP,"[0014]I don't know how you ended up here, but your house
-is no doubt worried sick! Let's get you home, OK?＠048553#00",
+is no doubt worried sick! Let's get you home, OK?＠048553#00","[0014]Откуда ты оказался в таком месте, с такими людьми?
+Что бы с тобой ни случилось, я помогу...＠048553#00"
 32195,MAP,"[1040]You really think I'd choose to go back there? Haha!
 Better watch yourself—you might lose a limb...or
-your life.＠048554#00",
+your life.＠048554#00","[1040]Шутишь? Я не собираюсь возвращаться в тот дом.
+Ты лучше... следи по сторонам ― иначе рискуешь
+умереть, ясно?＠048554#00"
 32195,MAP,"[1041]Come and get some, kiddo! I won't hold back,
-so you better not either!＠048555#00",
+so you better not either!＠048555#00","[1041]Ну, нападайте! Я сдерживаться не буду,
+и вам не надо.＠048555#00"
 32195,MAP,"[1041]These fists are packed with years of pent-up
-resentment. Time to let loose!＠048556#00",
+resentment. Time to let loose!＠048556#00","[1041]Я много лет был заперт под землёй, и готов выместить 
+злобу на это кулаками!＠048556#00"
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32195,MAP,[0004]You look...familiar. Have we met?＠048557#04,
+32195,MAP,[0004]You look...familiar. Have we met?＠048557#04,[0004]Слушай... мы с тобой уже встречались?＠048557#04
 32195,MAP,"[1041]Not a chance. You'd remember meeting a specimen
-like me.＠048558#00",
+like me.＠048558#00","[1041]Не, вижу тебя в первый раз вроде как. 
+Или это ты ко мне так подкатываешь?＠048558#00"
 32195,MAP,"[0004]True. I'd definitely remember this sharp twinge
-of annoyance.＠048559#00",
-32195,MAP,[1041]Stop yappin' and start slappin'!＠048560#00,
+of annoyance.＠048559#00","[0004]Прибереги шутки для драк. Значит, в первый
+раз видишь...＠048559#00"
+32195,MAP,[1041]Stop yappin' and start slappin'!＠048560#00,"[1041]Я человек действия, а не слов! Таков мой стиль...
+боевых наставлений Богини!＠048560#00"
 32195,MAP,"[0024]I can't shake the feeling that I know you from
-somewhere, but...I'm drawing a blank.＠048561#00",
+somewhere, but...I'm drawing a blank.＠048561#00","[0024]У меня такое чувство, что ты очень
+похож на одного моего знакомого.＠048561#00"
 32195,MAP,"[0024]Either way, you wouldn't want to hurt a helpless girl
-like me. Maybe you should let us off the hook.＠048562#00",
+like me. Maybe you should let us off the hook.＠048562#00","[0024]Только вот не могу вспомнить, на кого...
+Ты ведь не будешь на это обижаться?＠048562#00"
 32195,MAP,"[1041]Anything for a pretty lady. Why don't we talk it out
-over a hot meal? Your treat?＠048563#00",
+over a hot meal? Your treat?＠048563#00",[1041]Никаких обид. Но с условием: давай сходим вместе...＠048563#00
 32195,MAP,"[1041]Actually... Scratch that. Something tells me I'd best
-stay away from this one.＠048564#04",
+stay away from this one.＠048564#04","[1041]Н-нет, не надо мне её охмурять... Что-то мне
+подсказывает — добром это не кончится.＠048564#04"
 32195,MAP,"[1042]Underestimate the denizens of Abyss and it won't
-end well for you!＠048565#00",
-32195,MAP,[1042]Tremble in fear at my magical might! Ahaha!＠048566#01,
+end well for you!＠048565#00","[1042]Вы горько пожалеете, если будете недооценивать
+женщин поздемелий!＠048565#00"
+32195,MAP,[1042]Tremble in fear at my magical might! Ahaha!＠048566#01,[1042]Трепещите перед моей магией! О-хо-хо-хо-хо!＠048566#01
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32195,MAP,"[1042]You're of noble stock, yes? Name yourself!＠048567#01",
-32195,MAP,[0002]Certainly. I am Edelgard.＠048568#00,
+32195,MAP,"[1042]You're of noble stock, yes? Name yourself!＠048567#01",[1042]О-хо-хо-хо! Ты ведь и сама из знати? Представься!＠048567#01
+32195,MAP,[0002]Certainly. I am Edelgard.＠048568#00,"[0002]Не возражаю... Эдельгард. Полагаю,
+моя фамилия тебе уже известна?＠048568#00"
 32195,MAP,"[1042]That is the same name as the Imperial princess!
-It's a lovely name, but a bit cheeky in my view.＠048569#04",
-32195,MAP,[0002]Ugh.＠048570#00,
+It's a lovely name, but a bit cheeky in my view.＠048569#04","[1042]Ох, тебя зовут точно также, как наследную
+принцессу Империи! Имя прекрасное, но тебе
+не кажется его обладание немного дерзким?＠048569#04"
+32195,MAP,[0002]Ugh.＠048570#00,[0002]О-ох...＠048570#00
 32195,MAP,"[1043]Is it too late for me to back out of this fight? I don't
-want to hurt anyone.＠048571#03",
-32195,MAP,"[1043]But in this case, I guess there's no avoiding it.＠048572#00",
+want to hurt anyone.＠048571#03","[1043]Конечно, уже поздно возражать, но Хапи
+ на самом деле не любит драться.＠048571#03"
+32195,MAP,"[1043]But in this case, I guess there's no avoiding it.＠048572#00","[1043]Это больно и хлопотно.
+Но уже ничего не поделать.＠048572#00"
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[0000]...＠DummyVoice,

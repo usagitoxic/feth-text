@@ -25499,13 +25499,13 @@ Will not counterattack.","Красный импульс пробудил в юн
 0,MSGDATA,Know Your Enemy,Знай своего врага
 0,MSGDATA,Know Your Enemy,Знай своего врага
 0,MSGDATA,In Hiding,В укрытии
-0,MSGDATA,No Stone Unturned,Ни один камень не пропущен
+0,MSGDATA,No Stone Unturned,В поисках Флэн
 0,MSGDATA,Fishing Tournament,Турнир по рыбной ловле
 0,MSGDATA,Catherine's Request,Просьба Катерины
 0,MSGDATA,Missing Students,Пропавшие ученики
 0,MSGDATA,Eagle Eye,Орлиный глаз
-0,MSGDATA,No Stone Unturned,Ни один камень не пропущен
-0,MSGDATA,No Stone Unturned,Ни один камень не пропущен
+0,MSGDATA,No Stone Unturned,В поисках Флэн
+0,MSGDATA,No Stone Unturned,В поисках Флэн
 0,MSGDATA,Shamir's Request,Просьба Шамир
 0,MSGDATA,iron_untranslated,iron_untranslated
 0,MSGDATA,iron_untranslated,iron_untranslated
@@ -25672,7 +25672,7 @@ Will not counterattack.","Красный импульс пробудил в юн
 0,MSGDATA,Officers Academy,Офицерская академия
 0,MSGDATA,Dormitory,Общежитие
 0,MSGDATA,Dining Hall,Обеденный зал
-0,MSGDATA,Knights' Hall & Stable,Зал Рыцарей и Конюшня
+0,MSGDATA,Knights' Hall & Stable,Рыцарский зал и конюшня
 0,MSGDATA,Entrance Hall,Входной зал
 0,MSGDATA,Marketplace,Рынок
 0,MSGDATA,Greenhouse & Fishing Pond,Оранжерея и Рыболовный пруд
@@ -60410,10 +60410,10 @@ what information we can about suspicious individuals.","Если мы не см�
 1,MSGDATA,"Gather clues about Flayn by talking to different people
 throughout the monastery. If someone seems suspicious,
 you should check their room or other places they might
-spend time.","Собирайте сведения о Флэн, разговаривая с разными
-людьми по всему монастырю. Если кто-то покажется вам
-подозрительным, стоит проверить его комнату или
-другие места, где он может проводить время."
+spend time.","Следует поговорить с людьми в монастыре, чтобы
+узнать, где может быть Флэн. Если кто-то кажется
+вам подозрительным, проверьте жилую комнату
+или другие излюбленные этим человеком места."
 1,MSGDATA,"If we fail to locate Flayn soon, it will be too late. Let's
 assume she's been abducted, and start gathering what
 information we can about suspicious individuals.","Если мы не сможем быстро найти Флэн, может стать
@@ -60511,10 +60511,10 @@ must have seen or heard something.","Мы должны найти Флэн ка�
 1,MSGDATA,"Gather clues about Flayn by talking to different people
 throughout the monastery. If someone seems suspicious,
 you should check their room or other places they might
-spend time.","Собирайте сведения о Флэн, разговаривая с разными
-людьми по всему монастырю. Если кто-то покажется вам
-подозрительным, стоит проверить его комнату или
-другие места, где он может проводить время."
+spend time.","Следует поговорить с людьми в монастыре, чтобы
+узнать, где может быть Флэн. Если кто-то кажется
+вам подозрительным, проверьте жилую комнату
+или другие излюбленные этим человеком места."
 1,MSGDATA,"We've must locate Flayn at once. Let's gather all of the
 information we can around the monastery. Surely someone
 must have seen or heard something.","Мы должны найти Флэн как можно скорее. Давайте
@@ -60535,10 +60535,10 @@ a fine-tooth comb. Someone must know something.","Мне бы хотелось �
 1,MSGDATA,"Gather clues about Flayn by talking to different people
 throughout the monastery. If someone seems suspicious,
 you should check their room or other places they might
-spend time.","Собирайте сведения о Флэн, разговаривая с разными
-людьми по всему монастырю. Если кто-то покажется вам
-подозрительным, стоит проверить его комнату или
-другие места, где он может проводить время."
+spend time.","Следует поговорить с людьми в монастыре, чтобы
+узнать, где может быть Флэн. Если кто-то кажется
+вам подозрительным, проверьте жилую комнату
+или другие излюбленные этим человеком места."
 1,MSGDATA,"I wish we could do more for Flayn, but since we've got no
 leads, our only option is to go through the monastery with
 a fine-tooth comb. Someone must know something.","Мне бы хотелось сделать большее для Флэн, но поскольку
@@ -62626,10 +62626,10 @@ or perhaps his quarters.","Ерица определённо подозрите�
 1,MSGDATA,"Gather clues about Flayn by talking to different people
 throughout the monastery. If someone seems suspicious,
 you should check their room or other places they might
-spend time.","Собирайте сведения о Флэн, разговаривая с разными
-людьми по всему монастырю. Если кто-то покажется вам
-подозрительным, стоит проверить его комнату или
-другие места, где он может проводить время."
+spend time.","Следует поговорить с людьми в монастыре, чтобы
+узнать, где может быть Флэн. Если кто-то кажется
+вам подозрительным, проверьте жилую комнату
+или другие излюбленные этим человеком места."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -62699,10 +62699,10 @@ or in his quarters.","Соглашусь, что поведение учител
 1,MSGDATA,"Gather clues about Flayn by talking to different people
 throughout the monastery. If someone seems suspicious,
 you should check their room or other places they might
-spend time.","Собирайте сведения о Флэн, разговаривая с разными
-людьми по всему монастырю. Если кто-то покажется вам
-подозрительным, стоит проверить его комнату или
-другие места, где он может проводить время."
+spend time.","Следует поговорить с людьми в монастыре, чтобы
+узнать, где может быть Флэн. Если кто-то кажется
+вам подозрительным, проверьте жилую комнату
+или другие излюбленные этим человеком места."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -62711,14 +62711,16 @@ spend time.","Собирайте сведения о Флэн, разговар�
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Jeritza is suspicious, to say the least. I think you should ask
 him directly. He should be at the training grounds or in
-his quarters.","Мягко говоря, Ерица подозрительный. Думаю, нужно спросить его прямо. Он должен быть на тренировочной площадке, либо у себя."
+his quarters.","Поведение учителя Ерицы подозрительно. Думаю,
+нужно прямо его об этом спросить. Он должен быть 
+либо на тренировочном плацу, либо у себя."
 1,MSGDATA,"Gather clues about Flayn by talking to different people
 throughout the monastery. If someone seems suspicious,
 you should check their room or other places they might
-spend time.","Собирайте сведения о Флэн, разговаривая с разными
-людьми по всему монастырю. Если кто-то покажется вам
-подозрительным, стоит проверить его комнату или
-другие места, где он может проводить время."
+spend time.","Следует поговорить с людьми в монастыре, чтобы
+узнать, где может быть Флэн. Если кто-то кажется
+вам подозрительным, проверьте жилую комнату
+или другие излюбленные этим человеком места."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
@@ -153304,37 +153306,32 @@ I assure you, there is nothing more to it than that.","Быть любопытн
 не думаете? Уверяю, ничего более."
 12767,SUPPORT,(Tomas doesn't seem to be here right now...),"(Кажется, Томаса здесь нет...)"
 12767,SUPPORT,...,...
-12767,SUPPORT,I will find her. I swear it.,Я найду её. Клянусь.
-12767,SUPPORT,Try not to worry.,Постарайся не переживать.
-12767,SUPPORT,"That is all I can ask. Please, lend me your aid!","Пожалуйста, помогите мне!"
+12767,SUPPORT,I will find her. I swear it.,Мы обязательно её найдём.
+12767,SUPPORT,Try not to worry.,Не переживайте.
+12767,SUPPORT,"That is all I can ask. Please, lend me your aid!","Да, пожалуйста. Я рассчитываю на вашу помощь."
 12767,SUPPORT,"You ask the impossible. Oh, Flayn...","Вы просите невозможного. Ох, Флэн..."
 12767,SUPPORT,"She would never have left the monastery of her own
-volition. Why is there not a trace of her to be found?!","По своей воле она бы никогда не покинула
-монастырь. Ну почему я не могу и следа её
-найти?"
+volition. Why is there not a trace of her to be found?!","Я не думаю, что она могла покинуть монастырь...
+Почему мы не можем и следа её найти?!"
 12767,SUPPORT,"Miss Flayn's whereabouts are unknown? I pray she
 is safe...","Местонахождение госпожи Флэн неизвестно?
 Молюсь, чтобы она была в безопасности..."
-12767,SUPPORT,We do not seem to have any leads at present.,"В настоящее время у нас нет ни одной
-зацепки."
-12767,SUPPORT,"I am one of the suspects, am I?","Меня подозревают, верно?"
+12767,SUPPORT,We do not seem to have any leads at present.,В настоящее время у нас нет ни одной зацепки.
+12767,SUPPORT,"I am one of the suspects, am I?","Хм-м... Я один из подозреваемых, не так ли."
 12767,SUPPORT,"Well, hopefully I can lay your suspicions to rest. Do
-you know of my, let's call it...unique situation?","Что ж, надеюсь, я развею ваши подозрения.
-Вы знаете о моей, скажем так... уникальной
-ситуации?"
-12767,SUPPORT,Your true identity?,Ваша настоящая личность?
+you know of my, let's call it...unique situation?","Думаю, что подозрения рассеятся, если вы
+дадите мне возможность объясниться."
+12767,SUPPORT,Your true identity?,Кто вы на самом деле?
 12767,SUPPORT,Do you mean Annette?,Вы про Аннетт?
 12767,SUPPORT,"I was once a knight in service to the Faerghus 
-royal family.","Когда-то я был рыцарем, служащим
-королевской семье."
+royal family.","Когда-то я был рыцарем на службе у
+королевской семьи Фаэргуса."
 12767,SUPPORT,"If Ingrid believes she saw me before, it was likely
-in Fhirdiad, the Kingdom Capital.","Если Ингрид думает, что видела меня раньше,
-то скорее всего это было в Фирдиаде, столице
-Королевства."
+in Fhirdiad, the Kingdom Capital.","Скорее всего, Ингрид видела меня раньше
+в столице Королевства, Фирдиаде."
 12767,SUPPORT,"Annette is... She is my... But no. I would appreciate
-it, Professor, if you would ask no more.","Аннетт... Она моя... Нет. Профессор, я буду вам
-очень признателен, если вы больше не будете
-спрашивать меня об этом."
+it, Professor, if you would ask no more.","Что до Аннетт... она моя... Простите, но
+не заставляйте меня говорить об этом."
 12767,SUPPORT,"I can't believe Flayn just disappeared. I don't like it
 one little bit. ","Поверить не могу, что Флэн исчезла. Мне это
 совсем не нравится."
@@ -153342,17 +153339,15 @@ one little bit. ","Поверить не могу, что Флэн исчезл�
 12767,SUPPORT,"Alois and Shamir and all the knights are gonna head
 into town soon.","Алоис, Шамир и другие рыцари скоро отправятся
 в город."
-12767,SUPPORT,What brings you here? I'm taking a break.,Что вас сюда привело? У меня перерыв.
-12767,SUPPORT,Is this about Flayn? You find me suspicious? Hah.,Флэн? Вы меня подорезваете? Ха.
-12767,SUPPORT,You're not from Fódlan.,Вы не из Фодлана.
+12767,SUPPORT,What brings you here? I'm taking a break.,"Привет, что надо? У меня небольшой перерыв."
+12767,SUPPORT,Is this about Flayn? You find me suspicious? Hah.,По поводу Флэн... подозревают меня? Ха.
+12767,SUPPORT,You're not from Fódlan.,Вы ведь не из Фодлана?
 12767,SUPPORT,What did you do before coming to the monastery?,Чем вы занимались до прибытия в монастырь?
-12767,SUPPORT,True. Your point being?,Верно. Ваша точка зрения?
-12767,SUPPORT,I was somewhere else. Fighting. Is that a problem?,Я был в другом месте. Сражался. Это проблема?
+12767,SUPPORT,True. Your point being?,"Да, верно. И что это меняет?"
+12767,SUPPORT,I was somewhere else. Fighting. Is that a problem?,Сражалась в другом месте. И что это меняет?
 12767,SUPPORT,"I understand that I don't fit in among the Knights
-of Seiros...","Понимаю, что не вписываюсь в ряды рыцарей
-Сейрос."
-12767,SUPPORT,But that hardly links me to Flayn's disappearance.,"Но вряд ли это может связывать исчезновение
-Флэн со мной."
+of Seiros...","Я понимаю, что выделяюсь среди рыцарей..."
+12767,SUPPORT,But that hardly links me to Flayn's disappearance.,Но наивно связывать исчезновение Флэн с этим.
 12767,SUPPORT,"Hey there, Professor. Did you want to talk?","Здраствуйте, профессор. Хотите поговорить?"
 12767,SUPPORT,"What?! Me, abduct Flayn?! You can't really believe
 I did that!","Что?! Я похитил Флэн?! Вы в самом деле в
@@ -153370,7 +153365,7 @@ that they're not very good.","Ох, наверняка это всё из-за �
 12767,SUPPORT,"But if I went around kidnapping everyone who
 said that, the whole monastery would be empty!","Но если похищать всех, кто так говорит, тогда
 весь монастырь сразу опустеет!"
-12767,SUPPORT,(It's just an ordinary pond. Nothing at the bottom...), 
+12767,SUPPORT,(It's just an ordinary pond. Nothing at the bottom...),(Пруд как пруд. На дне ничего нет...)
 12767,SUPPORT,"Because of Flayn's disappearance, all of the knights
 are searching nonstop.",Рыцари без устали ищут Флэн.
 12767,SUPPORT,"But we haven't found a single lead. Seteth's face is
@@ -153438,22 +153433,21 @@ for her.","Флэн пропала... Мы должны разделиться
 before it's too late.","Нельзя терять ни минуты. Мы должны найти её,
 пока не поздно."
 12767,SUPPORT,"If Flayn has been taken hostage, then we know she is
-alive. At least for now.","Если Флэн взяли в заложники, значит мы
-знаем, что она жива. По крайней мере пока что."
+alive. At least for now.","Если уважаемая Флэн похищена, то разумно 
+предположить, что она жива."
 12767,SUPPORT,"There would be no point to abducting her if simple
-murder was the objective.","Её нет смысла похищать, если цель – просто
-убийство."
-12767,SUPPORT,"That's only logical, Professor.","Это же логично, профессор."
-12767,SUPPORT,"Hey, Professor, have you seen Manuela?","Здравствуйте, учитель! Вы Мануэлу видели?"
-12767,SUPPORT,I saw her running off somewhere in a terrible hurry.,"Я видел, что она бежала куда-то в ужасной
-спешке."
+murder was the objective.","Ведь нет смысла похищать того, кого
+намереваешься убить."
+12767,SUPPORT,"That's only logical, Professor.",Вы со мной согласны? Учитель.
+12767,SUPPORT,"Hey, Professor, have you seen Manuela?","Учитель, а вы приму Мануэлу... ой, то есть..."
+12767,SUPPORT,I saw her running off somewhere in a terrible hurry.,"Вы не видели учителя Мануэлу? Я заметила,
+как она бежит куда-то в ужасной спешке..."
 12767,SUPPORT,"I wonder if it has anything to do with Flayn's
-disappearance. Do you know, Professor?","Может это как-то связано с исчезнованием
-Флэн? Профессор, как думаете?"
-12767,SUPPORT,You're on first-name terms with Professor Manuela?,Ты в дружеских отношениях с Мануэлой?
+disappearance. Do you know, Professor?",Неужели это как-то связано с исчезновением Флэн?
+12767,SUPPORT,You're on first-name terms with Professor Manuela?,«Приму»?
 12767,SUPPORT,"Oh, yes. Didn't you know? She was the senior diva
-in our Opera Company.","Ага. Вы не знали? Она была дивой в нашей
-оперной труппе."
+in our Opera Company.","А вы не знали? Учитель Мануэла была 
+примадонной в нашей оперной труппе."
 12767,SUPPORT,"I don't know if she ran off or got kidnapped or what!
 I just know that Flayn's in trouble.","Не знаю, сбежала она, или её похитили, или
 ещё что... Знаю только то, что Флэн в беде."
@@ -153486,36 +153480,35 @@ Have you considered that?","Может быть Флэн захотела поб
 Вы об этом не подумали?"
 12767,SUPPORT,"Come to think of it, where is her room, anyway?",А если задуматься... Где её комната находится?
 12767,SUPPORT,"A beautiful, delicate maiden vanishing into thin air...
-It is like something out of a book.","Прекрасная нежная девушка растворяется в
-воздухе... Прямо сюжет из книги."
+It is like something out of a book.","Прекрасная дева исчезла без следа... 
+Случись это в книге, то беспокоиться 
+было бы не о чем."
 12767,SUPPORT,"If it were a book, we would have no need
 to worry! She would be rescued presently
-by a dashing nobleman.","Если бы это была книга, то нам не нужно было
-бы беспокоиться. Девушку спас бы лихой
-дворянин."
+by a dashing nobleman.","Ведь было бы предрешено, что её
+спасёт знатный человек!"
 12767,SUPPORT,"Do you have any idea as to where she might be?
-Where she might have wandered off to?","Может у вас есть догатки, где она может быть?
-Куда она могла бы забрести?"
-12767,SUPPORT,Perhaps she went looking for treats?,Возможно она пошла искать сладости?
-12767,SUPPORT,"To the greenhouse, for some flowers?",В оранжерее за цветами?
+Where she might have wandered off to?","Учитель, у вас есть какие-нибудь догадки о том, 
+где она может быть? Например, о местах, куда 
+она могла пойти..."
+12767,SUPPORT,Perhaps she went looking for treats?,В столовую за сладостями?
+12767,SUPPORT,"To the greenhouse, for some flowers?",В оранжерею за милыми цветочками?
 12767,SUPPORT,"That is what I thought! Why I am here, in fact.
-But she is nowhere to be seen.","Я подумал то же самое! Поэтому я здесь.
-Но её тут вообще не видно."
+But she is nowhere to be seen.","Я подумал то же самое, поэтому первым
+делом пришёл сюда. Но здесь её никто 
+не видел."
 12767,SUPPORT,"Hmm, the greenhouse. I did not think of that.
-I will take a look around there later.","Хм-м, оранжерея. Об этом я не подумал.
-Чуть позже я туда загляну."
+I will take a look around there later.","Хм-м, в оранжерею? Об этом я не подумал.
+Чуть позже я поищу её и там."
 12767,SUPPORT,"Flayn was childnapped. That is what you are
-thinking? And the villain is inside our monastery?","Флэн запленили. Вы думаете, что злодей внутри
-монастыря?"
+thinking? And the villain is inside our monastery?","Флэн украдена? Тать в монастыре, где-то?"
 12767,SUPPORT,"Hmm. I must have admittance. One person...
-has been catching my eye.","Хм-м... Я подозреваю. Один человек... Она
-попалась мне на глаза."
+has been catching my eye.","Одна из... одна человек, вызывает внимание."
 12767,SUPPORT,"Shamir is a knight not like other knights.
 Her movements are being reminders of...
-no, they remind me of warriors of Brigid.","Шамир — рыцарь. Но не такая как другие. Её
-движения были напоминанием... Нет. Напомнили 
-мне воинов Бригида."
-12767,SUPPORT,"Before she was here, what was she getting up to...","Чем она занималась, пока не прибыла сюда?.."
+no, they remind me of warriors of Brigid.","Шамир — рыцарь, но не такая, как другие.
+Движения похожи на как в Бригиде."
+12767,SUPPORT,"Before she was here, what was she getting up to...",Какой человек сделал это?..
 12767,SUPPORT,"When I consider how Seteth must be feeling,
 my heart breaks. We must find Flayn as soon
 as possible.","У меня сердце разрывается, когда я думаю о том,
@@ -153638,30 +153631,31 @@ it is!","П-Профессор, не говорите так! Уверен, чт
 связь?"
 12767,SUPPORT,"No sign of her leaving the monastery, eh?
 That is, assuming we can actually trust
-that information...","Значит нет никаких признаков того, что она
-ушла из монастыря? То есть, если предположить,
-что мы можем верить этой информации..."
+that information...","Значит, признаков того, что она ушла из 
+монастыря, нет? Вопрос в том, насколько 
+можно верить этой информации."
 12767,SUPPORT,"Oh, but I'm sure this space has no shortage of secret
-passages and hiding spots!","Ох, но я уверен, что в этом месть бесчисленное
-множество скрытых ходов!"
+passages and hiding spots!","В этом месте наверняка полно разных 
+лазеек и тайных проходов."
 12767,SUPPORT,"True. For now, there's not much we can do
 aside from making a thorough search of
-the monastery.","Верно. Сейчас мы можем только прочесывать
-монастырь."
+the monastery.","Тем не менее, думаю, будет лучше сначала
+тщательно прочесать все помещения внутри
+монастыря."
 12767,SUPPORT,"Let's ask around and see what we turn up. You never
-know who might have seen something.","Давайте её допросим, как она вернётся. Мы же
-не знаем, кто и что мог видеть."
+know who might have seen something.","Давайте поспрашиваем остальных. Вдруг
+найдём какую-нибудь зацепку?"
 12767,SUPPORT,"Professor Manuela ran off with Professor Jeritza's
-mask? What could that possibly mean?","Что? Профессор Мануэла убежала с маской
-профессора Ерицы?"
+mask? What could that possibly mean?","Учитель Мануэла убежала вместе с маской учителя
+Ерицы? Какого чёрта?"
 12767,SUPPORT,"Well, that's suspicious! Sounds like we should try
-talking to them.","Так, это подозрительно! Похоже надо попытаться
-с ними переговорить."
+talking to them.","Это подозрительно! Стоит попробовать 
+расспросить их обоих."
 12767,SUPPORT,"Professor Jeritza is almost certainly in the training
 grounds or his quarters. Where was that again?
-Oh, over on the eastern side of the knights' hall.","Наверняка учитель Ерица находится на полигоне.
-Либо у себя. Где уж это... А! Восточнее рыцарского
-зала."
+Oh, over on the eastern side of the knights' hall.","Наверняка учитель Ерица сейчас на тренировочном
+плацу или у себя. По-моему, его комната находится
+восточнее рыцарского зала."
 12767,SUPPORT,Flayn's gone missing? Where could she be?,Флэн пропала? Где же она могла бы быть?
 12767,SUPPORT,"If it were an ordinary kidnapping, you'd think
 there'd be a demand for ransom or something
@@ -153698,40 +153692,43 @@ talk to Flayn, you know.","У него всегда появлялись про�
 12767,SUPPORT,"It's probably a crazy thought, but I'm starting
 to worry.","Мысль сумасшедшая, но я начинаю
 беспокоиться."
-12767,SUPPORT,I've only ever spoken to Flayn a handful of times.,Я разговаривал с Флэн всего пару раз.
+12767,SUPPORT,I've only ever spoken to Flayn a handful of times.,"Я совсем мало общался с Флэн, но..."
 12767,SUPPORT,"She always seemed so naive about the ways of
-the world. I'm worried about her.","Она всегда казалась такой найвной. Я беспокоюсь
-о ней."
+the world. I'm worried about her.","Мне всегда казалось, что она мало знает
+о жизни вне монастыря. Отчего я волнуюсь
+за неё ещё сильнее..."
 12767,SUPPORT,You think she'd be easily deceived?,"Думаешь, её легко обмануть?"
-12767,SUPPORT,Do you have feelings for Flayn?,У тебя к Флэн есть какие-то чувства?
-12767,SUPPORT,"Yes, I'm afraid so. I just hope she comes home safe.","Боюсь, что да. Надеюсь, что она вернётся
-домой целой и невредимой."
+12767,SUPPORT,Do you have feelings for Flayn?,Флэн тебе приглянулась?
+12767,SUPPORT,"Yes, I'm afraid so. I just hope she comes home safe.","Боюсь, что да. Надеюсь, она вернётся домой 
+целой и невредимой..."
 12767,SUPPORT,"Wh-what makes you say that?! This is hardly the
-time for teasing, you know!","П-Почему вы так говорите?! Сейчас совсем
-неподходящее время для дурачества!"
+time for teasing, you know!","П-Почему вы так говорите?! Пожалуйста,
+не подшучивайте надо мной в такое время."
 12767,SUPPORT,"Where could Flayn have gone? Do you think she's
-really been kidnapped?","И куда же Флэн пропала? Думаете, её
-похители?"
+really been kidnapped?","Флэн как сквозь землю провалилась — думаете,
+её и правда кто-то увёл?"
 12767,SUPPORT,"I hear Tomas has been going around asking
-about her...","Я слышал, Томас тоже спрашивал про неё..."
-12767,SUPPORT,But he's probably just worried like the rest of us.,"Возможно он так же переживает, как и все мы."
+about her...","Это, конечно, всего лишь моё личное мнение,
+но мне кажется, Томас что-то скрывает."
+12767,SUPPORT,But he's probably just worried like the rest of us.,"Я слышала краем уха, что он расспрашивает
+о Флэн вообще всех. Хотя нет, не только о ней."
 12767,SUPPORT,"Though it wasn't just Flayn. He was asking about
-you and Captain Jeralt too.","Но он спрашивал не только про Флэн. Он
-спрашивал и про капитана Джеральта."
+you and Captain Jeralt too.","Он и о Флэн расспрашивал, и о мастере 
+Джеральте, и о вас."
 12767,SUPPORT,"Reflecting on it now, Flayn has always seemed a
-rather odd person.","Если поразмыслить, Флэн всегда мне казалась
-довольно странным челвоеком."
+rather odd person.","Если поразмыслить, Флэн — довольно 
+таинственная девочка."
 12767,SUPPORT,"She appears young, yet there's something about her
 that seems much older than her years suggest. And
-she's quite wise, but also surprisingly naive...","Она выглядит молоденькой, но есть в ней что-то,
-что делает её старше. Она достаточно мудра, но
-на удивление очень наивна..."
-12767,SUPPORT,Maybe she's lived a very sheltered life.,Может она совсем не бедствовала в своей жизни?
-12767,SUPPORT,Maybe she's actually a ghost.,Может она в самом деле приведение?
+she's quite wise, but also surprisingly naive...","Она выглядит юной, но ведёт себя старомодно;
+она эрудирована, но не знает многих очевидных
+вещей..."
+12767,SUPPORT,Maybe she's lived a very sheltered life.,"Может, её просто чрезмерно опекали?"
+12767,SUPPORT,Maybe she's actually a ghost.,"Может, она на самом деле привидение?"
 12767,SUPPORT,"Hmm, you might be right. Whatever the case, Seteth
-seems to care for her more than anything.","Хм-м, может вы правы. И всё же, Сетес заботится
-о ней больше всего на свете."
-12767,SUPPORT,A ghost?! Don't be absurd!,Приведение?! Не несите чепухи!
+seems to care for her more than anything.","Может быть, так и есть. Ведь достопочтенный Сетес
+любит её больше жизни."
+12767,SUPPORT,A ghost?! Don't be absurd!,П-приведение?! Не несите чепухи!
 12767,SUPPORT,"Dear Goddess, hear my prayer...","Дражайшая богиня, услышь мои молитвы..."
 12767,SUPPORT,Please watch over Flayn... Please protect her...,"Прошу, присмотри за Флэн... Защити её..."
 12767,SUPPORT,"I can only imagine how worried Seteth must be,
