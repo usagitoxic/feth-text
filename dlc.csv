@@ -4582,43 +4582,56 @@ Almighty King of Grappling!","Ну что, наконец-то решились?
 32007,SUPPORT,"Hm... Why can't I shake the feeling that I know
 that wild man?",Хм... я как будто бы его знаю.
 32008,SUPPORT,"Heh, I don't believe it. Little Hilda herself.
-Why didn't you speak up sooner?",
+Why didn't you speak up sooner?","Ха-ха-ха! Хильда! Ну что ж ты сразу
+не сказала?"
 32008,SUPPORT,"Baltie, this isn't the time to catch up. What would
-Holst think?! I bet you didn't consider that, did you?",
-32008,SUPPORT,"Yeesh... I dunno, but it wouldn't be nice.",
-32008,SUPPORT,...,
+Holst think?! I bet you didn't consider that, did you?","Бальти, ты такой беспечный. А если об этом 
+узнает мой брат?"
+32008,SUPPORT,"Yeesh... I dunno, but it wouldn't be nice.",А.
+32008,SUPPORT,...,...
 32008,SUPPORT,"Look, sorry. OK? Just don't tell Holst. If he knew
-I raised a hand against you, he'd have my head.",
+I raised a hand against you, he'd have my head.","Прости... Не говори об этом Хольсту! 
+Если он узнает, что я поднял на тебя 
+руку — я покойник!"
 32008,SUPPORT,"Ha! Like he'd stop at your head. Fine though.
-Just this once, and just for you, I'll keep quiet.",
+Just this once, and just for you, I'll keep quiet.","Он не ограничится тем, что просто тебя убьёт.
+Ничего не поделать, на этот раз промолчу."
 32008,SUPPORT,"Now that that's sorted... What did you mean about
-it being lucky that you found me?",
+it being lucky that you found me?","Слушай, а что ты имел в виду, говоря, что тебе
+повезло меня встретить?"
 32008,SUPPORT,"Oh, that. One of the guys I owe gold to is
-Count Gloucester.",
+Count Gloucester.","Ну, среди тех, кому я должен денег,
+есть некий граф Глостер..."
 32008,SUPPORT,"He said something about forgiving my debt if I could
-dig up some dirt on you. Figured this was my shot.",
+dig up some dirt on you. Figured this was my shot.","Я вспомнил, что он поручил разузнать о тебе
+в обмен на списание долга."
 32008,SUPPORT,"Aha, so it was purely selfish. But then, was a fight
-really necessary?",
+really necessary?","Ха-ха, так вот в чём дело... но ведь тогда тебе
+было необязательно драться?"
 32008,SUPPORT,"Really was. Best way to acquaint yourself with
 someone is to get into a tussle with 'em.
-That's common sense right there.",
-32008,SUPPORT,That makes sense.,
-32008,SUPPORT,That doesn't sound right...,
+That's common sense right there.","Ты чего? Если хочешь с кем-то познакомиться,
+начинай общение с кулаков. Это нормально."
+32008,SUPPORT,That makes sense.,Это правда.
+32008,SUPPORT,That doesn't sound right...,Нельзя же так...
 32008,SUPPORT,"Huh. I had no idea there were others like B
-out there.",
+out there.","Вы серьёзно? Есть ещё люди, похожие на Бальти."
 32008,SUPPORT,"Who knew such a refined lady could be so
-backwards.",
+backwards.","А ведь на вид такая красавица. 
+Подумать только."
 32008,SUPPORT,"That's the correct response for a reasonable person.
-We're not all as far gone as Balthus here.",
+We're not all as far gone as Balthus here.","Согласен. Хорошо, что вы здраво мыслите."
 32008,SUPPORT,"Say what you will, but I learned all I need to know.
 It's clear this lot has nothing to do with the church's
-intentions.",
+intentions.","Ну, я уже понял, что вы не имеете отношения
+к планам Церкви."
 32008,SUPPORT,"But that means those other creeps could always
-attack us at any moment.",
-32008,SUPPORT,What creeps?,
-32008,SUPPORT,Who would attack you?,
+attack us at any moment.","Но... это значит, что они могут снова напасть."
+32008,SUPPORT,What creeps?,«Они»?
+32008,SUPPORT,Who would attack you?,Напасть?
 32008,SUPPORT,"Someone's targeting Abyss. Mercenaries keep sniffing
-around and causing trouble here. They won't let up.",
+around and causing trouble here. They won't let up.","Кто-то взял Бездну на прицел. В последнее время
+наёмники то и дело набегают сюда."
 32008,SUPPORT,"It's a real problem, and we have no clue who's
 pulling the strings.",
 32008,SUPPORT,"There are many within the church who would love
