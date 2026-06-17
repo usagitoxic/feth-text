@@ -4582,120 +4582,170 @@ Almighty King of Grappling!","Ну что, наконец-то решились?
 32007,SUPPORT,"Hm... Why can't I shake the feeling that I know
 that wild man?",Хм... я как будто бы его знаю.
 32008,SUPPORT,"Heh, I don't believe it. Little Hilda herself.
-Why didn't you speak up sooner?",
+Why didn't you speak up sooner?","Ха-ха-ха! Хильда! Ну что ж ты сразу
+не сказала?"
 32008,SUPPORT,"Baltie, this isn't the time to catch up. What would
-Holst think?! I bet you didn't consider that, did you?",
-32008,SUPPORT,"Yeesh... I dunno, but it wouldn't be nice.",
-32008,SUPPORT,...,
+Holst think?! I bet you didn't consider that, did you?","Бальти, ты такой беспечный. А если об этом 
+узнает мой брат?"
+32008,SUPPORT,"Yeesh... I dunno, but it wouldn't be nice.",А.
+32008,SUPPORT,...,...
 32008,SUPPORT,"Look, sorry. OK? Just don't tell Holst. If he knew
-I raised a hand against you, he'd have my head.",
+I raised a hand against you, he'd have my head.","Прости... Не говори об этом Хольсту! 
+Если он узнает, что я поднял на тебя 
+руку — я покойник!"
 32008,SUPPORT,"Ha! Like he'd stop at your head. Fine though.
-Just this once, and just for you, I'll keep quiet.",
+Just this once, and just for you, I'll keep quiet.","Он не ограничится тем, что просто тебя убьёт.
+Ничего не поделать, на этот раз промолчу."
 32008,SUPPORT,"Now that that's sorted... What did you mean about
-it being lucky that you found me?",
+it being lucky that you found me?","Слушай, а что ты имел в виду, говоря, что тебе
+повезло меня встретить?"
 32008,SUPPORT,"Oh, that. One of the guys I owe gold to is
-Count Gloucester.",
+Count Gloucester.","Ну, среди тех, кому я должен денег,
+есть некий граф Глостер..."
 32008,SUPPORT,"He said something about forgiving my debt if I could
-dig up some dirt on you. Figured this was my shot.",
+dig up some dirt on you. Figured this was my shot.","Я вспомнил, что он поручил разузнать о тебе
+в обмен на списание долга."
 32008,SUPPORT,"Aha, so it was purely selfish. But then, was a fight
-really necessary?",
+really necessary?","Ха-ха, так вот в чём дело... но ведь тогда тебе
+было необязательно драться?"
 32008,SUPPORT,"Really was. Best way to acquaint yourself with
 someone is to get into a tussle with 'em.
-That's common sense right there.",
-32008,SUPPORT,That makes sense.,
-32008,SUPPORT,That doesn't sound right...,
+That's common sense right there.","Ты чего? Если хочешь с кем-то познакомиться,
+начинай общение с кулаков. Это нормально."
+32008,SUPPORT,That makes sense.,Это правда.
+32008,SUPPORT,That doesn't sound right...,Нельзя же так...
 32008,SUPPORT,"Huh. I had no idea there were others like B
-out there.",
+out there.","Вы серьёзно? Есть ещё люди, похожие на Бальти."
 32008,SUPPORT,"Who knew such a refined lady could be so
-backwards.",
+backwards.","А ведь на вид такая красавица. 
+Подумать только."
 32008,SUPPORT,"That's the correct response for a reasonable person.
-We're not all as far gone as Balthus here.",
+We're not all as far gone as Balthus here.","Согласен. Хорошо, что вы здраво мыслите."
 32008,SUPPORT,"Say what you will, but I learned all I need to know.
 It's clear this lot has nothing to do with the church's
-intentions.",
+intentions.","Ну, я уже понял, что вы не имеете отношения
+к планам Церкви."
 32008,SUPPORT,"But that means those other creeps could always
-attack us at any moment.",
-32008,SUPPORT,What creeps?,
-32008,SUPPORT,Who would attack you?,
+attack us at any moment.","Но... это значит, что они могут снова напасть."
+32008,SUPPORT,What creeps?,«Они»?
+32008,SUPPORT,Who would attack you?,Напасть?
 32008,SUPPORT,"Someone's targeting Abyss. Mercenaries keep sniffing
-around and causing trouble here. They won't let up.",
+around and causing trouble here. They won't let up.","Кто-то взял Бездну на прицел. В последнее время
+наёмники то и дело набегают сюда."
 32008,SUPPORT,"It's a real problem, and we have no clue who's
-pulling the strings.",
+pulling the strings.","Хуже всего то, что мы не знаем, кто их нанял."
 32008,SUPPORT,"There are many within the church who would love
-to see this ""filthy"" underground city purged.",
+to see this ""filthy"" underground city purged.","Среди Церкви полно тех, кто с радостью бы
+«очистил это грязное подземелье»."
 32008,SUPPORT,"When you first showed up, we thought you were
-here to do just that. Apologies for the confusion.",
+here to do just that. Apologies for the confusion.","И мы подумали, что вы пришли сюда именно
+за этим. Виноваты."
 32008,SUPPORT,"So that's why you came at us with that nasty ""kill the
-outsiders"" act.",
+outsiders"" act.","Так вот почему вы на нас напали, чуть ли не крича
+«убивай чужаков»!"
 32008,SUPPORT,"As Yuri-bird said, we're sorry. We're all pretty on
-edge these days.",
+edge these days.",Ну извините. Мы тут все как на иголках.
 32008,SUPPORT,"Indeed! That someone would descend to Abyss out
-of pure curiosity was far too outlandish to consider.",
-32008,SUPPORT,What is the purpose of Abyss?,
+of pure curiosity was far too outlandish to consider.","Вот именно: мы и помыслить не могли, что кто-то
+спустится в Бездну лишь любопытства ради."
+32008,SUPPORT,What is the purpose of Abyss?,Так что это за место — Бездна?
 32008,SUPPORT,"No idea. These tunnels have been around for ages.
 They could be older than the monastery for all
-we know.",
+we know.","Откуда тут взялись подземные проходы, я не знаю:
+построили их тут вместе с монастырём, или они тут
+были задолго до него."
 32008,SUPPORT,"None remain who know the complete truth.
 However, I shall tell you all that we know for
-certain...",
+certain...","Правды об этом никто не знает. Но одно
+я скажу наверняка."
 32008,SUPPORT,"Abyss is home to those who shun the light of day.
-It is the secret shadow of Garreg Mach, if you will.",
+It is the secret shadow of Garreg Mach, if you will.","Бездна — это дом для тех, кому больше
+нет места под лучами света. Это изнанка 
+Гаррег Маха, вымазанная в копоти."
 32008,SUPPORT,"The church quietly tolerates us. They think they
-need a place like this for Garreg Mach to thrive.",
+need a place like this for Garreg Mach to thrive.","Церковь всегда лишь молча закрывала на это
+глаза. Там считают, что подобное место нужно,
+чтобы Гаррег Мах преуспевал."
 32008,SUPPORT,"The deal is simple. Abyssians never get involved with
 the surface, and the surface never gets involved
-with us.",
+with us.","Подземные жители не вмешиваются в дела
+поверхности, а они не вмешиваются сюда...
+Таков был уговор."
 32008,SUPPORT,"Alas! For some foul reason, surface dwellers have
-been after us of late.",
+been after us of late.","Од-на-ко! По неизвестной причине на нас
+то и дело нападают с поверхности."
 32008,SUPPORT,"Further oppressing those souls who can only find
-solace beneath the ground? I cannot abide it!",
+solace beneath the ground? I cannot abide it!","Как можно ещё сильнее притеснять тех, кто и так 
+прозябает под землёй... это непростительно!"
 32008,SUPPORT,"Though it pains me to admit, we, too, harbor valid
-reasons for not venturing into the light.",
+reasons for not venturing into the light.","Мне до боли не хочется это признавать, но у нас
+всех есть веские причины, почему мы не можем 
+жить на поверхности."
 32008,SUPPORT,"That is why, by the grace of our esteemed patron,
-we have been granted sanctuary here in Abyss.",
+we have been granted sanctuary here in Abyss.","Но нам дозволено проживать в Бездне благодаря
+милости одного уважаемого заступника."
 32008,SUPPORT,"I see... Baltie, does that mean you've got a reason
-for being here too?",
+for being here too?","Хм-м, Бальти, так у тебя тоже есть какая-то
+важная причина?"
 32008,SUPPORT,"Afraid so, Hilda. I'm here because...there are more
 bounties on my head than there is hair. Needed to
-lay low. Real low.",
-32008,SUPPORT,Baltie... That's awful.,
+lay low. Real low.","Ага, важнее некуда — я здесь потому,
+что скрываюсь от охотников за головами."
+32008,SUPPORT,Baltie... That's awful.,Ох. Это ужасно.
 32008,SUPPORT,"Enough with the niceties. Let's get these surface
-dwellers out of here.",
+dwellers out of here.","Итак, закругляемся со светскими беседами?
+Думаю, вам уже пора обратно на поверхность."
 32008,SUPPORT,"Nonsense! Intolerable nonsense! Whyever would we
-let slip this chance to acquire their aid?",
-32008,SUPPORT,You need our help?,
-32008,SUPPORT,We refuse to get involved.,
+let slip this chance to acquire their aid?","Э? Ты их отсылаешь обратно? Но почему бы нам
+просто не обратиться к ним за помощью?"
+32008,SUPPORT,You need our help?,За помощью?
+32008,SUPPORT,We refuse to get involved.,Мы отказываемся.
 32008,SUPPORT,"Easy there, pal. Can't say no before we've even asked
-for anything. Talk is cheap, but listening's free, yeah?",
+for anything. Talk is cheap, but listening's free, yeah?","Эй-эй, мы ещё ни о чём не просили. 
+Выслушайте нас хоть для начала."
 32008,SUPPORT,"Like we said, recently this place is being targeted
-by mercenaries.",
+by mercenaries.","Как мы только что сказали, на нас часто нападают
+наёмники... в основном просто бандиты."
 32008,SUPPORT,"Myself excluded, a lot of the folks who live here can't
-defend themselves. They're here to avoid conflict.",
+defend themselves. They're here to avoid conflict.","Но большинство живущих здесь — слабые люди,
+они избегают боя."
 32008,SUPPORT,"The elderly, the infirm...orphans, lost souls...
 merchants who were chewed up and spit out
-by the nobility. The works.",
+by the nobility. The works.","Тут и старики, оставшиеся без дома и работы; 
+и дети, потерявшие родителей; и брошенные 
+женщины; и обманутые знатью купцы."
 32008,SUPPORT,"It rests upon us to protect those who cannot protect
-themselves...and to safeguard our home.",
+themselves...and to safeguard our home.","Чтобы защитить тех, кто не способен постоять
+за себя, и наш собственный кров..."
 32008,SUPPORT,"To that noble end, I must insist that you lend us
-your strength!",
+your strength!",...мы просим вашей помощи.
 32008,SUPPORT,"I feel for your cause, truly. However, I cannot help
 but wonder why you would trust us so readily.
-We are from the surface, after all.",
+We are from the surface, after all.","Но с вашей точки зрения мы точно такие 
+же жители поверхности. Заслуживаем ли 
+мы доверия?"
 32008,SUPPORT,"Trust is a choice. We're choosing to trust you. For
 now. It's clear you're not here by command of
-the church.",
+the church.","Если уж ты задал такой вопрос — да, вполне.
+Вы действуете не по указке Церкви..."
 32008,SUPPORT,"And you're not just a bunch of noble twerps, either.
 You can hold your own. It's in the way you fight.
-How you carry yourselves.",
+How you carry yourselves.","И вы не просто знатные детишки. Это ясно
+по тому, как вы сражаетесь, и по тому, как
+держите себя с нами сейчас."
 32008,SUPPORT,"Still... I'm reluctant to get you involved with
-this madness. It's our problem, not yours.",
+this madness. It's our problem, not yours.","Поэтому я бы и не хотел вовлекать вас
+в такую опасную историю, но..."
 32008,SUPPORT,"It's too late now—we already told them everything.
 Let's at least give them a chance to decide for
-themselves.",
+themselves.","Мы уже всё рассказали как на духу. И ладно:
+им же не надо всё решать прямо сейчас."
 32008,SUPPORT,"Most true. Wander about Abyss for a time and I am
-certain you will come to the only correct conclusion.",
+certain you will come to the only correct conclusion.","Это правда. Осмотрите Бездну — и ответ придёт сам 
+собой, когда вы увидите нынешнее положение дел."
 32008,SUPPORT,"Right, what she said. Take a look, think some
-thoughts. Consider yourselves our special guests.",
+thoughts. Consider yourselves our special guests.","На том и порешим. А пока добро пожаловать,
+«гости дорогие»."
 32009,SUPPORT,"We're all done here, Boss. Oh, but more importantly,
 about your—",
 32009,SUPPORT,"We'll discuss that another time. For now, tend to
