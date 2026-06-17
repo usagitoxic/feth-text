@@ -58730,13 +58730,12 @@ stick with my old, familiar sword, or acquire a better one?","Этот меч у
 1,MSGDATA,Why not use both?,А почему бы не использовать оба меча?
 1,MSGDATA,"I'm...kind of terrified to walk the monastery grounds at
 night. It's unnerving how dark and quiet the place gets!
-How can I conquer my fear?","Мне... немного страшно ходить по территории
-монастыря по ночам. Так жутко, когда он такой
-тёмный и тихий! Как мне с этим быть?"
-1,MSGDATA,"Sing a song. If you make some noise, it won't be quiet.",Спой песню. Так точно не будет тихо.
-1,MSGDATA,Think of it as training for night marches.,"Считай, что это тренировки перед ночными
-походами."
-1,MSGDATA,Make sure you're always carrying a torch.,Не забывай носить с собой факел.
+How can I conquer my fear?","Ночью в монастыре... так темно, тихо, и ходить в
+одиночку... страшно. С этим надо что-то делать. 
+Нет ли способа обмануть страх?"
+1,MSGDATA,"Sing a song. If you make some noise, it won't be quiet.","Просто пой во весь голос, пока идёшь."
+1,MSGDATA,Think of it as training for night marches.,"Представь, что это ночные походные учения."
+1,MSGDATA,Make sure you're always carrying a torch.,Можно носить с собой кучу свечей.
 1,MSGDATA,"I haven't been able to see my brother and sister lately, so
 I'm sending them gifts instead. My brother's not one to ask
 for anything, though. I don't know what to give him.","В последнее время я не виделся с братом и сестрой,
