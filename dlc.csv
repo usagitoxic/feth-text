@@ -12276,14 +12276,17 @@ Anyway, good luck!",
 32214,SUPPORT,The Ashen Wolves can take on anything.,
 32214,SUPPORT,"They'll make sure it all turns out OK, won't they?",
 32221,SUPPORT,"Hello there! Are you that new professor everyone's
-talking about?",
+talking about?","Ну привет. Так это ты ― новый учитель, про $EK00которого$EL00которую$EM00
+все говорят?"
 32221,SUPPORT,"Name's Anna. I'm a merchant who slings wares all
-across Fódlan...and beyond!",
+across Fódlan...and beyond!",Я Анна. Торгую вразнос по всему Фодлану.
 32221,SUPPORT,"I come in here all the time, so I'm sure our paths will
-cross more. Hopefully much more!",
-32221,SUPPORT,"Hey, Professor. How's it going? Making lots of coin?",
+cross more. Hopefully much more!","Здесь я тоже часто останавливаюсь, так что, думаю,
+ещё не раз встретимся. Заходи почаще!"
+32221,SUPPORT,"Hey, Professor. How's it going? Making lots of coin?","О, учитель. Как дела? Надеюсь, прибыльно?"
 32221,SUPPORT,"I'd love to catch up, but I'm super busy right now.
-Working. For money. You understand.",
+Working. For money. You understand.","Я бы ещё поболтала, но как видишь, работаю.
+Так что извини."
 32221,SUPPORT,"I've been hearing about you a lot lately. Word on the
 street is you wield some amazing sword.",
 32221,SUPPORT,"If you ever want to sell it to me, I'd pay top G!
@@ -12374,14 +12377,18 @@ everyone they come in contact with. Helps with the
 making of the monies, you know.",
 32221,SUPPORT,"You sure you wanna pass up a deal this good?
 You just let me know if you change your mind.",
-32221,SUPPORT,"Abyss? You're interested in that place, are you?",
+32221,SUPPORT,"Abyss? You're interested in that place, are you?",Бездна? Тебе интересно это место?
 32221,SUPPORT,"Ancient sprawling remains deep below
-Garreg Mach... That's Abyss.",
+Garreg Mach... That's Abyss.","Древние подземные руины, раскинувшиеся
+под Гаррег Махом... это — Бездна."
 32221,SUPPORT,"Some folks have made their home there. Obviously
-they all have their reasons and tales to tell.",
+they all have their reasons and tales to tell.","Находятся и те, кто живёт там, не спрашивая
+разрешения, но как ты понимаешь, все они ― 
+люди с тяжёлой судьбой."
 32221,SUPPORT,"But only the most enterprising merchant
 would venture near it. My advice? Avoid
-going there yourself.",
+going there yourself.","Уважающий себя торговец близко туда
+не подойдёт. И тебе тоже не стоит."
 32221,SUPPORT,"Fighting as an Imperial general is
 mind-numbingly dull...",
 32221,SUPPORT,Joining you would be a welcome distraction.,
@@ -12390,35 +12397,48 @@ mind-numbingly dull...",
 32221,SUPPORT,Indeed. I would relish the opportunity.,
 32221,SUPPORT,It was merely a passing whim.,
 32221,SUPPORT,"Things we can't obtain here are likely obtainable by
-way of the underground.",
+way of the underground.","Товары, которые не достать здесь, наверняка
+можно раздобыть под землёй."
 32221,SUPPORT,"Are you unfamiliar with Garreg Mach's
 underground? The place is an absolute paradise
-for those who can't stay above ground.",
+for those who can't stay above ground.","Знаете про подземелья Гаррег Маха? Там рай
+для тех, кто не может быть на поверхности."
 32221,SUPPORT,"Those Abyssian idiots. All they ever do is
-cause trouble.",
+cause trouble.","Эта погань из Бездны... Каждый день
+от них только проблемы."
 32221,SUPPORT,"We'd best purge the entire underbelly of
-Garreg Mach.",
+Garreg Mach.","Лучше бы мы просто очистили эти
+подземелья целиком."
 32222,SUPPORT,"Ah, I see. So you are Jeralt's child. You so resemble
-your mother.",
-32222,SUPPORT,Did you know my mother?,
-32222,SUPPORT,Who might you be?,
+your mother.","Так вы ― $EK00сын$EL00дочь$EM00 сэра Джеральта...
+Вы так похожи на свою мать."
+32222,SUPPORT,Did you know my mother?,Вы знали мою мать?
+32222,SUPPORT,Who might you be?,Кто вы такой?
 32222,SUPPORT,"I did indeed. I was acquainted with your parents.
-I've been wanting to speak with you for a while now.",
+I've been wanting to speak with you for a while now.","Я старый знакомый ваших родителей. И уже
+давно хотел познакомиться и с вами."
 32222,SUPPORT,"I am nothing more than a common monk. I knew
-your parents...once upon a time.",
+your parents...once upon a time.","Всего лишь скромный монах. И старый знакомый
+ваших родителей."
 32222,SUPPORT,"I've been gone from the monastery for some time
-now because... Well, it matters not.",
-32222,SUPPORT,Might I...ask a favor of you?,
+now because... Well, it matters not.","Честно говоря... из-за некоторых обстоятельств
+мне пришлось покинуть монастырь."
+32222,SUPPORT,Might I...ask a favor of you?,Могу ли я... обратиться к вам с просьбой?
 32222,SUPPORT,"Do you mind terribly picking up some fresh flowers
-to place upon your mother's grave?",
+to place upon your mother's grave?","Вы не могли бы набрать цветов и возложить их
+на могилу своей матери?"
 32222,SUPPORT,"I am certain she'd be deeply moved to receive a gift
-from you.",
+from you.","Она точно обрадуется, если эти цветы соберёте
+именно вы."
 32222,SUPPORT,"Thank you so much. This is just the type of flower
-she once loved so dearly.",
-32222,SUPPORT,I can rest easy now.,
+she once loved so dearly.","Спасибо большое. Ах... При жизни это были
+её любимые цветы."
+32222,SUPPORT,I can rest easy now.,Теперь мне больше не о чем сожалеть.
 32222,SUPPORT,"I must be off. Take especially good care of yourself,
-won't you?",
-32222,SUPPORT,"Please, look after Jeralt. She'd have wanted that.",
+won't you?","Что же, вскоре мне пора уходить. Учитель,
+доброго вам здравия."
+32222,SUPPORT,"Please, look after Jeralt. She'd have wanted that.","Пожалуйста, берегите сэра Джеральта и за неё 
+тоже."
 32222,SUPPORT,"The next mission is to rout bandits in the Kingdom,
 is it not? I find the idea unsettling.",
 32222,SUPPORT,"Though the bandits have captured a large prize,
@@ -12680,10 +12700,13 @@ from her.",
 come back safe.",
 32224,SUPPORT,"Whoever you are, it doesn't matter much to me.
 But I do advise getting out of here before you get
-tangled up in trouble.",
+tangled up in trouble.","Мне нет дела до того, кто вы $EK00такой$EL00такая$EM00, 
+но лучше уходите-ка отсюда, пока 
+не ввязались в неприятности."
 32224,SUPPORT,"Unless you've been sent here under someone's
 orders. In which case, I'll happily show you a good
-time. Heh heh...",
+time. Heh heh...","Или вы в Бездне по чьему-то приказу? 
+Тогда я готов устроить вам достойный приём."
 32224,SUPPORT,I got lost and stumbled upon this place.,
 32224,SUPPORT,"I'd heard about Abyss, so I came to find it.",
 32224,SUPPORT,"Uh-huh... I find the likelihood of you ""stumbling""
@@ -12692,11 +12715,15 @@ into Abyss pretty suspect.",
 are aware of how dangerous it is down here, yeah?",
 32224,SUPPORT,"Hmm... You're that mercenary turned professor,
 aren't you? The one who showed up at the monastery
-kinda recently.",
+kinda recently.","Нет, постойте, вы... Неужели вы преподаватель?
+Бывший наёмник, недавно $EK00прибывший$EL00прибывшая$EM00
+в монастырь?"
 32224,SUPPORT,"Yeah, you're the one I've heard so much about.
-Well, I guess it's fine you're here, then.",
+Well, I guess it's fine you're here, then.","Хм, так это про вас слухи ходят...
+Ну, тогда ладно."
 32224,SUPPORT,"You can call me Yuri. You'll want to remember that,
-if you ever come down here again.",
+if you ever come down here again.","Я Юрий. Запомните это, если снова собираетесь
+сюда возвращаться."
 32224,SUPPORT,"Ah, it's you. Bit of a trek, coming all the way down
 here, huh?",
 32224,SUPPORT,"I'll be helping you out now, but just so you know, my
