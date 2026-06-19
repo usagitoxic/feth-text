@@ -12711,12 +12711,14 @@ tangled up in trouble.","Мне нет дела до того, кто вы $EK00
 orders. In which case, I'll happily show you a good
 time. Heh heh...","Или вы в Бездне по чьему-то приказу? 
 Тогда я готов устроить вам достойный приём."
-32224,SUPPORT,I got lost and stumbled upon this place.,
-32224,SUPPORT,"I'd heard about Abyss, so I came to find it.",
+32224,SUPPORT,I got lost and stumbled upon this place.,Я $EK00заблудился$EL00заблудилась$EM00 и случайно $EK00забрёл$EL00забрела$EM00 сюда.
+32224,SUPPORT,"I'd heard about Abyss, so I came to find it.","$EK00Услышал$EL00Услышала$EM00 слухи, хочу лично в них убедиться."
 32224,SUPPORT,"Uh-huh... I find the likelihood of you ""stumbling""
-into Abyss pretty suspect.",
+into Abyss pretty suspect.","Случайно? Это как надо было заблудиться
+в монастыре, чтобы оказаться именно здесь?.."
 32224,SUPPORT,"Well, I do like people with a healthy curiosity. You
-are aware of how dangerous it is down here, yeah?",
+are aware of how dangerous it is down here, yeah?","Слухи? Любопытства вам не занимать.
+А то, что здесь опасно, вам не говорили?"
 32224,SUPPORT,"Hmm... You're that mercenary turned professor,
 aren't you? The one who showed up at the monastery
 kinda recently.","Нет, постойте, вы... Неужели вы преподаватель?
@@ -12729,60 +12731,82 @@ Well, I guess it's fine you're here, then.","Хм, так это про вас �
 if you ever come down here again.","Я Юрий. Запомните это, если снова собираетесь
 сюда возвращаться."
 32224,SUPPORT,"Ah, it's you. Bit of a trek, coming all the way down
-here, huh?",
+here, huh?","М? А, это вы, учитель. Извините, что вам 
+приходится идти за мной аж сюда."
 32224,SUPPORT,"I'll be helping you out now, but just so you know, my
-life is still down here.",
+life is still down here.","Я согласился сотрудничать с вами, но имейте
+в виду, у меня здесь всё ещё своя жизнь."
 32224,SUPPORT,"If you can't find me in the classroom on the surface,
-you'll likely find me here instead.",
+you'll likely find me here instead.","Если вы не сможете найти меня в аудитории
+на поверхности, то я наверняка буду здесь."
 32224,SUPPORT,"Haven't seen your face before. You're clearly not
-from around here.",
+from around here.",О? Новые лица. Вы же не из местных.
 32224,SUPPORT,"You don't strike me as the thief or merchant type.
-I don't owe you money, do I?",
-32224,SUPPORT,"No, I'm a professor.",
-32224,SUPPORT,"No, I'm a former mercenary.",
+I don't owe you money, do I?","На вора не похожи, на купца тоже. Вы кто?"
+32224,SUPPORT,"No, I'm a professor.",Преподаватель.
+32224,SUPPORT,"No, I'm a former mercenary.",Бывший наёмник.
 32224,SUPPORT,"Ah, you're that new teacher everyone's been yapping
-about. And yet...you look younger than me. Weird.",
+about. And yet...you look younger than me. Weird.","Преподаватель? А, новый учитель, про $EK00которого$EL00которую$EM00
+слухи ходят! Так вы же моложе меня."
 32224,SUPPORT,"Ah, you're that new teacher everyone's been yapping
-about. Funny. Next to me, you don't look so tough.",
-32224,SUPPORT,The name's Balthus. Formerly of the Alliance.,
+about. Funny. Next to me, you don't look so tough.","Бывший наёмник? А, новый учитель, про $EK00которого$EL00которую$EM00
+слухи ходят! С виду вы $EK00хрупкий$EL00хрупкая$EM00 ― слабее меня."
+32224,SUPPORT,The name's Balthus. Formerly of the Alliance.,Я Бальтазар. Выходец из Альянса. Рад знакомству.
 32224,SUPPORT,"Well? Did you come all the way here just to stare at
-my rippling abs, or did you want something?",
+my rippling abs, or did you want something?","Что такое? Вы ведь сюда пришли не для того,
+чтобы меня куда-то позвать?"
 32224,SUPPORT,"If you're gonna ask me for help on the surface,
 it better be real important. I try not to go up there
-unless I absolutely have to.",
+unless I absolutely have to.","Извините, но я не слишком горю желанием
+подниматься на поверхность. По некоторым
+причинам я избегаю людных мест."
 32224,SUPPORT,"And who might you be? Not an Abyssian, that much
-is clear at a glance.",
-32224,SUPPORT,"A visitor from above, perhaps? With what purpose?",
-32224,SUPPORT,I'm just looking around.,
-32224,SUPPORT,None in particular...,
+is clear at a glance.","А, вы... кто? По виду предполагаю, что не из Бездны."
+32224,SUPPORT,"A visitor from above, perhaps? With what purpose?","Неужели вы спустились с поверхности? Хотелось
+бы знать, с какой целью."
+32224,SUPPORT,I'm just looking around.,Разведка.
+32224,SUPPORT,None in particular...,Да просто так...
 32224,SUPPORT,"I'm sure I must have misheard you. Either that,
-or you haven't the slightest inkling of where you are.",
+or you haven't the slightest inkling of where you are.","Раз-вед-ка?! Я вас верно расслышала?
+Очевидно, вы не понимаете, где находитесь!"
 32224,SUPPORT,"Are you mocking me? You clearly haven't the
-slightest inkling of where you are!",
+slightest inkling of where you are!","Прос-то так?! Вы смеётесь надо мной? 
+Очевидно, вы не понимаете, где находитесь!"
 32224,SUPPORT,"Oh...but of course. You must be the new teacher
-specially appointed by Lady Rhea. That is it, yes?",
+specially appointed by Lady Rhea. That is it, yes?","Вспомнила. Вы и есть тот самый преподаватель,
+$EK00которого$EL00которую$EM00 так неожиданно для всех леди Рея
+назначила на должность?"
 32224,SUPPORT,"Rumors have been flying underground about you.
-Well, then! I am Constance von Nuvelle.",
+Well, then! I am Constance von Nuvelle.","О вас ходят слухи даже под землёй.
+Я — Констанция фон Нувэль!"
 32224,SUPPORT,"It's a pleasure to make your acquaintance.
-Ahaha!",
+Ahaha!","Извольте запомнить это на будущее!
+О-хо-хо-хо!"
 32224,SUPPORT,"Ah. Come to invite me to a lesson or some such,
-have you?",
+have you?","Ах, это вы. Вы прибыли, чтобы пригласить меня
+на какое-то занятие?"
 32224,SUPPORT,"I prefer not to be aboveground during the day when
-I can help it. Unless there are storm clouds above.",
-32224,SUPPORT,"Who are you? Wait, shut up, let me guess.",
+I can help it. Unless there are storm clouds above.","Я не имею излишнего желания выходить на
+поверхность днём. За исключением того,
+когда идёт дождь."
+32224,SUPPORT,"Who are you? Wait, shut up, let me guess.","Хотите, угадаю, кто вы $EK00такой$EL00такая$EM00?"
 32224,SUPPORT,"You're...that new professor, right? You just started
-teaching up on the surface.",
-32224,SUPPORT,How did you know that?,
-32224,SUPPORT,Have we met before?,
+teaching up on the surface.","Вы новый учитель из школы на поверхности, так?
+Хапи знает."
+32224,SUPPORT,How did you know that?,Откуда?
+32224,SUPPORT,Have we met before?,Мы где-то уже встречались?
 32224,SUPPORT,"Even here, people have been talking about you.
-Not that the gossip got everything right.",
+Not that the gossip got everything right.",Досюда тоже слухи доходят.
 32224,SUPPORT,"Nah. Even here, people have been talking about you.
-Not that the gossip got everything right.",
+Not that the gossip got everything right.",Не-а. Досюда тоже слухи доходят.
 32224,SUPPORT,"I heard you were beautiful, but obviously that was
-an exaggeration.",
-32224,SUPPORT,"Oh, Chatterbox. You been looking for me?",
+an exaggeration.","Хм... Так вот, как вы выглядите. 
+Вполне нормально."
+32224,SUPPORT,"Oh, Chatterbox. You been looking for me?","А, учитель. Вы случаем не Хапи искали?"
 32224,SUPPORT,"I'd prefer not to visit the surface, if I can help it.
-I don't wanna run into any knights.",
+I don't wanna run into any knights.","Хапи предпочитает избегать поверхности.
+Не хочу наткнуться там на рыцарей и
+им подобным."
 32224,SUPPORT,"Can't say I'm surprised about Lord Lonato launching
 a rebellion.",
 32224,SUPPORT,"The writing was on the wall. If anything, it's more
@@ -13122,12 +13146,14 @@ and there will probably be refugees to take care of.",
 32224,SUPPORT,"Not to mention what might happen if the Empire
 takes over and decides to redecorate.",
 32224,SUPPORT,"Hey, you. You're from up top, right?
-What business do you have here?",
+What business do you have here?",Вы с поверхности? И чего забыли в таком месте?
 32224,SUPPORT,"Wait a minute... Ah, got it. You're that new
 professor, aren't you? I suppose that means I
-have to let you pass.",
+have to let you pass.","А, вы, наверное, тот самый новый учитель?
+Тогда проходите."
 32224,SUPPORT,"I guess...welcome to Abyss! This town is full of
-rough-and-toughs, so watch your back down here.",
+rough-and-toughs, so watch your back down here.","Этот подземный город — Бездна. Тут много
+опасных людей, так что будьте внимательны."
 32224,SUPPORT,Hey. What are you lookin' at?,
 32224,SUPPORT,I don't want any trouble. Get lost.,
 32224,SUPPORT,Such an innocent face you have...,
