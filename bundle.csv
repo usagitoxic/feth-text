@@ -150266,13 +150266,14 @@ Please let me know if you accept it.",Это твоя первая обязан�
 12761,SUPPORT,Continue exploring,Продолжить исследование
 12761,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
 12762,SUPPORT,"Do bear in mind that even as you are appraising
-your students, they are appraising you as well.","Имей в виду, пока ты оцениваешь своих студентов,
-они оценивают тебя."
+your students, they are appraising you as well.","Пока ты оцениваешь студентов, они оценивают
+тебя."
 12762,SUPPORT,"I hope that you will do your best to form lasting
-bonds with your flock.","Надеюсь, что ты сделаешь всё возможное, дабы укрепить
-отношения со своим классом."
+bonds with your flock.","Пожалуйста, постарайся наладить с ними
+добрые отношения."
 12762,SUPPORT,"Oh, and I look forward to witnessing your prowess in
-the mock battle.","Ах, и я очень хочу увидеть твою силу в учебной битве."
+the mock battle.","Также... я надеюсь увидеть твои успехи в учебной
+битве."
 12762,SUPPORT,"Apparently there is to be a mock battle between the
 houses. Interesting, but I hope you understand that
 I have far more important things on my mind.","Судя по всему, предстоит учебная битва между
@@ -150343,46 +150344,49 @@ are allowed entry.","Извините, но войти туда могут ли�
 12762,SUPPORT,"It's open to the public on only one day of the year,
 for the goddess's Rite of Rebirth.","Он открыт для общественности только один раз
 в году. Во время Обряда Возрождения Богини."
-12762,SUPPORT,The church has changed a lot since my time.,"Церковь сильно изменилась с тех пор, как я был здесь."
+12762,SUPPORT,The church has changed a lot since my time.,"Как и ожидалось... По сравнению с тем,
+когда я был здесь, личный состав Церкви
+сильно изменился."
 12762,SUPPORT,"Seteth, Hanneman, Manuela, Jeritza, and many
 of the knights...","Сетес, Ханнеман, Мануэла, Ерица, другие рыцари..."
-12762,SUPPORT,None of them were around 20 years ago.,Двадцать лет назад их здесь даже не было...
+12762,SUPPORT,None of them were around 20 years ago.,Никого из них здесь не было двадцать лет назад.
 12762,SUPPORT,"Have you met Leonie yet? Apparently it was my
-influence that inspired her to leave her village.","С Леони уже виделись? Возможно из-за меня
-она покинула свою деревню."
+influence that inspired her to leave her village.","Кстати, ты уже $EK00встретил$EL00встретила$EM00 Леони?
+Похоже, она вдохновилась мной 
+и уехала из своей деревни."
 12762,SUPPORT,"Sorry to burden you, but could you watch over her
-for me? She's the only apprentice I've ever had.","Извини, что прошу тебя. Можешь присмотреть
-за ней вместо меня? Она единственная ученица,
-которая у меня вообще была."
-12762,SUPPORT,I'm a little busy.,Я вообще-то занят.
-12762,SUPPORT,"Oh, sorry.","Ой, извини."
-12762,SUPPORT,Can't we talk just a little?,Можем немного поболтать?
+for me? She's the only apprentice I've ever had.","Извини, что беспокою, но ты можешь приглядеть
+за ней? Она — единственная ученица, которая
+у меня была."
+12762,SUPPORT,I'm a little busy.,"Простите, я сейчас занят."
+12762,SUPPORT,"Oh, sorry.",Извини.
+12762,SUPPORT,Can't we talk just a little?,"Может, всё-таки выкроишь минутку?"
 12762,SUPPORT,"If you're looking for the greenhouse, it's right there.
-See it? Looks like a greenhouse? That's it.","Если ищете оранжерею, то она вон там. Видите?
-Похоже на оранжерею? Вот и всё."
+See it? Looks like a greenhouse? That's it.","Ничего страшного. Если вам надо в оранжерею,
+она вон там."
 12762,SUPPORT,"I really can't right now, I got a lot of things to do. 
 Work and stuff like that. Why don't you look at the
-flowers in the greenhouse instead? They're pretty.","Сейчас не могу, у меня много дел. Работа и всё такое.
-Может, лучше цветы в оранжерее пособираете?
-Они красивые."
-12762,SUPPORT,"Hello there, Professor.","Здравствуйте, учитель! "
+flowers in the greenhouse instead? They're pretty.","Никак не могу. Может, вы лучше посмотрите
+на цветы в оранжерее?"
+12762,SUPPORT,"Hello there, Professor.","Здравствуйте, учитель."
 12762,SUPPORT,"Well, I call you that, but I am afraid I am not
-a student here myself...","Ну, я конечно называю вас так, но сама тут не обучаюсь."
+a student here myself...","Хотя, я не студентка."
 12762,SUPPORT,That's a shame.,Очень жаль.
-12762,SUPPORT,"Where can I visit you, then?",Тогда где можно тебя найти?
+12762,SUPPORT,"Where can I visit you, then?",Тогда где мы можем начать встречаться?
 12762,SUPPORT,"Should the opportunity arise, I would love to become
-a student and begin my studies in earnest.","Будь такая возможность, я бы с радостью
-стала прилежной студенткой."
+a student and begin my studies in earnest.","Будь у меня возможность, я бы тоже хотела
+здесь учиться."
 12762,SUPPORT,"My brother would not be pleased if he heard you
-saying such things.","Мой брат не обрадуется, если узнает, что я вам
-расскажу."
+saying such things.","Ох, вы знаете, что если будете говорить такие 
+двусмысленные вещи, мой брат может вызвать
+вас на неприятный разговор?"
 12762,SUPPORT,"The monastery is kind enough to provide a sanctuary
-for my brother and I. He's the only family I have.","Монастырь стал для нас с братом убежищем.
-Сетес — всё, что у меня есть."
-12762,SUPPORT,You look bored. Care to duel?,"Похоже, вам скучно. Может, проведём дуэль?"
-12762,SUPPORT,A duel?,Дуэль?
-12762,SUPPORT,To the death?,На смерть?
-12762,SUPPORT,Problem? I just wanted to spar...,Проблемы? Я просто хотел посражаться...
+for my brother and I. He's the only family I have.","У меня нет никого из родных, кроме брата, поэтому 
+я просто живу в монастыре под его опекой."
+12762,SUPPORT,You look bored. Care to duel?,Если тебе нечем заняться... Сразимся?
+12762,SUPPORT,A duel?,Сразимся?
+12762,SUPPORT,To the death?,Насмерть?..
+12762,SUPPORT,Problem? I just wanted to spar...,Что тебя смущает? Я просто предложил спарринг.
 12762,SUPPORT,"(So, this is my room...)","(Значит, это моя комната...)"
 12762,SUPPORT,"(I thought I heard a girl's voice...but I must have
 been imagining things.)","(Кажется, мне послышался голос девушки...
@@ -150857,8 +150861,8 @@ Adrestian Empire's coat of arms.","От орла, отсылающего к дв
 12762,SUPPORT,"And black is the traditional color of the Empire's
 armor, hence, ""Black Eagles.""","Чёрный же является традиционным цветом для
 доспехов. Так и получились ""Чёрные Орлы""."
-12762,SUPPORT,I care nothing of friendship.,Мне не нужны друзья.
-12762,SUPPORT,"If you have no business here, leave.","Если вам ничего не нужно, уходите."
+12762,SUPPORT,I care nothing of friendship.,"Извини, мне не нужны друзья."
+12762,SUPPORT,"If you have no business here, leave.","Если тебе ничего не нужно, уходи."
 12763,SUPPORT,Thank you for paying me a visit.,Благодарю за визит.
 12763,SUPPORT,"Is there anything troubling you? Or is there, perhaps,
 something I can help you with?","Вас что-то тревожит? Может, я могу как-то
