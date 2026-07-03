@@ -52319,7 +52319,9 @@ seem to know much about yourself.","Вы интересный человек, п
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Why don't you come by later? I'd very much like to
-dive into some research together.",Почему бы вам не зайти попозже? Я бы очень хотел посвятить время исследованиям вместе с вами.
+dive into some research together.","Хм-м... Может, всё-таки зайдёте попозже ко мне?
+Ничего не могу с собой поделать: рядом с вами
+просыпается желание заняться исследованиями."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Who are you really? Such a mystery. I don't really
@@ -75366,59 +75368,62 @@ ranks of the dead!","Раз так, то и вы отправитесь
 11477,SUPPORT,...,...
 11477,SUPPORT,You fool!,Идиотина!
 11477,SUPPORT,"What were you thinking, charging right into an
-enemy's trap?","Где был твой мозг раньше?! До того как мы оказались прямо во
-вражеской западне?"
+enemy's trap?","Ты чем $EK00думал$EL00думала$EM00, врываясь прямиком
+во вражескую западню?!"
 11477,SUPPORT,"Are you just a boulder that rolls down whatever
-hill it's on? No, even a boulder has more sense!","Ты просто валун, который катится с холма?!
-Нет, даже у валуна смысла больше!"
-11477,SUPPORT,I'm sorry.,Простите.
+hill it's on? No, even a boulder has more sense!","Ты что, валун, который не может остановиться,
+если уж покатился?! Или кабан — хотя даже
+кабаны тщательнее думают!"
+11477,SUPPORT,I'm sorry.,Прости.
 11477,SUPPORT,I can explain...,Я могу объяснить...
 11477,SUPPORT,"Apologizing won't make things right! This darkness
-is terrifying!","Извинениями ничего не исправить!
-Эта тьма просто ужасна!"
-11477,SUPPORT,Excuses won't help us! This darkness is terrifying!,Объяснения не помогут! Эта тьма просто ужасна!
+is terrifying!","Думаешь, что обойдёшься извинениями?!
+Это страшная тьма!"
+11477,SUPPORT,Excuses won't help us! This darkness is terrifying!,Не нужны твои объяснения! Это страшная тьма!
 11477,SUPPORT,"As you and I are one... I, too, am trapped within
-this void. But please consider this...","Ты и я... Мы едины... Я тоже заперта в этой бездне.
-Но, пожалуйста, учти это..."
+this void. But please consider this...","Я... всегда вместе с тобой, так что я тоже здесь, но..."
 11477,SUPPORT,"This realm of darkness we are in is separate from
 the world from which you came. I mean that it
 would take a god to leave this place.","Этот тёмный мир изолирован от мира живых.
 Чтобы сбежать отсюда, нужно быть Богиней."
 11477,SUPPORT,"In time, our hearts and minds will cease to be.
-Are you prepared to die?","Со временем наше сердце и разум перестанут существовать.
-Готовишься умереть?"
-11477,SUPPORT,I am.,Да.
-11477,SUPPORT,I am not.,Нет.
-11477,SUPPORT,"How very brave of you, to joke at times like these...",Как же храбро в такой момент шутить...
+Are you prepared to die?","Постепенно наше тело и души заледенеют.
+Ты $EK00готов$EL00готова$EM00... умереть?"
+11477,SUPPORT,I am.,$EK00Готов$EL00Готова$EM00.
+11477,SUPPORT,I am not.,Не $EK00готов$EL00готова$EM00.
+11477,SUPPORT,"How very brave of you, to joke at times like these...","Не занимать тебе спокойствия духа, раз шутишь
+в такой момент."
 11477,SUPPORT,"I thought as much. I also do not wish to die.
 And yet...","Так и думала. Я тоже не хочу умирать.
 И всё же..."
-11477,SUPPORT,There is no other choice...,У нас нет другого выбора...
-11477,SUPPORT,What choice?,Какого выбора?
-11477,SUPPORT,Do you recall your father's diary?,Помнишь дневник своего отца?
+11477,SUPPORT,There is no other choice...,Иного способа нет.
+11477,SUPPORT,What choice?,Способа?
+11477,SUPPORT,Do you recall your father's diary?,Ты... помнишь дневник Джеральта?
 11477,SUPPORT,"He said you were a child who never cried nor
-laughed. I think I am the one to blame.","Он писал, что в детстве от тебя не было слышно ни смеха,
-ни плача. Кажется, это моя вина."
+laughed. I think I am the one to blame.","Он писал, что ещё во младенчестве от тебя 
+не доносилось ни плача, ни смеха. Кажется,
+это моя вина."
 11477,SUPPORT,"I must have been asleep, but even then, I feel I was
-a part of you.","Я спала, но даже тогда я чувствовала,
-что была частью тебя."
+a part of you.","Пожалуй, тогда ты постоянно $EK00был$EL00была$EM00 будто
+во сне. Так я влияла на тебя."
 11477,SUPPORT,"I do not know how Rhea managed it, but she allowed
-me to exist inside of you.","Я не знаю как у Реи это получилось, но
-она позволила мне войти в тебя."
+me to exist inside of you.","Это Рея неведомым мне образом сделала так,
+что я существую внутри тебя."
 11477,SUPPORT,"The truth is I have always been with you. It is within
-you that I found my power yet again.","Правда в том, что я всегда была с тобой.
-И внутри тебя я снова смогла найти свои силы."
+you that I found my power yet again.","Я всегда была с тобой ― и внутри тебя я понемногу
+восстанавливала свои силы."
 11477,SUPPORT,"The power of a goddess. The power of the
-progenitor god.","Силы богини.
-Силу бога-прародителя."
+progenitor god.","Силы Богини... 
+Нет, именно Богини-прародительницы."
 11477,SUPPORT,...,...
 11477,SUPPORT,"My name is Sothis. By now you must be well aware
-of what that means.","Меня зовут Сотис. К тебе уже должно придти понимание,
-что это всё значит."
+of what that means.","Меня зовут Сотис. Полагаю, тебе доводилось слышать
+это имя."
 11477,SUPPORT,"I am the one who watches over Fódlan and the
-creatures dwelling there.","Я та, кто присматривала за Фодланом и
-заселила его."
-11477,SUPPORT,"I am Sothis, she who died and then returned.","Я, Сотис, та, что умерла и вернулась."
+creatures dwelling there.","Начало всего сущего... прародительница-пастырь
+всех живых существ Фодлана."
+11477,SUPPORT,"I am Sothis, she who died and then returned.","Я... душа Сотис ― праматери, что единожды
+умерла и вернулась вновь."
 11477,SUPPORT,I can't believe it.,Я не могу в это поверить.
 11477,SUPPORT,"Somehow, I know it to be true.","Почему-то, я понимаю, что это правда."
 11477,SUPPORT,"There is but one thing left to do to save us from
@@ -191421,9 +191426,10 @@ Lady Edelgard. I will handle this.","Не стоит утруждать себя
 2,MSGDATA,"Hubert, the whole point is for us to achieve this
 together, don't you think?","Хьюберт, весь смысл в том, чтобы мы со всем справились вместе, тебе не кажется?"
 2,MSGDATA,Perhaps you're right. Then let's see it done quickly.,"Возможно, Вы правы. Тогда разберёмся с этим по-быстрее."
-2,MSGDATA,An impressive result we've gotten.,Убедительный результат.
+2,MSGDATA,An impressive result we've gotten.,"Хм, неплохой результат, леди Эдельгард."
 2,MSGDATA,"We showed remarkable teamwork, much better than
-we could have achieved with anyone else.","Мы показали отменную работу в команде, гораздо лучше той, что мы бы могли достичь с кем-то ещё."
+we could have achieved with anyone else.","Надеюсь, мы показали, что вместе трудимся 
+слаженнее, чем со случайными напарниками."
 2,MSGDATA,"We have no good excuse for it, but somehow we
 came up short.",Нет никаких оправданий нашему провалу.
 2,MSGDATA,Agreed. The bar may have been set rather too high.,"Соглашусь. Однако, возможно, планка сильно задрана."
