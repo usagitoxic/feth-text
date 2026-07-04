@@ -52319,7 +52319,9 @@ seem to know much about yourself.","Вы интересный человек, п
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Why don't you come by later? I'd very much like to
-dive into some research together.",Почему бы вам не зайти попозже? Я бы очень хотел посвятить время исследованиям вместе с вами.
+dive into some research together.","Хм-м... Может, всё-таки зайдёте попозже ко мне?
+Ничего не могу с собой поделать: рядом с вами
+просыпается желание заняться исследованиями."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Who are you really? Such a mystery. I don't really
@@ -75366,59 +75368,62 @@ ranks of the dead!","Раз так, то и вы отправитесь
 11477,SUPPORT,...,...
 11477,SUPPORT,You fool!,Идиотина!
 11477,SUPPORT,"What were you thinking, charging right into an
-enemy's trap?","Где был твой мозг раньше?! До того как мы оказались прямо во
-вражеской западне?"
+enemy's trap?","Ты чем $EK00думал$EL00думала$EM00, врываясь прямиком
+во вражескую западню?!"
 11477,SUPPORT,"Are you just a boulder that rolls down whatever
-hill it's on? No, even a boulder has more sense!","Ты просто валун, который катится с холма?!
-Нет, даже у валуна смысла больше!"
-11477,SUPPORT,I'm sorry.,Простите.
+hill it's on? No, even a boulder has more sense!","Ты что, валун, который не может остановиться,
+если уж покатился?! Или кабан — хотя даже
+кабаны тщательнее думают!"
+11477,SUPPORT,I'm sorry.,Прости.
 11477,SUPPORT,I can explain...,Я могу объяснить...
 11477,SUPPORT,"Apologizing won't make things right! This darkness
-is terrifying!","Извинениями ничего не исправить!
-Эта тьма просто ужасна!"
-11477,SUPPORT,Excuses won't help us! This darkness is terrifying!,Объяснения не помогут! Эта тьма просто ужасна!
+is terrifying!","Думаешь, что обойдёшься извинениями?!
+Это страшная тьма!"
+11477,SUPPORT,Excuses won't help us! This darkness is terrifying!,Не нужны твои объяснения! Это страшная тьма!
 11477,SUPPORT,"As you and I are one... I, too, am trapped within
-this void. But please consider this...","Ты и я... Мы едины... Я тоже заперта в этой бездне.
-Но, пожалуйста, учти это..."
+this void. But please consider this...","Я... всегда вместе с тобой, так что я тоже здесь, но..."
 11477,SUPPORT,"This realm of darkness we are in is separate from
 the world from which you came. I mean that it
 would take a god to leave this place.","Этот тёмный мир изолирован от мира живых.
 Чтобы сбежать отсюда, нужно быть Богиней."
 11477,SUPPORT,"In time, our hearts and minds will cease to be.
-Are you prepared to die?","Со временем наше сердце и разум перестанут существовать.
-Готовишься умереть?"
-11477,SUPPORT,I am.,Да.
-11477,SUPPORT,I am not.,Нет.
-11477,SUPPORT,"How very brave of you, to joke at times like these...",Как же храбро в такой момент шутить...
+Are you prepared to die?","Постепенно наше тело и души заледенеют.
+Ты $EK00готов$EL00готова$EM00... умереть?"
+11477,SUPPORT,I am.,$EK00Готов$EL00Готова$EM00.
+11477,SUPPORT,I am not.,Не $EK00готов$EL00готова$EM00.
+11477,SUPPORT,"How very brave of you, to joke at times like these...","Не занимать тебе спокойствия духа, раз шутишь
+в такой момент."
 11477,SUPPORT,"I thought as much. I also do not wish to die.
 And yet...","Так и думала. Я тоже не хочу умирать.
 И всё же..."
-11477,SUPPORT,There is no other choice...,У нас нет другого выбора...
-11477,SUPPORT,What choice?,Какого выбора?
-11477,SUPPORT,Do you recall your father's diary?,Помнишь дневник своего отца?
+11477,SUPPORT,There is no other choice...,Иного способа нет.
+11477,SUPPORT,What choice?,Способа?
+11477,SUPPORT,Do you recall your father's diary?,Ты... помнишь дневник Джеральта?
 11477,SUPPORT,"He said you were a child who never cried nor
-laughed. I think I am the one to blame.","Он писал, что в детстве от тебя не было слышно ни смеха,
-ни плача. Кажется, это моя вина."
+laughed. I think I am the one to blame.","Он писал, что ещё во младенчестве от тебя 
+не доносилось ни плача, ни смеха. Кажется,
+это моя вина."
 11477,SUPPORT,"I must have been asleep, but even then, I feel I was
-a part of you.","Я спала, но даже тогда я чувствовала,
-что была частью тебя."
+a part of you.","Пожалуй, тогда ты постоянно $EK00был$EL00была$EM00 будто
+во сне. Так я влияла на тебя."
 11477,SUPPORT,"I do not know how Rhea managed it, but she allowed
-me to exist inside of you.","Я не знаю как у Реи это получилось, но
-она позволила мне войти в тебя."
+me to exist inside of you.","Это Рея неведомым мне образом сделала так,
+что я существую внутри тебя."
 11477,SUPPORT,"The truth is I have always been with you. It is within
-you that I found my power yet again.","Правда в том, что я всегда была с тобой.
-И внутри тебя я снова смогла найти свои силы."
+you that I found my power yet again.","Я всегда была с тобой ― и внутри тебя я понемногу
+восстанавливала свои силы."
 11477,SUPPORT,"The power of a goddess. The power of the
-progenitor god.","Силы богини.
-Силу бога-прародителя."
+progenitor god.","Силы Богини... 
+Нет, именно Богини-прародительницы."
 11477,SUPPORT,...,...
 11477,SUPPORT,"My name is Sothis. By now you must be well aware
-of what that means.","Меня зовут Сотис. К тебе уже должно придти понимание,
-что это всё значит."
+of what that means.","Меня зовут Сотис. Полагаю, тебе доводилось слышать
+это имя."
 11477,SUPPORT,"I am the one who watches over Fódlan and the
-creatures dwelling there.","Я та, кто присматривала за Фодланом и
-заселила его."
-11477,SUPPORT,"I am Sothis, she who died and then returned.","Я, Сотис, та, что умерла и вернулась."
+creatures dwelling there.","Начало всего сущего... прародительница-пастырь
+всех живых существ Фодлана."
+11477,SUPPORT,"I am Sothis, she who died and then returned.","Я... душа Сотис ― праматери, что единожды
+умерла и вернулась вновь."
 11477,SUPPORT,I can't believe it.,Я не могу в это поверить.
 11477,SUPPORT,"Somehow, I know it to be true.","Почему-то, я понимаю, что это правда."
 11477,SUPPORT,"There is but one thing left to do to save us from
@@ -150266,74 +150271,71 @@ Please let me know if you accept it.",Это твоя первая обязан�
 12761,SUPPORT,Continue exploring,Продолжить исследование
 12761,SUPPORT,Return to the audience chamber,Вернуться в зал аудиенций
 12762,SUPPORT,"Do bear in mind that even as you are appraising
-your students, they are appraising you as well.","Имей в виду, пока ты оцениваешь своих студентов,
-они оценивают тебя."
+your students, they are appraising you as well.","Пока ты оцениваешь студентов, они оценивают
+тебя."
 12762,SUPPORT,"I hope that you will do your best to form lasting
-bonds with your flock.","Надеюсь, что ты сделаешь всё возможное, дабы укрепить
-отношения со своим классом."
+bonds with your flock.","Пожалуйста, постарайся наладить с ними
+добрые отношения."
 12762,SUPPORT,"Oh, and I look forward to witnessing your prowess in
-the mock battle.","Ах, и я очень хочу увидеть твою силу в учебной битве."
+the mock battle.","Также... я надеюсь увидеть твои успехи в учебной
+битве."
 12762,SUPPORT,"Apparently there is to be a mock battle between the
 houses. Interesting, but I hope you understand that
-I have far more important things on my mind.","Судя по всему, предстоит учебная битва между
-домами. Интересно. Но надеюсь, вы понимаете, что у
-меня на уме куда более важные вещи."
+I have far more important things on my mind.","Вам уже известно? Судя по всему, нам предстоит 
+учебная битва между домами."
 12762,SUPPORT,"My research is proceeding slower than I would like.
 Your Crest is something of a challenge. Frustrating.
-Yet, also, quite intriguing.","Моё исследование продвигается медленнее, чем я думал.
-Ваш Герб оказался настоящим испытанием.
-Это обескураживает, но интригует."
+Yet, also, quite intriguing.","Как бы то ни было, исследование вашего Герба
+продвигается не так хорошо, как я надеялся."
 12762,SUPPORT,"I was wondering if I might get a sample of your flesh.
 A couple square inches would do. No? Perhaps some
-blood? A couple of drops on the device are all I need.","Могу ли я взять у вас на анализ образец тканей?
-Буквально пару дюймов. Нет? Или тогда образец крови?
-Пары капель на устройство будет вполне достаточно."
+blood? A couple of drops on the device are all I need.","Мне бы ваш образец тканей... нет, крови достаточно.
+Будьте добры, оставьте пару капель на устройстве."
 12762,SUPPORT,(It's some kind of experimental apparatus...),(Это какое-то экспериментальное устройство...)
 12762,SUPPORT,I might as well assist by providing a blood sample...,Я могу одолжить образец крови...
 12762,SUPPORT,I had better keep my distance.,Лучше держаться от этого подальше.
 12762,SUPPORT,"Oh, thank you, Professor. Those few drops of blood
 are invaluable to my research! Oh, so much more
-to learn!","Ах, благодарю вас. Эти капельки крови так важны для
-моего исследования! Ах, так много нужно изучить!"
+to learn!","Премного благодарен. Возможно, эти капли крови
+отворят новые двери в области геральдики."
 12762,SUPPORT,"A mock battle? This early? Wow, Professor. They're
-not giving you any time to settle in, are they? ","Учебная битва? Так рано? Надо же.
-Вам совсем не дают освоиться, верно?"
+not giving you any time to settle in, are they? ","Учебная битва свалилась нам на головы неожиданно,
+но вы не беспокойтесь, коллега."
 12762,SUPPORT,"Don't you worry though! Should you get injured,
 I will care for you all through your recuperation.
-I will see to you oh-so very, very, personally.","Но не волнуйтесь! Если вы вдруг получите рану,
-я позабочусь о вас на всём протяжении выздоровления.
-Лично, очень-очень внимательно."
+I will see to you oh-so very, very, personally.","Если вас ранят, я буду ухаживать за вами
+круглые сутки са-мо-лич-но."
 12762,SUPPORT,"Well, no need to worry. If you get hurt, I am more
 than capable of healing you. You'll not even have
-a scar.","Что ж, не нужно беспокоиться. Если вы поранитесь,
-я способна вылечить вас. Даже шрама не останется."
+a scar.","Если вас ранят, я способна вылечить вас так, 
+что даже шрама не останется."
 12762,SUPPORT,"Professor, I hear you are lacking in knowledge
-of the Church of Seiros.","Слышал, что вы мало знаете о церкви Сейрос."
+of the Church of Seiros.","Слышал, что вы мало знаете о Церкви Сейрос."
 12762,SUPPORT,"The library contains countless documents about the
 teaching and the history of the church. I encourage
-you to make good use of them.","В нашей библиотеке хранится множество записей об
-учении и истории церкви. Призываю вас использовать
-их с пользой."
+you to make good use of them.","В нашей библиотеке хранится множество
+книг об учении Сейрос и истории Церкви. 
+Непременно ознакомьтесь с ними, пожалуйста."
 12762,SUPPORT,"These are the students' quarters. To better help you
 supervise them, you also have a room here. Your
-room is here at the end.","Это общежитие для студентов. Чтобы вам было легче
-за ними присматривать, у вас тоже есть здесь комната.
-Она находится в самом конце."
+room is here at the end.","Это общежитие для студентов. Так как 
+вы ответственны за надзор за ними, ваша
+комната находится в конце первого этажа."
 12762,SUPPORT,"Commoner students also reside on the first floor,
 while the second is primarily for students of
-noble birth.","Студенты неблагородного происхождения
-размещаются на первом этаже. Второй этаж
-занимают студенты знатного рода."
+noble birth.","Как правило, на втором этаже размещаются
+студенты из знатных семей, на первом — из
+простых."
 12762,SUPPORT,"As a rule, we try to avoid discrimination based on
 social status here. But the nobility can be quite
-insistent when it comes to matters of propriety.","Как правило, мы стараемся избегать дискриминации
-на основе социального статуса. Но знать может быть
-весьма нетерпима, когда доходит до правил приличия."
+insistent when it comes to matters of propriety.","Принцип академии ― не разделять никого 
+по социальному статусу... Но некоторые 
+аристократы придирчивы в этом вопросе."
 12762,SUPPORT,"Speaking of, it would be best for you to avoid
 improper conduct. I expect you to set a good
-example for the students.","Кстати, для вас же было бы лучше воздержаться от
-неподобающих поступков. Я ожидаю, что вы будете
-хорошим примером для студентов."
+example for the students.","В ваших интересах будет воздержаться от
+неподобающих поступков. Соблюдайте
+умеренность в поведении."
 12762,SUPPORT,"Past here is the Holy Mausoleum, where the saints
 of the Church of Seiros slumber.","За этой дверью находится Святой Мавзолей.
 Там покоятся святые из Церкви Сейрос."
@@ -150343,46 +150345,49 @@ are allowed entry.","Извините, но войти туда могут ли�
 12762,SUPPORT,"It's open to the public on only one day of the year,
 for the goddess's Rite of Rebirth.","Он открыт для общественности только один раз
 в году. Во время Обряда Возрождения Богини."
-12762,SUPPORT,The church has changed a lot since my time.,"Церковь сильно изменилась с тех пор, как я был здесь."
+12762,SUPPORT,The church has changed a lot since my time.,"Как и ожидалось... По сравнению с тем,
+когда я был здесь, личный состав Церкви
+сильно изменился."
 12762,SUPPORT,"Seteth, Hanneman, Manuela, Jeritza, and many
 of the knights...","Сетес, Ханнеман, Мануэла, Ерица, другие рыцари..."
-12762,SUPPORT,None of them were around 20 years ago.,Двадцать лет назад их здесь даже не было...
+12762,SUPPORT,None of them were around 20 years ago.,Никого из них здесь не было двадцать лет назад.
 12762,SUPPORT,"Have you met Leonie yet? Apparently it was my
-influence that inspired her to leave her village.","С Леони уже виделись? Возможно из-за меня
-она покинула свою деревню."
+influence that inspired her to leave her village.","Кстати, ты уже $EK00встретил$EL00встретила$EM00 Леони?
+Похоже, она вдохновилась мной 
+и уехала из своей деревни."
 12762,SUPPORT,"Sorry to burden you, but could you watch over her
-for me? She's the only apprentice I've ever had.","Извини, что прошу тебя. Можешь присмотреть
-за ней вместо меня? Она единственная ученица,
-которая у меня вообще была."
-12762,SUPPORT,I'm a little busy.,Я вообще-то занят.
-12762,SUPPORT,"Oh, sorry.","Ой, извини."
-12762,SUPPORT,Can't we talk just a little?,Можем немного поболтать?
+for me? She's the only apprentice I've ever had.","Извини, что беспокою, но ты можешь приглядеть
+за ней? Она — единственная ученица, которая
+у меня была."
+12762,SUPPORT,I'm a little busy.,"Простите, я сейчас занят."
+12762,SUPPORT,"Oh, sorry.",Извини.
+12762,SUPPORT,Can't we talk just a little?,"Может, всё-таки выкроишь минутку?"
 12762,SUPPORT,"If you're looking for the greenhouse, it's right there.
-See it? Looks like a greenhouse? That's it.","Если ищете оранжерею, то она вон там. Видите?
-Похоже на оранжерею? Вот и всё."
+See it? Looks like a greenhouse? That's it.","Ничего страшного. Если вам надо в оранжерею,
+она вон там."
 12762,SUPPORT,"I really can't right now, I got a lot of things to do. 
 Work and stuff like that. Why don't you look at the
-flowers in the greenhouse instead? They're pretty.","Сейчас не могу, у меня много дел. Работа и всё такое.
-Может, лучше цветы в оранжерее пособираете?
-Они красивые."
-12762,SUPPORT,"Hello there, Professor.","Здравствуйте, учитель! "
+flowers in the greenhouse instead? They're pretty.","Никак не могу. Может, вы лучше посмотрите
+на цветы в оранжерее?"
+12762,SUPPORT,"Hello there, Professor.","Здравствуйте, учитель."
 12762,SUPPORT,"Well, I call you that, but I am afraid I am not
-a student here myself...","Ну, я конечно называю вас так, но сама тут не обучаюсь."
+a student here myself...","Хотя, я не студентка."
 12762,SUPPORT,That's a shame.,Очень жаль.
-12762,SUPPORT,"Where can I visit you, then?",Тогда где можно тебя найти?
+12762,SUPPORT,"Where can I visit you, then?",Тогда где мы можем начать встречаться?
 12762,SUPPORT,"Should the opportunity arise, I would love to become
-a student and begin my studies in earnest.","Будь такая возможность, я бы с радостью
-стала прилежной студенткой."
+a student and begin my studies in earnest.","Будь у меня возможность, я бы тоже хотела
+здесь учиться."
 12762,SUPPORT,"My brother would not be pleased if he heard you
-saying such things.","Мой брат не обрадуется, если узнает, что я вам
-расскажу."
+saying such things.","Ох, вы знаете, что если будете говорить такие 
+двусмысленные вещи, мой брат может вызвать
+вас на неприятный разговор?"
 12762,SUPPORT,"The monastery is kind enough to provide a sanctuary
-for my brother and I. He's the only family I have.","Монастырь стал для нас с братом убежищем.
-Сетес — всё, что у меня есть."
-12762,SUPPORT,You look bored. Care to duel?,"Похоже, вам скучно. Может, проведём дуэль?"
-12762,SUPPORT,A duel?,Дуэль?
-12762,SUPPORT,To the death?,На смерть?
-12762,SUPPORT,Problem? I just wanted to spar...,Проблемы? Я просто хотел посражаться...
+for my brother and I. He's the only family I have.","У меня нет никого из родных, кроме брата, поэтому 
+я просто живу в монастыре под его опекой."
+12762,SUPPORT,You look bored. Care to duel?,Если тебе нечем заняться... Сразимся?
+12762,SUPPORT,A duel?,Сразимся?
+12762,SUPPORT,To the death?,Насмерть?..
+12762,SUPPORT,Problem? I just wanted to spar...,Что тебя смущает? Я просто предложил спарринг.
 12762,SUPPORT,"(So, this is my room...)","(Значит, это моя комната...)"
 12762,SUPPORT,"(I thought I heard a girl's voice...but I must have
 been imagining things.)","(Кажется, мне послышался голос девушки...
@@ -150398,22 +150403,22 @@ worth all that fuss anyhow!","Жаль, что нельзя научиться �
 этой суеты!"
 12762,SUPPORT,"Some believe the dignity of the Empire rests on the
 results of the mock battle. That's an overstatement,
-of course.","Кто-то считает, что достоинство Империи зависит
-от результатов учебной битвы. Честное слово,
-это преувеличение."
-12762,SUPPORT,"Still, we must do our best to prevail.","Тем не менее, мы должны сделать всё, чтобы
-победить."
+of course.","Так значит, скоро будет учебная битва. Не сказала 
+бы, что от её исхода зависит достоинство Империи..."
+12762,SUPPORT,"Still, we must do our best to prevail.","Но тем не менее, мы должны не жалеть
+усилий ради победы."
 12762,SUPPORT,"You should take the time to learn each student's
 abilities. Perhaps some extra lessons and training
-sessions are in order?","Вы должны найти время и изучить способности
-каждого студента. Возможно, будут нужны какие-то
-дополнительные уроки и тренировки?"
+sessions are in order?","Вы можете ознакомиться со способностями 
+каждого студента и назначить нужные им
+факультативные занятия или тренировки."
 12762,SUPPORT,"I trust you're eager to face the Black Eagles
-in battle.","Уверена, вам не терпится сразиться с Чёрными орлами."
+in battle.","Наслаждайтесь предвкушением учебной битвы,
+пока есть возможность."
 12762,SUPPORT,"Enjoy the thrill of anticipation while it lasts.
 Soon you'll wish you had chosen to lead our
-house instead.","Наслаждайтесь предвкушением пока есть возможность.
-Скоро вы пожалеете, что не взяли нас под своё крыло."
+house instead.","Скоро вы пожалеете, что не взяли наш
+дом под своё крыло."
 12762,SUPPORT,"Hi, Professor. How're you doing?","Здравствуйте, учитель. Как дела?"
 12762,SUPPORT,"If you're not busy, would you like to join me
 on a little trip into town?","Если вы не заняты, можете пойти вместе со мной
@@ -150857,8 +150862,8 @@ Adrestian Empire's coat of arms.","От орла, отсылающего к дв
 12762,SUPPORT,"And black is the traditional color of the Empire's
 armor, hence, ""Black Eagles.""","Чёрный же является традиционным цветом для
 доспехов. Так и получились ""Чёрные Орлы""."
-12762,SUPPORT,I care nothing of friendship.,Мне не нужны друзья.
-12762,SUPPORT,"If you have no business here, leave.","Если вам ничего не нужно, уходите."
+12762,SUPPORT,I care nothing of friendship.,"Извини, мне не нужны друзья."
+12762,SUPPORT,"If you have no business here, leave.","Если тебе ничего не нужно, уходи."
 12763,SUPPORT,Thank you for paying me a visit.,Благодарю за визит.
 12763,SUPPORT,"Is there anything troubling you? Or is there, perhaps,
 something I can help you with?","Вас что-то тревожит? Может, я могу как-то
@@ -153756,7 +153761,7 @@ more difficult task than you may think.","Нельзя сказать, что о
 часть монастыря — это простая задача."
 12767,SUPPORT,"It makes you wonder who designed such a
 titanic compound.","Невольно задумаешься, кто же разработал
-такое коллосальное сооружение?"
+такое колоссальное сооружение?"
 12767,SUPPORT,"There are fragments of records remaining from
 its original construction, but none of them name
 an actual architect...","Сохранились лишь обрывочные записи о времени
@@ -191421,9 +191426,10 @@ Lady Edelgard. I will handle this.","Не стоит утруждать себя
 2,MSGDATA,"Hubert, the whole point is for us to achieve this
 together, don't you think?","Хьюберт, весь смысл в том, чтобы мы со всем справились вместе, тебе не кажется?"
 2,MSGDATA,Perhaps you're right. Then let's see it done quickly.,"Возможно, Вы правы. Тогда разберёмся с этим по-быстрее."
-2,MSGDATA,An impressive result we've gotten.,Убедительный результат.
+2,MSGDATA,An impressive result we've gotten.,"Хм, неплохой результат, леди Эдельгард."
 2,MSGDATA,"We showed remarkable teamwork, much better than
-we could have achieved with anyone else.","Мы показали отменную работу в команде, гораздо лучше той, что мы бы могли достичь с кем-то ещё."
+we could have achieved with anyone else.","Надеюсь, мы показали, что вместе трудимся 
+слаженнее, чем со случайными напарниками."
 2,MSGDATA,"We have no good excuse for it, but somehow we
 came up short.",Нет никаких оправданий нашему провалу.
 2,MSGDATA,Agreed. The bar may have been set rather too high.,"Соглашусь. Однако, возможно, планка сильно задрана."
