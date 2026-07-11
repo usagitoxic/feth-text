@@ -40253,7 +40253,8 @@ sings earnestly. It is not easy, after all...","Не обязательно вс
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"There's someone who's slightly off... Oh well.
-That adds some color, I suppose.","Кто-то в ноты не попатает... Ну что же. Наверное, это добавляет цвета."
+That adds some color, I suppose.","Кто-то немного не попадает в ноты. Что же,
+наверное, в этом есть своё очарование?"
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,Must I? Fine. But I will sing it solemnly.,А надо? Ладно. Но я буду петь торжественно.
@@ -80072,24 +80073,25 @@ yours truly is officially the leader of the Alliance.","Хм? Ах, да. Мой
 ваш покорный слуга официально является лидером
 Альянса."
 11537,SUPPORT,"If we had a more reliable leader, perhaps the Alliance
-would not have been divided...","Если бы у нас был надёжный лидер, Альянс бы не
-раскололся..."
+would not have been divided...","Полагаю, будь у нас более надёжный лидер,
+Альянс бы не раскололся."
 11537,SUPPORT,"Think what you will. All I need to know is if
-you're in or you're out.","Думай что хочешь. Всё что мне нужно знать, в деле ты
-или нет."
-11537,SUPPORT,So what do you say? Will you help me?,"Ну, что скажешь? Поможешь?"
+you're in or you're out.","Думай, что хочешь. Важнее, все ли готовы
+объединить силы?"
+11537,SUPPORT,So what do you say? Will you help me?,"Ну, все ли готовы объединить силы?"
 11537,SUPPORT,"I'm happy to lend a hand. I won't let those Imperial 
-dogs set foot in Alliance territory!","Я рад помочь. Я не позволю этим имперским шавкам и
-лапой ступить на территорию Альянса."
+dogs set foot in Alliance territory!","Я в стороне не останусь. Я не дам имперцам
+и шагу ступить на землю Альянса."
 11537,SUPPORT,"I couldn't bear it if my village got caught up in the
-chaos of war.","Если моя деревня окажется в хаосе из-за войны, я этого
-просто не вынесу."
+chaos of war.","Я не вынесу, если мою деревню утянет
+в водоворот войны."
 11537,SUPPORT,I'll fight too! I've gotta protect my little sis!,"Я тоже буду сражаться! Я должен защитить свою
 младшую сестрёнку!"
 11537,SUPPORT,"I will join as well. After all, House Ordelia was once
-dragged into an Imperial revolt. It ruined us.","Я тоже в деле. Дом Корделия уже был вовлечён в
-имперское восстание. Это нас и погубило."
-11537,SUPPORT,"Ah, of course. I understand your motivation.","Ах, разумеется. Я понимаю, что тобой движет."
+dragged into an Imperial revolt. It ruined us.",И я... не вынесу вторжения Империи.
+11537,SUPPORT,"Ah, of course. I understand your motivation.","Ведь дом Корделия однажды уже пережил 
+страшные испытания, когда оказался втянут
+в имперскую междоусобицу."
 11537,SUPPORT,"I'll fight too... It's time to take responsibility for my
 own future!","И я буду сражаться... Пора взять ответственность за
 своё будущее."
@@ -197015,7 +197017,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,I feel a little stronger.,Я стала немного сильнее.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Don't expect much more than that.,Большего и не ждите.
-4,MSGDATA,It was the least I could do.,"Это меньшее, что я мог сделать."
+4,MSGDATA,It was the least I could do.,"И так сойдёт, верно?"
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Gotta keep improving.,Нужно продолжать совершенствоваться.
 4,MSGDATA,Still far from the top.,Ещё не на высоте.
