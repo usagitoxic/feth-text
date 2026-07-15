@@ -40253,7 +40253,8 @@ sings earnestly. It is not easy, after all...","Не обязательно вс
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"There's someone who's slightly off... Oh well.
-That adds some color, I suppose.","Кто-то в ноты не попатает... Ну что же. Наверное, это добавляет цвета."
+That adds some color, I suppose.","Кто-то немного не попадает в ноты. Что же,
+наверное, в этом есть своё очарование?"
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,Must I? Fine. But I will sing it solemnly.,А надо? Ладно. Но я буду петь торжественно.
@@ -79976,170 +79977,177 @@ weapons, OK?","Что-то типа того. В общем, если пойдё
 11536,SUPPORT,"I want to make sure neither your leadership nor your
 skill with a blade have dulled.","Я просто хочу убедиться, что ни владение клинком, ни
 лидерство у вас не притупилось."
-11537,SUPPORT,"Ugh, I'm exhausted! What gives, Professor?","Ох, я вымотался! Профессор, что происходит?"
+11537,SUPPORT,"Ugh, I'm exhausted! What gives, Professor?","Ох! Я так вымоталась! Учитель, ну и как нам
+прикажете это понимать?"
 11537,SUPPORT,"I was so excited to see everyone again, and then
-this happens...","Я был так рад снова всех увидеть, а потом случилось
-это..."
+this happens...","Эх... Я заставила себя сюда прийти, думала,
+мы все увидимся спустя столько времени, а тут..."
 11537,SUPPORT,"I'm still tired from the long journey. How did it
-come to this?","Я ещё не отдохнул от долгой поездки. Как всё к этому
-пришло?"
-11537,SUPPORT,Let's all take a moment to catch our breath...,Давайте дух переведём...
+come to this?","Я и без этого устала после долгого пути;
+как всё дошло до такого?"
+11537,SUPPORT,Let's all take a moment to catch our breath...,"Ну, ну, давайте успокоимся."
 11537,SUPPORT,"If you've got the spare time to play with those guys,
-the least you could do is prepare some tea.","Раз у вас есть время поиграть с теми парнями, то лучше
-бы чаю приготовили."
-11537,SUPPORT,Thanks for your help.,Спасибо за помощь.
-11537,SUPPORT,Blame Claude.,Это Клод виноват.
+the least you could do is prepare some tea.","Если у тебя хватает времени развлекаться с невесть
+кем, лучше уж вместо этого приготовил бы чаю."
+11537,SUPPORT,Thanks for your help.,"Спасибо, что выручили."
+11537,SUPPORT,Blame Claude.,Все претензии ― Клоду.
 11537,SUPPORT,"We were hoping someone would come to back us up
-when we started routing the bandits.","Мы надеялись, что хоть кто-нибудь придёт нам на помощь
-в разборках с этими бандитами."
+when we started routing the bandits.","Да, мы ввязалсь в бой с бандитами с расчётом 
+на то, что кто-нибудь придёт на помощь."
 11537,SUPPORT,"Come on, those guys were thieves! We couldn't
-just let them get away.","Да ладно! Эти парни воры! Мы ж не могли их так
-просто отпустить."
+just let them get away.","Так они же грабители! Их обязательно нужно
+истребить, если уж нашли, нет?"
 11537,SUPPORT,"It seems they've been taking advantage of the
 church's absence and doing whatever they
-please here.","Может быть, они пользовались этим местом из-за того,
-что церкви нет? И делали что захотят?"
-11537,SUPPORT,"In any case, um... I'm glad that all of you are well.","В любом случае... Я рада, что у вас всё хорошо."
-11537,SUPPORT,"That's the spirit, Marianne!","Вот это настрой, Марианна!"
+please here.","Похоже, пользуясь исчезновением Церкви, они 
+творили в округе то, что им заблагорассудится."
+11537,SUPPORT,"In any case, um... I'm glad that all of you are well.","Как бы то ни было... 
+Я рада, что все в добром здравии."
+11537,SUPPORT,"That's the spirit, Marianne!","Согласен, Марианна!"
 11537,SUPPORT,"That was fun! In fact, I wouldn't mind romping
-around some more!","Было весело! И вообще, я не против ещё немного
-порезвиться!"
+around some more!",Было весело! Я б ещё порезвился!
 11537,SUPPORT,"So, you were alive this whole time, Professor. I am
-not surprised. In fact, that is why I came here.","Значит, всё это время вы были живы, Профессор.
-Не удивительно. В общем-то поэому я и здесь."
+not surprised. In fact, that is why I came here.","Так значит... вы были живы всё это время, учитель. 
+Впрочем, я прибыл сюда, рассчитывая именно на это."
 11537,SUPPORT,"And it doesn't look like time has rusted your skills.
-That's a relief!","И, похоже, ваши навыки всё такие же мастерские.
-Замечательно!"
+That's a relief!","И, похоже, не растеряли свои навыки.
+Ну вот и хорошо."
 11537,SUPPORT,"I'm just glad everyone's alive and well.
 On that note, let's move this reunion party
-somewhere else.","Я лишь рада, что все живы-здоровы. И на этой ноте,
-предлагаю перенести наше празднование в другое
-место."
+somewhere else.","Главное, что все выглядят бодрыми.
+Давайте отпразднуем наше воссоединение 
+в другом месте."
 11537,SUPPORT,"Now that we've dealt with those violent bandits,
 we could potentially use this place as our base of
-operations again.","Раз мы смогли избавиться от тех бандитов, теперь мы
-можем использовать это место как опорный пункт."
-11537,SUPPORT,What could you possibly mean by that?,Что ты вообще под этим подразумеваешь?
+operations again.","Итак... Мы разобрались с опасным противником,
+так что потенциально снова можем использовать
+это место в качестве опорного пункта."
+11537,SUPPORT,What could you possibly mean by that?,Опорного пункта... что ты имеешь в виду?
 11537,SUPPORT,"I'm talking about the Leicester Alliance taking
-over Garreg Mach Monastery.","Я говорю о Лейсестерском Альянсе, который захватил
-монастырь Гаррег Мах."
+over Garreg Mach Monastery.","Проще говоря, Лестерский Альянс возьмёт под 
+контроль монастырь Гаррег Мах."
 11537,SUPPORT,"After all, it's right in the middle of Fódlan. It's a
-critical strategic location.","В конце концов, он находится в самом сердце Фодлана.
-Это важное стратегическое место."
+critical strategic location.","Ведь это самое сердце Фодлана — важный
+стратегический пункт."
 11537,SUPPORT,"Are you suggesting that we fight back against
-the Empire?",Ты предлагаешь дать Империи отпор?
+the Empire?",Клод? Неужели ты собираешься дать Империи бой?
 11537,SUPPORT,"Aren't you getting a bit ahead of yourself?
-The Alliance is in complete discord at present.","Мне кажется, ты забегаешь вперёд. В Альянсе сейчас
-смута."
+The Alliance is in complete discord at present.","Постой. Не преждевременны ли подобные 
+действия? Сейчас внутри самого Альянса
+царит раздор."
 11537,SUPPORT,"And, as leader of the Imperial faction of the Alliance,
 isn't Count Gloucester, your father, the main cause
-of that discord?","И ваш отец, граф Глоусестер, лидер имперской фракции
-Альянса, разве не причина всех этих разногласий?"
+of that discord?","Так ведь виновником этого раздора 
+является лидер имперской фракции 
+Альянса, твой отец — граф Глостер."
 11537,SUPPORT,"I... Yes, that is true. It was inevitable. Our house's
-territory is close to Imperial land, after all.","Я... Да, верно. Это было не избежно. Земли нашего
-рода находятся слишком близко к Империи."
+territory is close to Imperial land, after all.","Кх... Это было неизбежно. Владения нашего
+дома находятся рядом с имперскими землями."
 11537,SUPPORT,"Had we not consented to vassalage under the
-Empire, they would have invaded immediately.","Если бы мы не согласились стать вассалами Империи,
-они сразу же ввели войска."
+Empire, they would have invaded immediately.","Если не демонстрировать покорность Империи,
+они немедленно введут войска."
 11537,SUPPORT,"Naturally. And to be clear, I have no problem with
 your house maintaining its Imperial ties until we're
-sufficiently prepared to revolt.","Естественно. Если говорить на чистоту, то у меня нет
-вопросов к тому, чтобы ваш дом сохранил связи с
-Империей, пока мы не будем готовы к восстанию."
+sufficiently prepared to revolt.","Да, я понимаю. Можете и дальше оставаться
+сторонниками Империи, пока мы не будем
+готовы оказать сопротивление."
 11537,SUPPORT,"But with all of the in-fighting within the Alliance,
-fighting the Empire seems impossible...","Но из-за междоусобицы в Альянсе, противостояние
-Империи кажется совсем невозможным..."
+fighting the Empire seems impossible...","В Альянсе и так раздор; противостоять 
+Империи — это сущее безумие."
 11537,SUPPORT,"The Empire is the cause of the infighting. If we
 rid ourselves of them, the situation should
-resolve itself.","Империя и есть причина междоусобицы. Если от неё
-избавиться, все проблемы решатся сами собой."
+resolve itself.","Весь нынешний раздор вызван угрозой со стороны 
+Империи, не так ли? Если эта угроза исчезнет, всё 
+тут же решится само собой."
 11537,SUPPORT,"That's why I'm thinking we should make this
 our base, raise up an army, and stir up some
-trouble for the Empire.","Именно поэтому я считаю, что мы должны занять эту
-позицию, собрать войска и устроим Империи
-неприятности."
-11537,SUPPORT,Now you're talking! Sounds like fun!,Вот это я понимаю! Звучит здорово!
+trouble for the Empire.","Вот что я решил. Нам следует занять эту позицию, 
+поднять войска, и навести в Империи суету."
+11537,SUPPORT,Now you're talking! Sounds like fun!,Здорово! Будет весело!
 11537,SUPPORT,"So then, Mr. Leader Man. Does this mean you
-intend to rope us into your little scheme?","Что же, господин Лидер... Значит ли это, что вы решили
-втянуть нас в одну из ваших затей?"
-11537,SUPPORT,Leader Man?,Господин Лидер?
+intend to rope us into your little scheme?","Всё ясно, «господин лидер». Ты собрался
+втянуть нас во всё это, так?"
+11537,SUPPORT,Leader Man?,Лидер?
 11537,SUPPORT,"Hm? Ah. My grandfather passed away. That means
-yours truly is officially the leader of the Alliance.","Хм? Ах да. Мой дедушка скончался. Это значит, что
+yours truly is officially the leader of the Alliance.","Хм? Ах, да. Мой дедушка скончался. Это значит, что
 ваш покорный слуга официально является лидером
 Альянса."
 11537,SUPPORT,"If we had a more reliable leader, perhaps the Alliance
-would not have been divided...","Если бы у нас был надёжный лидер, Альянс бы не
-раскололся..."
+would not have been divided...","Полагаю, будь у нас более надёжный лидер,
+Альянс бы не раскололся."
 11537,SUPPORT,"Think what you will. All I need to know is if
-you're in or you're out.","Думай что хочешь. Всё что мне нужно знать, в деле ты
-или нет."
-11537,SUPPORT,So what do you say? Will you help me?,"Ну, что скажешь? Поможешь?"
+you're in or you're out.","Думай, что хочешь. Важнее, все ли готовы
+объединить силы?"
+11537,SUPPORT,So what do you say? Will you help me?,"Ну, все ли готовы объединить силы?"
 11537,SUPPORT,"I'm happy to lend a hand. I won't let those Imperial 
-dogs set foot in Alliance territory!","Я рад помочь. Я не позволю этим имперским шавкам и
-лапой ступить на территорию Альянса."
+dogs set foot in Alliance territory!","Я в стороне не останусь. Я не дам имперцам
+и шагу ступить на землю Альянса."
 11537,SUPPORT,"I couldn't bear it if my village got caught up in the
-chaos of war.","Если моя деревня окажется в хаосе из-за войны, я этого
-просто не вынесу."
+chaos of war.","Я не вынесу, если мою деревню утянет
+в водоворот войны."
 11537,SUPPORT,I'll fight too! I've gotta protect my little sis!,"Я тоже буду сражаться! Я должен защитить свою
 младшую сестрёнку!"
 11537,SUPPORT,"I will join as well. After all, House Ordelia was once
-dragged into an Imperial revolt. It ruined us.","Я тоже в деле. Дом Корделия уже был вовлечён в
-имперское восстание. Это нас и погубило."
-11537,SUPPORT,"Ah, of course. I understand your motivation.","Ах, разумеется. Я понимаю, что тобой движет."
+dragged into an Imperial revolt. It ruined us.",И я... не вынесу вторжения Империи.
+11537,SUPPORT,"Ah, of course. I understand your motivation.","Ведь дом Корделия однажды уже пережил 
+страшные испытания, когда оказался втянут
+в имперскую междоусобицу."
 11537,SUPPORT,"I'll fight too... It's time to take responsibility for my
-own future!","И я буду сражаться... Пора взять ответственность за
-своё будущее."
+own future!","Я тоже буду сражаться. Отныне я сам хочу нести
+ответственность за своё будущее!"
 11537,SUPPORT,"I... I don't want to run anymore. I hope I'll be of use
-to everyone...","Я... Я тоже больше не хочу убегать. Надеюсь, я буду
-полезной..."
-11537,SUPPORT,"We can do anything if we work together, Marianne!","Мирианна! Мы на всё способны, если работаем вместе!"
+to everyone...","И я... больше не хочу убегать. Но я не уверена,
+что буду вам хоть чем-то полезна."
+11537,SUPPORT,"We can do anything if we work together, Marianne!","Мы все будем заодно, Марианна! Если мы будем
+вместе, у нас всё получится!"
 11537,SUPPORT,"What about you, Lorenz? Are you going to go back
-home to your scary father or what?","А ты, Лоренц? Вернёшься домой к своему страшному
-отцу? Или как?"
+home to your scary father or what?","А ты, Лоренц? Вернёшься домой к своему 
+стра-ашному папеньке, или как?"
 11537,SUPPORT,"We cannot rely on Claude's scheming to lead us
-to victory. Therefore, I will remain.","Мы не можем полностью доверять тактикам Клода,
-которые приведут нас к победе. Поэтому я останусь."
+to victory. Therefore, I will remain.",Планам Клода доверять нельзя. Посему ― я остаюсь.
 11537,SUPPORT,"It is my duty to ensure Claude does not worsen the
-situation in the Alliance.","Мой долг - убедиться, что Клод не усугубил ситуацию
-в Альянсе."
+situation in the Alliance.","За Клодом необходим пристальный надзор, 
+чтобы он не усугубил ситуацию в Альянсе."
 11537,SUPPORT,"All of us are fighting for a different reason,
-but we share a common enemy.","У всех нас разные причины воевать, но враг у нас один."
+but we share a common enemy.","Все из нас хотят защитить что-то своё,
+но противник у нас общий."
 11537,SUPPORT,"If we don't act, the Empire will crush us eventually.
-I say we stop them before they have the chance!","Если мы будем сидеть сложа руки, Империя быстро
-уничтожит нас. Мы остановим их! У них ни единого
-шанса не будет!"
-11537,SUPPORT,"So, Teach... Will you help as well?","Ну, препод... Вы тоже поможете нам?"
-11537,SUPPORT,I'd rather search for Rhea than fight.,Я лучше отправлюсь на поиски Реи и не буду сражаться.
-11537,SUPPORT,I'll give it some thought.,Мне нужно подумать.
+I say we stop them before they have the chance!","Если будем сидеть сложа руки, рано или поздно
+Империя раздавит нас. Прежде чем это случится,
+давайте сами раздавим её!"
+11537,SUPPORT,"So, Teach... Will you help as well?","Ну, $S0. Вы тоже поможете нам?"
+11537,SUPPORT,I'd rather search for Rhea than fight.,"Мне бы хотелось найти Рею, а не сражаться."
+11537,SUPPORT,I'll give it some thought.,Я подумаю над этим.
 11537,SUPPORT,"All the more reason to join us. Admit it. You're not
-going to be able to do much on your own.","Есть ещё одна причина к нам присоединиться. Признайте.
-У Вас не получится справиться в одиночку."
-11537,SUPPORT,Please do. I'm counting on you.,Пожалуйста. Я на Вас рассчитываю.
+going to be able to do much on your own.","Тем больше причин примкнуть к нам. В одиночку
+вы ничего не сможете сделать."
+11537,SUPPORT,Please do. I'm counting on you.,"Рассчитываю на вас, учитель."
 11537,SUPPORT,"Even if your ultimate goal is to find Rhea, it would
-be better to stick with us as you search.","Даже если Ваша главная цель - найти Рею, то будет лучше,
-если Вы будете держаться нас."
+be better to stick with us as you search.","Даже если вы собираетесь искать Рею, вместе с нами
+это будет сподручнее, так?"
 11537,SUPPORT,"With you on our side, the church will join us as well.
 That makes fighting the Empire a moral cause,
-which means it will be easier to rally support.","Если вы будете на нашей стороне, то к нам присоединится
-и церковь. В таком случае это будет делом морали. Значит
-будет легче заручиться поддержкой."
+which means it will be easier to rally support.","Если вы присоединитесь к нам, то и Церковь будет
+на нашей стороне. А значит, у нас появится весомый
+повод к войне с Империей."
 11537,SUPPORT,"Above all, your knowledge and strength are
 indispensable if we hope to stand a chance
-against the Imperial army.","Прежде всего, Ваши знания и умения необходимы, если
-мы надеемся противостоять Империи."
+against the Imperial army.","Но куда как важнее то, что нам жизненно
+необходимы ваши ум и сила для того, чтобы 
+сражаться с Империей на равных."
 11537,SUPPORT,"Without you, my schemes are nothing. Just words.
 Please... Take all of that into consideration as
-you decide.","Без вас все мои тактики - ничто. Всего лишь слова.
-Пожалуйста... Подумайте об этом, когда будете принимать
-решение."
+you decide.","Без вас все мои планы пойдут прахом. Пожалуйста,
+тщательно обдумайте моё предложение."
 11537,SUPPORT,"You're really laying it all on the table, aren't you,
-Claude?","Клод, ты действительно ставишь всё?"
+Claude?","Ты вот так прямо говоришь это в лицо?
+Ну просто выставил свою жадность напоказ."
 11537,SUPPORT,"Well, all that aside, this place is a mess. We can't
-very well make our base in a ruin!","Ну, вообще, тут ужасный бардак. Мы не можем превратить
-нашу базу в руины."
+very well make our base in a ruin!","А ещё тут бардак. В такой разрухе нельзя
+организовывать опорный пункт."
 11537,SUPPORT,"And repairing it sounds like a lot of work... I wonder
-if anyone would be willing to help us out with that?","А ремонт - это та ещё морока... Интересно, может
-кто-нибудь захочет нам в этом всём помочь?"
+if anyone would be willing to help us out with that?","Но ремонт — это такая морока. Может, найдётся 
+кто-нибудь, кто нам с этим поможет?"
 11538,SUPPORT,Can it be?! You were alive all this time?!,Возможно ли это?! Вы были живы всё это время?!
 11538,SUPPORT,Wait... I know you. You're...,Стойте... Я же вас знаю. Вы...
 11538,SUPPORT,"Professor! It is so good to see you again.
@@ -80342,209 +80350,209 @@ reckless ambitions!","Вместе мы сможем остановить Имп
 безрассудные амбиции."
 11540,SUPPORT,"Everyone, listen up! I have a proposal.","Друзья, послушайте! У меня есть предложение."
 11540,SUPPORT,"We are now building our forces in order to
-rise up against the Imperial army.","На данный момент мы наращиваем военную мощь,
-чтобы встать против Имперской армии."
+rise up against the Imperial army.","На данный момент мы наращиваем военную
+мощь, чтобы вступить в противостояние с
+армией Империи, но..."
 11540,SUPPORT,"But it wouldn't be smart for us to fight under the
 banner of the Alliance. That would only incite
-the lords who support the Empire.","Но! Для нашей стороны будет совершенно не разумно
-идти под знаменем Альянса. Это лишь подстегнёт
-лордов, которые поддерживают Империю."
+the lords who support the Empire.","Идти под знаменем Альянса будет неразумно. Это 
+вызовет протест поддерживающих Империю лордов."
 11540,SUPPORT,"We've also combined forces with the Knights of
 Seiros. Therefore, I suggest that we operate under
-a new symbol.","Так же, мы объединили силы с рыцарями Сейрос.
-Поэтому я предлагаю продолжать действовать под
-новым знаменем."
-11540,SUPPORT,That's why I've prepared this...,Именно поэтому я подготовил это...
+a new symbol.","К тому же, с нами объединили силы Рыцари Сейрос.
+Поэтому я предлагаю встать под новое знамя."
+11540,SUPPORT,That's why I've prepared this...,Я как раз его подготовил... Поднимай!
 11540,SUPPORT,"You may recognize it as the Crest of Flames,
 which resides in Teach. The phantom Crest that
-has reappeared after more than 1,000 years.","На нём вы можете узнать Пламенную Герб. Ту самую
-призрачную Герб, которая вновь появилась спустя
-тысячелетие."
+has reappeared after more than 1,000 years.","Как вы уже знаете, это Герб Пламени, дарованный
+учителю. Тот самый неуловимый Герб, вернувшийся
+из небытия спустя тысячу лет..."
 11540,SUPPORT,"We're attempting our own miracle, so it seems like
-a suitable symbol for us.","Мы сами попытаемся создать своё чудо. Поэтому, для
-нас это будет самый подходящий символ."
+a suitable symbol for us.","Вам не кажется, что не найти лучше знамени для 
+армии, которая сама пытается сотворить чудо?"
 11540,SUPPORT,"So... Until we welcome the dawn of a new age
-in Fódlan...","Итак... Пока мы не встретим рассвет новой эры
-Фодлана..."
+in Fódlan...","До того дня, пока земля Фодлана не встретит 
+рассвет новой эры..."
 11540,SUPPORT,"Let's fight to the very end, as one, under the symbol
-of the Crest of Flames!","Будем сражаться до самого конца, будем одним целым,
-под символом Герба Пламени!"
+of the Crest of Flames!","Мы будем сражаться до конца в едином порыве
+под знаменем Герба Пламени!"
 11540,SUPPORT,"Impressive, Claude. Forget restoring the monastery.
 You've somehow roped everyone into fighting back
-against the Empire!","Впечатляюще, Клод. Впечатляюще. Забудь про
-восстановление монастыря. Ты каким-то чудом побудил
-всех дать опор Империи!"
+against the Empire!","Вот вам и Клод. Какой тебе ремонт — взял
+и завербовал народ в войну с Империей."
 11540,SUPPORT,"If you'll recall, I never technically asked anyone to
 join us. If anything, we have Teach's achievements
-to thank.","Если задуматься, то я никогда никого не просил к нам
-присоединиться. Во всяком случае, за все достижения
-нужно поблагодарить Препода."
+to thank.",Я даже никого не просил. Это скорее заслуга учителя.
 11540,SUPPORT,"Now that you mention it, I guess I should express
-my gratitude.","Раз вы об этом заговорили, да, видимо, мне стоит
-выразить свою благодарность."
-11540,SUPPORT,"Hey, friend. So this is where you've been.","Здравствуй, друг мой. Вот где ты всё это время был."
+my gratitude.","Кстати, надо бы учителя и поблагодарить.
+Пойду, поищу $EK00его$EL00её$EM00."
+11540,SUPPORT,"Hey, friend. So this is where you've been.","О, друг мой! Вот вы где."
 11540,SUPPORT,"Without you, the knights never would have joined
-our cause. I could never pay you back for that.","Без тебя, рыцари бы никогда не присоединились к нам.
-Я никогда не смогу расплатиться с тобой за это."
+our cause. I could never pay you back for that.","Без вас мы бы не заручились поддержкой рыцарей. 
+Позвольте мне снова поблагодарить вас за это."
 11540,SUPPORT,You're welcome.,Всегда пожалуйста.
-11540,SUPPORT,Let's do our best.,Постараемся.
-11540,SUPPORT,"Just leave it to me, Teach.","Предоставьте всё мне, препод."
+11540,SUPPORT,Let's do our best.,Будем стараться вместе.
+11540,SUPPORT,"Just leave it to me, Teach.","Да, положитесь на меня."
 11540,SUPPORT,"When this fight is over, I plan to see all of my dreams
-come to fruition, and yours as well.","Когда вся эта битва закончится, я хотел бы увидеть, что
-все мои и ваши мечты исполнятся."
-11540,SUPPORT,"What are your dreams, Claude?","Клод, о чём ты мечтаешь?"
-11540,SUPPORT,"Well, for example...to bust open Fódlan's Throat.","Ну, например... Проломить Фодланский хребет."
+come to fruition, and yours as well.","Когда война закончится, я собираюсь удостовериться,
+что исполнятся и мои, и ваши стремления."
+11540,SUPPORT,"What are your dreams, Claude?","К чему ты стремишься, Клод?"
+11540,SUPPORT,"Well, for example...to bust open Fódlan's Throat.","К чему стремлюсь? Ну, например... разорвать надвое
+Глотку Фодлана."
 11540,SUPPORT,"There's a massive fortress there, which is responsible
-for protecting the eastern border of the Alliance.","Там находится огромная крепость, которая отвечает за
-защиту восточных границ Альянса."
-11540,SUPPORT,I like to think of it as a lid on a bottle.,"Мне нравится думать о ней, как о крышке от бутылки."
+for protecting the eastern border of the Alliance.","Там грозно возвышается огромная крепость,
+обороняющая восточную границу Альянса."
+11540,SUPPORT,I like to think of it as a lid on a bottle.,"Громадина, застрявшая в Глотке...
+С моей точки зрения это пробка в бутылке."
 11540,SUPPORT,"The people of Fódlan only know a small part of
 the world. Their prejudices are born because
-they don't know what lies beyond their borders.","Жители Фодлана совсем немного знают о мире. И их
-предрассутки потому и рождаются, потому что они не
-знают что лежит за горами."
+they don't know what lies beyond their borders.","Жители Фодлана не знают о том, что находится за 
+пределами их крохотного мирка. Их предрассудки 
+оттого и зародились — от незнания."
 11540,SUPPORT,"And the opposite is true too. Those outside of Fódlan
 don't know about this place. Ignorance breeds
-discrimination.","Но верно и обратное. Те, кто живёт не в Фодлане, не
-знают об этом месте. Невежество порождает
+discrimination.","Но верно и обратное. Так как вне Фодлана об
+этом месте тоже ничего не знают, это порождает
 дискриминацию."
 11540,SUPPORT,"Whether you look inside the bottle or outside of it...
 If you really look, all you'll find are people who you
-can get along with, if you only try.","Загляните ли вы внутрь бутылки, или будете осматривать
-её снаружи... Если внимательно присмотреться, то
-сможете найти людей, с которыми можно поладить.
-Нужно только попытаться."
+can get along with, if you only try.","Если мельком заглянуть в бутылку, или смотреть
+изнутри неё... можно увидеть, что и там и там 
+находятся одинаковые, близкие по духу люди."
 11540,SUPPORT,"That's why I wanna bust open that lid,
 which is keeping us locked inside.
-Or destroy the bottle entirely.","Именно поэтому я хочу откупорить эту крышку, которая
-держит нас запертыми внутри. Либо вообще разбить
-бутылку."
-11540,SUPPORT,Are you going to tell our allies about this?,Вы собираетесь рассказать об этом нашим союзником?
+Or destroy the bottle entirely.","Поэтому я хочу открыть... нет, разрушить её.
+Пробку в бутылке, где мы заперты."
+11540,SUPPORT,Are you going to tell our allies about this?,Ты ещё не рассказывал об этом остальным?
 11540,SUPPORT,"I'll find the right time to bring it up. Even if I
 talked about it now, it doesn't seem realistic,
-does it?","Я найду правильное время, чтобы поднять эту тему.
-Даже если я говорю об этом сейчас, это кажется совсем
-уж выдумкой, да?"
+does it?","Расскажу, когда для этого настанет время,
+а то сейчас подобное покажется совсем уж
+недостижимым, вам не кажется?"
 11540,SUPPORT,"First we need to defeat the Empire and restore
-peace to... Huh?","Для начала, нам нужно уничтожить Империю и
-восстановить мир... А?"
-11540,SUPPORT,Professor! Claude! We're under attack!,Профессор! Клод! Нас атакуют!
-11540,SUPPORT,Come quickly! We're under attack!,Быстрее! Нас атакуют!
+peace to... Huh?","Для начала нужно одолеть Империю и навести
+порядок в Фодлане... м?"
+11540,SUPPORT,Professor! Claude! We're under attack!,Учитель! Клод! Нас атакуют!
+11540,SUPPORT,Come quickly! We're under attack!,"Эй, подъём! Нас атакуют!"
 11540,SUPPORT,"I guess we'll have to cut our conversation short.
 What's going on, Leonie?","Видимо, нам придётся прервать наш разговор.
 Леони, что случилось?"
 11540,SUPPORT,"It's a small group, but some Imperial troops
 are headed this way. It looks like they were
-stationed nearby.","Это совсем небольшая группа имперцев, но они
-направляются сюда. Похоже, они стояли где-то
+stationed nearby.","К нам движется небольшая группа имперцев. 
+Видимо, их отряд был расквартирован где-то 
 неподалёку."
 11540,SUPPORT,"It's a small force, but the Imperial army is headed
-this way. They seem to have been stationed nearby.","Имперский отряд движется сюда. Их совсем немного,
-конечно. Видимо, они стояли поблизости."
+this way. They seem to have been stationed nearby.","В нашу сторону приближается небольшое
+подразделение Империи. Похоже, их отряд 
+был расквартирован где-то неподалёку."
 11540,SUPPORT,"I've got to hand it to Edelgard. Nothing gets past
-that woman.","Да, Эдельгард следует отдать должное.
-Мимо этой женщины ничто не проходит."
-11540,SUPPORT,We should proceed cautiously.,Нам нужно действовать очень осторожно.
-11540,SUPPORT,Let's take them down.,Избавимся от них.
+that woman.","Эдельгард следует отдать должное — мимо
+её взора и мушка не пролетит."
+11540,SUPPORT,We should proceed cautiously.,Нужно действовать осторожно.
+11540,SUPPORT,Let's take them down.,Нужно разбить их одним ударом.
 11540,SUPPORT,"As long as we don't let our guard down, there's no
-way they can defeat us.","Пока мы бдительны, им никогда нас не победить."
+way they can defeat us.","Да, пока мы сохраняем бдительность, им нас
+не одолеть."
 11540,SUPPORT,"All right! I'll show you how much I've
-improved, Professor!","Отлично! Профессор, я покажу Вам как я стал лучше!"
+improved, Professor!","Вот это дух! Я перед вами в грязь
+лицом не ударю, учитель!"
 11540,SUPPORT,"This will be our first battle alongside the Knights
 of Seiros. Let's kick off our new partnership with
-a magnificent victory!","Это будет наша первая битва вместе с рыцарями Сейрос.
-Начнём наше партнёрство с прекрасной победы!"
+a magnificent victory!","Мы впервые будем сражаться бок о бок
+с Рыцарями Сейрос. Давайте украсим начало
+нашего пути блистательной победой."
 11541,SUPPORT,"Phew! Nice work. We won without much incident,
-thanks to all of you.","Фух! Хорошая работа. Мы победили безо всяких
-проишествий. Спасибо."
+thanks to all of you.","Что же, хорошая работа. Мы победили благодаря
+усилиям всех вас."
 11541,SUPPORT,"Now the enemy knows we're on the move. What do
-you plan to do?","Теперь враг знает, что мы начали действовать.
-Что теперь?"
+you plan to do?","Но теперь противник знает, что мы начали
+действовать. Что мы будем делать?"
 11541,SUPPORT,"I don't think the Empire will leave us alone now.
 What do you plan to do?","Не думаю, что теперь Империя оставит нас в покое.
 Что будем делать дальше?"
 11541,SUPPORT,"I intend to ask the Alliance lords to share some
-troops with us to bolster our forces.","Я собираюсь попросить лордов Альянса поделиться
-с нами некоторым количеством войск, чтобы укрепить
-наши силы."
+troops with us to bolster our forces.","Я собираюсь попросить лордов Альянса выделить 
+нам войска, чтобы укрепить наши силы."
 11541,SUPPORT,"I will speak plainly. No matter whom we beseech for
 reinforcements, our envoys will inevitably pass
-through Gloucester territory.","Если говорить откровенно, то неважно кого мы будем
-просить о подкреплении. Оно всё равно пойдёт через
-земли Глоусестера."
+through Gloucester territory.","Проще сказать, чем сделать; откуда бы ты ни
+запросил подкрепления, они всё равно будут
+вынуждены пройти через земли дома Глостер."
 11541,SUPPORT,"My father is being cautious not to give the Empire
 a pretext to intervene. Therefore, he is unlikely to
-allow even envoys to pass through.","Мой отец старается не давать Империи повода для
-вторжения. Поэтому посланников он вряд ли пропустит."
+allow even envoys to pass through.","Отец зорко следит за тем, чтобы не давать
+Империи повода для вторжения. Он не даст
+прохода даже посланникам."
 11541,SUPPORT,"No matter where we send our envoys from
 here, they'll have to go through Gloucester
-territory, right?","Куда бы мы не послали наших гонцов, им всё равно
-нужно будет пройти по териториям Глоусестера?"
+territory, right?","Но ведь куда бы мы ни отправили посланников, им 
+всё равно придётся пройти по землям Глостеров?"
 11541,SUPPORT,"I doubt that family will sit quietly and allow envoys
-to pass.","Сомневаюсь, что эта семья будет сидеть сложа руки и
-позволит гонцам пройти."
-11541,SUPPORT,Why not request reinforcements from the Kingdom?,Тогда почему бы не запросить помощь у Королевства?
+to pass.","Сомневаюсь, что эта семья молча позволит им пройти."
+11541,SUPPORT,Why not request reinforcements from the Kingdom?,Почему бы не запросить подкрепления у Королевства?
 11541,SUPPORT,"Ah... I guess I haven't told you yet, Teach.
 The Kingdom isn't in a position to be sending
-anyone reinforcements.","Ах... препод, видимо я вам ещё не рассказал. Королевство
-не в том состоянии, чтобы отправить кому-то
-подкрепление."
+anyone reinforcements.","Ах... я же ещё не рассказал вам, учитель.
+Королевство не в том состоянии, чтобы
+отправлять кому-то подкрепления."
 11541,SUPPORT,"After losing King Lambert during the Tragedy of
 Duscur, a Regent had been handling its politics.
-But then...","После того, как во время трагедии в Даскаре погиб
-король Ламберт, политикой занимался регент. А потом..."
+But then...","После гибели короля Ламберта в Даскарской
+трагедии политикой занимался регент, но..."
 11541,SUPPORT,"There was a bloody coup. The Regent and
 Prince Dimitri both... Apparently the whole
-family was killed.", 
+family was killed.","Произошёл политический переворот. Регент,
+принц... Дмитрий — вся его семья считается
+убитыми."
 11541,SUPPORT,"All Blaiddyd territory, including the Kingdom
 capital, is being ruled by those who are cooperating
-with the Empire.","Все территории Блэйддид, включая Королевство,
-находится во власти людей, которые сотрудничают с
-Империей."
+with the Empire.","Все земли Бладудов, включая столицу Королевства, 
+Фирдиад, находятся во власти людей, которые 
+сотрудничают с Империей."
 11541,SUPPORT,"The Kingdom is no more. It's now called the
-Faerghus Dukedom.","Королевства больше нет. Есть только герцогство
-Фаэргус."
+Faerghus Dukedom.","Теперь эти территории носят название
+герцогства Фаэргус."
 11541,SUPPORT,"The vast majority of the former Kingdom lords bent
 a knee to the overwhelming power of the Empire and
-the Dukedom, and now fall under their jurisdiction.","Большинство бывших королевских лордов преклонили
-колено перед мощью Империи и Герцогства. Поэтому
-теперь они находятся под изх юрисдикцией."
+the Dukedom, and now fall under their jurisdiction.","Большинство лордов бывшего Королевства поддались
+давлению Империи и Герцогства, преклонили колено,
+и теперь находятся под их властью."
 11541,SUPPORT,"Some who formerly held power are continuing
 to resist, but it would be difficult for them to
-regain it.","Некоторые из тех, что раньше были у власти,
-пытаются сопротивляться. Но им будет трудно её
-вернуть."
+regain it.","Кое-кто из старой гвардии ещё пытается 
+сопротивляться, но вряд ли им удастся
+восстановить всё как было."
 11541,SUPPORT,"Oh, hey! I can think of one person who we can ask
-for reinforcements.","О, кстати! Я вспомнил про одного человека, у которого
-можно попросить помощи."
+for reinforcements.","О, кстати, я вспомнила одну особу, к которой
+можно обратиться за подмогой."
 11541,SUPPORT,"Someone whose territory is really close, and who's on
-good terms with Claude...","Территории этого кого-то находятся очень близко,
-а ещё этот кто-то находится в хороших отношениях с
-Клодом..."
-11541,SUPPORT,"Ah! The Hero of Daphnel, I presume?","Ах! Герой Дафнель, полагаю?"
-11541,SUPPORT,"I've seen her before, and she does seem to be reliable.","Я видел её когда-то, и она показалась надёжной."
+good terms with Claude...","Её земли совсем рядом, и с Клодом она в хороших
+отношениях..."
+11541,SUPPORT,"Ah! The Hero of Daphnel, I presume?","Ага, я знаю. Ты имеешь в виду Героиню из Дафнель?"
+11541,SUPPORT,"I've seen her before, and she does seem to be reliable.","А, она. Я видела её однажды, и она показалась мне
+надёжным человеком."
 11541,SUPPORT,"You're talking about Judith, right? I bet she would
-lend us a hand...","Вы говорите про Джуди, да? Уверен, что она точно
-поможет нам."
+lend us a hand...","Джудит? Если мы обратимся к ней, она обязательно
+поможет..."
 11541,SUPPORT,"Judith, the Hero of Daphnel, I presume? It's true,
-House Daphnel may lend us their aid...","Полагаю, Джуди? Герой Дафнель? И то верно, дом
-Дафнель может протянуть нам руку помощи."
-11541,SUPPORT,She seems intimidating.,Она устрашает.
-11541,SUPPORT,She seems strong.,Она сильная.
+House Daphnel may lend us their aid...","Вы имеете в виду Героиню из Дафнель, Дждудит?
+Да, дом Дафнель мог бы..."
+11541,SUPPORT,She seems intimidating.,Страшная женщина...
+11541,SUPPORT,She seems strong.,Могучая женщина.
 11541,SUPPORT,"That's right, you've met her once before, Teach.
-She's a fearsome one-woman army.","Именно, препод. Вы уже встречались с ней.
-Целая грозная армия, которая состоит из одной женщины."
+She's a fearsome one-woman army.","Вроде как вы однажды встречались, учитель.
+Да, она — та самая грозная героиня."
 11541,SUPPORT,"She did a lot for me, even before I was recognized
-as the heir to House Riegan.","Она слишком много сделала для меня, ещё до того, как
-меня признали наследником дома Ригана."
+as the heir to House Riegan.","Она очень многое сделала для меня ещё до того,
+как меня признали наследником дома Риган."
 11541,SUPPORT,"I don't like the idea of owing her more than I already
 do, but given the current situation, sacrifices must
-be made.","Мне не нравится мысль быть у неё ещё в большем долгу,
-чем сейчас. Но необходимо пойти на жертвы, учитывая
-сложившуюся ситуацию."
+be made.","Мне не нравится мысль быть ей обязанным ещё больше, 
+чем сейчас, но в нашем положении выбирать не приходится."
 11541,SUPPORT,"I'll reach out to her. As for the rest of you,
-prepare for our next battle.","Я свяжусь с ней. Что каскается остальных... Готовьтесь
-к следующей битве."
+prepare for our next battle.","Я свяжусь с ней — остальные пусть
+готовятся к следующей битве."
 11542,SUPPORT,"Heya, Teach. How are you feeling? Does anything
 feel, um...strange at all?","Приветствую, препод. Как себя чувствуете? Вам ничего
 странным... не кажется?"
@@ -103554,7 +103562,7 @@ Because then I'll know where he is and I can tell him.","Не. Но если в�
 11852,SUPPORT,"I'll be in the stables if ya need me. Gotta put out the
 fodder before it's the next kid's shift. Don't want her
 thinking I left my work for her to do.","Я буду в конюшне. Заготовлю корм заранее,
-пока дневальный не пришла."
+пока дежурная не пришла."
 11852,SUPPORT,"Oh! But if I'm not in the stables, and ya need to find
 me, I'll be at the forest up north 'cause there's a
 buncha logs lying around up there.","Если меня не будет в конюшне, значит, 
@@ -167699,34 +167707,32 @@ paradise! My realm of exquisite solitude!","А, наконец-то я верн�
 12796,SUPPORT,Oh! Forget you heard anything!,"Ой! Забудьте всё, что слышали?"
 12796,SUPPORT,"Right. You didn't? Well, um. Good.","Ага. Не слышали? Чтож, это хорошо."
 12796,SUPPORT,"Edelgard is controlling the Empire. She is putting
-the pressure on the Kingdom and Alliance.","Эдельгард правит Империей. Она постоянно
-давит на Королевство и Альянс."
+the pressure on the Kingdom and Alliance.","Леди Эдельгард держит Империю в кулаке. 
+Она сильнее давит на Королевство и Альянс."
 12796,SUPPORT,"Empire and religion are at open war. It will be...
-difficult for us at first.","Империя и церковь находятся в состоянии
-открытой войны. Для нас... Это будет непросто."
+difficult for us at first.",Сначала... я думала — тяжело враждовать с Церковью.
 12796,SUPPORT,"But corrupt nobles are many. That means the
-common people will rebel and be joining our side.","Но очень много коррумпированных дворян.
-Это значит, что простые люди поднимут
-восстание и встанут на нашу сторону."
+common people will rebel and be joining our side.","Но есть много прогнивших аристократов. 
+Народ, который дал им отпор, стал ей
+союзниками."
 12796,SUPPORT,"With you, Professor, the battle tides will...ah, will
-turn. I have certainty.","Профессор, благодаря вам ход битвы
-изменится... Да, изменится. Я уверена."
+turn. I have certainty.","С вами, учитель, это мы схватим в кулак
+течение войны, я уверена."
 12796,SUPPORT,"I'm the heir of House Gautier, and I'm fighting
-alongside a bunch of Alliance people?","Профессор, благодаря вам ход битвы
-изменится... Да, изменится. Я уверена."
+alongside a bunch of Alliance people?","Подумать только: наследник дома Готье
+примкнул к рядам Альянса и сражается
+на их стороне."
 12796,SUPPORT,"I can just imagine my father's face contorted in anger
 and the delightful words he must have used to
-describe me.","Могу лишь представить гневное лицо отца,
-и те восхитительные слова, которые он
-использовал, чтобы меня описать."
+describe me.","Ха-ха, представляю себе гневное лицо отца,
+и как он кричит что-то вроде: «Идиот!»"
 12796,SUPPORT,"I don't know how staying and fighting for Faerghus 
-would have helped. ","Могу лишь представить гневное лицо отца,
-и те восхитительные слова, которые он
-использовал, чтобы меня описать."
+would have helped. ","Но если продолжать сражаться только в Фаэргусе,
+то мы вряд ли сдвинемся с мёртвой точки."
 12796,SUPPORT,"Sorry, Professor. I don't regret my decisions. I'm just
-thinking out loud.","Страшное зрелище. Но я верю в вас, профессор.
-Без сомнений."
-12796,SUPPORT,And I'm hoping I haven't made a big mistake.,"И надеюсь, что я не совершил большую ошибку."
+thinking out loud.",Я подумал так. Подумал — и вот я здесь.
+12796,SUPPORT,And I'm hoping I haven't made a big mistake.,"Прошу вас, пусть моё решение не окажется
+ошибкой."
 12796,SUPPORT,A country with no king has no future.,У страны без короля нет будущего.
 12796,SUPPORT,"That's why I made my way here. Professor, don't let
 me down.","Поэтому я здесь. Профессор, не подведите меня."
@@ -197011,7 +197017,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,I feel a little stronger.,Я стала немного сильнее.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Don't expect much more than that.,Большего и не ждите.
-4,MSGDATA,It was the least I could do.,"Это меньшее, что я мог сделать."
+4,MSGDATA,It was the least I could do.,"И так сойдёт, верно?"
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Gotta keep improving.,Нужно продолжать совершенствоваться.
 4,MSGDATA,Still far from the top.,Ещё не на высоте.
