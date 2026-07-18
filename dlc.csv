@@ -360,10 +360,10 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,Practice makes perfect and all that.,
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,All that studying has paid dividends.,
-34841,MSGDATA,I've come too far to stop now!,
-34841,MSGDATA,I'm still not where I want to be.,
-34841,MSGDATA,I remain unconvinced that I am any use in battle.,
+34841,MSGDATA,All that studying has paid dividends.,У меня отличная память!
+34841,MSGDATA,I've come too far to stop now!,Я изо всех сил стремлюсь к своей мечте!
+34841,MSGDATA,I'm still not where I want to be.,"Я ещё не могу сказать, что сравнялась с остальными."
+34841,MSGDATA,I remain unconvinced that I am any use in battle.,"Я не уверена, что хоть чем-то полезна в схватке."
 34841,MSGDATA,I'm getting the hang of this.,
 34841,MSGDATA,This'll come in handy.,
 34841,MSGDATA,$NONE,$NONE
@@ -372,7 +372,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,This sparks pleasure.,
+34841,MSGDATA,This sparks pleasure.,"Может, и это станет мне усладой..."
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
@@ -400,10 +400,10 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,Ah... I finally get it.,
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,It is still far from enough!,
-34841,MSGDATA,There is room to enrich myself further.,
-34841,MSGDATA,Even a mule will reach its destination.,
-34841,MSGDATA,Prowess is meaningless without resolve.,
+34841,MSGDATA,It is still far from enough!,И этого ещё недостаточно!
+34841,MSGDATA,There is room to enrich myself further.,И этого ещё недостаточно!
+34841,MSGDATA,Even a mule will reach its destination.,Такое под силу любому.
+34841,MSGDATA,Prowess is meaningless without resolve.,В моих руках эти умения бесполезны...
 34841,MSGDATA,Guess I learned a thing or two.,
 34841,MSGDATA,I'm almost tired of learning new things.,
 34841,MSGDATA,$NONE,$NONE
@@ -412,7 +412,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,I must continue to develop.,
+34841,MSGDATA,I must continue to develop.,Ещё острее...
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
@@ -440,10 +440,11 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,Can't wait to get back out there.,
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,Mastery is within my grasp!,
-34841,MSGDATA,Mastery is within my grasp!,
-34841,MSGDATA,To brag of this would invite mockery.,
-34841,MSGDATA,I am not qualified to command anyone.,
+34841,MSGDATA,Mastery is within my grasp!,Я непременно достигну совершенства!
+34841,MSGDATA,Mastery is within my grasp!,Я непременно достигну совершенства!
+34841,MSGDATA,To brag of this would invite mockery.,"Гордиться этим — только выставлять себя
+на посмешище."
+34841,MSGDATA,I am not qualified to command anyone.,Мне стыдно отдавать приказы на своём-то уровне.
 34841,MSGDATA,"I learn with my heart, not my head.",
 34841,MSGDATA,Intuition's all I need—but this'll help too.,
 34841,MSGDATA,$NONE,$NONE
@@ -452,7 +453,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,It is part of me now...,
+34841,MSGDATA,It is part of me now...,Это въелось мне под кожу...
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
@@ -480,10 +481,13 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,Now I'm indestructible!,
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,Yet another achievement to my credit.,
-34841,MSGDATA,"What might I achieve with this, hmm?",
-34841,MSGDATA,"And yet, I still need to grow.",
-34841,MSGDATA,I don't dare boast of my skill.,
+34841,MSGDATA,Yet another achievement to my credit.,Теперь мне очевидна сама суть!
+34841,MSGDATA,"What might I achieve with this, hmm?","С подобным навыком я обязана действовать
+ещё плодотворнее!"
+34841,MSGDATA,"And yet, I still need to grow.","Только сейчас мне стали видны
+спины моих дорогих друзей."
+34841,MSGDATA,I don't dare boast of my skill.,"Если хвалиться своим единственным умением,
+то оно же затем тебя и предаст."
 34841,MSGDATA,All that work paid off.,
 34841,MSGDATA,I'm in control.,
 34841,MSGDATA,$NONE,$NONE
@@ -492,7 +496,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
-34841,MSGDATA,I will wield this power with abandon.,
+34841,MSGDATA,I will wield this power with abandon.,Эту силу я буду применять до самозабвения.
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
 34841,MSGDATA,$NONE,$NONE
@@ -520,10 +524,10 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34842,MSGDATA,Must be my lucky day!,
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,What a delightful gift!,
-34842,MSGDATA,What a delightful gift!,
-34842,MSGDATA,Do I truly deserve such an extravagant gift?,
-34842,MSGDATA,Do I truly deserve such an extravagant gift?,
+34842,MSGDATA,What a delightful gift!,Какой прекрасный подарок!
+34842,MSGDATA,What a delightful gift!,Какой прекрасный подарок!
+34842,MSGDATA,Do I truly deserve such an extravagant gift?,"Это слишком изысканный подарок для такой, как я."
+34842,MSGDATA,Do I truly deserve such an extravagant gift?,"Это слишком изысканный подарок для такой, как я."
 34842,MSGDATA,"For me? Not gonna lie, this is pretty great.",
 34842,MSGDATA,"For me? Not gonna lie, this is pretty great.",
 34842,MSGDATA,$NONE,$NONE
@@ -532,7 +536,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,My gratitude.,
+34842,MSGDATA,My gratitude.,Благодарю.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -560,10 +564,10 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34842,MSGDATA,"Thanks, pal.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Why, how thoughtful of you!",
-34842,MSGDATA,"Why, how thoughtful of you!",
-34842,MSGDATA,My hands tremble to accept such a gift.,
-34842,MSGDATA,My hands tremble to accept such a gift.,
+34842,MSGDATA,"Why, how thoughtful of you!",Вы очень обходительны!
+34842,MSGDATA,"Why, how thoughtful of you!",Вы очень обходительны!
+34842,MSGDATA,My hands tremble to accept such a gift.,Мои руки дрожат от подобной щедрости...
+34842,MSGDATA,My hands tremble to accept such a gift.,Мои руки дрожат от подобной щедрости...
 34842,MSGDATA,That might come in handy. Thanks.,
 34842,MSGDATA,That might come in handy. Thanks.,
 34842,MSGDATA,$NONE,$NONE
@@ -572,7 +576,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'll take it.,
+34842,MSGDATA,I'll take it.,Я приму.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -600,10 +604,10 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34842,MSGDATA,"Huh. Well, it's gotta be worth somethin'.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'm...touched that you thought of me.,
-34842,MSGDATA,I'm...touched that you thought of me.,
-34842,MSGDATA,I shall treasure it always.,
-34842,MSGDATA,I shall treasure it always.,
+34842,MSGDATA,I'm...touched that you thought of me.,"Это?! Н-нет, мне это нравится!"
+34842,MSGDATA,I'm...touched that you thought of me.,"Это?! Н-нет, мне это нравится!"
+34842,MSGDATA,I shall treasure it always.,Я сохраню это в укромном месте.
+34842,MSGDATA,I shall treasure it always.,Я сохраню это в укромном месте.
 34842,MSGDATA,"No offense, but...what am I supposed to do with this?",
 34842,MSGDATA,"No offense, but...what am I supposed to do with this?",
 34842,MSGDATA,$NONE,$NONE
@@ -612,7 +616,7 @@ than gold to me.","Извините, но я отступаю... Я не соб�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Oh.,
+34842,MSGDATA,Oh.,А-а...
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -643,7 +647,8 @@ Gotta love this place.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Oooh! Exquisite! This is exactly the meal I've been
-craving.",
+craving.","О-хо-хо-хо! Именно это! Именно это блюдо я
+и хотела!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -655,7 +660,7 @@ craving.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,This food...brings fond memories.,
+34842,MSGDATA,This food...brings fond memories.,Это блюдо... пробуждает тёплые воспоминания.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -686,7 +691,8 @@ friends. Eating alone saps all the flavor.","Приятно есть в комп
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"How I do look forward to mealtime! Though I'm
-not quite sure about today's menu...",
+not quite sure about today's menu...","Это блюдо выглядит очень аппетитным!
+Только вот... из чего оно сделано?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -699,7 +705,7 @@ I just kinda showed up.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Dining with others exhausts me.,
+34842,MSGDATA,Dining with others exhausts me.,Принимать пищу вместе с другими... выматывает меня.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -731,7 +737,8 @@ I'd rank it just below eating this meal...",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Come now, Constance. You've eaten worse.
-You can get through this.",
+You can get through this.","В моём положении я не вправе жаловаться.
+Эти тяготы будут питать мой завтрашний день!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -743,7 +750,7 @@ You can get through this.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Even I have things that I cannot endure.,
+34842,MSGDATA,Even I have things that I cannot endure.,"Даже у меня есть то, что я не переношу."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -774,7 +781,8 @@ underway.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,My magic can sweeten any dish!,
+34842,MSGDATA,My magic can sweeten any dish!,"Если я применю свою магию, то любой
+ингредиент приобретёт сладкий вкус!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -787,7 +795,7 @@ off just eating it raw.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I have no experience cooking.,
+34842,MSGDATA,I have no experience cooking.,"В кулинарии... я ничего не смыслю, но..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -820,7 +828,8 @@ down and eat it up, yeah?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I don't see why you're making such a fuss. Whoever
-complained of food tasting too sweet?",
+complained of food tasting too sweet?","Ч-что значит: «будь осмотрительнее»? Зачем?! 
+Разве недостаточно просто сделать всё сладким?!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -832,7 +841,7 @@ complained of food tasting too sweet?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I can't bear watching... Give me that.,
+34842,MSGDATA,I can't bear watching... Give me that.,Не могу на это смотреть. Дай мне.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -863,7 +872,8 @@ for cover.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"♪Tra-la-laa la-laa... Sing out over peaks... Ring out
 over valleys... Let my lovely voice echo through
-the streets and alleys...♪",
+the streets and alleys...♪","Ла-ла-ла-ла-ла～♪ По долинам, по горам
+голос мой то тут, то там～♪"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -876,7 +886,7 @@ to do it without an audience.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I almost forgot how to sing...,
+34842,MSGDATA,I almost forgot how to sing...,"Я уже забыл, как петь и тому подобное..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
