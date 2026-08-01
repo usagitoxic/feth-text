@@ -1417,19 +1417,19 @@ indiscretion.","К-как правило, я не веду себя настол
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,Let's have some fun.,"Справимся на раз-два, я прав?"
-34842,MSGDATA,Let's have some fun.,"Мы справимся без проблем, я уверен."
+34842,MSGDATA,Let's have some fun.,"Справимся на раз-два, я прав?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"We got this, easy.",
-34842,MSGDATA,"We got this, easy.",
+34842,MSGDATA,"We got this, easy.",Для нас это проще простого.
+34842,MSGDATA,"We got this, easy.",Для нас это проще простого.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"It pains me that I must ask you this, but...",
-34842,MSGDATA,"It pains me that I must ask you this, but...",
-34842,MSGDATA,We'll be done before you know it.,
-34842,MSGDATA,We'll be done before you know it.,
+34842,MSGDATA,"It pains me that I must ask you this, but...",Мне тягостно обременять вас...
+34842,MSGDATA,"It pains me that I must ask you this, but...",Мне тягостно обременять вас...
+34842,MSGDATA,We'll be done before you know it.,Да мы быстро управимся.
+34842,MSGDATA,We'll be done before you know it.,Да мы быстро управимся.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1440,7 +1440,7 @@ indiscretion.","К-как правило, я не веду себя настол
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Woo-hoo! We're gonna nail this!,
+34842,MSGDATA,Woo-hoo! We're gonna nail this!,Давай поищем в этом выгоду!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1457,19 +1457,19 @@ indiscretion.","К-как правило, я не веду себя настол
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,Ready to have some fun?,Давай поскорее со всем разберёмся.
-34842,MSGDATA,Ready to have some fun?,Давайте поскорее со всем разберёмся.
+34842,MSGDATA,Ready to have some fun?,Давай поскорее со всем разберёмся.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Let's get it done. Got things to do.,
-34842,MSGDATA,Let's get it done. Got things to do.,
+34842,MSGDATA,Let's get it done. Got things to do.,Давай поскорее всё сделаем!
+34842,MSGDATA,Let's get it done. Got things to do.,Давай поскорее всё сделаем!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,You are all that I can rely on.,
-34842,MSGDATA,You are all that I can rely on.,
-34842,MSGDATA,I think we'll manage.,
-34842,MSGDATA,I think we'll manage.,
+34842,MSGDATA,You are all that I can rely on.,Я могу уповать лишь на вас.
+34842,MSGDATA,You are all that I can rely on.,Я могу уповать лишь на вас.
+34842,MSGDATA,I think we'll manage.,Давай вместе возьмёмся за дело?
+34842,MSGDATA,I think we'll manage.,Давай вместе возьмёмся за дело?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1480,7 +1480,7 @@ indiscretion.","К-как правило, я не веду себя настол
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,We can do this!,
+34842,MSGDATA,We can do this!,Давай поскорее сделаем дело!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1497,21 +1497,23 @@ indiscretion.","К-как правило, я не веду себя настол
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,Let's do this.,Давай по-быстрому всё закруглим.
-34842,MSGDATA,Let's do this.,Давайте побыстрее всё закруглим?
+34842,MSGDATA,Let's do this.,Давай по-быстрому всё закруглим.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'm counting on you.,
-34842,MSGDATA,I'm counting on you.,
+34842,MSGDATA,I'm counting on you.,"Ну, погнали."
+34842,MSGDATA,I'm counting on you.,"Ну, погнали."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"My presence will affect nothing, I'm sure, but I shall
-put forth the effort.",
+put forth the effort.","Моё присутствие ни на что не повлияет,
+но я буду стараться."
 34842,MSGDATA,"My presence will affect nothing, I'm sure, but I shall
-put forth the effort.",
-34842,MSGDATA,I'm not sure about this.,
-34842,MSGDATA,I'm not sure about this.,
+put forth the effort.","Моё присутствие ни на что не повлияет,
+но я буду стараться."
+34842,MSGDATA,I'm not sure about this.,А мы можем побыстрее со всем справиться?
+34842,MSGDATA,I'm not sure about this.,А мы можем побыстрее со всем справиться?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1522,7 +1524,7 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Let's just get this done.,
+34842,MSGDATA,Let's just get this done.,Поработаем!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1539,19 +1541,21 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,This'll be fun.,"А, справимся в два счёта."
-34842,MSGDATA,This'll be fun.,"Да, мы очень скоро со всем справимся."
+34842,MSGDATA,This'll be fun.,"А, справимся в два счёта."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Knew I could trust you.,
-34842,MSGDATA,Knew I could trust you.,
+34842,MSGDATA,Knew I could trust you.,"Да, на тебя можно положиться!"
+34842,MSGDATA,Knew I could trust you.,"Да, на тебя можно положиться!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"I understand what an imposition this is, but...",
-34842,MSGDATA,"I understand what an imposition this is, but...",
-34842,MSGDATA,"All right, I'm in.",
-34842,MSGDATA,"All right, I'm in.",
+34842,MSGDATA,"I understand what an imposition this is, but...","Благодарю за помощь — простите за
+предоставленные неудобства."
+34842,MSGDATA,"I understand what an imposition this is, but...","Благодарю за помощь — простите за
+предоставленные неудобства."
+34842,MSGDATA,"All right, I'm in.","Ага-а, так точно..."
+34842,MSGDATA,"All right, I'm in.","Ага-а, так точно..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1562,7 +1566,7 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"I see the future, and it's gold!",
+34842,MSGDATA,"I see the future, and it's gold!",Это не праздная мечта — разбогатеть в одночасье!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1579,19 +1583,19 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,Easy as pie.,"Ну, ведь это же легко?"
-34842,MSGDATA,Easy as pie.,"Ну, ведь это будет просто?"
+34842,MSGDATA,Easy as pie.,"Ну, ведь это же легко?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Doubt we even break a sweat.,
-34842,MSGDATA,Doubt we even break a sweat.,
+34842,MSGDATA,Doubt we even break a sweat.,"Да, давай побыстрее со всем управимся."
+34842,MSGDATA,Doubt we even break a sweat.,"Да, давай побыстрее со всем управимся."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'll try not to get in the way too much.,
-34842,MSGDATA,I'll try not to get in the way too much.,
-34842,MSGDATA,Here we go.,
-34842,MSGDATA,Here we go.,
+34842,MSGDATA,I'll try not to get in the way too much.,Я постараюсь не быть обузой.
+34842,MSGDATA,I'll try not to get in the way too much.,Я постараюсь не быть обузой.
+34842,MSGDATA,Here we go.,"Ну, приступим?"
+34842,MSGDATA,Here we go.,"Ну, приступим?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1602,7 +1606,7 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Mm-hmm!,
+34842,MSGDATA,Mm-hmm!,Солидарна с тобой!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1618,22 +1622,24 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"All right, come on.","Ну-у, впряжёмся."
-34842,MSGDATA,"All right, come on.","Ну, давайте поработаем."
+34842,MSGDATA,"All right, come on.","Ну, впряжёмся."
+34842,MSGDATA,"All right, come on.","Ну, впряжёмся."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,We'll see what happens.,
-34842,MSGDATA,We'll see what happens.,
+34842,MSGDATA,We'll see what happens.,"Ну, не подведи."
+34842,MSGDATA,We'll see what happens.,"Ну, не подведи."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Very well. You shall have my help, for what little
-that is worth.",
+that is worth.","Да, я приложу все старания, невзирая на свою
+беспомощность."
 34842,MSGDATA,"Very well. You shall have my help, for what little
-that is worth.",
-34842,MSGDATA,Wish us luck. We're gonna need it.,
-34842,MSGDATA,Wish us luck. We're gonna need it.,
+that is worth.","Да, я приложу все старания, невзирая на свою
+беспомощность."
+34842,MSGDATA,Wish us luck. We're gonna need it.,"Ага, поработаем."
+34842,MSGDATA,Wish us luck. We're gonna need it.,"Ага, поработаем."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1644,7 +1650,7 @@ that is worth.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,We can do this.,
+34842,MSGDATA,We can do this.,Постараемся!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1660,7 +1666,7 @@ that is worth.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Let's have some fun.,"Справимся на раз-два, я прав?"
+34842,MSGDATA,Let's have some fun.,"Мы справимся без проблем, я уверен."
 34842,MSGDATA,Let's have some fun.,"Мы справимся без проблем, я уверен."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1670,10 +1676,10 @@ that is worth.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"It pains me that I must ask you this, but...",
-34842,MSGDATA,"It pains me that I must ask you this, but...",
-34842,MSGDATA,Let's get it done.,
-34842,MSGDATA,Let's get it done.,
+34842,MSGDATA,"It pains me that I must ask you this, but...",Мне тягостно обременять вас...
+34842,MSGDATA,"It pains me that I must ask you this, but...",Мне тягостно обременять вас...
+34842,MSGDATA,Let's get it done.,Давайте управимся быстро.
+34842,MSGDATA,Let's get it done.,Давайте управимся быстро.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1700,25 +1706,20 @@ that is worth.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Ready to have some fun?,Давай поскорее со всем разберёмся.
+34842,MSGDATA,Ready to have some fun?,Давайте поскорее со всем разберёмся.
 34842,MSGDATA,Ready to have some fun?,Давайте поскорее со всем разберёмся.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Let's get it done. Got things to do.,
-34842,MSGDATA,Let's get it done. Got things to do.,
+34842,MSGDATA,Let's get it done. Got things to do.,Давайте поскорее всё сделаем.
+34842,MSGDATA,Let's get it done. Got things to do.,Давайте поскорее всё сделаем.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,You are all that I can rely on.,
-34842,MSGDATA,You are all that I can rely on.,
-34842,MSGDATA,I think we can handle this.,
-34842,MSGDATA,I think we can handle this.,
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,You are all that I can rely on.,Я могу уповать лишь на вас.
+34842,MSGDATA,You are all that I can rely on.,Я могу уповать лишь на вас.
+34842,MSGDATA,I think we can handle this.,Давайте вместе возьмёмся за дело?
+34842,MSGDATA,I think we can handle this.,Давайте вместе возьмёмся за дело?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1740,22 +1741,29 @@ that is worth.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Let's do this.,Давай по-быстрому всё закруглим.
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,Let's do this.,Давайте побыстрее всё закруглим?
 34842,MSGDATA,Let's do this.,Давайте побыстрее всё закруглим?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'm counting on you.,
-34842,MSGDATA,I'm counting on you.,
+34842,MSGDATA,I'm counting on you.,"Ну, приступим."
+34842,MSGDATA,I'm counting on you.,"Ну, приступим."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"My presence will affect nothing, I'm sure, but I shall
-put forth the effort.",
+put forth the effort.","Моё присутствие ни на что не повлияет,
+но я буду стараться."
 34842,MSGDATA,"My presence will affect nothing, I'm sure, but I shall
-put forth the effort.",
-34842,MSGDATA,I'm not sure about this.,
-34842,MSGDATA,I'm not sure about this.,
+put forth the effort.","Моё присутствие ни на что не повлияет,
+но я буду стараться."
+34842,MSGDATA,I'm not sure about this.,А мы можем побыстрее со всем справиться?
+34842,MSGDATA,I'm not sure about this.,А мы можем побыстрее со всем справиться?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1782,27 +1790,22 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,This'll be fun.,"А, справимся в два счёта."
+34842,MSGDATA,This'll be fun.,"Да, мы очень скоро со всем справимся."
 34842,MSGDATA,This'll be fun.,"Да, мы очень скоро со всем справимся."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Knew I could trust you.,
-34842,MSGDATA,Knew I could trust you.,
+34842,MSGDATA,Knew I could trust you.,"Да, на вас можно положиться!"
+34842,MSGDATA,Knew I could trust you.,"Да, на вас можно положиться!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"I understand what an imposition this is, but...",
-34842,MSGDATA,"I understand what an imposition this is, but...",
-34842,MSGDATA,Yup. We're on it.,
-34842,MSGDATA,Yup. We're on it.,
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,"I understand what an imposition this is, but...","Благодарю за помощь — простите за
+предоставленные неудобства."
+34842,MSGDATA,"I understand what an imposition this is, but...","Благодарю за помощь — простите за
+предоставленные неудобства."
+34842,MSGDATA,Yup. We're on it.,"Да-а, так точно."
+34842,MSGDATA,Yup. We're on it.,"Да-а, так точно."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1822,25 +1825,27 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Easy as pie.,"Ну, ведь это же легко?"
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,Easy as pie.,"Ну, ведь это будет просто?"
 34842,MSGDATA,Easy as pie.,"Ну, ведь это будет просто?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Doubt we even break a sweat.,
-34842,MSGDATA,Doubt we even break a sweat.,
+34842,MSGDATA,Doubt we even break a sweat.,"Да, давайте побыстрее со всем управимся."
+34842,MSGDATA,Doubt we even break a sweat.,"Да, давайте побыстрее со всем управимся."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'll try not to get in the way too much.,
-34842,MSGDATA,I'll try not to get in the way too much.,
-34842,MSGDATA,Let's get started.,
-34842,MSGDATA,Let's get started.,
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,I'll try not to get in the way too much.,Я постараюсь не быть обузой.
+34842,MSGDATA,I'll try not to get in the way too much.,Я постараюсь не быть обузой.
+34842,MSGDATA,Let's get started.,Давайте приступим?
+34842,MSGDATA,Let's get started.,Давайте приступим?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -1862,22 +1867,29 @@ put forth the effort.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"All right, come on.","Ну-у, впряжёмся."
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,"All right, come on.","Ну, давайте поработаем."
 34842,MSGDATA,"All right, come on.","Ну, давайте поработаем."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,We'll see what happens.,
-34842,MSGDATA,We'll see what happens.,
+34842,MSGDATA,We'll see what happens.,"Ну, рассчитываю на вас."
+34842,MSGDATA,We'll see what happens.,"Ну, рассчитываю на вас."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Very well. You shall have my help, for what little
-that is worth.",
+that is worth.","Да, я приложу все старания, невзирая на свою
+беспомощность."
 34842,MSGDATA,"Very well. You shall have my help, for what little
-that is worth.",
-34842,MSGDATA,Let's try not to screw this up.,
-34842,MSGDATA,Let's try not to screw this up.,
+that is worth.","Да, я приложу все старания, невзирая на свою
+беспомощность."
+34842,MSGDATA,Let's try not to screw this up.,"Да, надеюсь на вашу помощь..."
+34842,MSGDATA,Let's try not to screw this up.,"Да, надеюсь на вашу помощь..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
