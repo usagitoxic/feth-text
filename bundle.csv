@@ -14958,7 +14958,8 @@ Halves monster damage. Restores HP each turn.","Священный щит, св�
 projectiles. Nullifies effectiveness against fliers.","Щит, дарующий священную защиту от снарядов. 
 Обнуляет врагу эффективность против летающих войск."
 0,MSGDATA,"A shield that can stop armor-piercing attacks.
-Nullifies extra effectiveness against armored units.","Щит, предотвращающий удары, пробивающие доспехи. Обнуляет врагу эффективность против тяжелых войск."
+Nullifies extra effectiveness against armored units.","Щит, предотвращающий удары, пробивающие доспехи. 
+Обнуляет врагу эффективность против тяжёлых войск."
 0,MSGDATA,"A shield that offers divine protection for steeds.
 Nullifies extra effectiveness against cavalry units.","Щит, дарующий священную защиту скакунам. Обнуляет
 эффективность против кавалерии."
@@ -51322,7 +51323,9 @@ common ancestry.",Наши похожие цвета волос и глаз - д
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Ever since your hair shifted to look more like mine,
-I feel so much closer to you.","С тех пор, как ваши волосы стали больше похожи на мои, я чувствую себя гораздо ближе к вам."
+I feel so much closer to you.","С тех пор как цвет ваших волос стал таким же,
+как у меня, я больше не воспринимаю вас как 
+чужого человека, учитель."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"You like how I have my beard trimmed? Thank you.
@@ -54227,7 +54230,8 @@ and I have seen many things.","За эти пять лет я много где 
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"You've become quite expressive, haven't you?
-You weren't like that when we first met.","Вы стали очень выразительными, не правда ли? В первую нашу встречу всё было совсем не так."
+You weren't like that when we first met.","А ваше лицо стало выразительнее, не правда ли? 
+Не то что в начале нашего знакомства."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Sometimes I like to imagine that you were sent to us
@@ -85383,7 +85387,7 @@ I will tell you all I know about who you really are.","Как только эт�
 11597,SUPPORT,"That's a serious injury... It's a miracle that she's even
 alive right now. I'll do what I can, but...","Рана очень серьёзная... Чудо, что она вообще осталась
 жива. Я сделаю всё, что в моих силах, но..."
-11597,SUPPORT,Goddess... Please save Lady Rhea...,"Богиня... Пожалуйста, спаси леди Рию..."
+11597,SUPPORT,Goddess... Please save Lady Rhea...,"Богиня... Пожалуйста, спаси леди Рею..."
 11597,SUPPORT,All we can do now is pray...,"Все, что мы можем сейчас сделать, это молиться..."
 11597,SUPPORT,"Remember when this place was taken five years ago,
 and a pure White Beast appeared on the battlefield?","Помните, когда это место было взято пять лет назад,
@@ -85658,15 +85662,16 @@ I could regain all that had been lost...","Да. Я верила, что есл�
 11598,SUPPORT,"I suspected that your body housed the consciousness
 of Sothis.","Я подозревала, что в твоем теле находится сознание Сотис."
 11598,SUPPORT,"Those suspicions were correct. And yet, she merely
-gave you her power and vanished...","Эти подозрения оправдались. И все же, она
-просто одала тебе свою силу и исчезла..."
+gave you her power and vanished...","Предчувствие не обмануло меня. Но отчего-то
+Богиня-прародительница просто отдала тебе
+свои силы и исчезла..."
 11598,SUPPORT,"My dearest wish did not come true... But you did
-inherit the power of the progenitor god.","Мое заветное желание не исполнилось... Но ты
-унаследовала силу богини-прародительницы."
+inherit the power of the progenitor god.","Моё заветное желание не исполнилось... Но ты
+$EK00унаследовал$EL00унаследовала$EM00 силу Богини-прародительницы."
 11598,SUPPORT,"Now, you must use that power to defeat Nemesis
-once and for all.","Теперь, ты должна использовать эту силу,
-чтобы победить Немезиса раз и навсегда."
-11598,SUPPORT,Fódlan's blood-stained history...must end.,Кровавая история Фодлана... должна завершиться.
+once and for all.","$S0, тебе придётся снова победить Немезиса
+при помощи этой силы..."
+11598,SUPPORT,Fódlan's blood-stained history...must end.,Поставь точку... в кровавой истории Фодлана.
 11599,SUPPORT,"What's the plan, my friend?","Ну, друг мой, каков наш план?"
 11599,SUPPORT,We will defeat Nemesis.,Уничтожить Немезиса.
 11599,SUPPORT,"I thought you'd say that. And of course,
@@ -137243,79 +137248,89 @@ bring the sunshine around—that would be especially
 handy for helping out with the wash.","Хм-м... Возможно мы можем найти кого-то кто приносит
 солнечный свет. Это было бы очень удобно при стирке."
 12370,SUPPORT,"Now, there's an idea!",Замечательная идея!
-12371,SUPPORT,"Lysithea, do you have a moment?","Лисистея, найдётся минутка?"
-12371,SUPPORT,I do. What do you need to speak with me about?,Конечно. О чём Вы хотели поговорить?
+12371,SUPPORT,"Lysithea, do you have a moment?","Лиситея, можно тебя на минутку?"
+12371,SUPPORT,I do. What do you need to speak with me about?,"Д-да, леди Катерина. Что вы хотели?"
 12371,SUPPORT,"I was thinking about the time we talked about our
-Crests bringing bad weather.","Я тут подумала о нашем разговоре про наши Герба,
-вызывающие плохую погоду."
+Crests bringing bad weather.","Ты помнишь наш разговор о том, что Гербы,
+возможно, могут влиять на погоду?"
 12371,SUPPORT,"Hm, yes. We never did get to test that theory,
-since I haven't found any sun-bringing folks.","Верно. Мы так и не проверили нашу теорию, мне не
-удалось найти людей, приносящих солнце."
+since I haven't found any sun-bringing folks.","Да, но мне не удалось найти ни мужчин, 
+ни женщин, приносящих солнце, так что
+это ещё на стадии проверки."
 12371,SUPPORT,"Joking aside, each Crest is unique in how it impacts
-the bearer's life.","Шутки в сторону, каждая Герб уникальна тем, как
-она влияет на жизнь её носителя."
+the bearer's life.","Даже невзирая на это, доподлинно известно, что
+у каждого Герба есть свои особенности."
 12371,SUPPORT,"I've seen more than my share of Crest-bearers,
-after all.","В конце концов, я повидала достаточно носителей Гербов."
+after all.","И в Королевстве, и в рыцарском ордене я видела
+много людей с Гербами."
 12371,SUPPORT,"Some of them bore Crests of Charon, like us...
-Some even bore Crests of Gloucester.","Некоторые из них носили Герб Харона, как мы...
-Некоторые даже Герб Глоустера."
-12371,SUPPORT,"Certainly, but I don't see your point.","Верно, но я не понимаю к чему Вы клоните."
-12371,SUPPORT,I'm not a Crest scholar. I don't know all the details...,Я не рунолог. И не знаю всех деталей... 
+Some even bore Crests of Gloucester.","Среди них были и обладатели Герба Харона...
+и Герба Глостера."
+12371,SUPPORT,"Certainly, but I don't see your point.",Ах!.. А... к чему вы клоните?..
+12371,SUPPORT,I'm not a Crest scholar. I don't know all the details...,"Я не геральдист, так что не разбираюсь
+ни в особенностях, ни в деталях каждого
+из Гербов."
 12371,SUPPORT,"But I have a knack for guessing a person's Crest just
-by looking at them.","Но у меня есть способность угадать Герб человека,
-просто посмотрев на него..."
+by looking at them.","Но я хорошо умею по одной осанке угадывать, 
+какой Герб дарован человеку."
 12371,SUPPORT,...,...
-12371,SUPPORT,"Forgive me, but... Do you have two Crests?","Прости меня, конечно... Но у тебя две Герба?"
-12371,SUPPORT,"Er, um, well...","Эм, ну... Как бы..."
+12371,SUPPORT,"Forgive me, but... Do you have two Crests?","Прости, если ошибаюсь. Тебе... дарованы
+два Герба?"
+12371,SUPPORT,"Er, um, well...",Э... это...
 12371,SUPPORT,"You don't have to tell me. I mean, it shouldn't even
-be possible to bear two Crests.","Ты не обязана мне говорить. Я хочу сказать, что две
-Герба носить очень тяжело."
+be possible to bear two Crests.","Хотя нет, не отвечай. В норме подобное невозможно."
 12371,SUPPORT,"So if you do have two, you must be sitting on some
-major secrets.","Если у тебя из две, значит ты хранишь некоторые очень
-большие секреты."
-12371,SUPPORT,It's nice to know that someone understands...,"Замечательно знать, что хоть кто-то понимает..."
+major secrets.","Но если допустить обратное... то за этим фактом 
+кроются какие-то необычные обстоятельства."
+12371,SUPPORT,It's nice to know that someone understands...,"Пожалуйста, не расспрашивайте."
 12371,SUPPORT,"Of course. Everyone has things they would rather
-not talk about.",Конечно. У всех есть что-то о чём лучше не говорить.
+not talk about.","Понимаю — у всех есть жизненные обстоятельства,
+которые хотелось бы скрыть."
 12371,SUPPORT,"For all you know, Catherine's not my real name.
-Maybe I'm an outlaw, on the run from my homeland!","Насколько тебе известно, моё настоящее имя не
-Катерина. Может я преступница, сбежавшая из своей
-страны."
-12371,SUPPORT,"That can't be true, can it?! Stop messing with me!","Это же не правда, да?! Перестаньте надо мной шутить!"
+Maybe I'm an outlaw, on the run from my homeland!","Как знать, может, на самом деле я вообще 
+преступница в бегах из другой страны, а 
+Катерина — это лишь мой псевдоним."
+12371,SUPPORT,"That can't be true, can it?! Stop messing with me!",Э-э?! Что за шутки?!
 12371,SUPPORT,"I was kidding! Though who knows, maybe there
-is some truth in it.","Шучу-шучу! И всё же, кто знает, может за этими словами
-скрывается доля правды."
+is some truth in it.","Ха-ха, твоя реакция мне по душе. Это был лишь
+пример. Но... можешь думать о нём, что хочешь."
 12371,SUPPORT,"My point is, no matter what secrets we're keeping,
-I'm still me and you're still you.","Я хочу сказать, что не важно какие секреты мы храним.
-Я - это всё ещё я, а ты – всё ещё ты."
+I'm still me and you're still you.","Но какими бы ни были наши тайные обстоятельства,
+я — это я, а ты — это ты."
 12371,SUPPORT,"I do worry a little about you. You never seem to let
-your guard down around other people.","Я о тебе немного беспокоюсь. Кажется, ты никогда не
-теряешь бдительности в окружении других людей."
+your guard down around other people.","Но я немного волнуюсь за тебя. Обычно ты
+кажешься самой стойкой среди остальных."
 12371,SUPPORT,"That can't be easy. You know, it's important for you
-to relax once in a while.","Это нелегко. Знаешь, иногда важно отдыхать."
-12371,SUPPORT,I don't even know the meaning of the word.,Я даже не понимаю смысла этого слова.
+to relax once in a while.","Постоянно держать себя в руках — это тяжело. 
+Иногда нужно выпускать пар."
+12371,SUPPORT,I don't even know the meaning of the word.,"Выпускать пар... Но я не знаю, как это
+делать."
 12371,SUPPORT,"That's easy! Just gab with your friends about
-something pointless and the stress will fade away!","Всё просто! Просто поболтай с друзьями о чём-то
-бессмысленном. Тогда и напряжение уйдёт."
-12371,SUPPORT,"I'm always happy to chat, if you're interested.","Если что, я всегда готова поговорить."
+something pointless and the stress will fade away!","Это просто. Достаточно поболтать с другим 
+человеком о какой-нибудь ерунде — и уже 
+станет немного легче."
+12371,SUPPORT,"I'm always happy to chat, if you're interested.",Можно со мной — я всегда открыта к болтовне.
 12371,SUPPORT,"Well... Thank you. Why are you being so kind to
-me, anyway?","Ну... Спасибо Вам. И всё же, почему Вы ко мне так
-добры?"
-12371,SUPPORT,I just feel a certain kinship with you.,Я почему-то чувствую с тобой какое-то родство.
+me, anyway?",Спасибо большое. Но почему вы со мной так добры?
+12371,SUPPORT,I just feel a certain kinship with you.,"Может, чувствую родственную душу?
+Мы соратницы с общим Гербом Харона..."
 12371,SUPPORT,"We both have Crests of Charon, and we both have
-secrets we can't share with anyone.","У нас обеих Герба Харона. И есть свои секреты,
-которыми не можем ни с кем поделиться."
+secrets we can't share with anyone.","К тому же, у нас обеих есть тяжёлые жизненные
+обстоятельства, о которых мы не можем никому
+рассказать."
 12371,SUPPORT,"I see. I will say I'm happy to have someone around
-who actually seems to understand me.","Вот как. Могу сказать, я рада, что рядом есть кто-то,
-кто в самом деле меня понимает."
+who actually seems to understand me.","Хи-хи, ну, раз так, я с радостью приму доброту
+леди Катерины."
 12371,SUPPORT,"Good! You can feel comfortable with me. Since we
-have the same Crest, we're basically sisters.","Прекрасно! Можешь рядом со мной расслабиться. Раз
-у нас одна Герб, мы практически сёстры."
+have the same Crest, we're basically sisters.","И не стесняйся даже. У нас одинаковые Гербы,
+так что мы с тобой как сёстры."
 12371,SUPPORT,"Aww. I...I really like that. Someone as wonderful as
-you as my big sister?","О-о-ох. Мне... А мне нравится. Кто-то такая
-замечательная, как Вы, да ещё и моя старшая сестра?"
+you as my big sister?","Я так счастлива! Если моей старшей сестрой
+будете вы, леди Катерина, то о лучшей
+поддержке и опоре я и мечтать не могу!"
 12371,SUPPORT,"Well, don't you just say the cutest things. That's my
-little sister for you!","Ну, не говори настолько милых вещей. Прямо моя
-младшая сестрёнка."
+little sister for you!","Какие же милые вещи ты говоришь. Вот что 
+значит — моя сестрёнка. Ха-ха-ха-ха!"
 12372,SUPPORT,"Hmm, this one oughta do.",Хм-м. Это надо сделать.
 12372,SUPPORT,"Uh, what are you doing, Cyril?","Эм, Кирилл, что ты делаешь?"
 12372,SUPPORT,"I'm picking out logs to carry back and chop 
@@ -192322,16 +192337,20 @@ this mess... Well, at least it's over.","Мы так убивались и вс�
 put in a little more effort.","Могло бы быть и лучше. Может в следующий раз
 мне стоит приложить чуть больше усилий."
 2,MSGDATA,"I guess I have no choice. I'll have to really put my
-back into it.","Ну, кажется, выбора у меня нет. Придётся серьезно напрячься."
+back into it.","Значит, я с Клодом... Выбора нет, придётся
+серьёзно напрячься."
 2,MSGDATA,"You've learned that there's no sweet talking me,
-have you? Then I'll work without slacking too.","Ты, наконец, понял, что подлизывание не сработает со мной?
-Значит, и я не буду отлынивать."
+have you? Then I'll work without slacking too.","Ха-ха-ха, так ты поняла наконец, что бесполезно 
+со мной кокетничать? Значит, и я не буду отлынивать."
 2,MSGDATA,"I guess if we both take it seriously, we're bound to
-get good results, right?","Я так понимаю, если мы оба серьезно отнесемся к делу, то получим хорошие результаты, так?"
+get good results, right?","Если мы оба ответственно займёмся делом, 
+то результат может получиться неожиданно 
+хорошим, наверное."
 2,MSGDATA,"Check this out, Teach. This is what happens when
-Hilda actually works at something!","препод, зацените. Вот что происходит, когда Хильда действительно что-то делает!"
+Hilda actually works at something!","Взгляните, учитель. Всё благодаря стараниям Хильды."
 2,MSGDATA,"I didn't mean to do so well! Please don't raise
-your expectations.",Я не хотела! Только не завышайте ваши ожидания от меня!
+your expectations.","Так случайно получилось, ненароком! Не надо
+многого от меня ожидать, это напрягает."
 2,MSGDATA,"Hmm, we didn't manage to divide up the work
 well enough. I didn't mean to cut corners...","Хм, у нас не получилось нормально распределить обязанности.
 Не хотелось мне срезать..."
