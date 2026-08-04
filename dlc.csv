@@ -4593,7 +4593,7 @@ sad. Now why would you wanna do that?","Не расстраивайте нас �
 been waiting for a good fight.","Здешние ребята жаждут развлечений. Им не
 терпится поиграть в войнушку."
 32007,SUPPORT,"Wow, look at that. A flawless example of a surprise
-attack. These aren't your run-of-the-mill thugs.","Хо-хо?.. Нас блестяще взяли в клещи ― как
+attack. These aren't your run-of-the-mill thugs.","Хо-хо?.. Нас блестяще взяли в клещи — как
 и стоило ожидать, это не простые бродяги."
 32007,SUPPORT,"Claude, this isn't the time to be impressed by our
 enemy. We must find a way through at once.","Эй, Клод. Не время восхищаться. Если мы
@@ -11873,78 +11873,115 @@ earned a battalion!",
 earned a battalion!",
 32211,SUPPORT,"You're not a holy knight, and you don't seem all that
 special, but you're certainly mysterious, wielding that
-Hero's Relic.",
+Hero's Relic.","Вы не святой рыцарь, но владеете Реликвией 
+Героя — таинственный учитель...
+До меня доходили слухи о вас."
 32211,SUPPORT,"Yeah, I've heard all about you. But I never figured
 I'd see you down here, chasing after someone and
-getting lost in the process.",
-32211,SUPPORT,What is this place?,
-32211,SUPPORT,"An underground house, huh?",
+getting lost in the process.","Но вряд ли я мог представить, что такой человек 
+погонится за мелким преступником и заблудится 
+глубоко в подземельях."
+32211,SUPPORT,What is this place?,Это аудитория?..
+32211,SUPPORT,"An underground house, huh?",Под землёй есть свой дом?..
 32211,SUPPORT,"The classroom for the Ashen Wolf House.
 Just so we're clear, we're not affiliated with
-the Officers Academy.",
+the Officers Academy.","Это классная комната дома Пепельных
+Волков. Конечно, студентами Офицерской
+академии мы не являемся."
 32211,SUPPORT,"That's right. And so we're clear, the Ashen Wolf
-House isn't affiliated with the Officers Academy.",
+House isn't affiliated with the Officers Academy.","Ну-у, строго говоря, дом Пепельных Волков
+не относится к домам Офицерской академии."
 32211,SUPPORT,"Since we're not part of the academy, it's really just in
 place for us. Can't go to the surface either. We've
-all got our reasons.",
+all got our reasons.","Здесь размещаются «бывшие» студенты, 
+которые по тем или иным обстоятельствам 
+не могут появляться на поверхности."
 32211,SUPPORT,"We're a unique bunch from all walks of life. Once
-you get to know us, I'm sure you'll love it here.",
+you get to know us, I'm sure you'll love it here.","Не отрицаю — мы тут сплошные изгои,
+но когда привыкаешь, здесь уютно."
 32211,SUPPORT,"Heya, Professor! Allow me to introduce you to my
-brother's best friend. You can call him Baltie.",
+brother's best friend. You can call him Baltie.","Учитель, познакомьтесь. Это давний друг моего
+старшего брата, Хольста — братец Бальти!"
 32211,SUPPORT,"Actually, it's Balthus. You've probably heard of me.
-In the Alliance, I'm known as a...how should I put it?",
-32211,SUPPORT,A hero?,
-32211,SUPPORT,An outlaw?,
+In the Alliance, I'm known as a...how should I put it?","Да Бальтазар я. В Альянсе я широко известен как...
+Как бы сказать?.."
+32211,SUPPORT,A hero?,Как герой?
+32211,SUPPORT,An outlaw?,Как человек в розыске?
 32211,SUPPORT,"Heh, something like that. To be precise, I'm known
-as the Undisputed King of Grappling!",
+as the Undisputed King of Grappling!","Да-да, именно так. Ещё меня знают как 
+Лестерского Короля Рукопашной!"
 32211,SUPPORT,"Right answer! This guy's notorious for picking fights
 and shirking debts. He's got a whole army of bounty
-hunters chasing after him.",
+hunters chasing after him.","Правильно. Много дрался, не расплачивался
+с долгами — вот за ним теперь и гоняются
+охотники за головами."
 32211,SUPPORT,"I may not look it, but I was once a noble from a
-minor house. Life's full of twists and turns.",
+minor house. Life's full of twists and turns.","Вообще-то раньше я был аристократом 
+из захудалого дома, но никогда не знаешь, 
+как жизнь обернётся!"
 32211,SUPPORT,"I know you, Baltie. I'm pretty sure you got yourself
-into this mess.",
+into this mess.","Зная тебя, Бальти, ведь тебе самому эту кашу
+и придётся расхлёбывать, раз ты сам её заварил?"
 32211,SUPPORT,"Pardon, but might you possibly be the Imperial
-princess herself?",
-32211,SUPPORT,I am. And you are Constance of House Nuvelle.,
+princess herself?","Мне нежданно пришла в голову мысль...
+Неужели ты — Её Высочество Эдельгард
+собственной персоной?!"
+32211,SUPPORT,I am. And you are Constance of House Nuvelle.,"Да, это так. А ты — Констанция из дома Нувэль."
 32211,SUPPORT,"I recall hearing of your disappearance. I never would
-have imagined you'd end up in a place like this...",
+have imagined you'd end up in a place like this...","Я знала о том, что ты пропала без вести,
+но о том, что ты живёшь в подобном месте..."
 32211,SUPPORT,"Your presence is equally curious. What business
-could you have here?",
-32211,SUPPORT,Don't tell me it was idle curiosity.,
+could you have here?","Но какая может быть необходимость находиться
+в подобном месте у принцессы?"
+32211,SUPPORT,Don't tell me it was idle curiosity.,Неужели дело и правда в праздном любопытстве?
 32211,SUPPORT,"As I believe you are well aware, we were chasing
-after a suspicious individual.",
+after a suspicious individual.","Ты знаешь, что не в любопытстве — мы 
+преследовали подозрительного человека..."
 32211,SUPPORT,"Hey, new person. Want my advice? Don't wander
 too far off the beaten path.",
 32211,SUPPORT,"Abyssians like their privacy. If you go snooping
 around, there's bound to be trouble.",
 32211,SUPPORT,"Wait, did I introduce myself? My name's Hapi.",
 32211,SUPPORT,"What do you think, Professor? This is a most...
-unique town, is it not?",
+unique town, is it not?","А, учитель, вы тоже осматриваете улицы?
+Вы не считаете, что это — прекрасный город?"
 32211,SUPPORT,"Incredible, really, that those who faced oppression
-on the surface are able to find sanctuary here.",
+on the surface are able to find sanctuary here.","Люди, которых беспричинно притесняли 
+на поверхности, могут свободно жить 
+в этом городе."
 32211,SUPPORT,"Oh, not to say that there's no helping the situation
-in Fódlan. To do just that is our duty and our honor.",
-32211,SUPPORT,"Even so, I find the idea...rather lovely.",
+in Fódlan. To do just that is our duty and our honor.","Да, я понимаю, что это наша миссия — изменить
+уклад жизни наверху, но..."
+32211,SUPPORT,"Even so, I find the idea...rather lovely.","Просто... Я искренне думаю, что это прекрасно."
 32211,SUPPORT,"Who knew an entire town was hiding beneath
-the monastery?",
+the monastery?","Кто же знал, что под Гаррег Махом скрывается
+такое место!"
 32211,SUPPORT,"And a secret fourth house to boot. Secrets upon
-secrets—oh, I'm just itching to know them all!",
+secrets—oh, I'm just itching to know them all!","Более того, я и вообразить бы себе не смог,
+как ни старайся, что существует ещё какой-то
+четвёртый дом."
 32211,SUPPORT,"I'm sure Rhea knows all about this place. Gods,
-how many secrets does that lady have?",
+how many secrets does that lady have?","Естественно, Рея наверняка всё это знает.
+Да сколько же у неё секретов?"
 32211,SUPPORT,"Oh. Hello, Professor. Have you seen this library
-of theirs?",
+of theirs?","А, учитель. Вы уже видели местную библиотеку?"
 32211,SUPPORT,"It's completely different from the one in the
-monastery. And their collection is amazing.",
+monastery. And their collection is amazing.","Она так сильно отличается от библиотеки 
+монастыря. Но и здесь подборка потрясающая."
 32211,SUPPORT,"There are forgeries and banned books. Legends,
 spells, and heresies. Doubt I'll catch a single 
-wink tonight.",
+wink tonight.","Поддельные документы и запрещённые книги, 
+непроверенные научные труды, еретические
+предания, книги о магии... спать я вряд ли буду."
 32211,SUPPORT,"It looks like this is where the people of Abyss leave
-their unwanted belongings.",
+their unwanted belongings.","Похоже, здесь местные оставляют ненужные вещи..."
 32211,SUPPORT,"I didn't expect to find much, but there's actually
-plenty of gear we could salvage.",
+plenty of gear we could salvage.","Я мельком взглянул — мне показалось, что 
+сюда выбросили оружие, которое могло бы 
+ещё пригодиться нам."
 32211,SUPPORT,"I'm told we can take anything we can use, so it might
-be good to check on it now and again.",
+be good to check on it now and again.","Мне сказали, что отсюда можно брать всё, что угодно.
+Может быть, стоит иногда сюда заглядывать."
 32211,SUPPORT,"Hey, you. Listen up. I've got something to report.
 It's about you outsiders. Actually... Guess I shouldn't
 bother reporting you to yourself.",
@@ -15110,24 +15147,24 @@ Sounds like fun.",
 32229,SUPPORT,What? You wanna know if I can help out?,
 32229,SUPPORT,"Sorry, but I think it's best if I stay down here.
 The surface is crawling with knights.",
-32233,SUPPORT,I've heard the rumors.,
-32233,SUPPORT,It's Balthus...,
-32233,SUPPORT,Might you possibly be...,
-32233,SUPPORT,Want my advice?,
-32233,SUPPORT,I never would have imagined...,
-32233,SUPPORT,What a unique town.,
-32233,SUPPORT,Who knew...,
-32233,SUPPORT,Have you seen the library?,
-32233,SUPPORT,There's gear here we could salvage...,
-32233,SUPPORT,"I know you, Baltie...",
-32233,SUPPORT,Don't knock boredom...,
-32233,SUPPORT,I'd love some of what the nobles drink...,
-32233,SUPPORT,Don't let that pretty face of his fool you...,
-32233,SUPPORT,New here? Watch your back.,
-32233,SUPPORT,Find someone else to bother.,
-32233,SUPPORT,I offer my prayers to my gods.,
-32233,SUPPORT,I bet you're real bad...,
-32233,SUPPORT,What do they want me to say?,
+32233,SUPPORT,I've heard the rumors.,До меня доходили слухи.
+32233,SUPPORT,It's Balthus...,Да Бальтазар я...
+32233,SUPPORT,Might you possibly be...,Неужели — ты?..
+32233,SUPPORT,Want my advice?,Вам лучше не бродить тут...
+32233,SUPPORT,I never would have imagined...,"Поверить не могу, что тут живут люди."
+32233,SUPPORT,What a unique town.,Прекрасный город...
+32233,SUPPORT,Who knew...,"Кто же знал, что тут такое?"
+32233,SUPPORT,Have you seen the library?,Вы уже видели местную библиотеку?
+32233,SUPPORT,There's gear here we could salvage...,На первый взгляд — это груда хлама...
+32233,SUPPORT,"I know you, Baltie...","Зная тебя, Бальти..."
+32233,SUPPORT,Don't knock boredom...,Скука — это естественно...
+32233,SUPPORT,I'd love some of what the nobles drink...,Выпивки бы добротной...
+32233,SUPPORT,Don't let that pretty face of his fool you...,Не дай себя обмануть.
+32233,SUPPORT,New here? Watch your back.,Следи по сторонам.
+32233,SUPPORT,Find someone else to bother.,Ничего покупать не буду.
+32233,SUPPORT,I offer my prayers to my gods.,Я молюсь богам.
+32233,SUPPORT,I bet you're real bad...,А вы — плохой человек?
+32233,SUPPORT,What do they want me to say?,Что от меня хотят?
 32234,SUPPORT,Must be hard work.,
 32234,SUPPORT,It's a real-life maze.,
 32234,SUPPORT,Where are those records...?,
@@ -15577,10 +15614,10 @@ this. *sigh*＠048535#03","[1043]Если подумать, Хапи и не н�
 самой? Э-эх...＠048535#03"
 32163,MAP,"[0007]What was that?! It couldn't have been a
 summoning spell...＠048536#04","[0007]Что такое?! Нет, ведь перемещение
-чудищ ― это не...＠048536#04"
+чудищ — это не...＠048536#04"
 32163,MAP,[1042]Ahahaha! It would behoove you to watch your back!＠048537#01,"[1042]О-хо-хо-хо-хо! Вам следовало бы уделять
 внимание тому, что происходит в тылу!＠048537#01"
-32163,MAP,[0014]Oh no! I knew something didn't feel right!＠048538#04,[0014]Нет! Я ведь чувствовал ― что-то не так!..＠048538#04
+32163,MAP,[0014]Oh no! I knew something didn't feel right!＠048538#04,[0014]Нет! Я ведь чувствовал — что-то не так!..＠048538#04
 32163,MAP,"[1041]Urgh... You've got guts, I'll give you that much.＠048539#03",[1041]А вы отважные ребята. Интересно!＠048539#03
 32163,MAP,[1043]This is...boring. Count me out.＠048540#03,[1043]Надоело... Хапи уходит.＠048540#03
 32163,MAP,"[1042]It's not that I'm defeated so much as that I'm

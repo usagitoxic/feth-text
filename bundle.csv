@@ -906,7 +906,7 @@ withdrew.",$%s1 $Q$%s2 вышли из боя.
 0,MSGDATA,$%s1's attack dealt $%d1 damage to $%s2.,$%s1: нанесено $%d1 урона по $%s2.
 0,MSGDATA,$%s1 used $%s2.,$%s1: использовано $%s2.
 0,MSGDATA,$%s1 defeated $%s2.,$%s1: $%s2 побежден.
-0,MSGDATA,$%s1 fell.,$%s1: уничтожен.
+0,MSGDATA,$%s1 fell.,$%s1: поражение.
 0,MSGDATA,$%s1 got $%s2 from the chest.,$%s1: $%s2 найдено в сундуке.
 0,MSGDATA,$%s1 used Steal.,$%s1: использована кража.
 0,MSGDATA,$%s1 used Rally.,$%s1: использовано сплочение.
@@ -1530,7 +1530,7 @@ Would you like to proceed?","Отдых повысит мотивацию ваш
 0,MSGDATA,"Resting will increase your allies' motivation, and the
 Sword of the Creator will be automatically repaired.
 Would you like to proceed?","Отдых повысит мотивацию ваших союзников,
-а Меч Создателя будет автоматически
+а Меч Богини будет автоматически
 восстановлен. Продолжить?"
 0,MSGDATA,"Resting will increase your allies' motivation, and the
 Sublime Creator Sword will automatically be repaired.
@@ -1539,7 +1539,7 @@ Would you like to proceed?","Отдых повысит мотивацию ваш
 автоматически починен. Продолжить?"
 0,MSGDATA,Your allies feel invigorated and recharged!,Ваши союзники бодры и полны сил!
 0,MSGDATA,"The $QSword of the Creator is restored and can now
-be used $%d1 times.","$QМеч Создателя восстановлен и может быть
+be used $%d1 times.","$QМеч Богини восстановлен и может быть
 использован определённое кол-во раз ($%d1)."
 0,MSGDATA,"The $QSublime Creator Sword is restored and can now
 be used $%d1 times.","$QВеликий меч Создателя восстановлен и может
@@ -13771,13 +13771,13 @@ $C1some magic.$R","Этот могучий воин владеет топора�
 0,MSGDATA,Sword of Zoltan,Меч Золтана
 0,MSGDATA,Thunderbrand,Громобой
 0,MSGDATA,Blutgang,Блутганг
-0,MSGDATA,Sword of the Creator,Меч Создателя
+0,MSGDATA,Sword of the Creator,Меч Богини
 0,MSGDATA,Lance of Zoltan,Копьё Золтана
 0,MSGDATA,Lance of Ruin,Копьё Раскола
 0,MSGDATA,Areadbhar,Ареадбар
 0,MSGDATA,Lúin,Луин
 0,MSGDATA,Spear of Assal,Копьё Ассала
-0,MSGDATA,Scythe of Sariel,Коса Сариэль
+0,MSGDATA,Scythe of Sariel,Коса Сариила
 0,MSGDATA,Arrow of Indra,Стрела Индры
 0,MSGDATA,Freikugel,Фрейкугель
 0,MSGDATA,Crusher,Сокрушитель
@@ -14393,7 +14393,7 @@ every turn. (Effect increased with Crest.)","Священное оружие (Г
 каждый ход. (Усиливается с Гербом.)"
 0,MSGDATA,"Crafted using archaic methods, this intimidating
 scythe is the Death Knight's weapon of choice.","Созданная с использованием архаичных методов, эта
-устрашающая коса - любимое оружие Рыцаря Смерти."
+устрашающая коса — любимое оружие Рыцаря Смерти."
 0,MSGDATA,"A shimmering, magical lance crafted using
 ancient technology.","Мерцающее магическое копье, созданное при 
 помощи древних технологий."
@@ -17260,8 +17260,8 @@ armored units and dragons.","Только для Громобоя. Эффект�
 cavalry units and dragons.","Только для Блутганга. Эффективно против 
 всадников и драконов."
 0,MSGDATA,"Sword of the Creator only. Mt increases based on
-unit's Mag. Effective against dragons.","Только для Меча Создателя. Мощь зависит от 
-Маг юнита. Эффективно против драконов."
+unit's Mag. Effective against dragons.","Только для Меча Богини. Мощь зависит от 
+Маг. юнита. Эффективно против драконов."
 0,MSGDATA,"Lance of Ruin only. Effective against
 fliers and dragons.","Только для Копья Разрушения. Эффективно 
 против летающих воинов и драконов."
@@ -25922,7 +25922,7 @@ Will not counterattack.","Красный импульс пробудил в юн
 0,MSGDATA,The Archbishop,Архиепископ
 0,MSGDATA,The Academy,Академия
 0,MSGDATA,Hero's Relic,Реликвия Героя
-0,MSGDATA,Sword of the Creator,Меч Создателя
+0,MSGDATA,Sword of the Creator,Меч Богини
 0,MSGDATA,Black Beast,Черный Зверь
 0,MSGDATA,The Battle,Сражение
 0,MSGDATA,The Ball,Бал
@@ -52344,7 +52344,7 @@ have yet to conquer.","Призраки, мореходство, острая е
 a sword. Maybe I should study that too.","Вы знаете и военную стратегию, не только как за меч держаться. Может, и мне стоит этому учиться."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
-1,MSGDATA,The Sword of the Creator... It's an interesting Relic.,Меч Создательницы... интересный Реликт.
+1,MSGDATA,The Sword of the Creator... It's an interesting Relic.,Меч Богини... интересная Реликвия.
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,I like working. Feels real good to be needed.,"Я люблю работать. Приятно, когда ты нужен."
@@ -64960,7 +64960,7 @@ you love as well as I love her.","Однажды, я надеюсь, ты под
 1,MSGDATA,Ultimate Sword Tournament today.,Сегодня - Турнир Лучшего Мечника.
 1,MSGDATA,There are $%d1 notes.,Оставлено $%d1 записей.
 1,MSGDATA,There are no notes.,На данный момент записей нет.
-1,MSGDATA,Need any weapons?,Нужно какое-нибудь оружие?
+1,MSGDATA,Need any weapons?,Нужно оружие?
 1,MSGDATA,We've got all the items you might need.,"Мы получили всё то, что может вам пригодиться."
 1,MSGDATA,Want to strengthen your weapons?,Желаете улучшить оружие?
 1,MSGDATA,Want to hire a battalion?,Хотите нанять отряд?
@@ -194869,7 +194869,7 @@ anything like that?","Вы хотите еще что-нибудь спроси�
 3,MSGDATA,The amiibo Gazebo,Беседка amiibo
 3,MSGDATA,Instruction,Лекции
 3,MSGDATA,Auxiliary Battles,Дополнительные битвы
-3,MSGDATA,The Sword of the Creator,Меч Создателя
+3,MSGDATA,The Sword of the Creator,Меч Богини
 3,MSGDATA,Gifts and Lost Items,Подарки и потерянные вещи
 3,MSGDATA,Inviting to Tea,Приглашение на чаепитие
 3,MSGDATA,Starting New Game +,Начало Новой Игры+
