@@ -25,7 +25,7 @@
 - Imperial Year - **Имперский Год**
 - Mittelfrank Opera Company - **оперная труппа Миттельфранка**
 - Blue Sea Star - **Синяя Морская Звезда**
-- Divine Pulse - **Божественный Пульс**
+- Divine Pulse - **Небесный Пульс** (天刻の拍動)
 - Relic - **Реликвия**
 - Hero's Relic - **Реликвия Героя**
 - False God - **Ложный Бог**
