@@ -4799,66 +4799,96 @@ certain you will come to the only correct conclusion.","Это правда. О�
 thoughts. Consider yourselves our special guests.","На том и порешим. А пока добро пожаловать,
 «гости дорогие»."
 32009,SUPPORT,"We're all done here, Boss. Oh, but more importantly,
-about your—",
+about your—","Здесь всё, босс. Что важнее, ваш..."
 32009,SUPPORT,"We'll discuss that another time. For now, tend to
-your mission.",
+your mission.","Об этом я сообщу потом. Сейчас важнее 
+разобраться с более насущными бедами."
 32009,SUPPORT,"Don't worry. No one will die. We'll get everyone
-out safely.",
-32009,SUPPORT,Hmm...,
+out safely.","Не волнуйся. Я не позволю никому погибнуть.
+И они тоже выберутся."
+32009,SUPPORT,Hmm...,...
 32009,SUPPORT,"Once the trap is set, shift your focus to protecting
-the Abyssians, just in case things go south.",
-32009,SUPPORT,What was that about?,
-32009,SUPPORT,"Oh, it's you.",
+the Abyssians, just in case things go south.","Как только приманка будет готова, на всякий
+случай сопроводите народ из подземелья."
+32009,SUPPORT,What was that about?,Ты о чём?
+32009,SUPPORT,"Oh, it's you.","А-а, это вы."
 32009,SUPPORT,"I was just heading off to ambush our attackers.
-You'll help with that, won't you?",
-32009,SUPPORT,Oh? Does that mean your enemies are drawing near?,
+You'll help with that, won't you?","Мы как раз готовимся к перехвату.
+Вы же нам в этом поможете?"
+32009,SUPPORT,Oh? Does that mean your enemies are drawing near?,"Готовитесь к перехвату? Неужели противник уже
+на подходе?"
 32009,SUPPORT,"Very good! Heh. The scouts I sent to the surface
-spotted some mercenaries.",
+spotted some mercenaries.","Точно подмечено. Разведчики на поверхности
+заметили каких-то наёмников."
 32009,SUPPORT,"We closed off the entrance they used last, but it
-seems they've already found another.",
+seems they've already found another.","Мы завалили проход, которым они воспользовались
+в прошлый раз, но похоже, они нашли новый."
 32009,SUPPORT,"This is bad! We've got to evacuate everyone from
-Abyss as quickly as possible.",
-32009,SUPPORT,That won't be necessary. They'll be back soon.,
-32009,SUPPORT,Huh? Who?,
+Abyss as quickly as possible.","Это плохо! Значит, нам нужно скорее эвакуировать 
+всех из города!"
+32009,SUPPORT,That won't be necessary. They'll be back soon.,"Нет, об этом беспокоиться не нужно.
+Они вот-вот вернутся."
+32009,SUPPORT,Huh? Who?,Э?
 32009,SUPPORT,"Why do I have to go? No matter what we do, we're
-all just gonna die in the end anyway.",
+all just gonna die in the end anyway.","А Хапи зачем было звать? Как ни старайся,
+а все мы умрём, когда положено."
 32009,SUPPORT,"Sure, but if we do nothing, we'll die a lot sooner.
-I assume the corridor is successfully camouflaged?",
+I assume the corridor is successfully camouflaged?","Если не будем бороться, умрём раньше положенного. 
+Ну, с маскировкой прохода закончили?"
 32009,SUPPORT,"But of course! Our decoys shall prevent those
-scoundrels from chancing upon our living quarters.",
+scoundrels from chancing upon our living quarters.","Естественно! Стоит им клюнуть на приманку, 
+как они тут же пойдут вперёд, даже не заметив
+жилых кварталов!"
 32009,SUPPORT,"Do note that I am the bait upon your hook. If we
-fail, I shall be left dangling in the wind.",
+fail, I shall be left dangling in the wind.","А так как в роли приманки выступаю я, мы обязаны
+преуспеть, иначе у меня будут неприятности!"
 32009,SUPPORT,"Aha! But it must be done, I fear! And so I will most
-happily accept the starring role in this—",
+happily accept the starring role in this—","О-хо-хо-хо! Ещё не поздно назначить меня
+командующей..."
 32009,SUPPORT,"They're at the entrance. They'll be coming in from
-the east.",
-32009,SUPPORT,...,
+the east.","Они уже у входа в Бездну. Собираются
+влезть с восточной стороны. "
+32009,SUPPORT,...,...
 32009,SUPPORT,"The east... Good. We're well placed. Go ahead and
-draw them deeper into Abyss, just like we planned.",
-32009,SUPPORT,You're drawing them in?,
-32009,SUPPORT,Why are they targeting Abyss?,
+draw them deeper into Abyss, just like we planned.","С восточной... Это нам на руку. Действуем
+по плану — заманиваем их внутрь."
+32009,SUPPORT,You're drawing them in?,Вы заманиваете противника?
+32009,SUPPORT,Why are they targeting Abyss?,Зачем противнику нападать на Бездну?
 32009,SUPPORT,"I'd like to know that myself. But first things first.
-We've got to make it through this encounter.",
+We've got to make it through this encounter.","Я бы и сам хотел это узнать... Но перво-наперво
+нам нужно выбраться из сложившейся ситуации."
 32009,SUPPORT,"Launching small counterattacks on the surface won't
 accomplish anything. It could also earn us the scorn
-of the church, if it gets messy...which it will.",
+of the church, if it gets messy...which it will.","Если постепенно отбиваться только на поверхности,
+то этим нападениям конца не будет, да и рискуем
+ненароком поднять шум и спровоцировать Церковь."
 32009,SUPPORT,"That's why we have to lure the enemy underground
-before we take them out. I know the perfect spot.",
+before we take them out. I know the perfect spot.","Поэтому мы заманиваем противника под землю,
+чтобы дать бой там. Там есть идеальное место
+для сражения."
 32009,SUPPORT,"Admit it, pals. You're knee-deep in this, just like us.
-There's no turning back now, right?",
+There's no turning back now, right?","Ну, раз вы уже и так втянулись, вы же
+не откажетесь подсобить?"
 32009,SUPPORT,"Of course not! If there's any way we can help your
-cause, we won't turn our backs on you.",
+cause, we won't turn our backs on you.","Разумеется, я помогу чем смогу. Уверен,
+все остальные тоже так поступят."
 32009,SUPPORT,"That's right. We will not stand idly by while danger
-befalls the innocent people of Abyss.",
+befalls the innocent people of Abyss.","Правильно. Нельзя бросать в беде ни в чём
+не повинных жителей этого города."
 32009,SUPPORT,"If we can capture the enemy, we can perhaps learn
-the reason behind their relentless attacks.",
-32009,SUPPORT,We'll fight at your side.,
-32009,SUPPORT,We have no choice...,
+the reason behind their relentless attacks.","Если сумеем схватить противника, возможно,
+сможем узнать, зачем они так настойчиво
+вторгаются в Бездну."
+32009,SUPPORT,We'll fight at your side.,Мы будем сражаться на вашей стороне.
+32009,SUPPORT,We have no choice...,Выбора нет...
 32009,SUPPORT,"Excited, are you? Fine. We could use more bodies to
-throw at our enemies. Thanks for volunteering.",
-32009,SUPPORT,How insensitive! Your lack of excitement stings.,
+throw at our enemies. Thanks for volunteering.","Хм-м, а вы, похоже, так и рвётесь в бой.
+Ну, лишние руки нам не повредят, так что спасибо."
+32009,SUPPORT,How insensitive! Your lack of excitement stings.,"Ох, вы бесчувственный человек, раз не
+прониклись моментом!"
 32009,SUPPORT,"So long as they're fighting with us and not against us,
-I don't care how excited they are. Let's get to it!",
+I don't care how excited they are. Let's get to it!","Да какая разница, в каком настроении сражаться,
+если уже решено, что сражаться будем? Вперёд!"
 32010,SUPPORT,"Wow. An underground arena, huh? You sure know
 some great spots, Yuri.",
 32010,SUPPORT,"I heard about this place from someone back in town.
@@ -11938,10 +11968,12 @@ could you have here?","Но какая может быть необходимо�
 after a suspicious individual.","Ты знаешь, что не в любопытстве — мы 
 преследовали подозрительного человека..."
 32211,SUPPORT,"Hey, new person. Want my advice? Don't wander
-too far off the beaten path.",
+too far off the beaten path.","Вам лучше не бродить тут где попало, наверное."
 32211,SUPPORT,"Abyssians like their privacy. If you go snooping
-around, there's bound to be trouble.",
-32211,SUPPORT,"Wait, did I introduce myself? My name's Hapi.",
+around, there's bound to be trouble.","Местные не любят, когда к ним суют нос
+из любопытства. Если кого-то разозлите, 
+пеняйте на себя."
+32211,SUPPORT,"Wait, did I introduce myself? My name's Hapi.","А, я ещё не представилась? Хапи зовут Хапи."
 32211,SUPPORT,"What do you think, Professor? This is a most...
 unique town, is it not?","А, учитель, вы тоже осматриваете улицы?
 Вы не считаете, что это — прекрасный город?"
@@ -11984,51 +12016,74 @@ be good to check on it now and again.","Мне сказали, что отсюд
 Может быть, стоит иногда сюда заглядывать."
 32211,SUPPORT,"Hey, you. Listen up. I've got something to report.
 It's about you outsiders. Actually... Guess I shouldn't
-bother reporting you to yourself.",
+bother reporting you to yourself.","Сегодня мне есть что доложить... наверное.
+Собственно, о вас?"
 32211,SUPPORT,"The Ashen Wolves may seem tough, but they're
 harmless. Honestly? Things can get pretty boring
-down here.",
+down here.","Ребята из Пепельных Волков вечно жалуются,
+что без каких-нибудь проблем им скучно."
 32211,SUPPORT,"But here's a little piece of wisdom from me to you—
-boredom's a luxury. Trust me. I know these things.",
+boredom's a luxury. Trust me. I know these things.","Нет ничего роскошнее скуки. Жизнью, полной
+приключений, я лично уже наелся."
 32211,SUPPORT,"Want a drink? Course you don't. It's all terrible
-down here...",
+down here...","Эй, хочешь выпить? Правда, тут есть только
+дешёвое пойло."
 32211,SUPPORT,"Nobody important enough to carry the good stuff
-wants to come underground to sell it to us.",
+wants to come underground to sell it to us.","Первосортной выпивки в таких тёмных подземных
+кабачках не водится."
 32211,SUPPORT,"It's a shame. Just once I'd like to taste something
-worthy of a noble.",
+worthy of a noble.","А изредка хочется попробовать то, что пьют 
+благородные господа на поверхности."
 32211,SUPPORT,"You're quite a strapping fellow...but even your looks
-don't compete with the likes of Yuri.",
+don't compete with the likes of Yuri.",А ты красивый. Но с Юрием не сравнишься.
 32211,SUPPORT,"You're quite a fetching lady...but even your looks
-don't compete with the likes of Yuri.",
+don't compete with the likes of Yuri.",А ты красавица. Но с Юрием не сравнишься.
 32211,SUPPORT,"Don't let that pretty face of his fool you, though...
-He's a rogue, through and through.",
+He's a rogue, through and through.","Но не ведись на его красивое личико, ладно? 
+На самом деле он сущий бандит."
 32211,SUPPORT,"Even so, the people of Abyss trust him. He may be
-a scoundrel, but he's our scoundrel.",
+a scoundrel, but he's our scoundrel.","Хотя с точки зрения нас тут, в Бездне, он хороший
+мальчик, на которого можно положиться."
 32211,SUPPORT,"What's all the commotion about? Hey, hang on...
-I've never seen you before.",
-32211,SUPPORT,You a first timer? Word of advice. Watch your back.,
+I've never seen you before.","Что за шум поднялся, что-то случилось?..
+А ты кто?"
+32211,SUPPORT,You a first timer? Word of advice. Watch your back.,"Я тебя раньше не видел — в первый раз здесь?
+Тут полно недобрых людей — следи по сторонам,
+пока ходишь."
 32211,SUPPORT,"The only folks who hang around down here are the
-ones too shady to walk in the goddess's light.",
+ones too shady to walk in the goddess's light.","Здесь собираются только люди с сомнительным
+прошлым, из-за которого они не могут выйти
+на божий свет."
 32211,SUPPORT,"Find someone else to bother. Whatever the heck
-you're selling, I'm not buying.",
-32211,SUPPORT,"Not a trader, eh? Sorry. My mistake.",
+you're selling, I'm not buying.","Эй, я ничего не покупаю. Если хочешь всучить
+сомнительный товар, то обратись к кому-то ещё."
+32211,SUPPORT,"Not a trader, eh? Sorry. My mistake.","М? Ты не торговец? Прости, прости, обознался."
 32211,SUPPORT,"Most folks chatting down here are just pawning off
-stolen goods.",
+stolen goods.","Так уж сложилось, что наверху, если к тебе
+обращаются с дружелюбным лицом — это
+как пить дать торгаш-мошенник."
 32211,SUPPORT,"Abyss is where I offer my prayers to my gods.
-It is the only place.",
+It is the only place.",Я молюсь богу. Больше негде.
 32211,SUPPORT,"The goddess of Fódlan is not one of my gods, but
-the statue here is not one of my gods either.",
+the statue here is not one of my gods either.","Богиня Фодлана — не мой бог.
+Эта статуя тоже не мой бог."
 32211,SUPPORT,"I offer my prayers here all the same, because Abyss
-is where it is allowed.",
+is where it is allowed.","Но я всё равно молюсь здесь.
+Уйду из Бездны — не смогу молиться."
 32211,SUPPORT,"You're from the surface, aren't you? I bet you're
-real bad.",
-32211,SUPPORT,My mom says surface people are the worst.,
+real bad.","А вы с поверхности? Тогда, вы, наверное,
+плохой человек."
+32211,SUPPORT,My mom says surface people are the worst.,"Мама говорит, что на поверхности живут
+только плохие люди."
 32211,SUPPORT,"I told Yuri I wanted to be just like him when I grew
-up, and he said I shouldn't ever say stuff like that.",
+up, and he said I shouldn't ever say stuff like that.","Я сказала Юрию, что хочу стать такой же как он, 
+когда вырасту, а он на меня рассердился."
 32211,SUPPORT,"So I told Balthus I didn't want to be like him when
 I grew up, and he said I'd grow up boring! What do
-they want me to say?!",
-32211,SUPPORT,(I should hear what the residents have to say...),
+they want me to say?!","Тогда я сказала Бальтазару, что не хочу 
+стать такой же как он, когда вырасту, 
+а он тоже на меня рассердился."
+32211,SUPPORT,(I should hear what the residents have to say...),(Надо поговорить с местными жителями...)
 32212,SUPPORT,"Well, well. The Imperial princess, the crown prince,
 and the next sovereign duke. Must be exhausting
 trying to suss out each other's intentions, huh?",
@@ -15162,7 +15217,7 @@ The surface is crawling with knights.",
 32233,SUPPORT,Don't let that pretty face of his fool you...,Не дай себя обмануть.
 32233,SUPPORT,New here? Watch your back.,Следи по сторонам.
 32233,SUPPORT,Find someone else to bother.,Ничего покупать не буду.
-32233,SUPPORT,I offer my prayers to my gods.,Я молюсь богам.
+32233,SUPPORT,I offer my prayers to my gods.,Я молюсь богу.
 32233,SUPPORT,I bet you're real bad...,А вы — плохой человек?
 32233,SUPPORT,What do they want me to say?,Что от меня хотят?
 32234,SUPPORT,Must be hard work.,
