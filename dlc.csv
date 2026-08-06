@@ -4890,68 +4890,96 @@ throw at our enemies. Thanks for volunteering.","Хм-м, а вы, похоже,
 I don't care how excited they are. Let's get to it!","Да какая разница, в каком настроении сражаться,
 если уже решено, что сражаться будем? Вперёд!"
 32010,SUPPORT,"Wow. An underground arena, huh? You sure know
-some great spots, Yuri.",
+some great spots, Yuri.","О-о! Подземная арена! Юрий, а ты знаешь
+отличные места!"
 32010,SUPPORT,"I heard about this place from someone back in town.
-It hasn't been in use for a long time.",
+It hasn't been in use for a long time.","О том, что когда-то тут была арена, я узнал от
+местных стариков."
 32010,SUPPORT,"I figured it could prove useful, so I spent some
 time clearing out the debris that was blocking the
-entrance.",
+entrance.","Я подумал, что когда-нибудь она может пригодиться, 
+так что расчистил заваленный вход."
 32010,SUPPORT,"It seems to be a revitalized ruin... Perhaps it was
-originally a reception hall or something similar.",
-32010,SUPPORT,"Perhaps. Honestly, all of Abyss feels like a ruin.",
+originally a reception hall or something similar.","Это место... похоже, это перестроенные руины,
+где изначально находился какой-то большой зал."
+32010,SUPPORT,"Perhaps. Honestly, all of Abyss feels like a ruin.","Возможно, так и есть. Вся Бездна... выглядит
+как руины."
 32010,SUPPORT,"Ahaha! This place is magnificent! It is just spacious
 enough to contain my glory! I shall not hold back
-here!",
+here!","Хе-хе-хе, на такой широкой площади я смогу
+сражаться, не сдерживая себя!"
 32010,SUPPORT,"Large. Isolated. I wonder if it would be OK for me to
-sigh here...",
-32010,SUPPORT,Sigh?,
+sigh here...","Интересно, можно ли Хапи тут вздохнуть."
+32010,SUPPORT,Sigh?,Вздохнуть?
 32010,SUPPORT,"If Hapi sighs, monsters come running. No, I'm
-not kidding.",
-32010,SUPPORT,I'm not sure what you could possibly mean by that...,
+not kidding.","Когда она вздыхает, тут же налетают чудища.
+И это не фигура речи."
+32010,SUPPORT,I'm not sure what you could possibly mean by that...,"Налетают чудища? Что это тогда,
+если не фигура речи?.."
 32010,SUPPORT,"I wish, Hapi, but no. Absolutely no sighing. And,
-Constance, be glorious in moderation.",
+Constance, be glorious in moderation.","А-а, что бы это ни значило, вздыхать нельзя.
+Констанция, тебе тоже нельзя буянить."
 32010,SUPPORT,"Understood? This place is so big that if it collapses,
-all of Abyss will fall with it.",
+all of Abyss will fall with it.","Потому что если это огромное место развалится,
+оно за собой утянет всю Бездну."
 32010,SUPPORT,"The whole reason we're luring our enemies here is to
-avoid damaging Abyss. Don't lose sight of that.",
-32010,SUPPORT,I am well aware of our aim!,
+avoid damaging Abyss. Don't lose sight of that.","Мы специально хотели заманить противника сюда,
+чтобы избежать потерь. Не забывайте об этом."
+32010,SUPPORT,I am well aware of our aim!,О-хо-хо-хо! Уж это я прекрасно понимаю!
 32010,SUPPORT,"Sure, but that doesn't mean we can trust you to
-show restraint.",
-32010,SUPPORT,I'm concerned.,
-32010,SUPPORT,Don't get carried away.,
+show restraint.",Чего-то я в твоих словах не уверен.
+32010,SUPPORT,I'm concerned.,Я волнуюсь.
+32010,SUPPORT,Don't get carried away.,Не буянь слишком сильно.
 32010,SUPPORT,"You as well?! I cannot fathom why I am being treated
-in such a way.",
+in such a way.",И вы туда же?! Просто не могу поверить в это!
 32010,SUPPORT,"It is the duty of the nobility to preserve the people's
-safety.",
+safety.","К-кхм. Долг любого аристократа — защита
+благополучия народа!"
 32010,SUPPORT,"Do you truly believe that I would destroy Abyss in
-my efforts to save it? Preposterous!",
-32010,SUPPORT,That would cause trouble for Elfie too.,
+my efforts to save it? Preposterous!","Чтобы я, и уничтожила Бездну в попытке
+её защитить, будто не вижу леса за
+деревьями — это исключено!"
+32010,SUPPORT,That would cause trouble for Elfie too.,"Случись такое, мы и Альфу доставим проблемы."
 32010,SUPPORT,"If the underground collapses, he's the one who
-will have to answer for it.",
-32010,SUPPORT,Who is Elfie?,
+will have to answer for it.","Ведь если подземелье обвалится,
+обязательно накажут Альфа?"
+32010,SUPPORT,Who is Elfie?,Альфа?
 32010,SUPPORT,"You must know Aelfric, yeah? He's a big wig in the
-church, but a friend of Abyss.",
+church, but a friend of Abyss.","А вы с ним наверху не встречались? Он один
+из важных шишек в Церкви, но при этом —
+союзник Бездны."
 32010,SUPPORT,"He's the one who opened up this place to folks with
 nowhere else to turn. Folks like us. He gave us a
-home, a new life.",
+home, a new life.","Это он даёт пристанище таким как мы,
+кому некуда идти."
 32010,SUPPORT,"It is Aelfric himself who put forth the idea of
-establishing the Ashen Wolf House.",
+establishing the Ashen Wolf House.","Вероятно, вам уже это известно, но 
+именно отец Альфард предложил 
+создать дом Пепельных Волков."
 32010,SUPPORT,"Sadly, he faces opposition within the church, and so
-he cannot openly deploy the knights to aid us.",
+he cannot openly deploy the knights to aid us.","Насколько мы сами знаем, из-за разногласий внутри 
+Церкви он не может открыто задействовать рыцарей.
+"
 32010,SUPPORT,"That means Aelfric relies upon us to protect the
-people who live here. Us...and now you.",
+people who live here. Us...and now you.","Так что единственная надежда на защиту
+этого места — это мы... и ваша помощь."
 32010,SUPPORT,"I hope you're ready, Professor. We're counting
-on you.",
-32010,SUPPORT,Professor?,
-32010,SUPPORT,We won't let you down.,
+on you.","Могу я на вас положиться, «учитель»?
+А то если я уж начну на вас рассчитывать,
+то безгранично и до самого конца."
+32010,SUPPORT,Professor?,Учитель?
+32010,SUPPORT,We won't let you down.,Я только за.
 32010,SUPPORT,"You are a professor at the Officers Academy, are
-you not?",
+you not?",Вы же преподаёте в Офицерской академии?
 32010,SUPPORT,"You may not be our instructor, but I cannot think of
-a more fitting title to call you.",
-32010,SUPPORT,Seems like you're with us now. We'll owe you one.,
-32010,SUPPORT,"Reliable, aren't you? We'll owe you one.",
+a more fitting title to call you.","Конечно, вы не то что бы наш наставник...
+Но как нам вас ещё называть?"
+32010,SUPPORT,Seems like you're with us now. We'll owe you one.,"Короче, рассчитываем на вас."
+32010,SUPPORT,"Reliable, aren't you? We'll owe you one.","А вы надёжный человек, да? 
+Ну, будем вам обязаны."
 32010,SUPPORT,"Time to knock some sense into their thick skulls.
-They picked the wrong strangers to mess with!",
+They picked the wrong strangers to mess with!","Пусть на своей шкуре поймут, как опасно
+связываться с нами!"
 32011,SUPPORT,"Aelfric! How serendipitous that you have come to
 our aid!",
 32011,SUPPORT,"I am relieved that I wasn't too late. I do hope my
