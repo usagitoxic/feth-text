@@ -15722,38 +15722,50 @@ That hair. Those eyes. That voice!＠048547#04","[1041]Чё? Я тебя зна�
 то, как ты меня назвала...＠048547#04"
 32163,MAP,[1041]Hilda?! I don't believe it! Holst's little sis?!＠048548#04,[1041]Хильда! Младшая сестрёнка Хольста!＠048548#04
 32164,MAP,"[0693]Aah! I knew following those shady kids was a bad
-idea. This place is massive!＠048573#04",
-32164,MAP,"[1041]Heh, they actually fell for it. Let's get this done!＠048574#00",
+idea. This place is massive!＠048573#04","[0693]Чего? Я только что шёл за этими подозрительными
+типами, и вот уже в какой-то огромной дыре...＠048573#04"
+32164,MAP,"[1041]Heh, they actually fell for it. Let's get this done!＠048574#00",[1041]А ловко у нас получилось. Накроем их всех разом!＠048574#00
 32164,MAP,"[1040]Other mercenaries are on their way. We left a nice
-little trail of crumbs for them to follow.＠048575#00",
+little trail of crumbs for them to follow.＠048575#00","[1040]Я уверен, что в подземелье проникнут ещё наёмники.
+Придерживаемся плана и заманиваем всех сюда.＠048575#00"
 32164,MAP,"[1040]We'll need to take them all out, or they'll just keep
-coming. Let's pull together.＠048576#00",
-32164,MAP,[0694]This...can't be the place... Can it?＠048577#00,
+coming. Let's pull together.＠048576#00","[1040]Если закроем на это глаза, проблемы будут 
+накапливаться как ком грязи. Это обязательно 
+нужно разгрести.＠048576#00"
+32164,MAP,[0694]This...can't be the place... Can it?＠048577#00,"[0694]Это... не то место, куда мы шли.＠048577#00"
 32164,MAP,"[1042]More visitors already? Allow us to offer you
-a premature burial.＠048578#00",
-32164,MAP,[0694]Damn brats. Outta the way!＠048579#02,
+a premature burial.＠048578#00","[1042]К нам прибыли новые гости. Позвольте
+мне немедля проводить вас в ад!＠048578#00"
+32164,MAP,[0694]Damn brats. Outta the way!＠048579#02,"[0694]Чёрт... Не мозоль глаза, мелочь!
+Убрать их!＠048579#02"
 32164,MAP,"[0695]How deep does this place go? I wonder if it's around
-here somewhere...＠048580#00",
+here somewhere...＠048580#00","[0695]Мы уже забрались так глубоко... Может,
+хоть тут валяется то, что мы ищем?＠048580#00"
 32164,MAP,"[1043]All we have here are your buddies' carcasses.
-Maybe you should turn around and go home.＠048581#00",
+Maybe you should turn around and go home.＠048581#00","[1043]Тут валяется только куча тел. Может, уйдёте?＠048581#00"
 32164,MAP,"[1043]We have to finish this fight before more show up.
-I wish they'd turn around and go home.＠048582#00",
+I wish they'd turn around and go home.＠048582#00","[1043]Если не закруглимся побыстрее, то их будет
+всё больше. Ну почему они просто не уйдут?＠048582#00"
 32164,MAP,"[0696]All right, where's the treasure? I've had it with
-these Abyssians!＠048583#02",
+these Abyssians!＠048583#02","[0696]Где же сокровище?.. Меня уже достали
+эти выродки из Бездны!＠048583#02"
 32164,MAP,"[1041]Jeez, will it ever end? I love a good brawl, but I'm
-sick of looking at these fools.＠048584#00",
-32164,MAP,[0698]Boss! That's the last of 'em!＠048585#00,
-32164,MAP,"[1040]Good. Finally. Thanks for all the help, everyone.＠048586#01",
+sick of looking at these fools.＠048584#00","[1041]Да когда ж вы кончитесь? Мне уже надоело
+вас считать.＠048584#00"
+32164,MAP,[0698]Boss! That's the last of 'em!＠048585#00,"[0698]Босс! Всё, не осталось больше наёмников!＠048585#00"
+32164,MAP,"[1040]Good. Finally. Thanks for all the help, everyone.＠048586#01","[1040]Отлично, рад слышать. Всем спасибо за старания...＠048586#01"
 32164,MAP,"[0697]I ain't going down without a fight! I'm taking you
-with me, punk!＠048587#02",
-32164,MAP,[1044]I will not allow it.＠048588#00,
-32164,MAP,"[1040]Aelfric, you're here! Well, shall we capture this fool?＠048589#00",
+with me, punk!＠048587#02","[0697]Чёрт! Нет, я тебя с собой!..＠048587#02"
+32164,MAP,[1044]I will not allow it.＠048588#00,[1044]Не позволю.＠048588#00
+32164,MAP,"[1040]Aelfric, you're here! Well, shall we capture this fool?＠048589#00","[1040]Альфард! Вот выручили — ну что, в плен его?＠048589#00"
 32164,MAP,"[0042]I thought I smelled fresh blood. The worms will
-feast tonight!＠048518#00",
+feast tonight!＠048518#00","[0042]Кажется, повеяло свежей кровью...
+Адский пир!＠048518#00"
 32164,MAP,"[0042]That sword awaited you in the Holy Mausoleum.
-Show me its power!＠048519#00",
-32164,MAP,[0042]I've indulged too much. I take my leave. For now.＠048520#00,
-32164,MAP,[0002]Honestly! What a nuisance.＠048590#00,
+Show me its power!＠048519#00","[0042]Меч, который дождался тебя в Священном 
+Мавзолее... Покажи мне его!＠048519#00"
+32164,MAP,[0042]I've indulged too much. I take my leave. For now.＠048520#00,[0042]Я вдоволь насытился. Сейчас... я уйду.＠048520#00
+32164,MAP,[0002]Honestly! What a nuisance.＠048590#00,[0002]Серьёзно? С ним невозможно иметь дело.＠048590#00
 32165,MAP,"[1041]What's the deal? No matter how many we squash,
 more just take their place.＠048598#04",
 32165,MAP,"[0007]Hmm... If those things were created to protect the
@@ -16133,45 +16145,51 @@ want to hurt anyone.＠048571#03","[1043]Конечно, уже поздно в�
 Но уже ничего не поделать.＠048572#00"
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0000]...＠DummyVoice,
+32196,MAP,[0000]...＠DummyVoice,[0000]...＠DummyVoice
 32196,MAP,"[0042]Now, unsheathe your sword. Show me all that
-you are!＠048523#00",
+you are!＠048523#00","[0042]Давай, покажи мне силу... своего меча!＠048523#00"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1041]Some baggage you've got, pal. Just how many people
-have you slaughtered?＠048591#04",
-32196,MAP,[0042]Countless.＠048524#00,
+have you slaughtered?＠048591#04","[1041]Вот это грехов ты себе на душу взял.
+Сколько людей ты убил?＠048591#04"
+32196,MAP,[0042]Countless.＠048524#00,[0042]Столько... что я уже и не помню!＠048524#00
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0042]...＠DummyVoice,
+32196,MAP,[0042]...＠DummyVoice,[0042]...＠DummyVoice
 32196,MAP,"[1042]Your composure with that weapon... Your posture...
-It cannot be. No, it is surely just my imagination.＠048592#00",
+It cannot be. No, it is surely just my imagination.＠048592#00","[1042]Твоя стойка... манера обращения с оружием...
+Нет, мне просто кажется!＠048592#00"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0002]I don't care what brought you here. Withdraw. Now.＠048593#00,
-32196,MAP,[0042]...＠DummyVoice,
+32196,MAP,[0002]I don't care what brought you here. Withdraw. Now.＠048593#00,"[0002]Я не буду спрашивать, зачем ты здесь.
+Ты можешь отступить?＠048593#00"
+32196,MAP,[0042]...＠DummyVoice,[0042]...＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0042]I have no time for this. To your grave!＠048525#00,
+32196,MAP,[0042]I have no time for this. To your grave!＠048525#00,[0042]Времени нет. Не мозоль мне глаза!＠048525#00
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1040]Be careful who you choose to follow. Ha, I suppose
-it's too late for that now, isn't it?＠048594#00",
+it's too late for that now, isn't it?＠048594#00","[1040]Надо было немного осторожнее выбирать
+работодателя. Ну, теперь уже поздно жалеть.＠048594#00"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1041]It'll be a shame to mar this pretty arena with a bunch
-of fresh corpses, but here goes!＠048595#02",
+of fresh corpses, but here goes!＠048595#02","[1041]Ну, готовы к тому, что надгробия вам
+прямо на этой арене поставят?!＠048595#02"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1042]You'll not find it so easy to escape from the darkest
-depths of Garreg Mach!＠048596#02",
+depths of Garreg Mach!＠048596#02","[1042]Если попасть во тьму Гаррег Маха,
+то отступать уже некуда!＠048596#02"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,"[1043]You're a real pain in the neck, you know that?＠048597#00",
+32196,MAP,"[1043]You're a real pain in the neck, you know that?＠048597#00",[1043]Это... ты мешаешь.＠048597#00
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
