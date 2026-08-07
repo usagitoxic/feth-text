@@ -4981,102 +4981,145 @@ a more fitting title to call you.","Конечно, вы не то что бы �
 They picked the wrong strangers to mess with!","Пусть на своей шкуре поймут, как опасно
 связываться с нами!"
 32011,SUPPORT,"Aelfric! How serendipitous that you have come to
-our aid!",
+our aid!","Отец Альфард! Как чудесно, что вы прибыли
+к нам на помощь!"
 32011,SUPPORT,"I am relieved that I wasn't too late. I do hope my
-presence proved useful.",
-32011,SUPPORT,No doubt about it. We needed the backup.,
-32011,SUPPORT,"So, you're Aelfric...",
-32011,SUPPORT,You're with the church...,
+presence proved useful.","Да, и я рад, что не опоздал. Надеюсь, моя
+помощь вам пригодилась."
+32011,SUPPORT,No doubt about it. We needed the backup.,"Ещё как, Альфард. Информация от вас
+нам как раз пришлась кстати."
+32011,SUPPORT,"So, you're Aelfric...",Вы тот самый Альфард...
+32011,SUPPORT,You're with the church...,Вы тот самый «один из важных шишек в Церкви»?
 32011,SUPPORT,"Professor. I do believe this is the first time our paths
-have crossed, is it not?",
+have crossed, is it not?","Учитель $S0. Ведь это наш первый разговор, так?"
 32011,SUPPORT,"Of course, I have heard all about you from Her
-Grace, the archbishop.",
+Grace, the archbishop.","Наслышан о вас от Её Высокопреосвященства,
+архиепископа."
 32011,SUPPORT,"Allow me to introduce myself. I am Aelfric. The
-church has granted me custodianship of Abyss.",
-32011,SUPPORT,You look after Abyss?,
-32011,SUPPORT,Pleased to meet you.,
+church has granted me custodianship of Abyss.","Я Альфард. Церковь назначила меня
+управляющим Бездны."
+32011,SUPPORT,You look after Abyss?,Управляющим Бездны?
+32011,SUPPORT,Pleased to meet you.,$EK00Рад$EL00Рада$EM00 знакомству.
 32011,SUPPORT,"Indeed. And despite my responsibilities, I am but a
-humble monk.",
-32011,SUPPORT,The pleasure is all mine.,
+humble monk.",Да. Хотя на деле я простой монах...
+32011,SUPPORT,The pleasure is all mine.,"Да, это взаимно."
 32011,SUPPORT,"I am sure you have already been told about Abyss's
-unique situation.",
+unique situation.","Уверен, вы уже знаете о судьбах местного люда."
 32011,SUPPORT,"For varying reasons, all of the inhabitants here are
-unable to live a peaceful life on the surface.",
+unable to live a peaceful life on the surface.","У всех, кто живёт в Бездне, есть свои причины,
+препятствующие их жизни на поверхности."
 32011,SUPPORT,"People like the Dagdans and Almyrans, who suffer
-undue persecution across Fódlan.",
+undue persecution across Fódlan.","Выходцы из Дагды и Пальмиры в Фодлане
+нередко подвергаются преследованию..."
 32011,SUPPORT,"The poor and the sick, who were forced into Abyss.
 Not to mention all the other unfortunate souls who
-ended up here.",
+ended up here.",Немощных и нищих под землю загоняет нужда.
 32011,SUPPORT,"I believe it is my sacred duty to provide a place for
-those who have nowhere else to go.",
+those who have nowhere else to go.","Я верю, что дать пристанище людям, которым
+некуда податься — это моя обязанность."
 32011,SUPPORT,"Right. And the poor and sick living in a sunless
-crypt helps them...how?",
+crypt helps them...how?","Хорошо пристанище — попробуй выберись 
+из болезней или нищеты, когда тут нет ни 
+луча света..."
 32011,SUPPORT,"Enough, Claude. Please forgive my friend, Aelfric.
-We would love to hear more.",
+We would love to hear more.","Замолчи, Клод. Отец Альфард, пожалуйста,
+продолжайте — не обращайте внимания
+на его слова."
 32011,SUPPORT,"In all honesty, I understand his concern. I dearly
-wish I could provide a better life for my flock.",
+wish I could provide a better life for my flock.","По правде говоря... я бы хотел обеспечить
+этим людям лучшую жизнь."
 32011,SUPPORT,"But it would appear that Her Grace and most of the
 church consider the existence of Abyss to be...
-something of a nuisance.",
-32011,SUPPORT,A nuisance?,
-32011,SUPPORT,That can't be true.,
+something of a nuisance.","Но Её Высокопреосвященство и Церковь 
+с подозрением относятся к существованию Бездны..."
+32011,SUPPORT,A nuisance?,С подозрением?
+32011,SUPPORT,That can't be true.,Да быть не может.
 32011,SUPPORT,"I'm afraid so... Those within the church who would
-see Abyss purged are swiftly growing in number.",
+see Abyss purged are swiftly growing in number.","Да. В последнее время растёт количество
+членов Церкви, поддерживающих то,
+чтобы «очистить» Бездну."
 32011,SUPPORT,"No? I've heard tell of those within the church who
-intend to purge Abyss.",
+intend to purge Abyss.","Вы так считаете? В последнее время 
+в Церкви всё чаще слышны голоса, 
+призывающие «очистить» Бездну.
+"
 32011,SUPPORT,"That's the church for you. They make a big deal out
-of helping the helpless...when it suits them.",
+of helping the helpless...when it suits them.","Церковь на то и Церковь. Как много бы они 
+ни хвастались, что спасают сирых и убогих."
 32011,SUPPORT,"We can't just sit back and accept the way things are.
-We've gotta fight the system!",
+We've gotta fight the system!","Поэтому мы не можем позволить, чтобы всё
+кончилось вот так."
 32011,SUPPORT,"Sure, I'm here to hide from literally countless
-bounty hunters, but I'm not the only one in need.",
+bounty hunters, but I'm not the only one in need.","Я ведь и сам скрываюсь, потому что перегнул
+палку, отбиваясь от охотников за головами..."
 32011,SUPPORT,"You're in a bad way too, Hapi. We can't just let the
-church walk all over us.",
+church walk all over us.","Хапи, ведь и ты рискуешь головой? Нам нельзя
+позволять Церкви творить то, что им вздумается."
 32011,SUPPORT,"Too true. For the sake of all who dwell in Abyss, we
-must help dear Aelfric to turn the tide!",
+must help dear Aelfric to turn the tide!","Именно так! И ради всех в Бездне мы помогаем
+отцу Альфарду!"
 32011,SUPPORT,"I am overwhelmed with gratitude. Your fervent
-support is all the reward I could ask for.",
-32011,SUPPORT,"As for you, Professor, I must beg a favor of you.",
-32011,SUPPORT,What's the favor?,
+support is all the reward I could ask for.","Спасибо. Слыша такие слова, я понимаю,
+что все мои усилия не напрасны."
+32011,SUPPORT,"As for you, Professor, I must beg a favor of you.",Учитель $S0. Я настоятельно попрошу вас об одном.
+32011,SUPPORT,What's the favor?,О чём?
 32011,SUPPORT,"The Ashen Wolves are a house in name alone. They
-are eager students with no teacher to guide them...",
+are eager students with no teacher to guide them...","Пепельные Волки — дом лишь номинально.
+Сейчас это просто собравшиеся вместе бывшие
+студенты без классного руководителя."
 32011,SUPPORT,"If you could find it in your heart to take them under
-your wing, I would be most grateful.",
+your wing, I would be most grateful.","Я хотел бы, чтобы вы взяли их под своё крыло
+как наставник."
 32011,SUPPORT,"Naturally, your official duties take precedence, so
-you need only help out when your schedule allows.",
+you need only help out when your schedule allows.","Разумеется, я понимаю, что у вас есть и свои
+обязанности — просто присмотрите за ними
+в свободное время, если сможете."
 32011,SUPPORT,"Wait a minute, Aelfric. Where's this nonsense
-coming from?",
+coming from?","Подождите, Альфард. А не излишне ли будет
+просить такое?"
 32011,SUPPORT,"I second that question! We have no need of a
-professor when we have you.",
+professor when we have you.","Соглашусь. К тому же, у нас есть вы, отец Альфард."
 32011,SUPPORT,"Dear flock, I am a mere guardian. I can protect you,
-but I cannot enrich your minds.",
+but I cannot enrich your minds.","Я ваш покровитель... Я могу вас защитить, но я 
+не учитель, и не могу учить и наставлять вас."
 32011,SUPPORT,"Though I call this gathering an academy house,
-I have long lamented that it isn't truly so.",
+I have long lamented that it isn't truly so.","Я всегда считал, что это грустно — нарекать
+домом то, что таковым не является."
 32011,SUPPORT,"Now, I am blessed with the opportunity to correct
 this. The professor who stands before you has
-garnered a great deal of acclaim on the surface.",
+garnered a great deal of acclaim on the surface.","Я многое слышал о вас на поверхности, 
+учитель $S0."
 32011,SUPPORT,"A most trustworthy and esteemed teacher, to say the
 least. What's more, I happen to be acquainted with
-the father of this fine individual.",
-32011,SUPPORT,How do you know my father?,
-32011,SUPPORT,When did you meet my father?,
-32011,SUPPORT,I met Jeralt back when he was a knight.,
+the father of this fine individual.","Вы — преподаватель, $EK00заслуживший$EL00заслужившая$EM00 высокого доверия.
+К тому же, я знаком с вашим отцом."
+32011,SUPPORT,How do you know my father?,Откуда вы его знаете?
+32011,SUPPORT,When did you meet my father?,Когда вы с ним познакомились?
+32011,SUPPORT,I met Jeralt back when he was a knight.,Когда сэр Джеральт был капитаном рыцарей.
 32011,SUPPORT,"I was born and raised in Garreg Mach, so I often
-had the opportunity to spend time with him.",
+had the opportunity to spend time with him.","Я родился и вырос в Гаррег Махе, так что ваш
+отец часто возился со мной, когда я был ребёнком."
 32011,SUPPORT,"Your mother, as well... She was a cherished friend
-of mine. I was even present for their wedding.",
+of mine. I was even present for their wedding.","А ваша матушка... была моей давней подругой.
+Ха-ха, я даже присутствовал на их свадьбе."
 32011,SUPPORT,"With parents like yours, I have no doubt that you
 possess the kindness and patience necessary to guide
-these students.",
-32011,SUPPORT,But...,
-32011,SUPPORT,It'll be fine. It's not like we're strangers anymore.,
+these students.","В вас течёт кровь сэра Джеральта, и поэтому
+я уверен, что вы будете замечательным 
+наставником этим студентам."
+32011,SUPPORT,But...,Но... Мы не...
+32011,SUPPORT,It'll be fine. It's not like we're strangers anymore.,"Ну, почему бы и нет, если вы так настаиваете.
+Мы уже и так сами попросили о помощи."
 32011,SUPPORT,"Say, Aelfric... Don't you need to take care of
-those thieves?",
-32011,SUPPORT,"Ah, right you are. Please, excuse me.",
-32011,SUPPORT,"Oh, and one more thing, Professor...",
+those thieves?","А, к слову, Альфард. Разве вам не нужно
+конвоировать пленных отсюда?"
+32011,SUPPORT,"Ah, right you are. Please, excuse me.",Ох... и правда что. Тогда я вас покину.
+32011,SUPPORT,"Oh, and one more thing, Professor...","Ах, да, учитель $S0."
 32011,SUPPORT,"If ever you would like to hear more about your
 parents, I would be delighted to share my memories
-with you.",
+with you.","Если вы захотите узнать больше о своих отце
+с матушкой, не стесняйтесь, я с удовольствием
+расскажу столько, сколько вы захотите."
 32012,SUPPORT,"Ah, Professor. To what do I owe this pleasure?",
 32012,SUPPORT,I want to hear more about my parents.,
 32012,SUPPORT,"Ah, yes, of course you do. I will gladly tell you all
