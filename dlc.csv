@@ -3059,22 +3059,25 @@ However, we must return to our work.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Oh, you found it, huh? I've been looking everywhere
-for that. Thanks.",
+for that. Thanks.","Ого, вы нашли эту вещь? Спасибо, выручили."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Yep, that's mine. No, really—I'm not lying this time!",
+34842,MSGDATA,"Yep, that's mine. No, really—I'm not lying this time!","Ага, это моё. Честно... честно-честно!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I can't be expected to remember where I leave every
-small object. Return that at once! At once, I say!",
+small object. Return that at once! At once, I say!","З-знаете, иногда даже я теряю вещи! 
+Верните это поскорее! Ну же!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Yes, that does belong to me. I deeply regret putting
-you through this trouble.",
+you through this trouble.","Мне очень жаль, что я доставила вам неудобства —
+да, эта вещь действительно моя."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Whoa. I was sure I'd never see this thing again.
-Thanks for finding it.",
+Thanks for finding it.","Как говорят: человек потерял, Богиня нашла?
+А я уже смирилась с пропажей... Спасибо."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3082,17 +3085,19 @@ Thanks for finding it.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,That is mine. Appreciated.,
+34842,MSGDATA,That is mine. Appreciated.,Это моё. Благодарю.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Thanks for finding this! I honestly never thought I'd
-see it again.",
+see it again.","Спасибо, что $EK00нашёл$EL00нашла$EM00 это! Я уж думала, эта вещица
+с концами потерялась!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Yes, that is surely mine. I appreciate you bringing
-this to me.",
+this to me.","Да, эта вещь действительно моя. Благодарю,
+что $EK00доставил$EL00доставила$EM00 её мне."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3104,33 +3109,37 @@ this to me.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Nah, that's not mine. Better ask around.",
+34842,MSGDATA,"Nah, that's not mine. Better ask around.",Нет... Это не моё. Спросите кого-то ещё.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Not mine, but if you can't find the owner, I'll help
-you unload it. I know a guy.",
+you unload it. I know a guy.","Впервые вижу. Если не найдёте владельца,
+почему бы вам не продать это?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Hmm. No, I'd recognize that if it belonged to me.",
+34842,MSGDATA,"Hmm. No, I'd recognize that if it belonged to me.","Это не моя вещь. Да, я уверена в этом."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"If my conduct has misled you, I can only ask
-your forgiveness.",
+your forgiveness.","Смиренно прошу простить, если моё поведение
+заставило вас его неверно истолковать."
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Nope, not mine. No clue whose it is.",
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,"Nope, not mine. No clue whose it is.","Это чужое. Есть идеи, чьё это?..
+Вы думали, что это вещь Хапи?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I don't recognize that.,
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Uh, this isn't mine. Try someone else?",
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,I don't recognize that.,"Я не знаю, чьё это."
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,"Uh, this isn't mine. Try someone else?","Хм-м, не похоже на мою вещь. 
+Попробуй спросить кого-нибудь ещё."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3267,19 +3276,19 @@ your forgiveness.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Friend.,
+34842,MSGDATA,Friend.,Учитель.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Hey, pal.",
+34842,MSGDATA,"Hey, pal.",Учитель.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Professor.,
+34842,MSGDATA,Professor.,Учитель.
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Professor.,
+34842,MSGDATA,Professor.,Учитель.
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Chatterbox.,
+34842,MSGDATA,Chatterbox.,Учитель.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
