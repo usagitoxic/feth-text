@@ -3059,22 +3059,25 @@ However, we must return to our work.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Oh, you found it, huh? I've been looking everywhere
-for that. Thanks.",
+for that. Thanks.","Ого, вы нашли эту вещь? Спасибо, выручили."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Yep, that's mine. No, really—I'm not lying this time!",
+34842,MSGDATA,"Yep, that's mine. No, really—I'm not lying this time!","Ага, это моё. Честно... честно-честно!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I can't be expected to remember where I leave every
-small object. Return that at once! At once, I say!",
+small object. Return that at once! At once, I say!","З-знаете, иногда даже я теряю вещи! 
+Верните это поскорее! Ну же!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Yes, that does belong to me. I deeply regret putting
-you through this trouble.",
+you through this trouble.","Мне очень жаль, что я доставила вам неудобства —
+да, эта вещь действительно моя."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Whoa. I was sure I'd never see this thing again.
-Thanks for finding it.",
+Thanks for finding it.","Как говорят: человек потерял, Богиня нашла?
+А я уже смирилась с пропажей... Спасибо."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3082,17 +3085,19 @@ Thanks for finding it.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,That is mine. Appreciated.,
+34842,MSGDATA,That is mine. Appreciated.,Это моё. Благодарю.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Thanks for finding this! I honestly never thought I'd
-see it again.",
+see it again.","Спасибо, что $EK00нашёл$EL00нашла$EM00 это! Я уж думала, эта вещица
+с концами потерялась!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Yes, that is surely mine. I appreciate you bringing
-this to me.",
+this to me.","Да, эта вещь действительно моя. Благодарю,
+что $EK00доставил$EL00доставила$EM00 её мне."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3104,33 +3109,37 @@ this to me.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Nah, that's not mine. Better ask around.",
+34842,MSGDATA,"Nah, that's not mine. Better ask around.",Нет... Это не моё. Спросите кого-то ещё.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Not mine, but if you can't find the owner, I'll help
-you unload it. I know a guy.",
+you unload it. I know a guy.","Впервые вижу. Если не найдёте владельца,
+почему бы вам не продать это?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Hmm. No, I'd recognize that if it belonged to me.",
+34842,MSGDATA,"Hmm. No, I'd recognize that if it belonged to me.","Это не моя вещь. Да, я уверена в этом."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"If my conduct has misled you, I can only ask
-your forgiveness.",
+your forgiveness.","Смиренно прошу простить, если моё поведение
+заставило вас его неверно истолковать."
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Nope, not mine. No clue whose it is.",
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,"Nope, not mine. No clue whose it is.","Это чужое. Есть идеи, чьё это?..
+Вы думали, что это вещь Хапи?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I don't recognize that.,
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Uh, this isn't mine. Try someone else?",
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,I don't recognize that.,"Я не знаю, чьё это."
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,$NONE,$NONE
+34842,MSGDATA,"Uh, this isn't mine. Try someone else?","Хм-м, не похоже на мою вещь. 
+Попробуй спросить кого-нибудь ещё."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3267,19 +3276,19 @@ your forgiveness.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Friend.,
+34842,MSGDATA,Friend.,Учитель.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Hey, pal.",
+34842,MSGDATA,"Hey, pal.",Учитель.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Professor.,
+34842,MSGDATA,Professor.,Учитель.
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Professor.,
+34842,MSGDATA,Professor.,Учитель.
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Chatterbox.,
+34842,MSGDATA,Chatterbox.,Учитель.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -4890,165 +4899,236 @@ throw at our enemies. Thanks for volunteering.","Хм-м, а вы, похоже,
 I don't care how excited they are. Let's get to it!","Да какая разница, в каком настроении сражаться,
 если уже решено, что сражаться будем? Вперёд!"
 32010,SUPPORT,"Wow. An underground arena, huh? You sure know
-some great spots, Yuri.",
+some great spots, Yuri.","О-о! Подземная арена! Юрий, а ты знаешь
+отличные места!"
 32010,SUPPORT,"I heard about this place from someone back in town.
-It hasn't been in use for a long time.",
+It hasn't been in use for a long time.","О том, что когда-то тут была арена, я узнал от
+местных стариков."
 32010,SUPPORT,"I figured it could prove useful, so I spent some
 time clearing out the debris that was blocking the
-entrance.",
+entrance.","Я подумал, что когда-нибудь она может пригодиться, 
+так что расчистил заваленный вход."
 32010,SUPPORT,"It seems to be a revitalized ruin... Perhaps it was
-originally a reception hall or something similar.",
-32010,SUPPORT,"Perhaps. Honestly, all of Abyss feels like a ruin.",
+originally a reception hall or something similar.","Это место... похоже, это перестроенные руины,
+где изначально находился какой-то большой зал."
+32010,SUPPORT,"Perhaps. Honestly, all of Abyss feels like a ruin.","Возможно, так и есть. Вся Бездна... выглядит
+как руины."
 32010,SUPPORT,"Ahaha! This place is magnificent! It is just spacious
 enough to contain my glory! I shall not hold back
-here!",
+here!","Хе-хе-хе, на такой широкой площади я смогу
+сражаться, не сдерживая себя!"
 32010,SUPPORT,"Large. Isolated. I wonder if it would be OK for me to
-sigh here...",
-32010,SUPPORT,Sigh?,
+sigh here...","Интересно, можно ли Хапи тут вздохнуть."
+32010,SUPPORT,Sigh?,Вздохнуть?
 32010,SUPPORT,"If Hapi sighs, monsters come running. No, I'm
-not kidding.",
-32010,SUPPORT,I'm not sure what you could possibly mean by that...,
+not kidding.","Когда она вздыхает, тут же налетают чудища.
+И это не фигура речи."
+32010,SUPPORT,I'm not sure what you could possibly mean by that...,"Налетают чудища? Что это тогда,
+если не фигура речи?.."
 32010,SUPPORT,"I wish, Hapi, but no. Absolutely no sighing. And,
-Constance, be glorious in moderation.",
+Constance, be glorious in moderation.","А-а, что бы это ни значило, вздыхать нельзя.
+Констанция, тебе тоже нельзя буянить."
 32010,SUPPORT,"Understood? This place is so big that if it collapses,
-all of Abyss will fall with it.",
+all of Abyss will fall with it.","Потому что если это огромное место развалится,
+оно за собой утянет всю Бездну."
 32010,SUPPORT,"The whole reason we're luring our enemies here is to
-avoid damaging Abyss. Don't lose sight of that.",
-32010,SUPPORT,I am well aware of our aim!,
+avoid damaging Abyss. Don't lose sight of that.","Мы специально хотели заманить противника сюда,
+чтобы избежать потерь. Не забывайте об этом."
+32010,SUPPORT,I am well aware of our aim!,О-хо-хо-хо! Уж это я прекрасно понимаю!
 32010,SUPPORT,"Sure, but that doesn't mean we can trust you to
-show restraint.",
-32010,SUPPORT,I'm concerned.,
-32010,SUPPORT,Don't get carried away.,
+show restraint.",Чего-то я в твоих словах не уверен.
+32010,SUPPORT,I'm concerned.,Я волнуюсь.
+32010,SUPPORT,Don't get carried away.,Не буянь слишком сильно.
 32010,SUPPORT,"You as well?! I cannot fathom why I am being treated
-in such a way.",
+in such a way.",И вы туда же?! Просто не могу поверить в это!
 32010,SUPPORT,"It is the duty of the nobility to preserve the people's
-safety.",
+safety.","К-кхм. Долг любого аристократа — защита
+благополучия народа!"
 32010,SUPPORT,"Do you truly believe that I would destroy Abyss in
-my efforts to save it? Preposterous!",
-32010,SUPPORT,That would cause trouble for Elfie too.,
+my efforts to save it? Preposterous!","Чтобы я, и уничтожила Бездну в попытке
+её защитить, будто не вижу леса за
+деревьями — это исключено!"
+32010,SUPPORT,That would cause trouble for Elfie too.,"Случись такое, мы и Альфу доставим проблемы."
 32010,SUPPORT,"If the underground collapses, he's the one who
-will have to answer for it.",
-32010,SUPPORT,Who is Elfie?,
+will have to answer for it.","Ведь если подземелье обвалится,
+обязательно накажут Альфа?"
+32010,SUPPORT,Who is Elfie?,Альфа?
 32010,SUPPORT,"You must know Aelfric, yeah? He's a big wig in the
-church, but a friend of Abyss.",
+church, but a friend of Abyss.","А вы с ним наверху не встречались? Он один
+из важных шишек в Церкви, но при этом —
+союзник Бездны."
 32010,SUPPORT,"He's the one who opened up this place to folks with
 nowhere else to turn. Folks like us. He gave us a
-home, a new life.",
+home, a new life.","Это он даёт пристанище таким как мы,
+кому некуда идти."
 32010,SUPPORT,"It is Aelfric himself who put forth the idea of
-establishing the Ashen Wolf House.",
+establishing the Ashen Wolf House.","Вероятно, вам уже это известно, но 
+именно отец Альфард предложил 
+создать дом Пепельных Волков."
 32010,SUPPORT,"Sadly, he faces opposition within the church, and so
-he cannot openly deploy the knights to aid us.",
+he cannot openly deploy the knights to aid us.","Насколько мы сами знаем, из-за разногласий внутри 
+Церкви он не может открыто задействовать рыцарей.
+"
 32010,SUPPORT,"That means Aelfric relies upon us to protect the
-people who live here. Us...and now you.",
+people who live here. Us...and now you.","Так что единственная надежда на защиту
+этого места — это мы... и ваша помощь."
 32010,SUPPORT,"I hope you're ready, Professor. We're counting
-on you.",
-32010,SUPPORT,Professor?,
-32010,SUPPORT,We won't let you down.,
+on you.","Могу я на вас положиться, «учитель»?
+А то если я уж начну на вас рассчитывать,
+то безгранично и до самого конца."
+32010,SUPPORT,Professor?,Учитель?
+32010,SUPPORT,We won't let you down.,Я только за.
 32010,SUPPORT,"You are a professor at the Officers Academy, are
-you not?",
+you not?",Вы же преподаёте в Офицерской академии?
 32010,SUPPORT,"You may not be our instructor, but I cannot think of
-a more fitting title to call you.",
-32010,SUPPORT,Seems like you're with us now. We'll owe you one.,
-32010,SUPPORT,"Reliable, aren't you? We'll owe you one.",
+a more fitting title to call you.","Конечно, вы не то что бы наш наставник...
+Но как нам вас ещё называть?"
+32010,SUPPORT,Seems like you're with us now. We'll owe you one.,"Короче, рассчитываем на вас."
+32010,SUPPORT,"Reliable, aren't you? We'll owe you one.","А вы надёжный человек, да? 
+Ну, будем вам обязаны."
 32010,SUPPORT,"Time to knock some sense into their thick skulls.
-They picked the wrong strangers to mess with!",
+They picked the wrong strangers to mess with!","Пусть на своей шкуре поймут, как опасно
+связываться с нами!"
 32011,SUPPORT,"Aelfric! How serendipitous that you have come to
-our aid!",
+our aid!","Отец Альфард! Как чудесно, что вы прибыли
+к нам на помощь!"
 32011,SUPPORT,"I am relieved that I wasn't too late. I do hope my
-presence proved useful.",
-32011,SUPPORT,No doubt about it. We needed the backup.,
-32011,SUPPORT,"So, you're Aelfric...",
-32011,SUPPORT,You're with the church...,
+presence proved useful.","Да, и я рад, что не опоздал. Надеюсь, моя
+помощь вам пригодилась."
+32011,SUPPORT,No doubt about it. We needed the backup.,"Ещё как, Альфард. Информация от вас
+нам как раз пришлась кстати."
+32011,SUPPORT,"So, you're Aelfric...",Вы тот самый Альфард...
+32011,SUPPORT,You're with the church...,Вы тот самый «один из важных шишек в Церкви»?
 32011,SUPPORT,"Professor. I do believe this is the first time our paths
-have crossed, is it not?",
+have crossed, is it not?","Учитель $S0. Ведь это наш первый разговор, так?"
 32011,SUPPORT,"Of course, I have heard all about you from Her
-Grace, the archbishop.",
+Grace, the archbishop.","Наслышан о вас от Её Высокопреосвященства,
+архиепископа."
 32011,SUPPORT,"Allow me to introduce myself. I am Aelfric. The
-church has granted me custodianship of Abyss.",
-32011,SUPPORT,You look after Abyss?,
-32011,SUPPORT,Pleased to meet you.,
+church has granted me custodianship of Abyss.","Я Альфард. Церковь назначила меня
+управляющим Бездны."
+32011,SUPPORT,You look after Abyss?,Управляющим Бездны?
+32011,SUPPORT,Pleased to meet you.,$EK00Рад$EL00Рада$EM00 знакомству.
 32011,SUPPORT,"Indeed. And despite my responsibilities, I am but a
-humble monk.",
-32011,SUPPORT,The pleasure is all mine.,
+humble monk.",Да. Хотя на деле я простой монах...
+32011,SUPPORT,The pleasure is all mine.,"Да, это взаимно."
 32011,SUPPORT,"I am sure you have already been told about Abyss's
-unique situation.",
+unique situation.","Уверен, вы уже знаете о судьбах местного люда."
 32011,SUPPORT,"For varying reasons, all of the inhabitants here are
-unable to live a peaceful life on the surface.",
+unable to live a peaceful life on the surface.","У всех, кто живёт в Бездне, есть свои причины,
+препятствующие их жизни на поверхности."
 32011,SUPPORT,"People like the Dagdans and Almyrans, who suffer
-undue persecution across Fódlan.",
+undue persecution across Fódlan.","Выходцы из Дагды и Пальмиры в Фодлане
+нередко подвергаются преследованию..."
 32011,SUPPORT,"The poor and the sick, who were forced into Abyss.
 Not to mention all the other unfortunate souls who
-ended up here.",
+ended up here.",Немощных и нищих под землю загоняет нужда.
 32011,SUPPORT,"I believe it is my sacred duty to provide a place for
-those who have nowhere else to go.",
+those who have nowhere else to go.","Я верю, что дать пристанище людям, которым
+некуда податься — это моя обязанность."
 32011,SUPPORT,"Right. And the poor and sick living in a sunless
-crypt helps them...how?",
+crypt helps them...how?","Хорошо пристанище — попробуй выберись 
+из болезней или нищеты, когда тут нет ни 
+луча света..."
 32011,SUPPORT,"Enough, Claude. Please forgive my friend, Aelfric.
-We would love to hear more.",
+We would love to hear more.","Замолчи, Клод. Отец Альфард, пожалуйста,
+продолжайте — не обращайте внимания
+на его слова."
 32011,SUPPORT,"In all honesty, I understand his concern. I dearly
-wish I could provide a better life for my flock.",
+wish I could provide a better life for my flock.","По правде говоря... я бы хотел обеспечить
+этим людям лучшую жизнь."
 32011,SUPPORT,"But it would appear that Her Grace and most of the
 church consider the existence of Abyss to be...
-something of a nuisance.",
-32011,SUPPORT,A nuisance?,
-32011,SUPPORT,That can't be true.,
+something of a nuisance.","Но Её Высокопреосвященство и Церковь 
+с подозрением относятся к существованию Бездны..."
+32011,SUPPORT,A nuisance?,С подозрением?
+32011,SUPPORT,That can't be true.,Да быть не может.
 32011,SUPPORT,"I'm afraid so... Those within the church who would
-see Abyss purged are swiftly growing in number.",
+see Abyss purged are swiftly growing in number.","Да. В последнее время растёт количество
+членов Церкви, поддерживающих то,
+чтобы «очистить» Бездну."
 32011,SUPPORT,"No? I've heard tell of those within the church who
-intend to purge Abyss.",
+intend to purge Abyss.","Вы так считаете? В последнее время 
+в Церкви всё чаще слышны голоса, 
+призывающие «очистить» Бездну.
+"
 32011,SUPPORT,"That's the church for you. They make a big deal out
-of helping the helpless...when it suits them.",
+of helping the helpless...when it suits them.","Церковь на то и Церковь. Как много бы они 
+ни хвастались, что спасают сирых и убогих."
 32011,SUPPORT,"We can't just sit back and accept the way things are.
-We've gotta fight the system!",
+We've gotta fight the system!","Поэтому мы не можем позволить, чтобы всё
+кончилось вот так."
 32011,SUPPORT,"Sure, I'm here to hide from literally countless
-bounty hunters, but I'm not the only one in need.",
+bounty hunters, but I'm not the only one in need.","Я ведь и сам скрываюсь, потому что перегнул
+палку, отбиваясь от охотников за головами..."
 32011,SUPPORT,"You're in a bad way too, Hapi. We can't just let the
-church walk all over us.",
+church walk all over us.","Хапи, ведь и ты рискуешь головой? Нам нельзя
+позволять Церкви творить то, что им вздумается."
 32011,SUPPORT,"Too true. For the sake of all who dwell in Abyss, we
-must help dear Aelfric to turn the tide!",
+must help dear Aelfric to turn the tide!","Именно так! И ради всех в Бездне мы помогаем
+отцу Альфарду!"
 32011,SUPPORT,"I am overwhelmed with gratitude. Your fervent
-support is all the reward I could ask for.",
-32011,SUPPORT,"As for you, Professor, I must beg a favor of you.",
-32011,SUPPORT,What's the favor?,
+support is all the reward I could ask for.","Спасибо. Слыша такие слова, я понимаю,
+что все мои усилия не напрасны."
+32011,SUPPORT,"As for you, Professor, I must beg a favor of you.",Учитель $S0. Я настоятельно попрошу вас об одном.
+32011,SUPPORT,What's the favor?,О чём?
 32011,SUPPORT,"The Ashen Wolves are a house in name alone. They
-are eager students with no teacher to guide them...",
+are eager students with no teacher to guide them...","Пепельные Волки — дом лишь номинально.
+Сейчас это просто собравшиеся вместе бывшие
+студенты без классного руководителя."
 32011,SUPPORT,"If you could find it in your heart to take them under
-your wing, I would be most grateful.",
+your wing, I would be most grateful.","Я хотел бы, чтобы вы взяли их под своё крыло
+как наставник."
 32011,SUPPORT,"Naturally, your official duties take precedence, so
-you need only help out when your schedule allows.",
+you need only help out when your schedule allows.","Разумеется, я понимаю, что у вас есть и свои
+обязанности — просто присмотрите за ними
+в свободное время, если сможете."
 32011,SUPPORT,"Wait a minute, Aelfric. Where's this nonsense
-coming from?",
+coming from?","Подождите, Альфард. А не излишне ли будет
+просить такое?"
 32011,SUPPORT,"I second that question! We have no need of a
-professor when we have you.",
+professor when we have you.","Соглашусь. К тому же, у нас есть вы, отец Альфард."
 32011,SUPPORT,"Dear flock, I am a mere guardian. I can protect you,
-but I cannot enrich your minds.",
+but I cannot enrich your minds.","Я ваш покровитель... Я могу вас защитить, но я 
+не учитель, и не могу учить и наставлять вас."
 32011,SUPPORT,"Though I call this gathering an academy house,
-I have long lamented that it isn't truly so.",
+I have long lamented that it isn't truly so.","Я всегда считал, что это грустно — нарекать
+домом то, что таковым не является."
 32011,SUPPORT,"Now, I am blessed with the opportunity to correct
 this. The professor who stands before you has
-garnered a great deal of acclaim on the surface.",
+garnered a great deal of acclaim on the surface.","Я многое слышал о вас на поверхности, 
+учитель $S0."
 32011,SUPPORT,"A most trustworthy and esteemed teacher, to say the
 least. What's more, I happen to be acquainted with
-the father of this fine individual.",
-32011,SUPPORT,How do you know my father?,
-32011,SUPPORT,When did you meet my father?,
-32011,SUPPORT,I met Jeralt back when he was a knight.,
+the father of this fine individual.","Вы — преподаватель, $EK00заслуживший$EL00заслужившая$EM00 высокого доверия.
+К тому же, я знаком с вашим отцом."
+32011,SUPPORT,How do you know my father?,Откуда вы его знаете?
+32011,SUPPORT,When did you meet my father?,Когда вы с ним познакомились?
+32011,SUPPORT,I met Jeralt back when he was a knight.,Когда сэр Джеральт был капитаном рыцарей.
 32011,SUPPORT,"I was born and raised in Garreg Mach, so I often
-had the opportunity to spend time with him.",
+had the opportunity to spend time with him.","Я родился и вырос в Гаррег Махе, так что ваш
+отец часто возился со мной, когда я был ребёнком."
 32011,SUPPORT,"Your mother, as well... She was a cherished friend
-of mine. I was even present for their wedding.",
+of mine. I was even present for their wedding.","А ваша матушка... была моей давней подругой.
+Ха-ха, я даже присутствовал на их свадьбе."
 32011,SUPPORT,"With parents like yours, I have no doubt that you
 possess the kindness and patience necessary to guide
-these students.",
-32011,SUPPORT,But...,
-32011,SUPPORT,It'll be fine. It's not like we're strangers anymore.,
+these students.","В вас течёт кровь сэра Джеральта, и поэтому
+я уверен, что вы будете замечательным 
+наставником этим студентам."
+32011,SUPPORT,But...,Но... Мы не...
+32011,SUPPORT,It'll be fine. It's not like we're strangers anymore.,"Ну, почему бы и нет, если вы так настаиваете.
+Мы уже и так сами попросили о помощи."
 32011,SUPPORT,"Say, Aelfric... Don't you need to take care of
-those thieves?",
-32011,SUPPORT,"Ah, right you are. Please, excuse me.",
-32011,SUPPORT,"Oh, and one more thing, Professor...",
+those thieves?","А, к слову, Альфард. Разве вам не нужно
+конвоировать пленных отсюда?"
+32011,SUPPORT,"Ah, right you are. Please, excuse me.",Ох... и правда что. Тогда я вас покину.
+32011,SUPPORT,"Oh, and one more thing, Professor...","Ах, да, учитель $S0."
 32011,SUPPORT,"If ever you would like to hear more about your
 parents, I would be delighted to share my memories
-with you.",
+with you.","Если вы захотите узнать больше о своих отце
+с матушкой, не стесняйтесь, я с удовольствием
+расскажу столько, сколько вы захотите."
 32012,SUPPORT,"Ah, Professor. To what do I owe this pleasure?",
 32012,SUPPORT,I want to hear more about my parents.,
 32012,SUPPORT,"Ah, yes, of course you do. I will gladly tell you all
@@ -15694,38 +15774,50 @@ That hair. Those eyes. That voice!＠048547#04","[1041]Чё? Я тебя зна�
 то, как ты меня назвала...＠048547#04"
 32163,MAP,[1041]Hilda?! I don't believe it! Holst's little sis?!＠048548#04,[1041]Хильда! Младшая сестрёнка Хольста!＠048548#04
 32164,MAP,"[0693]Aah! I knew following those shady kids was a bad
-idea. This place is massive!＠048573#04",
-32164,MAP,"[1041]Heh, they actually fell for it. Let's get this done!＠048574#00",
+idea. This place is massive!＠048573#04","[0693]Чего? Я только что шёл за этими подозрительными
+типами, и вот уже в какой-то огромной дыре...＠048573#04"
+32164,MAP,"[1041]Heh, they actually fell for it. Let's get this done!＠048574#00",[1041]А ловко у нас получилось. Накроем их всех разом!＠048574#00
 32164,MAP,"[1040]Other mercenaries are on their way. We left a nice
-little trail of crumbs for them to follow.＠048575#00",
+little trail of crumbs for them to follow.＠048575#00","[1040]Я уверен, что в подземелье проникнут ещё наёмники.
+Придерживаемся плана и заманиваем всех сюда.＠048575#00"
 32164,MAP,"[1040]We'll need to take them all out, or they'll just keep
-coming. Let's pull together.＠048576#00",
-32164,MAP,[0694]This...can't be the place... Can it?＠048577#00,
+coming. Let's pull together.＠048576#00","[1040]Если закроем на это глаза, проблемы будут 
+накапливаться как ком грязи. Это обязательно 
+нужно разгрести.＠048576#00"
+32164,MAP,[0694]This...can't be the place... Can it?＠048577#00,"[0694]Это... не то место, куда мы шли.＠048577#00"
 32164,MAP,"[1042]More visitors already? Allow us to offer you
-a premature burial.＠048578#00",
-32164,MAP,[0694]Damn brats. Outta the way!＠048579#02,
+a premature burial.＠048578#00","[1042]К нам прибыли новые гости. Позвольте
+мне немедля проводить вас в ад!＠048578#00"
+32164,MAP,[0694]Damn brats. Outta the way!＠048579#02,"[0694]Чёрт... Не мозоль глаза, мелочь!
+Убрать их!＠048579#02"
 32164,MAP,"[0695]How deep does this place go? I wonder if it's around
-here somewhere...＠048580#00",
+here somewhere...＠048580#00","[0695]Мы уже забрались так глубоко... Может,
+хоть тут валяется то, что мы ищем?＠048580#00"
 32164,MAP,"[1043]All we have here are your buddies' carcasses.
-Maybe you should turn around and go home.＠048581#00",
+Maybe you should turn around and go home.＠048581#00","[1043]Тут валяется только куча тел. Может, уйдёте?＠048581#00"
 32164,MAP,"[1043]We have to finish this fight before more show up.
-I wish they'd turn around and go home.＠048582#00",
+I wish they'd turn around and go home.＠048582#00","[1043]Если не закруглимся побыстрее, то их будет
+всё больше. Ну почему они просто не уйдут?＠048582#00"
 32164,MAP,"[0696]All right, where's the treasure? I've had it with
-these Abyssians!＠048583#02",
+these Abyssians!＠048583#02","[0696]Где же сокровище?.. Меня уже достали
+эти выродки из Бездны!＠048583#02"
 32164,MAP,"[1041]Jeez, will it ever end? I love a good brawl, but I'm
-sick of looking at these fools.＠048584#00",
-32164,MAP,[0698]Boss! That's the last of 'em!＠048585#00,
-32164,MAP,"[1040]Good. Finally. Thanks for all the help, everyone.＠048586#01",
+sick of looking at these fools.＠048584#00","[1041]Да когда ж вы кончитесь? Мне уже надоело
+вас считать.＠048584#00"
+32164,MAP,[0698]Boss! That's the last of 'em!＠048585#00,"[0698]Босс! Всё, не осталось больше наёмников!＠048585#00"
+32164,MAP,"[1040]Good. Finally. Thanks for all the help, everyone.＠048586#01","[1040]Отлично, рад слышать. Всем спасибо за старания...＠048586#01"
 32164,MAP,"[0697]I ain't going down without a fight! I'm taking you
-with me, punk!＠048587#02",
-32164,MAP,[1044]I will not allow it.＠048588#00,
-32164,MAP,"[1040]Aelfric, you're here! Well, shall we capture this fool?＠048589#00",
+with me, punk!＠048587#02","[0697]Чёрт! Нет, я тебя с собой!..＠048587#02"
+32164,MAP,[1044]I will not allow it.＠048588#00,[1044]Не позволю.＠048588#00
+32164,MAP,"[1040]Aelfric, you're here! Well, shall we capture this fool?＠048589#00","[1040]Альфард! Вот выручили — ну что, в плен его?＠048589#00"
 32164,MAP,"[0042]I thought I smelled fresh blood. The worms will
-feast tonight!＠048518#00",
+feast tonight!＠048518#00","[0042]Кажется, повеяло свежей кровью...
+Адский пир!＠048518#00"
 32164,MAP,"[0042]That sword awaited you in the Holy Mausoleum.
-Show me its power!＠048519#00",
-32164,MAP,[0042]I've indulged too much. I take my leave. For now.＠048520#00,
-32164,MAP,[0002]Honestly! What a nuisance.＠048590#00,
+Show me its power!＠048519#00","[0042]Меч, который дождался тебя в Священном 
+Мавзолее... Покажи мне его!＠048519#00"
+32164,MAP,[0042]I've indulged too much. I take my leave. For now.＠048520#00,[0042]Я вдоволь насытился. Сейчас... я уйду.＠048520#00
+32164,MAP,[0002]Honestly! What a nuisance.＠048590#00,[0002]Серьёзно? С ним невозможно иметь дело.＠048590#00
 32165,MAP,"[1041]What's the deal? No matter how many we squash,
 more just take their place.＠048598#04",
 32165,MAP,"[0007]Hmm... If those things were created to protect the
@@ -16105,45 +16197,51 @@ want to hurt anyone.＠048571#03","[1043]Конечно, уже поздно в�
 Но уже ничего не поделать.＠048572#00"
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32195,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0000]...＠DummyVoice,
+32196,MAP,[0000]...＠DummyVoice,[0000]...＠DummyVoice
 32196,MAP,"[0042]Now, unsheathe your sword. Show me all that
-you are!＠048523#00",
+you are!＠048523#00","[0042]Давай, покажи мне силу... своего меча!＠048523#00"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1041]Some baggage you've got, pal. Just how many people
-have you slaughtered?＠048591#04",
-32196,MAP,[0042]Countless.＠048524#00,
+have you slaughtered?＠048591#04","[1041]Вот это грехов ты себе на душу взял.
+Сколько людей ты убил?＠048591#04"
+32196,MAP,[0042]Countless.＠048524#00,[0042]Столько... что я уже и не помню!＠048524#00
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0042]...＠DummyVoice,
+32196,MAP,[0042]...＠DummyVoice,[0042]...＠DummyVoice
 32196,MAP,"[1042]Your composure with that weapon... Your posture...
-It cannot be. No, it is surely just my imagination.＠048592#00",
+It cannot be. No, it is surely just my imagination.＠048592#00","[1042]Твоя стойка... манера обращения с оружием...
+Нет, мне просто кажется!＠048592#00"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0002]I don't care what brought you here. Withdraw. Now.＠048593#00,
-32196,MAP,[0042]...＠DummyVoice,
+32196,MAP,[0002]I don't care what brought you here. Withdraw. Now.＠048593#00,"[0002]Я не буду спрашивать, зачем ты здесь.
+Ты можешь отступить?＠048593#00"
+32196,MAP,[0042]...＠DummyVoice,[0042]...＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,[0042]I have no time for this. To your grave!＠048525#00,
+32196,MAP,[0042]I have no time for this. To your grave!＠048525#00,[0042]Времени нет. Не мозоль мне глаза!＠048525#00
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1040]Be careful who you choose to follow. Ha, I suppose
-it's too late for that now, isn't it?＠048594#00",
+it's too late for that now, isn't it?＠048594#00","[1040]Надо было немного осторожнее выбирать
+работодателя. Ну, теперь уже поздно жалеть.＠048594#00"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1041]It'll be a shame to mar this pretty arena with a bunch
-of fresh corpses, but here goes!＠048595#02",
+of fresh corpses, but here goes!＠048595#02","[1041]Ну, готовы к тому, что надгробия вам
+прямо на этой арене поставят?!＠048595#02"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,"[1042]You'll not find it so easy to escape from the darkest
-depths of Garreg Mach!＠048596#02",
+depths of Garreg Mach!＠048596#02","[1042]Если попасть во тьму Гаррег Маха,
+то отступать уже некуда!＠048596#02"
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
-32196,MAP,"[1043]You're a real pain in the neck, you know that?＠048597#00",
+32196,MAP,"[1043]You're a real pain in the neck, you know that?＠048597#00",[1043]Это... ты мешаешь.＠048597#00
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
 32196,MAP,[9999]NULL#00＠DummyVoice,[9999]NULL#00＠DummyVoice
