@@ -1185,7 +1185,7 @@ the convoy.","Этот юнит не может нести больше. Выб�
 0,MSGDATA,Large Fish Shadow,Большой силуэт рыбы
 0,MSGDATA,Giant Fish Shadow,Гигантский силуэт рыбы
 0,MSGDATA,Glimmering Fish Shadow,Сверкающий силуэт рыбы
-0,MSGDATA,Divine Pulse has $%d1 charges.,Зарядов Небесного Пульса: $%d1.
+0,MSGDATA,Divine Pulse has $%d1 charges.,Заряды Небесного Пульса: $%d1.
 0,MSGDATA,??,??
 0,MSGDATA,???,???
 0,MSGDATA,COMBO,КОМБО
@@ -14374,8 +14374,8 @@ use Foudroyant. Strike twice if initiating combat.","Реликвия Героя
 Crest-bearer can use Beast Fang.","Реликвия Героя (Герб Зверя). Магическое оружие. 
 Носитель герба может использовать Клык Зверя."
 0,MSGDATA,"Grants $S0 alone its power
-and the ability to use Ruptured Heaven.","Дарует лишь $S0 свою мощь, а также
-навык Низвергнутые Небеса."
+and the ability to use Ruptured Heaven.","Только $S0 владеет его истинной 
+силой и навыком Низвергнутые Небеса."
 0,MSGDATA,"A spectacular lance forged by the legendary
 artisan Zoltan.","Эффектное копьё, выкованное легендарным
 ремесленником Золтаном."
@@ -196028,7 +196028,7 @@ grown from taking part in activities with $S0.","Поговорите с таи�
 4,MSGDATA,"Forgive me, everyone. My battle ends here.","Ребята, простите... Моя битва окончена."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,To be left behind... Unacceptable.,Выиграть меня... Неприемлемо.
+4,MSGDATA,To be left behind... Unacceptable.,"Немыслимо, чтобы я... и проиграла..."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,I have no choice but to admit defeat.,"У меня нет другого выбора, кроме как признать
@@ -197031,7 +197031,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,I guess I feel a little stronger.,Я чувствую себя немного сильнее.
 4,MSGDATA,I feel a little stronger.,Я стала немного сильнее.
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Don't expect much more than that.,Большего и не ждите.
+4,MSGDATA,Don't expect much more than that.,Всё-то от меня чего-то ждут...
 4,MSGDATA,It was the least I could do.,"И так сойдёт, верно?"
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Gotta keep improving.,Нужно продолжать совершенствоваться.
@@ -197305,7 +197305,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,I can feel the difference.,Я чувствую разницу.
 4,MSGDATA,Stronger. Faster. Never enough.,"Ещё сильнее, ещё быстрее!"
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,I'm starting to see results.,Я начинаю видеть результаты.
+4,MSGDATA,I'm starting to see results.,"Похоже, тренировки дали свои плоды..."
 4,MSGDATA,"Without power, who can you protect?",Без силы никого не защитить.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,I like how this feels.,Мне нравится это ощущение.
@@ -197563,10 +197563,10 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Another step forward.,Ещё один шаг вперед.
+4,MSGDATA,Another step forward.,Ещё один... шаг вперёд?
 4,MSGDATA,There is still room for improvement.,Есть куда расти.
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Another step forward.,Ещё один шаг вперед.
+4,MSGDATA,Another step forward.,Ещё один... шаг вперёд?
 4,MSGDATA,There is still room for improvement.,Есть куда расти.
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,One step at a time...,Шаг за шагом...
@@ -197887,7 +197887,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,This can't be right...,Что? У меня — и проблемы с ростом?
 4,MSGDATA,I am not well pleased.,Нехорошо. Я так и забеспокоюсь.
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,I could've been sleeping this whole time.,А разве во сне не быстрее растут?
+4,MSGDATA,I could've been sleeping this whole time.,"А разве не быстрее растёшь, если много спишь?"
 4,MSGDATA,Was any of this worth it?,"Мне кажется, я трачу жизнь зря."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,"Ugh, I'm stronger than this.","Уф, я сильнее этого."
@@ -197938,7 +197938,7 @@ battle through.","Мы на полпути к цели... Я не могу зд�
 4,MSGDATA,Um... Oh well.,Э... не может...
 4,MSGDATA,I won't let this hold me back.,Я не буду унывать...
 4,MSGDATA,$NONE,$NONE
-4,MSGDATA,Oh dear. Maybe I was too lazy.,"Ой-ёй, наверное, я слишком обленилась..."
+4,MSGDATA,Oh dear. Maybe I was too lazy.,"Ой, что-то я совсем обленилась..."
 4,MSGDATA,Not quite what I'd hoped for.,"Не то, на что я надеялась."
 4,MSGDATA,$NONE,$NONE
 4,MSGDATA,Can I get a do-over?,А можно по-другому?
