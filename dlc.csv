@@ -3156,31 +3156,34 @@ your forgiveness.","Смиренно прошу простить, если мо�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,An obvious fit.,
-34842,MSGDATA,Clearly you place a lot of stock in me.,
+34842,MSGDATA,An obvious fit.,"Ну естественно, что это мне подходит."
+34842,MSGDATA,Clearly you place a lot of stock in me.,Мне никак нельзя вас подвести.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Well this is different.,
-34842,MSGDATA,"So long as I can still rumble, fine by me.",
+34842,MSGDATA,Well this is different.,"Что же, пора действовать по-другому!"
+34842,MSGDATA,"So long as I can still rumble, fine by me.","Ну, главное, насколько сильно я бью,
+а не как выгляжу."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"It suits me, yes? But then, everything does.",
-34842,MSGDATA,"I shall not disappoint, I assure you.",
-34842,MSGDATA,"How I appear does not change who I am, alas.",
-34842,MSGDATA,Does a new role change anything?,
-34842,MSGDATA,This feels right.,
-34842,MSGDATA,Can't do the job without the duds.,
+34842,MSGDATA,"It suits me, yes? But then, everything does.","Во что меня ни наряжай, я выгляжу великолепно!"
+34842,MSGDATA,"I shall not disappoint, I assure you.","Обещаю, что блестяще покажу себя в этой роли!"
+34842,MSGDATA,"How I appear does not change who I am, alas.","Во что меня ни наряжай, я всё равно
+буду ничем не примечательна..."
+34842,MSGDATA,Does a new role change anything?,"Во что меня ни наряжай, от меня всё равно
+не следует ждать чего-то выдающегося..."
+34842,MSGDATA,This feels right.,"Ну, я рада новой одёжке."
+34842,MSGDATA,Can't do the job without the duds.,"Как ни крути, экипировка имеет значение."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,All I want is more strength.,
+34842,MSGDATA,All I want is more strength.,Я ищу схватки с сильными... только и всего.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,May fortune smile upon me.,
+34842,MSGDATA,May fortune smile upon me.,"Хе-хе, надеюсь на сотрудничество и впредь."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3196,31 +3199,34 @@ your forgiveness.","Смиренно прошу простить, если мо�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Clever to invest in me.,
-34842,MSGDATA,You won't be sorry.,
+34842,MSGDATA,Clever to invest in me.,Это тоже неплохой способ вести бой.
+34842,MSGDATA,You won't be sorry.,"Что же, рискнём!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Heh, I could get used to this.",
-34842,MSGDATA,The ladies will go wild over this.,
+34842,MSGDATA,"Heh, I could get used to this.",А вот это уже интересно!
+34842,MSGDATA,The ladies will go wild over this.,Жду не дождусь устроить буйство на поле боя!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Another step toward my grand achievement.,
-34842,MSGDATA,For the common good of us all!,
-34842,MSGDATA,"In this sunlight, it is hard to feel bright...",
-34842,MSGDATA,This direction may bring improvement.,
-34842,MSGDATA,Whaddaya think?,
-34842,MSGDATA,Works for me.,
+34842,MSGDATA,Another step toward my grand achievement.,И это тоже шаг к моему блестящему будущему!
+34842,MSGDATA,For the common good of us all!,"И это тоже шаг к моему... к всеобщему
+блестящему будущему!"
+34842,MSGDATA,"In this sunlight, it is hard to feel bright...","Мне бы хотелось, чтобы это затмило
+яркий свет, но..."
+34842,MSGDATA,This direction may bring improvement.,"Надеюсь, что сумею сражаться
+с поднятой головой..."
+34842,MSGDATA,Whaddaya think?,"Ну как, мне не очень идёт?"
+34842,MSGDATA,Works for me.,"Какая уже разница, идёт мне это или нет?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,What a strange feeling.,
+34842,MSGDATA,What a strange feeling.,Чувствую себя странно.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Well? What do you think?,
+34842,MSGDATA,Well? What do you think?,Та-да! Ну как тебе?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3236,31 +3242,33 @@ your forgiveness.","Смиренно прошу простить, если мо�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,There's not much I can't do now.,
-34842,MSGDATA,"Oh, this will be fun.",
+34842,MSGDATA,There's not much I can't do now.,"Ну, я сделаю всё, что в моих силах."
+34842,MSGDATA,"Oh, this will be fun.",А мне это даже по нраву.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Like what you see, yeah?",
-34842,MSGDATA,You picked the right man for the job.,
+34842,MSGDATA,"Like what you see, yeah?","Ведь нет единственно верного 
+способа драться... правда?"
+34842,MSGDATA,You picked the right man for the job.,"Ведь нет единственно верного 
+способа нести смерть... правда?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Oh! I'm quite taken with this one.,
-34842,MSGDATA,Does this highlight my glory sufficiently?,
-34842,MSGDATA,You needn't say anything. I know how I look.,
-34842,MSGDATA,Promoting me to save me from death?,
-34842,MSGDATA,Changing up my style.,
-34842,MSGDATA,This is...different.,
+34842,MSGDATA,Oh! I'm quite taken with this one.,Ну как? Мне это к лицу?
+34842,MSGDATA,Does this highlight my glory sufficiently?,Как вам такое? Притягивает взгляды?
+34842,MSGDATA,You needn't say anything. I know how I look.,"И без слов ясно, что мне это не к лицу."
+34842,MSGDATA,Promoting me to save me from death?,"Вы ведь считаете, что я скоро погибну в бою?"
+34842,MSGDATA,Changing up my style.,"Наверное, пора попробовать что-то новое?"
+34842,MSGDATA,This is...different.,Надо хотя бы попробовать что-то новое.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Hm... This may be interesting.,
+34842,MSGDATA,Hm... This may be interesting.,Хм... Я заинтригован.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Ooo, this gear definitely wasn't cheap.",
+34842,MSGDATA,"Ooo, this gear definitely wasn't cheap.",А ведь эта экипировка приличных денег стоит...
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
