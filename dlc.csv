@@ -2106,12 +2106,13 @@ know the first thing about tea.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,What do you want.,
+34842,MSGDATA,What do you want.,В чём дело?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Thanks for having me! Time for business! Oh...
-wait...a tea party?",
+wait...a tea party?","Я пришла, раз уж меня позвали! Ну, приступим
+к делу поскорее... что? Чаепитие?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2151,12 +2152,13 @@ invitation honors me.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"This is...fine enough, I suppose.",
+34842,MSGDATA,"This is...fine enough, I suppose.","Возможно, проводить время так — это тоже неплохо."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Hey, thanks for having me! So, what do you want to
-talk about today?",
+talk about today?","Спасибо за приглашение! Итак, о чём поговорим
+сегодня?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2198,12 +2200,13 @@ for me?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,What a fine fragrance.,
+34842,MSGDATA,What a fine fragrance.,Приятный аромат.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I just love this kind of tea! Makes me happy knowing
-you handpicked it just for me.",
+you handpicked it just for me.","Это моя любимая марка чая! Неужели ты специально
+$EK00выбирал$EL00выбирала$EM00 ради меня? Я так рада!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2244,12 +2247,13 @@ this kindness, I will do it without question.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,A needless expense.,
+34842,MSGDATA,A needless expense.,Не нужно так стараться ради меня.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Whoa, I know this tea. It's super expensive. Just how
-did you get your hands on it?",
+did you get your hands on it?","М-м! Это очень дорогие чайные листья!
+Как ты $EK00умудрился$EL00умудрилась$EM00 их достать?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2290,12 +2294,13 @@ if we went inside.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"If you have something to say, just say it.",
+34842,MSGDATA,"If you have something to say, just say it.","Если ты хочешь что-то сказать, говори."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Hey, could you avert your gaze a bit? You're
-weirding me out!",
+weirding me out!","Ох, я смущаюсь, когда на меня 
+так пристально смотрят!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2339,12 +2344,13 @@ me nervous.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"My eyes? They are the same shade as my mother's
-and sister's. But on me, they look accursed... ",
+and sister's. But on me, they look accursed... ","Мои глаза такого же цвета, как у матери и сестры,
+но мне они кажутся... проклятыми."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You can bat your lashes at me all you want. I'm not
-cutting you any deals, got that?",
+cutting you any deals, got that?",С-смотри на меня сколько угодно — скидку не дам!
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2387,12 +2393,13 @@ myself useful in any way you require.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,You're strange.,
+34842,MSGDATA,You're strange.,$EK00Странный$EL00Странная$EM00 ты.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You like my duds? They might look standard-issue,
-but they've got— Oh...save the sales pitch for later?",
+but they've got— Oh...save the sales pitch for later?","Эта одежда — новый товар. На вид такая же, но 
+её дышащая ткань... А, о делах поговорим потом?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2437,13 +2444,15 @@ Gotta have some snacks at the ready, y'know?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I thirst for blood... That is my true nature.
 It is diabolical.
-",
+","В моём дьявольском характере только
+жажда крови... В этом моя сущность."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Even the most confident merchant gets
 uncomfortable under this much scrutiny,
-you know?",
+you know?","Ну что ты на меня так пристально смотришь?
+Я ведь тоже могу стесняться, знаешь ли."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2486,12 +2495,13 @@ some actual, y'know...work to do?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,This is a questionable pastime.,
+34842,MSGDATA,This is a questionable pastime.,Ну и причуды у тебя.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Of course I pay my taxes! The fact that I can even do
-business at all is thanks to the goddess.",
+business at all is thanks to the goddess.","Часть от выручки я отдаю на пожертвования. 
+Ведь это благодаря Богине я могу вести торговлю!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2534,12 +2544,13 @@ or anything.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'm deathly allergic to this sort of thing.,
+34842,MSGDATA,I'm deathly allergic to this sort of thing.,Мне не по нутру проводить время вот так.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Being a merchant is really dangerous. You have to
-be able to protect yourself at the very least.",
+be able to protect yourself at the very least.","Опасность — это вечный спутник торговца вразнос!
+Так что нужно уметь постоять за себя!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2580,13 +2591,15 @@ Shall I stay at a discreet distance?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Good tea, bad tea. It's all the same.",
+34842,MSGDATA,"Good tea, bad tea. It's all the same.",Я не отличу хороший чай от плохого.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"There's a lot of competition between us merchants.
 So if you've got any ideas on how I can corner the
-market...",
+market...","На рынках много конкурентов... Это меня 
+распаляет — наверняка есть более разумные
+способы вести дело."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2630,12 +2643,14 @@ I can't remember what they look like...",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'm better at fighting than talking.,
+34842,MSGDATA,I'm better at fighting than talking.,"Мне проще обмениваться ударами, 
+чем словами."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You're not half bad at brewing tea! I bet you could
-make a killing doing this for a living.",
+make a killing doing this for a living.","Ты вкусно завариваешь чай! А ведь на этом
+можно и заработать, ты знаешь?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2677,12 +2692,13 @@ manage that? Cats always run away from me...",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I like sweets. What of it?,
+34842,MSGDATA,I like sweets. What of it?,"Разве так неожиданно, что я люблю сладкое?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"The Sreng region is rich in high-quality minerals.
-Wonder how I can distribute them to a buyer...",
+Wonder how I can distribute them to a buyer...","В Сренге добывают руду высокого качества.
+Наладить бы её сбыт... хи-хи."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2724,12 +2740,14 @@ happy? Not much risk of me doing that.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Sitting here reminds me of... But that was long ago.,
+34842,MSGDATA,Sitting here reminds me of... But that was long ago.,"Проводить время вот так навевает воспоминания.
+О далёких... очень далёких временах."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"This place is just loaded with kids from noble
-families. So many fat wallets...so little time!",
+families. So many fat wallets...so little time!","Здесь полно наследников знатных семей —
+думаю, я смогу найти новых покупателей!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2773,13 +2791,14 @@ right now, I'm just grateful to be here.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Wouldn't you like to meet death by my hand? No?
-Well, that is...frustrating.",
+Well, that is...frustrating.","Досадно, что я не могу сразиться с тобой насмерть."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I know it's good to get my mind off of business and
 enjoy simple things like tea sometimes, but...it's
-hard. Really, really hard...",
+hard. Really, really hard...","Хочется иногда забыть о деньгах и просто
+выпить чашку чая, но это... сложно."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2822,12 +2841,13 @@ shortage of alone time.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"In such a peaceful setting, I am able to control my
-impulses. But only just barely.",
+impulses. But only just barely.","Пока мы проводим время так, я могу сдерживать
+свои порывы."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You're wondering where I'm from, are you? Ha!
-I'll never reveal my secrets!",
+I'll never reveal my secrets!","Откуда я родом? Хи-хи, это... секрет."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2871,11 +2891,12 @@ eradicated.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Ironic, really. The end of war seems more horrible
-to me, by far.",
+to me, by far.","Иронично. Я... боюсь того, что война закончится."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"War pushes the profit margins up, but at what cost...",
+34842,MSGDATA,"War pushes the profit margins up, but at what cost...","Кому война, а кому — мать родная,
+но я не хочу, чтобы в боях гибли люди."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2917,11 +2938,12 @@ tea again soon. Next time, more snacks.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Thank you.,
+34842,MSGDATA,Thank you.,Спасибо за угощение.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"Thanks for treating me! Let's do this again, yeah?",
+34842,MSGDATA,"Thanks for treating me! Let's do this again, yeah?","Спасибо за угощение! Буду рада, 
+если ещё пригласишь!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
