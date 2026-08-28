@@ -2098,7 +2098,8 @@ your tea with. I shall endeavor to hold up my end
 of the conversation nonetheless.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Thanks for the invite. Just as a heads-up, I don't
-know the first thing about tea.",
+know the first thing about tea.","Вам чего? Я как раз сейчас свободна, но...
+Чаепитие?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2116,7 +2117,7 @@ wait...a tea party?","Я пришла, раз уж меня позвали! Ну
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,I'm pleased to have been invited.,
+34842,MSGDATA,I'm pleased to have been invited.,Я рада твоему приглашению.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2144,7 +2145,8 @@ me whenever you like.",
 34842,MSGDATA,"Forgive my insolence in saying so, but your
 invitation honors me.",
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Glad to be here. I was hoping you'd invite me.,
+34842,MSGDATA,Glad to be here. I was hoping you'd invite me.,"А вы можете почаще приглашать меня на чай?
+Хапи это в радость."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2163,7 +2165,8 @@ talk about today?","Спасибо за приглашение! Итак, о ч�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I was thinking that it would be lovely to speak with
-you alone for a bit.",
+you alone for a bit.","Я тоже думала о том, чтобы поговорить
+с тобой наедине."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2192,7 +2195,8 @@ ready speaks well of you!",
 prepare my preferred tea.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Wow, that smells good. Did you pick this out just
-for me?",
+for me?","А пахнет приятно. Неужели вы специально
+приготовили любимый чай Хапи?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2211,7 +2215,8 @@ $EK00выбирал$EL00выбирала$EM00 ради меня? Я так ра�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I adore this. Thank you for preparing my
-favorite tea.",
+favorite tea.","Я так рада — ты заранее $EK00приготовил$EL00приготовила$EM00
+мой любимый чай."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2239,7 +2244,7 @@ fine tea? I can pass any test you set before me.",
 too much... If there is anything I can do to repay
 this kindness, I will do it without question.",
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,This tea is expensive. Why are you wasting it on me?,
+34842,MSGDATA,This tea is expensive. Why are you wasting it on me?,Это же дорогой чай. Зачем тратить его на Хапи?
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2258,7 +2263,9 @@ did you get your hands on it?","М-м! Это очень дорогие чайн
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You seem to have a refined taste for tea.
-I am looking forward to enjoying my cup.",
+I am looking forward to enjoying my cup.","Похоже, ты настоящий ценитель чая?
+Я с удовольствием разделю с тобой
+это чаепитие."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2286,7 +2293,9 @@ affections won't be won so easily.",
 34842,MSGDATA,"Does the sun's glare not vex you? Perhaps it's better
 if we went inside.",
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"What, do I have bedhead?",
+34842,MSGDATA,"What, do I have bedhead?","А чего вы так пристально смотрите?
+У Хапи волосы после сна ужасно
+лохматые, что ли?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2305,7 +2314,8 @@ weirding me out!","Ох, я смущаюсь, когда на меня
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"It will be nice to gain a better understanding of
-each other.",
+each other.","Я надеюсь, что постепенно мы станем
+понимать друг друга лучше."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2335,7 +2345,8 @@ to the shade? Or do you assume my mood based
 on the lighting?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"What is this, a staring contest? You're making
-me nervous.",
+me nervous.","Что? Так и будем играть в гляделки?
+Я волнуюсь немного."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2355,7 +2366,8 @@ cutting you any deals, got that?",С-смотри на меня сколько �
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"This is a precious opportunity to spend
-quality time with you.",
+quality time with you.","Мне дорого то время, которое мы можем
+провести лицом к лицу."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2385,7 +2397,9 @@ veins. Never shall it run dry!",
 34842,MSGDATA,"If you have a favor to ask, name it. I shall make
 myself useful in any way you require.",
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"I know, I'm buff as heck. What of it?",
+34842,MSGDATA,"I know, I'm buff as heck. What of it?","У меня мышцы стали крепче в последнее
+время. А мне нравилось, когда они были
+мягче."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2404,7 +2418,8 @@ but they've got— Oh...save the sales pitch for later?","Эта одежда �
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"This crown is rather elaborate, but it has been passed
-down through generations of archbishops.",
+down through generations of archbishops.","Это немного вычурный венец... но он передавался
+от архиепископа к архиепископу поколениями."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2434,7 +2449,8 @@ myself say sound nothing like me.",
 be any great loss to the world.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"OK, you caught me. I hid a few treats in my clothes.
-Gotta have some snacks at the ready, y'know?",
+Gotta have some snacks at the ready, y'know?","Я вовсе не пытаюсь втихаря утащить с собой
+немного сладостей. Правда..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2457,7 +2473,8 @@ you know?","Ну что ты на меня так пристально смот�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"If there is something you wish to say, I hope you
-know that you may tell me anything.",
+know that you may tell me anything.","Не смотри на меня так пристально.
+Я ведь уже не молода..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2487,7 +2504,8 @@ on paper. I harbor little hope that it may someday
 be rebuilt.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You're in no hurry to wrap this up. Don't you have
-some actual, y'know...work to do?",
+some actual, y'know...work to do?","Вы тоже ничем не заняты? У вас же вроде
+работа есть."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2506,7 +2524,8 @@ business at all is thanks to the goddess.","Часть от выручки я о
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Have you grown accustomed to living in
-the monastery?",
+the monastery?","Ты уже $EK00привык$EL00привыкла$EM00 к жизни
+в монастыре?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2536,7 +2555,8 @@ for me. I am ashamed to have not appreciated them
 fully at the time.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I'm feeling a bit sleepy... Oh, not that you're boring
-or anything.",
+or anything.","Вас в сон не клонит так сидеть? Нет, я не намекаю,
+что мне скучно."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2555,7 +2575,9 @@ be able to protect yourself at the very least.","Опасность — это �
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Have confidence. I truly believe you can lead your
-students down the right path.",
+students down the right path.","Будь увереннее в себе. Я искренне верю,
+что ты сможешь направить своих учеников
+по верному пути."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2583,7 +2605,8 @@ I spent and the people I knew underground.",
 34842,MSGDATA,"Will it not damage your reputation to sit with me?
 Shall I stay at a discreet distance?",
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,Right now I feel so...free. It's nice.,
+34842,MSGDATA,Right now I feel so...free. It's nice.,"Как бы сказать... Я в жизни ещё не
+чувствовала себя такой свободной."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2604,7 +2627,8 @@ market...","На рынках много конкурентов... Это мен
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I sense great potential in you. You possess
-something extraordinary...",
+something extraordinary...","Я чувствую в тебе огромный потенциал.
+Внутри тебя кроется нечто особенное..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2635,7 +2659,8 @@ continue my futile efforts. I simply see no other
 course of action.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I haven't seen my parents for more than a decade.
-I can't remember what they look like...",
+I can't remember what they look like...","Я больше десяти лет не виделась с семьёй.
+Уже и не помню, как там кто выглядит..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2655,7 +2680,8 @@ make a killing doing this for a living.","Ты вкусно завариваеш
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You are truly special. It seems that I was right
-about you.",
+about you.","Ты действительно $EK00выдающийсяEL00выдающаяся$EM00...
+Похоже, я не ошиблась в тебе."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2684,7 +2710,8 @@ Adrestia. My home was a beautiful port town.",
 do eat them, it is only with the utmost reluctance.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I saw you playing with a cat earlier. How did you
-manage that? Cats always run away from me...",
+manage that? Cats always run away from me...","Кстати, Хапи раньше никогда не гладила кошек!
+Они всегда убегают. Как их погладить?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2703,7 +2730,9 @@ Wonder how I can distribute them to a buyer...","В Сренге добываю�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I would like you to be a pillar of support for the
-church in order to keep peace in Fódlan.",
+church in order to keep peace in Fódlan.","Я бы хотела видеть в тебе опору Церкви,
+чтобы и дальше поддерживать порядок
+в Фодлане."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2732,7 +2761,9 @@ That's not something I divulge to just anybody.",
 own. What do you think about that?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Did you know people can sigh simply because they're
-happy? Not much risk of me doing that.",
+happy? Not much risk of me doing that.","Вы знали, что люди иногда вздыхают 
+от того, что их переполняет счастье? 
+Говорят, что так бывает."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2752,7 +2783,8 @@ families. So many fat wallets...so little time!","Здесь полно насл
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Being the archbishop can be lonely, no matter how
-many followers surround you...",
+many followers surround you...","Даже в окружении толпы верующих быть 
+архиепископом — это одинокая доля..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2782,7 +2814,8 @@ storied history, should have no heirs left save
 but me.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Sometimes I have regrets about my choices, but...
-right now, I'm just grateful to be here.",
+right now, I'm just grateful to be here.","Я думаю иногда: что было бы, поступи я тогда
+по-другому? Но сейчас я думаю, что всё к лучшему."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2803,7 +2836,8 @@ hard. Really, really hard...","Хочется иногда забыть о де�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I, too, like to spread my wings from time to time.
-Doing so in your company is a treat.",
+Doing so in your company is a treat.","Порой даже мне хочется расправить крылья.
+А с тобой вместе это было бы ещё лучше."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2832,7 +2866,9 @@ and I shall be the one to unravel them!",
 me back occurs to me regularly.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Everyone knows about my curse, so I've got no
-shortage of alone time.",
+shortage of alone time.","Много кто знает о «способности» Хапи, 
+так что если хочется побыть одной,
+это легко устроить."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2852,7 +2888,9 @@ I'll never reveal my secrets!","Откуда я родом? Хи-хи, это...
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I do not have a friend whom I can fully trust. Such is
-the burden of my position...",
+the burden of my position...","У меня нет друзей, с которыми я могла бы
+поговорить откровенно. Такое неизбежно
+в моём положении..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2882,7 +2920,8 @@ in our way!",
 prepared for a war. Small wonder that they were
 eradicated.",
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,"This might sound sappy, but... I care about you.",
+34842,MSGDATA,"This might sound sappy, but... I care about you.","Знаете, Хапи с вами уже надолго. Так что
+не сдавайтесь, пока война не кончится."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2901,7 +2940,8 @@ to me, by far.","Иронично. Я... боюсь того, что война 
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You are the only person I can talk to as myself,
-rather than as the archbishop.",
+rather than as the archbishop.","Ты — единственный человек, с кем я могу 
+поговорить не как архиепископ, а как просто Рея."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2930,7 +2970,8 @@ be such a bad thing, would it?",
 wasted too much of your time.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"That was way more fun than I expected. Let's have
-tea again soon. Next time, more snacks.",
+tea again soon. Next time, more snacks.","Спасибо за угощение. Было не так скучно,
+как я думала. Зовите меня ещё."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2948,7 +2989,8 @@ tea again soon. Next time, more snacks.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"How quickly this delightful time has passed.
-However, we must return to our work.",
+However, we must return to our work.","За весельем время летит незаметно...
+Пора возвращаться к работе."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -2972,7 +3014,7 @@ However, we must return to our work.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,妙味がありますわ,Насыщенный вкус.
 34842,MSGDATA,$NONE,$NONE
-34842,MSGDATA,ふーふー,Хе-хе.
+34842,MSGDATA,ふーふー,*дует*
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
