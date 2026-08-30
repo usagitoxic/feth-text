@@ -2091,11 +2091,14 @@ gold fast?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I appreciate the invite, but I hope you know that
-proper etiquette requires a formal written invitation.",
+proper etiquette requires a formal written invitation.","Вы! Вы понимаете, что по этикету на чаепитие
+положено приглашать в письменном виде?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I am sorry you could find no one but me to share
 your tea with. I shall endeavor to hold up my end
-of the conversation nonetheless.",
+of the conversation nonetheless.","Я не надеюсь быть вам приятным собеседником
+за чашкой чая, но если вы желаете послушать
+неинтересные истории..."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Thanks for the invite. Just as a heads-up, I don't
 know the first thing about tea.","Вам чего? Я как раз сейчас свободна, но...
@@ -2140,10 +2143,13 @@ is enjoyable. So got any good stories to share?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"We needn't stand on ceremony. You may call for
-me whenever you like.",
+me whenever you like.","Приглашайте меня как вам угодно, не стесняйтесь.
+Письменное приглашение необязательно. Понимаете?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Forgive my insolence in saying so, but your
-invitation honors me.",
+invitation honors me.","Позвольте мне черезвычайно дерзкое
+замечание: для меня большая честь
+быть приглашённой вами."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,Glad to be here. I was hoping you'd invite me.,"А вы можете почаще приглашать меня на чай?
 Хапи это в радость."
@@ -2189,10 +2195,13 @@ Huh? Uh, nothing. Forget it.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"The cunning to have my favorite tea brewed and
-ready speaks well of you!",
+ready speaks well of you!","А вы не промах, раз сумели заранее приготовить
+мой любимый чай! О-хо-хо!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"You ought not to have gone to such lengths to
-prepare my preferred tea.",
+prepare my preferred tea.","Сколько же неудобств я вам доставила,
+обременив необходимостью заранее
+приготовить мой любимый чай."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Wow, that smells good. Did you pick this out just
 for me?","А пахнет приятно. Неужели вы специально
@@ -2238,11 +2247,14 @@ have spent gold on, but hey, that's just me.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Aha! Are you challenging my appreciation for
-fine tea? I can pass any test you set before me.",
+fine tea? I can pass any test you set before me.","Ох... Так значит, вы желаете проверить меня.
+Этот чистый и изысканный аромат... Вот этот чай!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Your generosity in sharing such fine tea with me is
 too much... If there is anything I can do to repay
-this kindness, I will do it without question.",
+this kindness, I will do it without question.","Вы не поскупились на столь дорогой сорт...
+Я возмещу вашу щедрость любыми средствами,
+только скажите."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,This tea is expensive. Why are you wasting it on me?,Это же дорогой чай. Зачем тратить его на Хапи?
 34842,MSGDATA,$NONE,$NONE
@@ -2288,10 +2300,13 @@ This is the face that drives the ladies wild, heh.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Captivated by my face, are you? I'm afraid my
-affections won't be won so easily.",
+affections won't be won so easily.","Вас так привлекает моё лицо? К вашему
+сожалению, моё внимание не заполучить
+настолько дёшево."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Does the sun's glare not vex you? Perhaps it's better
-if we went inside.",
+if we went inside.","Здесь очень светло. Вам не кажется, что будет
+лучше зайти в комнату?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"What, do I have bedhead?","А чего вы так пристально смотрите?
 У Хапи волосы после сна ужасно
@@ -2338,11 +2353,15 @@ do is try to rein myself in as best I can.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Your gaze seems fixed upon me. What are you
-playing at?",
+playing at?","Т-так нельзя! Как это понимать? Почему 
+вы всё время бросаете на меня такие
+многозначительные взгляды?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Do my expressions shift when in the sun compared
 to the shade? Or do you assume my mood based
-on the lighting?",
+on the lighting?","Вы заметили, как именно различаются выражения
+моего лица на солнце и в тени? Считаете ли вы 
+меня другим человеком в зависимости от места?"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"What is this, a staring contest? You're making
 me nervous.","Что? Так и будем играть в гляделки?
@@ -2392,10 +2411,12 @@ Shirtless. You're welcome.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Proud House Nuvelle blood courses through my
-veins. Never shall it run dry!",
+veins. Never shall it run dry!","В моём теле течёт гордая кровь дома Нувэль.
+И я не позволю ей иссякнуть!"
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"If you have a favor to ask, name it. I shall make
-myself useful in any way you require.",
+myself useful in any way you require.","Могу ли я вам пригодиться? Пожалуйста, поручайте
+мне любую работу — даже самую незначительную."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"I know, I'm buff as heck. What of it?","У меня мышцы стали крепче в последнее
 время. А мне нравилось, когда они были
@@ -2443,10 +2464,13 @@ with deadly weapons like this. My fists, I mean.",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"It frustrates me sometimes when the words I hear
-myself say sound nothing like me.",
+myself say sound nothing like me.","Когда моё собственное тело не подчиняется
+моей воле — это очень страшно."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"When I finally expire, I sometimes wonder if it shall
-be any great loss to the world.",
+be any great loss to the world.","Дрожь берёт, когда я думаю о последней
+участи этого тела, в котором заключено
+моё существование."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"OK, you caught me. I hid a few treats in my clothes.
 Gotta have some snacks at the ready, y'know?","Я вовсе не пытаюсь втихаря утащить с собой
