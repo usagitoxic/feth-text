@@ -3768,16 +3768,20 @@ your forgiveness.","Смиренно прошу простить, если мо�
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Whenever I send money or food to my mother, she insists
-she doesn't need any of it. How do I make her happy?",
-34842,MSGDATA,Deliver them personally.,
-34842,MSGDATA,Send higher quality goods.,
-34842,MSGDATA,She wants to know how you're doing. Write her a letter.,
+she doesn't need any of it. How do I make her happy?","Как порадовать человека, который в ответ на то,
+что я присылаю деньги или еду, пишет, что ей
+это не нужно? Я говорю про члена своей семьи."
+34842,MSGDATA,Deliver them personally.,Привези их ей сам.
+34842,MSGDATA,Send higher quality goods.,Пришли что-нибудь высококачественное.
+34842,MSGDATA,She wants to know how you're doing. Write her a letter.,"Приложи письмо о том, как ты поживаешь."
 34842,MSGDATA,"It feels odd to be asking you questions as though I were
 your student, but I'm wondering... What do you think is
-the most important thing for a tactician to be able to do?",
-34842,MSGDATA,Impartially analyze the strength of both sides.,
-34842,MSGDATA,Keep the soldiers in line.,
-34842,MSGDATA,Avoid unnecessary fighting.,
+the most important thing for a tactician to be able to do?","Странно задавать вопросы так, будто я всё ещё ваш 
+ученик, но... Когда дело доходит до того, чтобы 
+отдавать приказы, что для командира важнее всего?"
+34842,MSGDATA,Impartially analyze the strength of both sides.,Трезво оценивать боеспособность обеих сторон.
+34842,MSGDATA,Keep the soldiers in line.,Предотвращение неповиновения.
+34842,MSGDATA,Avoid unnecessary fighting.,Избегать ненужных сражений.
 34842,MSGDATA,"A friend of mine's deep in debt, but every time he gets his
 hands on some money, he ends up giving it to someone he
 thinks needs it more. Is he going about it all wrong?",

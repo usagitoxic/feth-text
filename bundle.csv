@@ -68880,117 +68880,121 @@ but the content is too disturbing to ignore.","Мы не знаем, кто эт
 I hope that it's nothing...","Мы должны доложить об этом леди Рее.
 Надеюсь, ничего..."
 11390,SUPPORT,"Nice work, Teach. Still...that fight left a foul
-taste in my mouth.","Хорошая работа, препод. Но... От этого боя какой-то
-привкус тлена во рту."
-11390,SUPPORT,"That aside, did you see how Catherine fought?","Ну да ладно. Видели, как билась Катерина?"
-11390,SUPPORT,She's incredible.,Она невероятная.
+taste in my mouth.","$S0, хорошая работа. Правда, после этого
+боя всё равно остался неприятный привкус."
+11390,SUPPORT,"That aside, did you see how Catherine fought?","Зато вы видели, как билась Катерина, учитель?"
+11390,SUPPORT,She's incredible.,Она сильная.
 11390,SUPPORT,I'm stronger.,Я сильнее.
 11390,SUPPORT,"Agreed. I thought the power of the Heroes' Relics
-must be exaggerated, but I was clearly wrong.","Согласен. Я-то думал, что силу Реликвий героев преувеличивают,
-но я ошибался."
+must be exaggerated, but I was clearly wrong.","Да. Я-то думал, что силу Реликвий Героев
+преувеличивают, но я ошибался."
 11390,SUPPORT,"Ha! I love the confidence, Teach. But you're no
 match for the Heroes' Relics. They're on a whole
-different level.","Ха! Мне нравится ваша самоуверенность, препод Но для
-Реликвий вы не подходите.
-Они совершенно для другого уровня."
-11390,SUPPORT,Makes you wonder about that legend...,Заставляет задуматься о той легенде...
-11390,SUPPORT,What legend?,Какой?
+different level.","Громко сказано, учитель. Только против
+силы Реликвии Героя вам не выстоять.
+Эта вещь внушает уважение."
+11390,SUPPORT,Makes you wonder about that legend...,"А значит, та легенда..."
+11390,SUPPORT,What legend?,Легенда?
 11390,SUPPORT,"Oh, it's nothing. Just the usual fanciful nonsense.
 An ancient Relic that once cut a mountain in half
-with a single swing.","А, да так. Чепуха.
-Древняя реликвия, которая разрезала
-гору на две половины. Одним ударом."
+with a single swing.","Да так, сказка. Мол, давным-давно была
+Реликвия, которая одним ударом разрубила
+гору напополам..."
 11390,SUPPORT,"That's what they say, anyway. But as amazing
 as Thunderbrand is, I don't think it fits
-that description.","Во всяком случае, так говорят. Хоть Громовержец и
-потрясаюющий, но не думаю, что он
-подходит под описание."
+that description.","Я слышал что-то такое. Но вряд ли речь
+шла о Громовержеце."
 11390,SUPPORT,"Apparently, Relics can harness tremendous power
-for those with a compatible Crest.","Очевидно, что Реликвии могут использовать люди с Гербом.
-Сокрушительная сила, да."
+for those with a compatible Crest.","По-видимому, если у человека есть подходящий
+Герб, в его руках Реликвия может проявить
+сокрушительную силу..."
 11390,SUPPORT,"Though you can technically use one so long as you
 have any Crest at all. I dunno. Long story short,
-I'd like to try cutting a mountain in half someday.","Хотя... Технически можно использовать Реликвию, если вообще
-есть хоть какой-либо Герб. Не знаю. Короче говоря, хотелось
-бы мне как-нибудь разрезать гору пополам."
+I'd like to try cutting a mountain in half someday.","Хотя Герб не обязан быть именно подходящим,
+лишь бы был. Я бы тоже хотел попробовать
+разрубить гору напополам."
 11390,SUPPORT,"Ooh! Are you talking about Relics? You'll be able to
-use one soon, Claude! I just know it!","О-о! Вы говорите про Региквии? Клод, скоро ты сможешь
-использовать одну из них! Я уверена!"
+use one soon, Claude! I just know it!","Что-что? Вы про Реликвии говорите?
+Клод, ты же и так скоро будешь 
+владеть Реликвией."
 11390,SUPPORT,"After all, you've already been selected as the next
-head of House Riegan!","Всё-таки, скоро тебя выберут следующим главой
-Дома Ригана!"
+head of House Riegan!","Уже решено, что ты будешь следующим главой
+дома Риган."
 11390,SUPPORT,"Easy there, Hilda. I don't know how apt ""soon"" is.
-My grandfather is still unbearably healthy.","Хильда, сбавь обороты. Я не знаю, когда это ""скоро"" настанет.
+My grandfather is still unbearably healthy.","Хильда, ты чего? Какое ещё «скоро»?
 Мой дедушка здоров как бык."
-11390,SUPPORT,"Oh? Is this news to you, Teach?","О? препод, для вас это новость?"
+11390,SUPPORT,"Oh? Is this news to you, Teach?","А, вы не знаете, учитель?"
 11390,SUPPORT,"Yours truly was recently recognized as a legitimate
 child of House Riegan. They possess one of the
-Heroes' Relics too, though I've yet to see it.","Ваш совсем недавно был признан законнорождённым ребёнком
-Дома Риган. (???) Они тоже обладатели Региквии.
-Только я вот её никогда не видел."
+Heroes' Relics too, though I've yet to see it.","У дома Риган, в котором я недавно стал
+законным наследником, тоже есть своя
+Реликвия. Только я её в глаза не видел."
 11390,SUPPORT,Just recently?,Недавно?
-11390,SUPPORT,You haven't seen it?,Вы её не видел?
+11390,SUPPORT,You haven't seen it?,Не видел?
 11390,SUPPORT,"I officially joined House Riegan only last year.
-Before then, I lived with my father.","Я только в прошлом году присоединился к Дому Риган.
-А до этого момента я жил с отцом."
+Before then, I lived with my father.","Я присоединился к дому Риган только
+в прошлом году. До этого я рос в доме
+своего отца."
 11390,SUPPORT,"I was raised by my father. House Riegan is on my
-mother's side of the family.","Отец меня и вырастил. А Дом Риган - это родственники
-со стороны моей матери."
+mother's side of the family.","Я родился и вырос в доме моего отца.
+Дом Риган — это мои родственники со 
+стороны матери."
 11390,SUPPORT,"When I learned that my mother was the daughter of
 an Alliance noble, I was so surprised I thought the
-whole world was pulling a fast one on me for a week.","Когда я узнал, что моя мать - дочь одного из дворян Альянса,
-я был очень удивлён. Казалось, что весь мир рухнул прямо
-на меня."
+whole world was pulling a fast one on me for a week.","Когда я узнал, что моя мама — дочь аристократа 
+из Альянса, то у меня от удивления чуть глаза
+на лоб не вылезли..."
 11390,SUPPORT,"So, that means your mother is Duke Riegan's
-daughter, right? Where is she now?","Значит твоя мать - дочь герцога Ригана, да?
-И где она сейчас?"
+daughter, right? Where is she now?","Так значит, твоя мама — дочь герцога
+Ригана. А где она сейчас живёт?"
 11390,SUPPORT,"I can't say. My mother's currently living in a
 different world than the one she grew up in
-and has no desire to return home.","Не могу сказать. Сейчас мама живёт в совсем другом
-мире. И он отличается от того, в каком она выросла.
-И у неё даже нет желания вернуться домой."
-11390,SUPPORT,"Um, OK. You sure have a lot of secrets, don't you?","Эм, ладно? У тебя много скелетов в шкафу, да?"
+and has no desire to return home.","Не могу сказать. Мама сейчас живёт в мире, 
+который отличается от того, где она выросла, 
+и не желает возвращаться домой."
+11390,SUPPORT,"Um, OK. You sure have a lot of secrets, don't you?","Хм-м... Много у тебя скелетов в шкафу, да, Клод?"
 11390,SUPPORT,"I'm just keeping a promise to my parents.
-Make of that whatever you will.","Я просто держу обещание, которое дал родителям.
-Относись к этому как хочешь."
+Make of that whatever you will.","Я просто держу обещание, данное родителям.
+Думай, что хочешь."
 11390,SUPPORT,"In exchange for my so-called secrecy, I'm free to do
 as I please, which is why I decided to see what the
-other side of my family was like.","В обмен на свою, так называемую секретность, я могу сделать всё,
-что захочется. Поэтому я решил посмотреть, на что похожа
-жизнь семьи со стороны мамы."
+other side of my family was like.","Зато в обмен на сохранение тайны мне позволили 
+творить, что я захочу, поэтому я и решил навестить 
+дом предков моей матери."
 11390,SUPPORT,"That's how I found out about this strange
-Crest I bear...","Так-то я и узнал об этом странном Гербе,
-который я несу..."
+Crest I bear...","Тогда-то я и узнал, что у меня в крови
+есть какой-то непонятный Герб..."
 11390,SUPPORT,"Professor. Claude. It sounds like the troops will be
-withdrawing soon. We should return as well.","Профессор. Клод. Похоже, войска скоро выведут.
-Нам тоже пора уходить."
+withdrawing soon. We should return as well.","Учитель, Клод. Похоже, войска скоро выведут.
+Давайте и мы вернёмся с ними."
 11390,SUPPORT,"We won. We should be celebrating. Instead, we're
-heading back with heavy hearts...","Мы выиграли. И должны бы праздновать.
-А вместо этого на сердце только тяжесть..."
+heading back with heavy hearts...","Мы победили, но нам всё равно приходится
+возвращаться с тяжестью на сердце."
 11390,SUPPORT,"Whoa there! What's the matter? You look as sad as a
-kitten without any yarn.","Воу-воу! Что такое-то? Ты похож на котёнка без клубочка.
-Такой же грустный."
+kitten without any yarn.","Ну чего вы поникли? Вы как подсолнухи,
+которых бросило солнце."
 11390,SUPPORT,"If we hadn't done what we did, the rebel army would
-have followed this road all the way to the monastery.","Если бы мы не сделали что нужно, то повстанцы прошли бы
-по этой дороге до самого монастыря."
+have followed this road all the way to the monastery.","Если бы мы не вмешались, ополчение бы
+прошло по тракту прямо до монастыря."
 11390,SUPPORT,"And they would have crushed all the little villages
 along the way. We stopped that from happening.
-You should be proud.","И на своём пути они бы уничтожили все небольшие поселения.
-А мы это предотвратили.
-Так что тебе стоит гордиться."
+You should be proud.","И по пути они бы уничтожили все мелкие
+деревушки. А мы это предотвратили. 
+Выше нос."
 11390,SUPPORT,"Sorry to intrude, but this incident may be more
-serious than anticipated.","Простите, что вмешиваюсь.
-Но дело приняло более серьёзный оборот."
+serious than anticipated.","Извините, что перебиваю. Похоже, дело 
+приняло более серьёзный оборот."
 11390,SUPPORT,"I found this on Lord Lonato. It's a note that mentions
-a plan to assassinate Lady Rhea.","Я нашла это у лорда Лонато. В записке упоминается
-план убить леди Рею."
+a plan to assassinate Lady Rhea.","Это письмо было обнаружено среди
+вещей лорда Лонато. В нём имеется 
+намёк на план убийства леди Реи."
 11390,SUPPORT,"We can't tell who sent it, so the source is suspect,
-but the content is too disturbing to ignore.","Мы не знаем, кто это прислал, и потому источник
-вызывает сомнения, но содержание слишком
-тревожит, чтобы оставить его без внимания."
+but the content is too disturbing to ignore.","Отправителя мы не знаем, и достоверность 
+письма сомнительна, но содержание слишком
+серьёзно, чтобы оставлять его без внимания."
 11390,SUPPORT,"We must report this to Lady Rhea right away.
-I hope that it's nothing...","Мы должны доложить об этом леди Рее.
-Надеюсь, ничего..."
+I hope that it's nothing...","Доложим об этом леди Рее, как вернёмся.
+Надеюсь, ничего не случится..."
 11391,SUPPORT,"I am glad to see that you have returned safely.
 The goddess is gracious with her divine protection.","Рада, что вы вернулись целы и невредимы.
 Богиня хранит вас."
@@ -69003,13 +69007,14 @@ as I had hoped.","Но дело не только в её защите, верн
 11391,SUPPORT,I am not so sure.,Не совсем.
 11391,SUPPORT,There is no need for modesty.,"Ну, не нужно скромничать."
 11391,SUPPORT,"I heard some of the students were...hesitant about
-fighting militia.","Слышала, некоторые ученики... Колебались, когда
-дошло дело до стычки с ополчением."
+fighting militia.","Я слышала, что некоторые из ваших 
+студентов колебались, стоит ли
+сражаться с ополчением."
 11391,SUPPORT,"However, we must punish any sinner who may
 inflict harm upon believers, even if those sinners
-are civilians.","Но мы должны наказать любого грешника, даже не смотря на
-то, что он может быть гражданским. Ведь он может навредить
-верующим."
+are civilians.","Но пусть в нём и миряне — если, погрязнув во 
+грехе, эти люди способны причинить вред
+верующим, то они должны понести наказание."
 11391,SUPPORT,"I pray the students learned a valuable lesson about
 the fate that awaits all who are foolish enough to
 point their blades towards the heavens.","И я молюсь, чтобы студенты усвоили этот важный урок.
