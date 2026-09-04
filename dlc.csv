@@ -3784,38 +3784,48 @@ the most important thing for a tactician to be able to do?","Странно за
 34842,MSGDATA,Avoid unnecessary fighting.,Избегать ненужных сражений.
 34842,MSGDATA,"A friend of mine's deep in debt, but every time he gets his
 hands on some money, he ends up giving it to someone he
-thinks needs it more. Is he going about it all wrong?",
-34842,MSGDATA,"Your ""friend"" should focus on repaying the debt.",
-34842,MSGDATA,No.,
-34842,MSGDATA,Why not split the money in half?,
+thinks needs it more. Is he going about it all wrong?","Мой друг увяз в долгах, но стоит ему раздобыть
+деньжат, как он тут же раздаёт всё нуждающимся.
+Он неправ? Как вы думаете?"
+34842,MSGDATA,"Your ""friend"" should focus on repaying the debt.",Долг платежом красен.
+34842,MSGDATA,No.,«Твой друг» всё правильно делает.
+34842,MSGDATA,Why not split the money in half?,Пусть раздаёт только половину...
 34842,MSGDATA,"Fighting doesn't usually wear me out, but five years is
 a real long time. I'm no strategical genius, but I feel like
-we should end this as fast as we can. You?",
-34842,MSGDATA,We need to ensure the fewest possible casualties.,
-34842,MSGDATA,Agreed.,
-34842,MSGDATA,We will do whatever it takes to eradicate the enemy.,
+we should end this as fast as we can. You?","За пять лет наскучивает даже война. Я бы хотел
+закончить её побыстрее... но я ничего не смыслю
+в стратегии. А что вы думаете?"
+34842,MSGDATA,We need to ensure the fewest possible casualties.,Я хочу свести потери к минимуму.
+34842,MSGDATA,Agreed.,"Я тоже хочу, чтобы она поскорее закончилась."
+34842,MSGDATA,We will do whatever it takes to eradicate the enemy.,Я хочу уничтожить противника под корень.
 34842,MSGDATA,"I hope you will indulge me with a candid reply, Professor,
 so I can have a good laugh. As a noble, can you name even
-one thing I am lacking?",
-34842,MSGDATA,Only an official title.,
-34842,MSGDATA,Resolve.,
-34842,MSGDATA,"Subjects and territory, for a start.",
+one thing I am lacking?","О-хо-хо-хо! Раз вы настаиваете, я выслушаю ваш ответ!
+Скажите прямо: чего мне недостаёт, как аристократу?"
+34842,MSGDATA,Only an official title.,Титула.
+34842,MSGDATA,Resolve.,Решимости.
+34842,MSGDATA,"Subjects and territory, for a start.",Земель и подданных.
 34842,MSGDATA,"I consider it my duty to gift the world with innovations in
 magic, but my designs rarely have utility in battle. How do
-I overcome my weakness in this area, in your view?",
-34842,MSGDATA,Your innovations don't always need to be useful in combat.,
-34842,MSGDATA,Practice is the path to improvement. Keep experimenting.,
-34842,MSGDATA,Just wait. Inspiration will strike you eventually.,
+I overcome my weakness in this area, in your view?","Я считаю своим призванием создание заклинаний, 
+но мне не удаётся создать заклинание, которое
+было бы полезно в бою. Как мне преуспеть в этом?"
+34842,MSGDATA,Your innovations don't always need to be useful in combat.,Необязательно создавать что-то именно для боя.
+34842,MSGDATA,Practice is the path to improvement. Keep experimenting.,Продолжай и дальше применять магию в бою.
+34842,MSGDATA,Just wait. Inspiration will strike you eventually.,Тебе остаётся только ждать вдохновения.
 34842,MSGDATA,"Classrooms are so noisy. All that chatter gives me
-a headache after a while. I can't stand it.",
-34842,MSGDATA,"Lectures are optional, you know.",
-34842,MSGDATA,You could ask people to keep it down.,
-34842,MSGDATA,"Cover your ears, then.",
+a headache after a while. I can't stand it.","Хапи плохо переносит шум. Поэтому в
+лектории сидеть тоже трудно. Что делать?"
+34842,MSGDATA,"Lectures are optional, you know.",Забей на лекции.
+34842,MSGDATA,You could ask people to keep it down.,Попроси остальных соблюдать тишину.
+34842,MSGDATA,"Cover your ears, then.",Сделай себе беруши.
 34842,MSGDATA,"I like to wake at dawn and sleep at dusk, but being in an
-army breaks my routine. What if I get sleepy in battle?",
-34842,MSGDATA,I'll carry you on my back.,
-34842,MSGDATA,Pace yourself as best you can.,
-34842,MSGDATA,Shouldn't the fear of dying keep you awake?,
+army breaks my routine. What if I get sleepy in battle?","Хапи просыпается с восходом, а засыпает с закатом
+солнца. А в походе так не получается. Что делать,
+если захочется спать на поле боя?"
+34842,MSGDATA,I'll carry you on my back.,Я понесу тебя на спине.
+34842,MSGDATA,Pace yourself as best you can.,Тебе не нужно заставлять себя сражаться.
+34842,MSGDATA,Shouldn't the fear of dying keep you awake?,"Если будешь волноваться, то ты и спать не захочешь."
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
@@ -3834,16 +3844,20 @@ army breaks my routine. What if I get sleepy in battle?",
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,"Fódlan has been around for a really long time. That means
 it's just loaded with treasure. How do you figure I should
-go about finding all of it?",
-34842,MSGDATA,Read up on the history of areas for clues.,
-34842,MSGDATA,Investigate local folklore from different regions.,
-34842,MSGDATA,"Hire someone to find it, then renege on the finder's fee.",
+go about finding all of it?","Думается мне, что за до-олгую историю Фодлана 
+в его землю зарыли очень много сокровищ.
+Как бы мне их раздобыть?"
+34842,MSGDATA,Read up on the history of areas for clues.,"Изучи столько исторических книг, сколько сможешь."
+34842,MSGDATA,Investigate local folklore from different regions.,Слушай народные предания в разных регионах.
+34842,MSGDATA,"Hire someone to find it, then renege on the finder's fee.",Поручи это кому-нибудь ещё и возьми процент.
 34842,MSGDATA,"A town I've done business in before has been deeply
 affected by the war. I was thinking of selling food there
-now—how should I go about it, in light of all that?",
-34842,MSGDATA,Sell the food at a reasonable price.,
-34842,MSGDATA,Give it away with a deal for them to repay later.,
-34842,MSGDATA,Give it away for free.,
+now—how should I go about it, in light of all that?","Порой торговцы приходят в города, разорённые
+войной, правильно? Если я собираюсь продавать
+в подобном городе еду... как правильно поступить?"
+34842,MSGDATA,Sell the food at a reasonable price.,Продавай еду по низкой цене.
+34842,MSGDATA,Give it away with a deal for them to repay later.,"Раздай еду — оплату возьми, когда город восстановится."
+34842,MSGDATA,Give it away for free.,Раздай еду даром.
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE
 34842,MSGDATA,$NONE,$NONE

@@ -50021,8 +50021,8 @@ I usually drink.","Какой богатый аромат! Совсем не п�
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"This smell... This...this tea is more subtle than the
-standard fare.","Ого? Этот аромат... Это чай с более тонкими нотками, 
-нежели обычные сорта."
+standard fare.","Ого? Этот аромат... Он гораздо насыщеннее
+обычного."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"I'd know the scent of a premium tea any day.
@@ -50983,8 +50983,8 @@ time ago. It's a reminder of where I came from.","Это ожерелье я д�
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"It is a different style from everyone's uniforms, but I
-do love the patterning on the hem.","Хотя моя униформа отличается от остальных, но
-мне так нравится вышивка на подоле."
+do love the patterning on the hem.","Хотя моя униформа отличается от остальных, 
+но мне так нравится вышивка на подоле."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Something wrong with my monocle? It is a custom
@@ -51648,9 +51648,8 @@ If you're not careful, I'll surpass you.","Надеюсь, вы продолжа
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Lively places are my favorite. I like the monastery
 because there are always so many people
-bustling about.","Оживлённые места — мои любимые. Мне нравится
-монастырь, потому что там всегда много суеты
-и людей."
+bustling about.","Я люблю оживлённые места. Монастырь мне
+нравится именно своей многолюдностью."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"The ""Ashen Demon."" What an unbelievable title,
@@ -51984,7 +51983,9 @@ encounter in the monastery.","Я смею надеяться, что вы про
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"I desire to see the ocean again—it is difficult being so
-far away from it.",Я хочу вновь увидеть океан - трудно находиться так далеко от него.
+far away from it.","Иногда мне хочется посмотреть на океан,
+но ведь мы настолько далеко от него, что 
+это было бы крайне затруднительно."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Since I have never found out the secret of your birth,
@@ -52314,8 +52315,8 @@ understand that I am merely doing my job.","Я понимаю, что време
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"You are an interesting person, Professor. You do not
-seem to know much about yourself.","Вы интересный человек, профессор. Вы, похоже, мало
-знаете о себе."
+seem to know much about yourself.","Вы интересный человек, учитель. Похоже, вы мало
+знаете о себе..."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Why don't you come by later? I'd very much like to
@@ -52985,7 +52986,8 @@ will become open to you.","Чем больше вы узнаёте о себе, 
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Whenever I look at you, a wave of nostalgia washes
-over me. I wonder why that is.","Когда я смотрю на вас, меня всегда накрывает волна ностальгии. Интересно, почему."
+over me. I wonder why that is.","Когда я смотрю на вас, меня охватывает чувство
+ностальгии. И я не знаю, почему."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"It was my own choice to leave behind my noble title
@@ -53313,7 +53315,8 @@ I just can't help it.","Мне стыдно за то, что вечно хор�
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"I have a fear of sleeping. I worry that I will awake,
-and everyone I know and love will have vanished.","Мне страшно спать. Я боюсь, что проснусь, а все, кого я знаю и люблю, исчезнут."
+and everyone I know and love will have vanished.","Знаете, я боюсь засыпать. Тревожно, что
+вдруг я проснусь — а никого не осталось."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"The monastery holds so many documents in its
@@ -53648,7 +53651,7 @@ You should join me sometime.","Когда мои собственные мысл
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"I was born in Enbarr, though I have lived in remote
-lands far away, at times...","Я родилась в Энбарре, хотя порой жила в далёких землях..."
+lands far away, at times...","Я жила вдали от людей, но родилась я в Энбарре."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"All of my hard work, my unrelenting study of Crests,
@@ -54316,7 +54319,8 @@ But that's not really me.",Из-за своего положения я держ
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Even if I fall asleep, please do not leave my side.
-Promise you will stay near.","Даже если я усну, пожалуйста, не покидайте меня. Обещайте, что останетесь рядом."
+Promise you will stay near.","Даже если я усну, пожалуйста, не покидайте меня. 
+Обещайте, что останетесь рядом."
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"Can't be helped. I'll tell you about my favorite food
