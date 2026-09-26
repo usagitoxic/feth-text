@@ -9354,7 +9354,7 @@ both King Dimitri and Archbishop Rhea.","Решающая битва уже не
 0,MSGDATA,Death Toll,Похоронный Звон
 0,MSGDATA,Forgotten Hero,Забытый герой
 0,MSGDATA,Dividing the World,Разделяя Мир
-0,MSGDATA,An Ocean View,Вид на Океан
+0,MSGDATA,An Ocean View,"Там, где видно море"
 0,MSGDATA,Oil and Water,Масло и вода
 0,MSGDATA,Sword and Shield of Seiros,Меч и щит Сейрос
 0,MSGDATA,Battle in the Outskirts,Битва на окраине
@@ -27873,7 +27873,7 @@ stuffed animals, solitude","Чтение, рисование, музыка, вы
 accessories, small animals","Пение, музыка, актёрское мастерство, украшения,
 маленькие животные"
 0,MSGDATA,"Swimming in the ocean, sunshine, climbing trees,
-family, her homeland","Плавание в океане, солнце, лазанье по деревьям,
+family, her homeland","Плавание в море, солнце, лазанье по деревьям,
 семья, её родина"
 0,MSGDATA,"Flowers, gardening, needlework, arts and crafts","Цветы, садоводство, рукоделие, прикладное искусство"
 0,MSGDATA,"Fighting, high-quality weapons, spicy foods, hunting, meat","Поединки, высококачественная экипировка, мясо,
@@ -36672,8 +36672,8 @@ exploration has increased!","Число $C1очков активности$R д�
 0,MSGDATA,Forgotten Hero: After Battle,Забытый Герой: После битвы
 0,MSGDATA,Dividing the World: Before Battle,Разделяя Мир: Перед битвой
 0,MSGDATA,Dividing the World: After Battle,Разделяя Мир: После битвы
-0,MSGDATA,An Ocean View: Before Battle,Вид на Океан: Перед Битвой
-0,MSGDATA,An Ocean View: After Battle,Вид на Океан: После Битвы
+0,MSGDATA,An Ocean View: Before Battle,"Там, где видно море: перед битвой"
+0,MSGDATA,An Ocean View: After Battle,"Там, где видно море: после битвы"
 0,MSGDATA,Oil and Water: Before Battle,Масло и вода: Перед битвой
 0,MSGDATA,Oil and Water: After Battle,Масло и вода: После битвы
 0,MSGDATA,Sword and Shield of Seiros: Before Battle,Меч и щит Сейрос: Перед битвой
@@ -51983,7 +51983,7 @@ encounter in the monastery.","Я смею надеяться, что вы про
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,$NONE,$NONE
 1,MSGDATA,"I desire to see the ocean again—it is difficult being so
-far away from it.","Иногда мне хочется посмотреть на океан,
+far away from it.","Иногда мне хочется посмотреть на море,
 но ведь мы настолько далеко от него, что 
 это было бы крайне затруднительно."
 1,MSGDATA,$NONE,$NONE
@@ -135682,65 +135682,70 @@ of remarkable beauty, right under my nose...","Я просто понял, чт�
 12346,SUPPORT,...,...
 12346,SUPPORT,Hm?,Хм?
 12346,SUPPORT,"Hey, Ignatz! Sorry to keep you waiting. Ready to
-start cleaning?","привет, Игнац! Прости за ожидание. Готов к уборке?"
-12346,SUPPORT,"No, that's all right. Actually I'm just finishing up.","Да всё в порядке. На самом деле, я только что закончил."
+start cleaning?","Прости за ожидание, Игнац. Ну, приступим к уборке?"
+12346,SUPPORT,"No, that's all right. Actually I'm just finishing up.",Да ничего страшного. Я уже всё сделал.
 12346,SUPPORT,"Oh! It's true! Look how tidy everything is! You've
 done such a marvelous job. I'm glad I didn't get in
-your way.","Ой! Верно! Как всё чистенько!Ты так хорошо поработал.
-Рада, что не мешалась у тебя под ногами."
-12346,SUPPORT,"Thank you very much. So, anyway, you can go now.","Спасибо. А вообще, теперь можешь мешаться."
+your way.","О-хо-хо! И правда! У тебя просто золотые руки! 
+Наверное, я бы тебе только мешалась?"
+12346,SUPPORT,"Thank you very much. So, anyway, you can go now.","Ха-ха-ха. Спасибо большое. Тут и правда
+больше нечего делать."
 12346,SUPPORT,Hm?,Хм?
 12346,SUPPORT,"You were talking to your friend, right? I just have
 some things to put away. It's OK, I can manage
-without you.","Ты разговаривала с другом, да? А мне просто нужно
-было кое-что убрать. Но всё в порядке, я сам справлюсь."
+without you.","Ты ведь разговаривала с подругой? А мне здесь 
+осталось только закруглиться, так что..."
 12346,SUPPORT,"Oh, Ignatz. I thought I saw someone earlier.
-That was you, wasn't it?","Ох, Игнац. Я думала, что видела кого-то раньше. Это
-был ты, да?"
+That was you, wasn't it?","А-а... Так я и думала, что видела тебя."
 12346,SUPPORT,"You know, I'd have been willing to help. You
-could've just said, ""Hey, let's go and clean.""","Знаешь, я ведь хотела помочь. Нужно было просто
-сказать мне: ""Эй, пошли убираться!"""
-12346,SUPPORT,It's all right. You were having a conversation.,Всё хорошо. Ты же разговаривала.
+could've just said, ""Hey, let's go and clean.""","Но ты бы сказал: «Пошли убираться», —
+и я бы с удовольствием помогла тебе."
+12346,SUPPORT,It's all right. You were having a conversation.,"Нет-нет, ничего страшного. Ты же была
+занята разговором, Хильда?"
 12346,SUPPORT,"I didn't want to sneak up like I was eavesdropping.
-And really, I didn't need help.","Я не хотел просто подкрадываться, словно подслушивая.
-И мне в самом деле не нужна была твоя помощь."
+And really, I didn't need help.","Нехорошо ведь подкрадываться и подслушивать.
+А с уборкой я и сам могу справиться."
 12346,SUPPORT,"Aw, Ignatz, you darling! You're so considerate.
-Thank you so very much.","Ах, Игнац, какой ты милый! И такой внимательный.
-Спасибо тебе."
-12346,SUPPORT,Glad to be of service. I'll start putting all this away.,"Рад помочь. Ладно, начну-ка я всё это убирать."
+Thank you so very much.","Ясненько! Игнац, ты такой чуткий!
+Ты меня очень выручил!"
+12346,SUPPORT,Glad to be of service. I'll start putting all this away.,"Если я мог быть полезен, то я и рад!
+Ну что же, пора мне тут закругляться..."
 12346,SUPPORT,Not so fast!,Не так быстро!
-12346,SUPPORT,Wh-what's the matter?,Ч-что не так?
+12346,SUPPORT,Wh-what's the matter?,А! Ч-что не так?
 12346,SUPPORT,"Aren't you overdoing it? Don't you think you might
-be taking on too much, hm?","Ты не перебарщиваешь? Тебе не кажется, что ты
-слишком уж много на себя берёшь?"
-12346,SUPPORT,"Oh, uh. I didn't expect to hear that from you.",Ой. Не ожидал услышать это от тебя.
+be taking on too much, hm?","А ты не слишком уж сильно стараешься угодить?
+Не думал о том, что тебе самому это только во вред?"
+12346,SUPPORT,"Oh, uh. I didn't expect to hear that from you.",Э? Э-э... Это мне говорит Хильда?
 12346,SUPPORT,"Let me give you some advice. It's true that I like to
-delegate as many tasks as I possibly can.","Дам тебе совет. Да, мне нравится делегировать как
-можно больше задач."
+delegate as many tasks as I possibly can.","Вот и послушай доброго совета Хильды.
+Да, я частенько перекладываю свои дела
+на других."
 12346,SUPPORT,"But when someone helps me, I make sure to lavish
-them with praise, as a reward for their hard work.","Но когда мне кто-то помогает, я хвалю его за тяжёлую
-работу."
+them with praise, as a reward for their hard work.","Но тех, кому я доверяю свои дела, я осыпаю
+благодарностью и похвалами, и им становится
+приятно."
 12346,SUPPORT,"So, then we come out even. On the other hand, look
-what almost happened just now.","Итак, вернёмся к делу. С другой стороны, посмотри на
-то, что почти произошло."
+what almost happened just now.","Так что все в выигрыше. Но с тобой-то ведь
+всё по-другому?"
 12346,SUPPORT,"You did all that work for me, and I almost missed it!
-Now, where would that leave you?","Ты сделал всё за меня, а я почти ничего не сделала!
-К чему это может привести?"
-12346,SUPPORT,"With no praise, no thanks! You'd be losing out.","Ни похвалы, ни благодарности! Ты же так проиграешь."
+Now, where would that leave you?","Без моей просьбы подсуетился, без моей просьбы
+всё сделал — а если бы я ничего не заметила?"
+12346,SUPPORT,"With no praise, no thanks! You'd be losing out.","Какая тебе лично польза от своих трудов,
+если тебя не похвалили и не поблагодарили?"
 12346,SUPPORT,"Um... Personally I'd prefer to lose out, rather than
-inconvenience someone else.","Эм... Личто я бы предпочёл проиграть, а не причинять
-кому-то неудобства."
+inconvenience someone else.","Хм-м... Даже если лично мне не будет пользы
+от этого, лучше так, чем доставлять кому-то
+неудобства."
 12346,SUPPORT,"For instance, I'd have felt terrible for intruding on
-your important conversation earlier.","Вот например, мне было бы ужасно неловко за то, что
-я вмешался в ваш важный разговор. "
+your important conversation earlier.","А если бы я помешал твоему важному разговору,
+Хильда, то я бы причинил тебе неудобство."
 12346,SUPPORT,"Consider the negligible loss to me, versus the major
 inconvenience to you. Personal loss is always going
-to be the better choice, right?","Подумай о небольшой потере для меня, но большого
-неудобства для тебя. И личная потеря будет лучшим
-выбором, верно?"
+to be the better choice, right?","Если на чашах весов будет небольшой вред для
+меня или неудобства другим, то я без колебаний 
+выберу небольшой вред себе."
 12346,SUPPORT,"Huh. Well, if that's how you feel, then I'm not sure
-how to convince you otherwise.","Хм. Раз ты так в этом уверен, я даже не знаю, как
-можно убедить тебя в обратном."
+how to convince you otherwise.","Ох... Раз тебя всё устраивает, то и ладно?.."
 12347,SUPPORT,"Ugh, where is it? Oh. Hello there, Ignatz.","Ох, ну где же она? О! Привет, Игнац."
 12347,SUPPORT,"Yes, hello, Hilda. What's the matter?","Ага, привет, Хильда. Что случилось?"
 12347,SUPPORT,"Oh, it's just that I'm looking for a book. I can't seem
