@@ -5401,75 +5401,113 @@ parents, I would be delighted to share my memories
 with you.","Если вы захотите узнать больше о своих отце
 с матушкой, не стесняйтесь, я с удовольствием
 расскажу столько, сколько вы захотите."
-32012,SUPPORT,"Ah, Professor. To what do I owe this pleasure?",
-32012,SUPPORT,I want to hear more about my parents.,
+32012,SUPPORT,"Ah, Professor. To what do I owe this pleasure?","Ох, учитель $S0. Вы что-то хотели?"
+32012,SUPPORT,I want to hear more about my parents.,Я хочу узнать больше о своих родителях.
 32012,SUPPORT,"Ah, yes, of course you do. I will gladly tell you all
-that I know.",
+that I know.","Да, разумеется. Я расскажу обо всём, что знаю сам."
 32012,SUPPORT,"Where to begin... If you have something particular in
-mind, please ask and I shall answer as best I can.",
-32012,SUPPORT,Tell me about my mother.,
-32012,SUPPORT,What was my father like back then?,
+mind, please ask and I shall answer as best I can.","С чего бы начать... Если вы хотите узнать 
+что-то определённое, только задайте вопрос, 
+и я с удовольствием отвечу."
+32012,SUPPORT,Tell me about my mother.,Каким человеком была моя мать?
+32012,SUPPORT,What was my father like back then?,Каким был мой отец в молодости?
 32012,SUPPORT,"Kind. And wise. I would often see her in the library,
-her nose always buried in a book.",
+her nose always buried in a book.","Она была... доброй — и очень умной. Я часто видел 
+её со спины в библиотеке, погружённой в книгу.
+"
 32012,SUPPORT,"Jeralt was...very much then as he is now. His knights
-would have done just about anything for him.",
+would have done just about anything for him.","Он... практически не изменился. Всё также гоняет
+своих подчинённых."
 32012,SUPPORT,"Whenever he had time to spare, he would instruct
-the children of the monastery in combat and tactics.",
+the children of the monastery in combat and tactics.","В свободное от обязанностей время он учил
+монастырских детей военному искусству и тактике."
 32012,SUPPORT,"Just like those wide-eyed youngsters, your mother
-and I made a hero of him in our minds.",
+and I made a hero of him in our minds.","И мы с вашей матушкой были одними из тех детей,
+которые обожали его."
 32012,SUPPORT,"When I learned that Jeralt and Sitri were to be
-married, I was quite surprised.",
-32012,SUPPORT,"Back then, Jeralt was something of a mentor to me.",
+married, I was quite surprised.","Когда я узнал, что сэр Джеральт и Ситри...
+ваша матушка собираются обручиться,
+я был изрядно удивлён."
+32012,SUPPORT,"Back then, Jeralt was something of a mentor to me.","Ведь можно сказать, что для нас сэр Джеральт
+был кем-то вроде наставника."
 32012,SUPPORT,"As for Sitri... She found it difficult to express her
-emotions.",
+emotions.","Ситри была скудной на выражения лица. 
+Полагаю, ей было трудно проявлять свои
+эмоции.
+"
 32012,SUPPORT,"It was only when she was gazing at Jeralt that I ever
-saw her smile...a smile that rivaled the very sun.",
+saw her smile...a smile that rivaled the very sun.","Но в присутствии сэра Джеральта её улыбка
+сияла как солнце."
 32012,SUPPORT,"His tales of the outside world must have seemed like
-a lifeline for one as frail and guarded as she.",
-32012,SUPPORT,The outside world?,
-32012,SUPPORT,Frail?,
+a lifeline for one as frail and guarded as she.","Его рассказы о внешнем мире... Думаю, 
+они были спасением для девушки со столь 
+слабым здоровьем."
+32012,SUPPORT,The outside world?,«Внешнем» мире?
+32012,SUPPORT,Frail?,У неё было слабое здоровье?
 32012,SUPPORT,"Indeed. She lacked the strength to travel beyond
-the monastery.",
+the monastery.","Да. Я уверен, что из-за слабого здоровья
+она ни разу не покидала монастырских стен."
 32012,SUPPORT,"The only souls she ever spoke with were a select few
-within the monastery walls.",
+within the monastery walls.","В замкнутом мире монастыря её круг общения 
+ограничивался лишь несколькими людьми."
 32012,SUPPORT,"I can picture it now, the stories he told her...
-His striking words and his boisterous laugh.",
+His striking words and his boisterous laugh.","Я полагаю, поэтому в сравнении с прочими 
+историями именно яркие рассказы сэра Джеральта..."
 32012,SUPPORT,"Listening to him must have given her a great deal
-of hope.",
+of hope.",...даровали ей надежду.
 32012,SUPPORT,"As for me, I could never have become like Jeralt,
-as much as I wished for it.",
-32012,SUPPORT,You wanted to be like him?,
+as much as I wished for it.","Ну, а я не смог стать хоть отчасти похожим
+на сэра Джеральта..."
+32012,SUPPORT,You wanted to be like him?,На моего отца?
 32012,SUPPORT,"Ah, I suppose I did. He would tell stories from a
-century ago as though he had lived them himself.",
+century ago as though he had lived them himself.","О-ох? Да... Он рассказывал о событиях столетней
+давности так, будто сам их прожил..."
 32012,SUPPORT,"No matter how fervently one studies the stories of
-old, that is no easy task.",
+old, that is no easy task.","А это не так-то просто, сколько ни вчитывайся
+в повести и ни распутывай события на страницах
+истории."
 32012,SUPPORT,"Professor, you traveled with Jeralt before coming
-here. You must have seen a great many things, yes?",
+here. You must have seen a great many things, yes?","Вы ведь и сами многое повидали, путешествуя
+вместе с сэром Джеральтом, не так ли?"
 32012,SUPPORT,"Forgive me for overstepping, but do you not regret
-forgoing your travels to take up residence here?",
-32012,SUPPORT,The archbishop requested my service.,
-32012,SUPPORT,I enjoy my work here.,
+forgoing your travels to take up residence here?","Мне думается... не лучше бы вам было 
+продолжить путешествовать в роли наёмника?
+"
+32012,SUPPORT,The archbishop requested my service.,Архиепископ пригласила меня работать здесь.
+32012,SUPPORT,I enjoy my work here.,Быть учителем тоже неплохо.
 32012,SUPPORT,"I see. Well, so long as you are satisfied, it is not my
-place to question your decision.",
+place to question your decision.","Если вы относитесь к этому так, то у меня
+нет оснований возражать."
 32012,SUPPORT,"Heh heh, well then! I suppose I have no choice but
-to assist you as best I can.",
+to assist you as best I can.","Ха-ха... Вот как? В таком случае мне остаётся
+лишь поддержать вас."
 32012,SUPPORT,"To shape young minds must afford you a unique
-perspective on the world.",
+perspective on the world.","Несомненно, существует мир, который открыт
+взгляду только с кафедры преподавателя."
 32012,SUPPORT,"I am certain my unsolicited advice is nothing but a
-nuisance, but please hear me out...",
+nuisance, but please hear me out...","Возможно, вам окажется лишь в тягость то,
+что я собираюсь сказать..."
 32012,SUPPORT,"It is my hope that you will live a full life—
 experiencing the world, fostering strong
-relationships with people.",
+relationships with people.","Но я бы хотел, чтобы вы впредь 
+и видели многое, и налаживали тёплые
+отношения со многими людьми."
 32012,SUPPORT,"Do so for dear Sitri, whose wish to experience such
-things shall regretfully never be granted.",
-32012,SUPPORT,That's why you asked me to teach the Ashen Wolves?,
+things shall regretfully never be granted.","Ради Ситри, которая так желала повидать белый
+свет, но чьё желание так и не исполнилось."
+32012,SUPPORT,That's why you asked me to teach the Ashen Wolves?,Поэтому вы доверили мне наставлять Пепельных Волков?
 32012,SUPPORT,"I cannot deny it. It is my own stubborn notion.
-One that Her Grace will likely not think kindly of.",
+One that Her Grace will likely not think kindly of.","Да. Хотя это не более чем моя блажь.
+Скорее всего, Её Высокопреосвященство
+не одобрит это."
 32012,SUPPORT,"Beyond my personal motive, I believe that you alone
-can guide my flock to even greater heights.",
-32012,SUPPORT,And perhaps you will learn from them as well.,
+can guide my flock to even greater heights.","$S0, я верю, что вы сможете направить
+сих чад по верному пути."
+32012,SUPPORT,And perhaps you will learn from them as well.,"И как знать, может, это окажется доброй
+возможностью и вам вырасти над собой."
 32012,SUPPORT,"Ah, but I have taken enough of your precious time.
-Know that I am here for you, always.",
+Know that I am here for you, always.","Не стесняйтесь обращаться ко мне по любым
+вопросам. Я всегда буду на вашей стороне."
 32013,SUPPORT,"Pray tell, Yuri. Did those foul bandits whom we
 bested at the arena confess to anything?",
 32013,SUPPORT,"Not a word. And they wouldn't name names. I got
