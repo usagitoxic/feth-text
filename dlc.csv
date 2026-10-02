@@ -4339,27 +4339,38 @@ our given task.","Будет чудом, если я не помешаю вам 
 can, shall we?","Так и думала, что ты сейчас такая. Я бы
 не назвала чудом что-то настолько простое."
 34843,MSGDATA,"A matchless accomplishment, yes? Take note, Your
-Highness! Ahaha!",
+Highness! Ahaha!","Узрите сей великолепный результат! Ваше
+Высочество, вы смотрите? О-хо-хо-хо!"
 34843,MSGDATA,"You are most fascinating. With that attitude, I feel
-confident your house will be restored in no time.",
+confident your house will be restored in no time.","Как ты переменилась... Что же, это зачтётся
+в вопросе о возрождении твоего дома."
 34843,MSGDATA,"This isn't indicative of my true capabilities. It so
-happens that I was somewhat off form today.",
+happens that I was somewhat off form today.","С-сегодня просто всё из рук валится! 
+Мои настоящие способности вовсе не такие!"
 34843,MSGDATA,"I am well aware of your capabilities, so perhaps you
 could refrain from using your magic...at least while
-we're indoors.",
+we're indoors.","Констанция... Я тебя услышала — пожалуйста,
+не надо пользоваться магией в помещениях."
 34843,MSGDATA,"One more failure could mean utter ruin for
-House Nuvelle...",
+House Nuvelle...","Очередной провал навсегда перекроет
+дорогу к возрождению дома Нувэль..."
 34843,MSGDATA,"That is utterly ridiculous. One small assignment
-cannot affect your fate to such a degree.",
+cannot affect your fate to such a degree.","Нет, это не так. Не бойся результатов
+одного-единственного дела."
 34843,MSGDATA,"It is kind of you to say so. It does nothing for my
-house, but...it helps me a small bit.",
+house, but...it helps me a small bit.","Покорнейше благодарю вас за слова утешения.
+От них мне легче на душе, даже если моему
+дому не суждено быть возрождённым."
 34843,MSGDATA,"We've done it, Your Majesty! Our strengths mesh
-quite well together.",
-34843,MSGDATA,Agreed. Perhaps we bring out the best in each other.,
+quite well together.","Ваше Величество! Мы преуспели! Как же мы
+прекрасно сработались!"
+34843,MSGDATA,Agreed. Perhaps we bring out the best in each other.,"И правда, вместе с тобой всё идёт на лад."
 34843,MSGDATA,"You must promise to stay strong, Constance.
-We worked hard, and we should be proud.",
+We worked hard, and we should be proud.","Не унывай. Наши совместные усилия
+всё-таки привели к результату."
 34843,MSGDATA,"I need no consolation, Your Majesty. Though I can
-feel my house's fortunes slip through my fingers...",
+feel my house's fortunes slip through my fingers...","Не нужно утешать меня, Ваше Величество.
+Ах, надежда на взрождение дома ускользает!"
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -4368,15 +4379,21 @@ feel my house's fortunes slip through my fingers...",
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,"Dear me, there is a stain on Your Highness's dish!
-Hmm. The plating hasn't survived on mine, either.",
+Hmm. The plating hasn't survived on mine, either.","Ах, на тарелке Вашего Высочества пятно!
+И сервировка на ней тоже никуда не годится,
+как и на моей..."
 34843,MSGDATA,"I appreciate your concern, but this isn't the place for
 such formality. We must make allowances for the
-dining hall, don't you think?",
+dining hall, don't you think?","Мне приятно твоё беспокойство, но мы же не 
+во дворце. Давай относиться к еде попроще?"
 34843,MSGDATA,"Five years in and I still marvel at how people from
 every walk of life can dine peacefully together here.
-Truly miraculous, don't you think?",
+Truly miraculous, don't you think?","Традиция обедать вместе, невзирая 
+на происхождение... Прошло пять лет, 
+а менее чудесной она не стала."
 34843,MSGDATA,"It is indeed. It helps Your Majesty to seem not so
-high above the rest of the populace.",
+high above the rest of the populace.","Соглашусь. Благодаря этой традиции все
+смогли познакомиться с Её Величеством."
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
 34843,MSGDATA,$NONE,$NONE
@@ -12391,7 +12408,7 @@ into this mess.","Зная тебя, Бальти, ведь тебе самом�
 и придётся расхлёбывать, раз ты сам её заварил?"
 32211,SUPPORT,"Pardon, but might you possibly be the Imperial
 princess herself?","Мне нежданно пришла в голову мысль...
-Неужели ты — Её Высочество Эдельгард
+Неужели вы — Её Высочество Эдельгард
 собственной персоной?!"
 32211,SUPPORT,I am. And you are Constance of House Nuvelle.,"Да, это так. А ты — Констанция из дома Нувэль."
 32211,SUPPORT,"I recall hearing of your disappearance. I never would
